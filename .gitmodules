@@ -1,3 +1,6 @@
 [submodule "themes/portio-hugo"]
 	path = themes/portio-hugo
 	url = https://github.com/StaticMania/portio-hugo.git
+[submodule "themes/portio"]
+	path = themes/portio
+	url = https://github.com/DCotterill/portio-hugo.git

@@ -1,7 +1,7 @@
 baseURL = "https://singular-dasik-c29c45.netlify.app/"
 languageCode = "en-us"
 paginate = 6
-theme = "portio-hugo"
+theme = "portio"
 title = "Halixia"
 
 # Main Menu
