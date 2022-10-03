@@ -21,11 +21,11 @@ weight = 3
 # Sitemap Menu
 [[menu.sitemap]]
 name = "The Team"
-url = "about"
+url = "team"
 weight = 1
 [[menu.sitemap]]
 name = "Privacy Policy"
-url = "#"
+url = "privacy"
 weight = 2
 [[menu.sitemap]]
 
@@ -40,7 +40,7 @@ logo = "images/site-navigation/logo.png"
 
 [params.address]
 address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
+email = "research@halixia.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+(448) 833 5272 332"
 
