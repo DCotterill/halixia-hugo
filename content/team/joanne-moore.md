@@ -1,7 +1,7 @@
 ---
 title: "JoAnne Moore"
 date: 2020-11-01T12:49:27+06:00
-featureImage: images/team/joanne-moore.jpg
+featureImage: images/team/jhm-york.png
 tags: website
 categories: team
 description: "Co-Founder & Director" 
