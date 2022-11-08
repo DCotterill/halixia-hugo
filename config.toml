@@ -29,6 +29,7 @@ url = "privacy"
 weight = 2
 [[menu.sitemap]]
 
+
 [params]
 blogPageURL = "blog"
 contactLink = "#earlyaccess"
