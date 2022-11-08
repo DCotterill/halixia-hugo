@@ -1,5 +1,5 @@
 ---
-title: Install the halixia App
+title: Install the halixia app
 breadcrumb: download
 layout: static
 ---
