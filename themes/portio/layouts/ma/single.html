@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+{{ partial "head.html" . }}
+
+<body>
+  {{ partial "navbar-logo-only.html" . }}
+  <div id="content">
+
+<section class="hero" id="home">
+  <div class="container">
+    <div class="section">
+        <div class="mb-5">
+          <span class="top-title pre-line">{{ .Title }}</span>
+          {{ .Content }}
+        </div>
+    </div>
+  </div>
+</section>
+
+  </div>
+  {{ partial "footer-noform.html" . }}
+</body>
+
+</html>
