@@ -31,7 +31,7 @@ with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - 
         additional_url_1 = row[57]
         additional_url_2 = row[72]
 
-        content_pages[internal_name]["additional-providers"] = additional_url_1 + '\n' + additional_url_2
+        content_pages[internal_name]["additional-providers"] = additional_url_1 + '\n\n' + additional_url_2
 
 print(content_pages)
 
