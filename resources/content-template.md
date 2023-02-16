@@ -13,7 +13,7 @@ layout: static
 
 *primary-link*
 
-##Help to build this into a great habit
+### Help to build this into a great habit
 
 *additional-providers*
 
