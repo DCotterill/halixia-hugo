@@ -13,7 +13,7 @@ Go to the gym 21 times and it'll be a habit! Going to gym is great and Pure Gym 
 
 https://www.puregym.com/
 
-##Help to build this into a great habit
+### Help to build this into a great habit
 
 https://www.hussle.com/
 https://www.better.org.uk/what-we-offer/activities/gyms#

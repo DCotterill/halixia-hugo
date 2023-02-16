@@ -13,7 +13,7 @@ Focusing on your personalised mind plan for 21 days, they become great habits to
 
 https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/your-mind-plan-quiz/
 
-##Help to build this into a great habit
+### Help to build this into a great habit
 
 https://www.mypossibleself.com/
 https://tripoutside.com/health-benefits-of-getting-outdoors/
