@@ -13,7 +13,7 @@ Join the 'Healthier You Programme' which is designed to help you reduce or remov
 
 https://www.stopdiabetes.co.uk/
 
-** Help to build this into a great habit
+##Help to build this into a great habit
 
 https://www.diabetes.co.uk/forum/
 
