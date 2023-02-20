@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find the gym that is right for you and 
+Find the gym that is right for you.
 
 Your local gym is a friendly, supportive, and judgement-free spaces where you can come in, work out and leave feeling good. No matter your goals, there’s something for everyone.
 
