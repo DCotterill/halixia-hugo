@@ -28,7 +28,7 @@ For your will to be legally valid, you must:
 - Sign it in the presence of 2 witnesses who are both over 18
 - Have it signed by your 2 witnesses, in your presence
 
-### How to action
+##### How to action
 If your personal circumstances are simple or straightforward, there are a number of ways in which you can write a low cost will:
 
 **Subsidised will writing service from solicitors** - Many charities offer fee-free will-writing by solicitors. In return, they hope you'll make a donation or leave them something when you die – Lookout for free will month events which usually take place in March & October.  Some trade unions and employers offering similar services and it’s worth checking out if yours does!

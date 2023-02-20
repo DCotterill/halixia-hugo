@@ -15,7 +15,7 @@ You can help manage type 2 diabetes through healthy eating, regular exercise and
 
 https://www.diabetes.org.uk/ 
 
-### Help to build this into a great habit
+##### Help to build this into a great habit
 
 https://www.stopdiabetes.co.uk/
 

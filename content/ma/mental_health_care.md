@@ -13,7 +13,7 @@ We all need good mental health and wellbeing – it's essential to living happy 
 
 https://www.nhs.uk/every-mind-matters/ 
 
-### Help to build this into a great habit
+##### Help to build this into a great habit
 
 https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/your-mind-plan-quiz/
 

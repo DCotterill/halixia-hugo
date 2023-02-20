@@ -5,17 +5,19 @@
 <body>
   {{ partial "navbar-logo-only.html" . }}
   <div id="content">
-    <section class="hero" id="home">
+    <section class="blog-page" id="home">
       <div class="container">
         <div class="section">
             <div class="mb-5">
               <span class="top-title pre-line">{{ .Title }}</span>
+              <div class="ma-content">
               {{ .Content }}
+              </div>
             </div>
         </div>
       </div>
     </section>
   </div>
-  {{ partial "footer-noform.html" . }}
+  {{ partial "footer-basic.html" . }}
 </body>
 </html>
