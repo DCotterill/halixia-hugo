@@ -12,18 +12,6 @@
 					<p>{{ .Site.Params.copyright }}</p>
 				</div>
 			</div>
-			<div class="col-lg-6">
-				<div class="footer__footer_social">
-					<ul class="unstyle-list">
-						{{ $social := .Site.Params.social }}
-						{{ range $social }}
-						<li class="d-inline-block mx-2"><a class="text-light" target="_blank" href="{{ .url }}"><i
-									class="fa {{ .icon }}"></i></a>
-						</li>
-						{{ end }}
-					</ul>
-				</div>
-			</div>
 		</div>
 	</div>
 </section>

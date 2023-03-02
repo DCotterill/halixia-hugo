@@ -15,11 +15,18 @@ You can help manage type 2 diabetes through healthy eating, regular exercise and
 
 https://www.diabetes.org.uk/ 
 
-##### Help to build this into a great habit
+https://www.youtube.com/watch?v=JAjZv41iUJU
+
+https://www.diabetes.co.uk/diet/nhs-diet-advice.html
+
+
+### Help to build this into a great habit
 
 https://www.stopdiabetes.co.uk/
 
 https://www.diabetes.co.uk/forum/
+
+Tags: Development, Maintenance, Body, Silver
 
 
 

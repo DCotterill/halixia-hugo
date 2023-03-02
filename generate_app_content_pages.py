@@ -11,20 +11,38 @@ with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - 
     for row in reader:
         count = count + 1
 
+        category = row[10]
+        score = row[11]
+        ddm_type = row[12]
         internal_name = row[15]
         display_name = row[16]
         summary = row[18]
         description = row[20]
         content_text = row[22]
-        primary_link = row[57]
 
         page = {"display-name": display_name,
                 "summary-description": summary,
                 "full-description": description,
-                "additional-text": content_text,
-                "primary-link": primary_link}
+                "additional-text": content_text}
+
+        primary_link_1 = row[57]
+        primary_link_2 = row[72]
+        primary_link_3 = row[87]
 
         content_pages[internal_name] = page
+
+        if int(score) == 1:
+            score = "Bronze"
+        elif int(score) == 2:
+            score = "Silver"
+        elif int(score) == 3:
+            score = "Gold"
+
+        content_pages[internal_name]["tags"] =  category + ", " + score
+
+        content_pages[internal_name]["primary-links"] = primary_link_1 + '\n\n' + \
+                                                        primary_link_2 + '\n\n' +\
+                                                        primary_link_3
 
         row = next(reader)
 

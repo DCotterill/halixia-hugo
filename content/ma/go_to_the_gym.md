@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find the gym that is right for you.
+Find the gym that is right for you and 
 
 Your local gym is a friendly, supportive, and judgement-free spaces where you can come in, work out and leave feeling good. No matter your goals, there’s something for everyone.
 
@@ -13,11 +13,18 @@ The advantages of gym workouts are that they provide several different ways to e
 
 https://findgyms.co.uk/
 
-##### Help to build this into a great habit
+https://www.livestrong.com/article/514902-the-advantages-of-going-to-the-gym-every-day/
+
+https://www.totalfitness.co.uk/blog/inspiration/10-reasons-to-join-a-gym/
+
+
+### Help to build this into a great habit
 
 https://www.puregym.com/
 
 https://www.hussle.com/
+
+Tags: Development, Maintenance, Exercise, Bronze
 
 
 
