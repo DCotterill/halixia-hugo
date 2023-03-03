@@ -4,6 +4,8 @@ date: 2020-09-01T12:49:27+06:00
 featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
+*This post contains affiliate links. If you use these links to buy something we may
+earn a commission. Thanks.*
 
 Support to be active with a long-term health condition
 
@@ -11,14 +13,18 @@ Support to be active with a long-term health condition. Understanding that every
 
 
 
+Recommended link
+
 https://weareundefeatable.co.uk/ways-to-move
 
+Other Providers
 
 
 
 
 
-### Help to build this into a great habit
+
+##### Help to build this into a great habit
 
 https://weareundefeatable.co.uk/ways-to-move
 

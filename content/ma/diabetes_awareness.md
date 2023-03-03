@@ -4,6 +4,8 @@ date: 2020-09-01T12:49:27+06:00
 featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
+*This post contains affiliate links. If you use these links to buy something we may
+earn a commission. Thanks.*
 
 All you need to know about Diabetes
 
@@ -13,14 +15,18 @@ If you have diabetes, your body is unable to break down glucose into energy. Thi
 There are no lifestyle changes you can make to lower your risk of type 1 diabetes. 
 You can help manage type 2 diabetes through healthy eating, regular exercise and achieving a healthy body weight.
 
+Recommended link
+
 https://www.diabetes.org.uk/ 
+
+Other Providers
 
 https://www.youtube.com/watch?v=JAjZv41iUJU
 
 https://www.diabetes.co.uk/diet/nhs-diet-advice.html
 
 
-### Help to build this into a great habit
+##### Help to build this into a great habit
 
 https://www.stopdiabetes.co.uk/
 

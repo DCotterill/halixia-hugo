@@ -4,6 +4,8 @@ date: 2020-09-01T12:49:27+06:00
 featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
+*This post contains affiliate links. If you use these links to buy something we may
+earn a commission. Thanks.*
 
 A holistic approach to supporting your mental health
 
@@ -11,14 +13,18 @@ Take a holistic approach to mental health. Managing anxiety, tackling depression
 
 We all need good mental health and wellbeing – it's essential to living happy and healthy lives, and can help us sleep better, feel better, do the things we want to do and have more positive relationships. It can also help us deal with difficult times in the future.
 
+Recommended link
+
 https://www.nhs.uk/every-mind-matters/ 
+
+Other Providers
 
 https://www.mind.org.uk/information-support/tips-for-everyday-living/
 
 https://www.sciencefocus.com/the-human-body/resilience-what-it-is-and-how-to-build-it/
 
 
-### Help to build this into a great habit
+##### Help to build this into a great habit
 
 https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/your-mind-plan-quiz/
 

@@ -40,7 +40,7 @@ with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - 
 
         content_pages[internal_name]["tags"] =  category + ", " + score
 
-        content_pages[internal_name]["primary-links"] = primary_link_1 + '\n\n' + \
+        content_pages[internal_name]["primary-links"] = primary_link_1 + '\n\nOther Providers\n\n' + \
                                                         primary_link_2 + '\n\n' +\
                                                         primary_link_3
 
