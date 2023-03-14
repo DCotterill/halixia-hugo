@@ -4,8 +4,6 @@ date: 2020-09-01T12:49:27+06:00
 featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 All you need to know about Diabetes
 
@@ -17,22 +15,26 @@ You can help manage type 2 diabetes through healthy eating, regular exercise and
 
 Recommended link
 
-https://www.diabetes.org.uk/ 
+[Diabetes UK](https://www.diabetes.org.uk/ )
 
 Other Providers
 
-https://www.youtube.com/watch?v=JAjZv41iUJU
+[Animated Diabetes Patient](https://www.youtube.com/watch?v=JAjZv41iUJU)
 
-https://www.diabetes.co.uk/diet/nhs-diet-advice.html
+[Diabetes](https://www.diabetes.co.uk/diet/nhs-diet-advice.html)
 
+*Recommended Provider* *
 
-##### Help to build this into a great habit
+| Provider      | Free or Paid  |  Trustpilot Score  |
+| :-----------          | :--------------:      |  :--------------:         |
+| [Diabetes UK *](https://www.diabetes.org.uk/ ) |  Free | Not found | 
+| [Animated Diabetes Patient](https://www.youtube.com/watch?v=JAjZv41iUJU) | Free | Not found | 
+| [Diabetes](https://www.diabetes.co.uk/diet/nhs-diet-advice.html) | Paid | 1.5 |  
 
-https://www.stopdiabetes.co.uk/
+<br/><br/>
 
-https://www.diabetes.co.uk/forum/
-
-Tags: Development, Maintenance, Body, Silver
+*This post contains affiliate links. If you use these links to buy something we may
+earn a commission. Thanks.*
 
 
 

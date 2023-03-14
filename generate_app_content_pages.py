@@ -26,32 +26,57 @@ with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - 
                 "additional-text": content_text}
 
         primary_link_1 = row[57]
+        primary_link_name_1 = row[55]
         primary_link_2 = row[72]
+        primary_link_name_2 = row[70]
         primary_link_3 = row[87]
+        primary_link_name_3 = row[85]
 
         content_pages[internal_name] = page
 
-        if int(score) == 1:
-            score = "Bronze"
-        elif int(score) == 2:
-            score = "Silver"
-        elif int(score) == 3:
-            score = "Gold"
+        # if int(score) == 1:
+        #     score = "Bronze"
+        # elif int(score) == 2:
+        #     score = "Silver"
+        # elif int(score) == 3:
+        #     score = "Gold"
+        #
+        # content_pages[internal_name]["tags"] =  category + ", " + score
 
-        content_pages[internal_name]["tags"] =  category + ", " + score
+        content_pages[internal_name]["primary-links"] = "[" + primary_link_name_1 + "]" + \
+                                                        "(" + primary_link_1 + ")" + \
+                                                        '\n\nOther Providers\n\n' + \
+                                                        "[" + primary_link_name_2 + "]" + \
+                                                        "(" + primary_link_2 + ")" + \
+                                                        '\n\n' + \
+                                                        "[" + primary_link_name_3 + "]" + \
+                                                        "(" + primary_link_3 + ")"
 
-        content_pages[internal_name]["primary-links"] = primary_link_1 + '\n\nOther Providers\n\n' + \
-                                                        primary_link_2 + '\n\n' +\
-                                                        primary_link_3
+        content_pages[internal_name]["primary-links-table"] = "| [" + primary_link_name_1 + " *]" + \
+                                                                "(" + primary_link_1 + ") | " + \
+                                                                " Free | Not found | \n" + \
+                                                                "| [" + primary_link_name_2 + "]" + \
+                                                                "(" + primary_link_2 + ") |" + \
+                                                                " Free | Not found | \n" + \
+                                                                "| [" + primary_link_name_3 + "]" + \
+                                                                "(" + primary_link_3 + ") |" + \
+                                                                " Paid | 1.5 |"
 
         row = next(reader)
 
         additional_url_1 = row[57]
+        additional_url_name_1 = row[55]
         additional_url_2 = row[72]
+        additional_url_name_2 = row[70]
 
-        content_pages[internal_name]["additional-providers"] = additional_url_1 + '\n\n' + additional_url_2
+        content_pages[internal_name]["additional-providers"] = "[" + additional_url_name_1 + "]" + \
+                                                               "(" + additional_url_1 + ")" + \
+                                                               '\n\n' + \
+                                                               "[" + additional_url_name_2 + "]" + \
+                                                               "(" + additional_url_2 + ")" + \
+                                                               '\n\n'
 
-print(content_pages)
+        print(content_pages)
 
 with open('resources/content-template.md','r') as file:
     template = file.read()

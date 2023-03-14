@@ -4,8 +4,6 @@ date: 2020-09-01T12:49:27+06:00
 featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 *summary-description*
 
@@ -17,12 +15,16 @@ Recommended link
 
 *primary-links*
 
+*Recommended Provider* *
 
-##### Help to build this into a great habit
+| Provider      | Free or Paid  |  Trustpilot Score  |
+| :-----------          | :--------------:      |  :--------------:         |
+*primary-links-table*  
 
-*additional-providers*
+<br/><br/>
 
-Tags: Development, Maintenance, *tags*
+*This post contains affiliate links. If you use these links to buy something we may
+earn a commission. Thanks.*
 
 
 

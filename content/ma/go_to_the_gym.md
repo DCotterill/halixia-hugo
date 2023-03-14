@@ -4,8 +4,6 @@ date: 2020-09-01T12:49:27+06:00
 featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 Find the gym that is right for you and 
 
@@ -15,22 +13,26 @@ The advantages of gym workouts are that they provide several different ways to e
 
 Recommended link
 
-https://findgyms.co.uk/
+[Find gyms](https://findgyms.co.uk/)
 
 Other Providers
 
-https://www.livestrong.com/article/514902-the-advantages-of-going-to-the-gym-every-day/
+[Livestrong](https://www.livestrong.com/article/514902-the-advantages-of-going-to-the-gym-every-day/)
 
-https://www.totalfitness.co.uk/blog/inspiration/10-reasons-to-join-a-gym/
+[Total Fitness ](https://www.totalfitness.co.uk/blog/inspiration/10-reasons-to-join-a-gym/)
 
+*Recommended Provider* *
 
-##### Help to build this into a great habit
+| Provider      | Free or Paid  |  Trustpilot Score  |
+| :-----------          | :--------------:      |  :--------------:         |
+| [Find gyms *](https://findgyms.co.uk/) |  Free | Not found | 
+| [Livestrong](https://www.livestrong.com/article/514902-the-advantages-of-going-to-the-gym-every-day/) | Free | Not found | 
+| [Total Fitness ](https://www.totalfitness.co.uk/blog/inspiration/10-reasons-to-join-a-gym/) | Paid | 1.5 |  
 
-https://www.puregym.com/
+<br/><br/>
 
-https://www.hussle.com/
-
-Tags: Development, Maintenance, Exercise, Bronze
+*This post contains affiliate links. If you use these links to buy something we may
+earn a commission. Thanks.*
 
 
 

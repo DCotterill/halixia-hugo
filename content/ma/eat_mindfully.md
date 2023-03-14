@@ -4,8 +4,6 @@ date: 2020-09-01T12:49:27+06:00
 featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 Learn to eat mindfully, for lasting change
 
@@ -15,22 +13,26 @@ Noom aims to empower you to take control of your health for good and meet person
 
 Recommended link
 
-https://www.noom.com/
+[Noom](https://www.noom.com/)
 
 Other Providers
 
+[]()
 
+[]()
 
+*Recommended Provider* *
 
+| Provider      | Free or Paid  |  Trustpilot Score  |
+| :-----------          | :--------------:      |  :--------------:         |
+| [Noom *](https://www.noom.com/) |  Free | Not found | 
+| []() | Free | Not found | 
+| []() | Paid | 1.5 |  
 
+<br/><br/>
 
-##### Help to build this into a great habit
-
-https://www.noom.com/
-
-
-
-Tags: Development, Maintenance, Body, Silver
+*This post contains affiliate links. If you use these links to buy something we may
+earn a commission. Thanks.*
 
 
 

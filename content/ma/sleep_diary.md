@@ -4,8 +4,6 @@ date: 2020-09-01T12:49:27+06:00
 featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 Gather information about your sleep patterns
 
@@ -15,22 +13,26 @@ Scientists have learned that sleep plays a huge role in nearly every aspect of o
 
 Recommended link
 
-https://www.sleepcycle.com/sleep-habits-and-health/benefits-of-sleep-tracking/
+[Sleep cycle ](https://www.sleepcycle.com/sleep-habits-and-health/benefits-of-sleep-tracking/)
 
 Other Providers
 
-https://thedozyowl.co.uk/sleep-trackers/
+[The dozy owl](https://thedozyowl.co.uk/sleep-trackers/)
 
-https://campaign.mudita.com/mudita_sleep_better?msclkid=3b76ddc10d021dd1befdbede43e0e0da
+[Mudita Sleep Better ](https://campaign.mudita.com/mudita_sleep_better?msclkid=3b76ddc10d021dd1befdbede43e0e0da)
 
+*Recommended Provider* *
 
-##### Help to build this into a great habit
+| Provider      | Free or Paid  |  Trustpilot Score  |
+| :-----------          | :--------------:      |  :--------------:         |
+| [Sleep cycle  *](https://www.sleepcycle.com/sleep-habits-and-health/benefits-of-sleep-tracking/) |  Free | Not found | 
+| [The dozy owl](https://thedozyowl.co.uk/sleep-trackers/) | Free | Not found | 
+| [Mudita Sleep Better ](https://campaign.mudita.com/mudita_sleep_better?msclkid=3b76ddc10d021dd1befdbede43e0e0da) | Paid | 1.5 |  
 
-https://consensussleepdiary.com/
+<br/><br/>
 
-
-
-Tags: Development, Maintenance, Mind, Silver
+*This post contains affiliate links. If you use these links to buy something we may
+earn a commission. Thanks.*
 
 
 

@@ -3,12 +3,22 @@
 <html>
 {{ partial "head.html" . }}
 <body>
-  {{ partial "navbar-logo-only.html" . }}
-  <div id="content">
+<!--&lt;!&ndash;    <section class="blog-page">&ndash;&gt;-->
+<!--    <div class="container">-->
+<!--      <a href="{{ .Site.BaseURL }}" class="navbar-brand">-->
+<!--        <img src="{{ .Site.Params.logo | absURL }}" alt="Halixia logo">-->
+<!--      </a>-->
+<!--    </div>-->
+<!--&lt;!&ndash;      </section>&ndash;&gt;-->
     <section class="blog-page" id="home">
       <div class="container">
         <div class="section">
             <div class="mb-5">
+              <h3>
+        <a href="{{ .Site.BaseURL }}" class="navbar-brand">
+          <img src="{{ .Site.Params.logo | absURL }}" alt="Halixia logo">
+        </a>
+              </h3>
               <h3>{{ .Title }} </h3>
               <div class="ma-content">
               {{ .Content }}

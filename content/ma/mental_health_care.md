@@ -4,8 +4,6 @@ date: 2020-09-01T12:49:27+06:00
 featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 A holistic approach to supporting your mental health
 
@@ -15,22 +13,26 @@ We all need good mental health and wellbeing – it's essential to living happy 
 
 Recommended link
 
-https://www.nhs.uk/every-mind-matters/ 
+[NHS](https://www.nhs.uk/every-mind-matters/ )
 
 Other Providers
 
-https://www.mind.org.uk/information-support/tips-for-everyday-living/
+[Mind](https://www.mind.org.uk/information-support/tips-for-everyday-living/)
 
-https://www.sciencefocus.com/the-human-body/resilience-what-it-is-and-how-to-build-it/
+[BBC](https://www.sciencefocus.com/the-human-body/resilience-what-it-is-and-how-to-build-it/)
 
+*Recommended Provider* *
 
-##### Help to build this into a great habit
+| Provider      | Free or Paid  |  Trustpilot Score  |
+| :-----------          | :--------------:      |  :--------------:         |
+| [NHS *](https://www.nhs.uk/every-mind-matters/ ) |  Free | Not found | 
+| [Mind](https://www.mind.org.uk/information-support/tips-for-everyday-living/) | Free | Not found | 
+| [BBC](https://www.sciencefocus.com/the-human-body/resilience-what-it-is-and-how-to-build-it/) | Paid | 1.5 |  
 
-https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/your-mind-plan-quiz/
+<br/><br/>
 
-https://www.mypossibleself.com/
-
-Tags: Development, Maintenance, Mind, Bronze
+*This post contains affiliate links. If you use these links to buy something we may
+earn a commission. Thanks.*
 
 
 
