@@ -11,18 +11,6 @@ Noom aims to empower you to take control of your health for good and meet person
 
 
 
-Recommended link
-
-[Noom](https://www.noom.com/)
-
-Other Providers
-
-[]()
-
-[]()
-
-*Recommended Provider* *
-
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
 | [Noom *](https://www.noom.com/) |  Free | Not found | 

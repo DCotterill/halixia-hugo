@@ -11,18 +11,6 @@ Getting a few walks or runs in each week can improve the health of your heart, w
 
 
 
-Recommended link
-
-[Map my walk](https://www.mapmywalk.com/)
-
-Other Providers
-
-[]()
-
-[]()
-
-*Recommended Provider* *
-
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
 | [Map my walk *](https://www.mapmywalk.com/) |  Free | Not found | 

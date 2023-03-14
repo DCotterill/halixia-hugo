@@ -11,18 +11,6 @@ Your local gym is a friendly, supportive, and judgement-free spaces where you ca
 
 The advantages of gym workouts are that they provide several different ways to exercise. It's recommended that adults get a minimum of 150 minutes a week of moderate-intensity aerobic activity. Plus, you should include muscle-strengthening exercises that involve all major muscle groups.
 
-Recommended link
-
-[Find gyms](https://findgyms.co.uk/)
-
-Other Providers
-
-[Livestrong](https://www.livestrong.com/article/514902-the-advantages-of-going-to-the-gym-every-day/)
-
-[Total Fitness ](https://www.totalfitness.co.uk/blog/inspiration/10-reasons-to-join-a-gym/)
-
-*Recommended Provider* *
-
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
 | [Find gyms *](https://findgyms.co.uk/) |  Free | Not found | 

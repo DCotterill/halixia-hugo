@@ -11,18 +11,6 @@ Private health checks offer full body health MOTs covering key health readings, 
 
 
 
-Recommended link
-
-[Bluecrestwellness](https://www.bluecrestwellness.com/health-checks)
-
-Other Providers
-
-[]()
-
-[]()
-
-*Recommended Provider* *
-
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
 | [Bluecrestwellness *](https://www.bluecrestwellness.com/health-checks) |  Free | Not found | 

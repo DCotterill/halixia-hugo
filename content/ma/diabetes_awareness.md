@@ -13,18 +13,6 @@ If you have diabetes, your body is unable to break down glucose into energy. Thi
 There are no lifestyle changes you can make to lower your risk of type 1 diabetes. 
 You can help manage type 2 diabetes through healthy eating, regular exercise and achieving a healthy body weight.
 
-Recommended link
-
-[Diabetes UK](https://www.diabetes.org.uk/ )
-
-Other Providers
-
-[Animated Diabetes Patient](https://www.youtube.com/watch?v=JAjZv41iUJU)
-
-[Diabetes](https://www.diabetes.co.uk/diet/nhs-diet-advice.html)
-
-*Recommended Provider* *
-
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
 | [Diabetes UK *](https://www.diabetes.org.uk/ ) |  Free | Not found | 

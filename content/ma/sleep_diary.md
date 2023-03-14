@@ -11,18 +11,6 @@ Track your sleep patterns and habits to understand what might be helping or harm
 
 Scientists have learned that sleep plays a huge role in nearly every aspect of our wellbeing. Numerous studies have associated better sleep with lower heart risks, better athletic performance, even higher libido, among other benefits.
 
-Recommended link
-
-[Sleep cycle ](https://www.sleepcycle.com/sleep-habits-and-health/benefits-of-sleep-tracking/)
-
-Other Providers
-
-[The dozy owl](https://thedozyowl.co.uk/sleep-trackers/)
-
-[Mudita Sleep Better ](https://campaign.mudita.com/mudita_sleep_better?msclkid=3b76ddc10d021dd1befdbede43e0e0da)
-
-*Recommended Provider* *
-
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
 | [Sleep cycle  *](https://www.sleepcycle.com/sleep-habits-and-health/benefits-of-sleep-tracking/) |  Free | Not found | 

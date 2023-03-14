@@ -11,18 +11,6 @@ Support to be active with a long-term health condition. Understanding that every
 
 
 
-Recommended link
-
-[We are undefeatable](https://weareundefeatable.co.uk/ways-to-move)
-
-Other Providers
-
-[]()
-
-[]()
-
-*Recommended Provider* *
-
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
 | [We are undefeatable *](https://weareundefeatable.co.uk/ways-to-move) |  Free | Not found | 

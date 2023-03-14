@@ -11,12 +11,6 @@ layout: static
 
 *additional-text*
 
-Recommended link
-
-*primary-links*
-
-*Recommended Provider* *
-
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
 *primary-links-table*  
