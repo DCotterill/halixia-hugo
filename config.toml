@@ -28,6 +28,9 @@ name = "Privacy Policy"
 url = "privacy"
 weight = 2
 [[menu.sitemap]]
+name = "Cookie Policy"
+url = "cookies"
+weight = 3
 
 
 [params]
