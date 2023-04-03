@@ -13,9 +13,9 @@ Today's top language learning platforms use innovative technology and modern stu
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Linguatics](https://linguatics.com/best-language-learning-apps/?utm_content=cmp-true) | Free | [n/a](n/a) | 
-| [Rocket Language](https://www.rocketlanguages.com/) | Paid | [3.5](https://www.trustpilot.com/review/rocketlanguages.com) | 
-| [Babbel](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | [3.8](https://www.trustpilot.com/review/babbel.com) | 
+| [**Linguatics**](https://linguatics.com/best-language-learning-apps/?utm_content=cmp-true) | Free | [n/a](n/a) | 
+| [**Rocket Language**](https://www.rocketlanguages.com/) | Paid | [3.5](https://www.trustpilot.com/review/rocketlanguages.com) | 
+| [**Babbel**](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | [3.8](https://www.trustpilot.com/review/babbel.com) | 
   
 
 <br/><br/>

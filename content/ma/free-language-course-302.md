@@ -13,9 +13,9 @@ Learning a language improves memory, increases attention span and strengthens bo
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Alison](https://alison.com/courses/language) | Free/paid | [4.6](https://www.trustpilot.com/review/alison.com) | 
-| [Duolingo](https://blog.duolingo.com/language-practice-tips-from-experts/) | Free | [1.4](https://www.trustpilot.com/review/duolingo.com) | 
-| [Lifewire](https://www.lifewire.com/best-free-language-learning-websites-1357061) | Free | [3](https://www.trustpilot.com/review/lifewire.com) | 
+| [**Alison**](https://alison.com/courses/language) | Free/paid | [4.6](https://www.trustpilot.com/review/alison.com) | 
+| [**Duolingo**](https://blog.duolingo.com/language-practice-tips-from-experts/) | Free | [1.4](https://www.trustpilot.com/review/duolingo.com) | 
+| [**Lifewire**](https://www.lifewire.com/best-free-language-learning-websites-1357061) | Free | [3](https://www.trustpilot.com/review/lifewire.com) | 
   
 
 <br/><br/>

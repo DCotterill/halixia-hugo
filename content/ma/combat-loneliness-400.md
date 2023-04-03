@@ -13,9 +13,9 @@ Volunteering gives you that opportunity to ‘pay it forward’ or to give somet
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Happiness](https://www.happiness.com/magazine/personal-growth/why-volunteering-is-important-benefits/) | Free | N/A
-| [Scouts](https://www.scouts.org.uk/volunteer/volunteering-with-scouts/what-do-volunteers-do/) | Free | N/A
-| [Guide dogs](https://www.guidedogs.org.uk/how-you-can-help/volunteering-for-guide-dogs/volunteer-role-descriptions/puppy-raiser/) | Free | N/A
+| [**Happiness**](https://www.happiness.com/magazine/personal-growth/why-volunteering-is-important-benefits/) | Free | N/A
+| [**Scouts**](https://www.scouts.org.uk/volunteer/volunteering-with-scouts/what-do-volunteers-do/) | Free | N/A
+| [**Guide dogs**](https://www.guidedogs.org.uk/how-you-can-help/volunteering-for-guide-dogs/volunteer-role-descriptions/puppy-raiser/) | Free | N/A
   
 
 <br/><br/>

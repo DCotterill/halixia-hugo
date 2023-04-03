@@ -13,9 +13,9 @@ The best way to minimise the risk of fire is to take the threat seriously and pu
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Surrey Fire](https://surreyfire.co.uk/importance-fire-safety/) | Free | [4.7](https://uk.trustpilot.com/review/fireservice.co.uk) | 
-| [Fire services](https://www.fireservice.co.uk/safety/) | Free | [4.7](https://uk.trustpilot.com/review/fireservice.co.uk) | 
-| [Ready.gov](https://www.ready.gov/home-fire-escape-plan) | Free | []() | 
+| [**Surrey Fire**](https://surreyfire.co.uk/importance-fire-safety/) | Free | [4.7](https://uk.trustpilot.com/review/fireservice.co.uk) | 
+| [**Fire services**](https://www.fireservice.co.uk/safety/) | Free | [4.7](https://uk.trustpilot.com/review/fireservice.co.uk) | 
+| [**Ready.gov**](https://www.ready.gov/home-fire-escape-plan) | Free | []() | 
   
 
 <br/><br/>

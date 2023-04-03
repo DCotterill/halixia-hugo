@@ -13,9 +13,9 @@ Teach what you know and help learners explore their interests, gain new skills, 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Udemy](https://www.udemy.com/teaching/?ref=teach_footer) | Free/paid | [2](https://uk.trustpilot.com/review/udemy.com) | 
-| [FutureLearn](https://www.futurelearn.com/microcredentials/online-teaching) | Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
-| [UK Government](https://www.teach-in-further-education.campaign.gov.uk/) | Free | [n/a](n/a) | 
+| [**Udemy**](https://www.udemy.com/teaching/?ref=teach_footer) | Free/paid | [2](https://uk.trustpilot.com/review/udemy.com) | 
+| [**FutureLearn**](https://www.futurelearn.com/microcredentials/online-teaching) | Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
+| [**UK Government**](https://www.teach-in-further-education.campaign.gov.uk/) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

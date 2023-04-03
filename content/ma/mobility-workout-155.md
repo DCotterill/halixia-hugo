@@ -13,9 +13,9 @@ Mobility training optimizes movement and performance by increasing the range of 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Health](https://www.health.com/fitness/mobility-workout) | Free | [3.8](https://uk.trustpilot.com/review/health.com) | 
-| [The Lean Machines](https://www.youtube.com/watch?v=nFo5dOhlYUw) | Free | N/A
-| [Builtlean](https://www.builtlean.com/mobility-routine/) | Free | N/A
+| [**Health**](https://www.health.com/fitness/mobility-workout) | Free | [3.8](https://uk.trustpilot.com/review/health.com) | 
+| [**The Lean Machines**](https://www.youtube.com/watch?v=nFo5dOhlYUw) | Free | N/A
+| [**Builtlean**](https://www.builtlean.com/mobility-routine/) | Free | N/A
   
 
 <br/><br/>

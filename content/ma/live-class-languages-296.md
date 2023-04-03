@@ -13,9 +13,9 @@ Learning a language improves memory, increases attention span and strengthens bo
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Babbel](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | [3.8](https://www.trustpilot.com/review/babbel.com) | 
-| [Findcourses.co.uk](https://www.findcourses.co.uk/search/language-training-courses) | Paid | [3.7](https://www.trustpilot.com/review/www.findcourses.co.uk) | 
-| [Fluent u](https://www.fluentu.com/) | Paid | [4.6](https://www.trustpilot.com/review/fluentu.com) | 
+| [**Babbel**](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | [3.8](https://www.trustpilot.com/review/babbel.com) | 
+| [**Findcourses.co.uk**](https://www.findcourses.co.uk/search/language-training-courses) | Paid | [3.7](https://www.trustpilot.com/review/www.findcourses.co.uk) | 
+| [**Fluent u**](https://www.fluentu.com/) | Paid | [4.6](https://www.trustpilot.com/review/fluentu.com) | 
   
 
 <br/><br/>

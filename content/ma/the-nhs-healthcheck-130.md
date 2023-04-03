@@ -13,9 +13,9 @@ After the check your healthcare professional will discuss your results with you.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [NHS](https://www.nhs.uk/conditions/nhs-health-check/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
-| [No Ordinary homestead](https://www.noordinaryhomestead.com/importance-of-checking-your-health/) | Free | N/A
-| [Benenden](https://www.benenden.co.uk/health/health-assessments/) | Paid | [4.5](https://uk.trustpilot.com/review/benenden.co.uk) | 
+| [**NHS**](https://www.nhs.uk/conditions/nhs-health-check/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
+| [**No Ordinary homestead**](https://www.noordinaryhomestead.com/importance-of-checking-your-health/) | Free | N/A
+| [**Benenden**](https://www.benenden.co.uk/health/health-assessments/) | Paid | [4.5](https://uk.trustpilot.com/review/benenden.co.uk) | 
   
 
 <br/><br/>

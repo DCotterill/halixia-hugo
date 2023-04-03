@@ -13,9 +13,9 @@ Start working on improving your stress, anxiety, and self-worth with the use of 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Happier human](https://www.happierhuman.com/benefits-affirmations/) | Free | N/A
-| [refined by age](https://refinedbyage.com/2019/12/17/7-affirmations-for-positive-aging/) | Free | N/A
-| [Get help](https://www.betterup.com/blog/positive-affirmations) | Free | [2.9](https://uk.trustpilot.com/review/betterup.com) | 
+| [**Happier human**](https://www.happierhuman.com/benefits-affirmations/) | Free | N/A
+| [**refined by age**](https://refinedbyage.com/2019/12/17/7-affirmations-for-positive-aging/) | Free | N/A
+| [**Get help**](https://www.betterup.com/blog/positive-affirmations) | Free | [2.9](https://uk.trustpilot.com/review/betterup.com) | 
   
 
 <br/><br/>

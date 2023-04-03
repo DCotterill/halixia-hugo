@@ -13,9 +13,9 @@ Resistance training improves muscle strength and tone and protects your joints f
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Strava](https://www.strava.com/) | Free/paid | [1.5](https://uk.trustpilot.com/review/www.gaiam.com) | 
-| [Sharp muscle](https://www.sharpmuscle.com/fitness/resistance-training-strength-training/) | Free | N/A
-| [Harvard](https://www.health.harvard.edu/exercise-and-fitness/strength-and-power-training-for-all-ages) | Paid | N/A
+| [**Strava**](https://www.strava.com/) | Free/paid | [1.5](https://uk.trustpilot.com/review/www.gaiam.com) | 
+| [**Sharp muscle**](https://www.sharpmuscle.com/fitness/resistance-training-strength-training/) | Free | N/A
+| [**Harvard**](https://www.health.harvard.edu/exercise-and-fitness/strength-and-power-training-for-all-ages) | Paid | N/A
   
 
 <br/><br/>

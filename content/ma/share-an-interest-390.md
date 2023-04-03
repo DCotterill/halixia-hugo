@@ -13,9 +13,9 @@ We are social beings, and interacting with people is in our nature. But it also 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Meet up](https://www.meetup.com/blog/the-ultimate-guide-to-starting-a-group-on-meetup/) | Free | [1.5](https://uk.trustpilot.com/review/meetup.com) | 
-| [Q place](https://www.qplace.com/10-tips-for-starting-an-online-group/) | Free | N/A
-| [Wiki how](https://www.wikihow.com/Start-an-Online-Discussion-Community) | Free | [4.5](https://uk.trustpilot.com/review/wikihow.com) | 
+| [**Meet up**](https://www.meetup.com/blog/the-ultimate-guide-to-starting-a-group-on-meetup/) | Free | [1.5](https://uk.trustpilot.com/review/meetup.com) | 
+| [**Q place**](https://www.qplace.com/10-tips-for-starting-an-online-group/) | Free | N/A
+| [**Wiki how**](https://www.wikihow.com/Start-an-Online-Discussion-Community) | Free | [4.5](https://uk.trustpilot.com/review/wikihow.com) | 
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ We live in an age where we can spend hours bingeing on TV box sets or surfing so
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [BBC](https://www.bbc.co.uk/programmes/m00187ws) | Free | [1.3](https://www.trustpilot.com/review/www.bbc.co.uk) | 
-| [BBC](https://www.bbc.co.uk/teach/skillswise) | free | [1.3](https://www.trustpilot.com/review/www.bbc.co.uk) | 
-| [UK Government](https://www.gov.uk/local-library-services) | Free | [n/a](n/a) | 
+| [**BBC**](https://www.bbc.co.uk/programmes/m00187ws) | Free | [1.3](https://www.trustpilot.com/review/www.bbc.co.uk) | 
+| [**BBC**](https://www.bbc.co.uk/teach/skillswise) | free | [1.3](https://www.trustpilot.com/review/www.bbc.co.uk) | 
+| [**UK Government**](https://www.gov.uk/local-library-services) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

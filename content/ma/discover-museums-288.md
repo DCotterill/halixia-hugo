@@ -13,9 +13,9 @@ Museums and galleries provide an insight into the history of humankind. And whil
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Museums.co.uk](https://www.museums.co.uk/) | Free | [n/a](n/a) | 
-| [Art Fund](https://www.artfund.org/national-art-pass) | Paid | [3.2](https://www.trustpilot.com/review/www.artfund.org) | 
-| [Museum Next](https://www.museumnext.com/article/why-we-need-museums-now-more-than-ever/) | Free | [n/a](n/a) | 
+| [**Museums.co.uk**](https://www.museums.co.uk/) | Free | [n/a](n/a) | 
+| [**Art Fund**](https://www.artfund.org/national-art-pass) | Paid | [3.2](https://www.trustpilot.com/review/www.artfund.org) | 
+| [**Museum Next**](https://www.museumnext.com/article/why-we-need-museums-now-more-than-ever/) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

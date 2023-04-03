@@ -13,9 +13,9 @@ Learning a language improves memory, increases attention span and strengthens bo
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Memrise](https://www.memrise.com/) | Free | [3](https://www.trustpilot.com/review/www.memrise.com) | 
-| [Fluent u](https://www.fluentu.com/) | Paid | [4.6](https://www.trustpilot.com/review/fluentu.com) | 
-| [Rocket Language](https://www.rocketlanguages.com/) | Paid | [3.5](https://www.trustpilot.com/review/rocketlanguages.com) | 
+| [**Memrise**](https://www.memrise.com/) | Free | [3](https://www.trustpilot.com/review/www.memrise.com) | 
+| [**Fluent u**](https://www.fluentu.com/) | Paid | [4.6](https://www.trustpilot.com/review/fluentu.com) | 
+| [**Rocket Language**](https://www.rocketlanguages.com/) | Paid | [3.5](https://www.trustpilot.com/review/rocketlanguages.com) | 
   
 
 <br/><br/>

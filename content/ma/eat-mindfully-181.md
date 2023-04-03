@@ -13,9 +13,9 @@ A healthy diet rich in fruits, vegetables, wholegrains and low-fat dairy can hel
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Noom](https://www.noom.com/) | Paid | [4.2](https://uk.trustpilot.com/review/noom.com) | 
-| [Harvard](https://www.health.harvard.edu/staying-healthy/8-steps-to-mindful-eating) | Free | N/A
-| [Headspace](https://www.headspace.com/mindfulness/mindful-eating) | Free/Paid | [2.2](https://uk.trustpilot.com/review/headspace.com) | 
+| [**Noom**](https://www.noom.com/) | Paid | [4.2](https://uk.trustpilot.com/review/noom.com) | 
+| [**Harvard**](https://www.health.harvard.edu/staying-healthy/8-steps-to-mindful-eating) | Free | N/A
+| [**Headspace**](https://www.headspace.com/mindfulness/mindful-eating) | Free/Paid | [2.2](https://uk.trustpilot.com/review/headspace.com) | 
   
 
 <br/><br/>

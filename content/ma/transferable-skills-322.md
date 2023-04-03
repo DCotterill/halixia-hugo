@@ -13,9 +13,9 @@ Many job seekers aren’t able to capture their transferable skills adequately, 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Coursera](https://www.coursera.org/articles/transferable-skills) | Paid | [1.6](https://uk.trustpilot.com/review/coursera.org) | 
-| [Indeed](https://www.indeed.com/career-advice/resumes-cover-letters/transferable-skills) | free | [1.9](https://www.trustpilot.com/review/www.indeed.com) | 
-| [Career Foundry](https://www.youtube.com/watch?v=g3jX_QsGiiI) | Free | [3.1](https://www.trustpilot.com/review/careerfoundry.com) | 
+| [**Coursera**](https://www.coursera.org/articles/transferable-skills) | Paid | [1.6](https://uk.trustpilot.com/review/coursera.org) | 
+| [**Indeed**](https://www.indeed.com/career-advice/resumes-cover-letters/transferable-skills) | free | [1.9](https://www.trustpilot.com/review/www.indeed.com) | 
+| [**Career Foundry**](https://www.youtube.com/watch?v=g3jX_QsGiiI) | Free | [3.1](https://www.trustpilot.com/review/careerfoundry.com) | 
   
 
 <br/><br/>

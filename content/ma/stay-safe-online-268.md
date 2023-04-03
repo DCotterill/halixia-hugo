@@ -13,9 +13,9 @@ Cyber security is important because smartphones, computers and the internet are 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Get Safe Online](https://www.getsafeonline.org/) | Free | [n/a](n/a) | 
-| [National Cyber Security Centre](https://www.ncsc.gov.uk/section/information-for/individuals-families) | Free | [n/a](n/a) | 
-| [Action Fraud](https://www.actionfraud.police.uk/) | Free | [n/a](n/a) | 
+| [**Get Safe Online**](https://www.getsafeonline.org/) | Free | [n/a](n/a) | 
+| [**National Cyber Security Centre**](https://www.ncsc.gov.uk/section/information-for/individuals-families) | Free | [n/a](n/a) | 
+| [**Action Fraud**](https://www.actionfraud.police.uk/) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

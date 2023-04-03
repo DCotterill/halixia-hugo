@@ -13,7 +13,7 @@ Life insurance helps bereaved families manage financially, with the mortgage, bi
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Which?](https://www.which.co.uk/money/insurance/life-insurance/how-to-write-life-insurance-in-trust-a1pdy5r28lwf) | Free/paid | [1.6](https://www.trustpilot.com/review/www.which.co.uk) | 
+| [**Which?**](https://www.which.co.uk/money/insurance/life-insurance/how-to-write-life-insurance-in-trust-a1pdy5r28lwf) | Free/paid | [1.6](https://www.trustpilot.com/review/www.which.co.uk) | 
   
 
 <br/><br/>

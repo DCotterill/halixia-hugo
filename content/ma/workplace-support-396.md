@@ -13,9 +13,9 @@ Learn more about Leanin, where working women come together to learn from each ot
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Leanin](https://leanin.org/about) | Free | N/A
-| [NWR](https://nwr.org.uk/) | Free | N/A
-| [Together friends](https://www.togetherfriends.com/) | Free | N/A
+| [**Leanin**](https://leanin.org/about) | Free | N/A
+| [**NWR**](https://nwr.org.uk/) | Free | N/A
+| [**Together friends**](https://www.togetherfriends.com/) | Free | N/A
   
 
 <br/><br/>

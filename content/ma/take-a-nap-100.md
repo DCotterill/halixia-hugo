@@ -13,9 +13,9 @@ Naps have been shown to have numerous benefits including improving cognitive fun
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [BBC](https://www.bbc.co.uk/programmes/m001744m) | Free | [1.4](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
-| [Sleep foundation](https://www.sleepfoundation.org/sleep-hygiene/napping) | Free | [3.3](https://uk.trustpilot.com/review/sleepfoundation.org) | 
-| [Progressive Hypnosis](https://www.youtube.com/watch?v=AFiRv1OITco) | Free | [1.6](https://uk.trustpilot.com/review/www.youtube.com) | 
+| [**BBC**](https://www.bbc.co.uk/programmes/m001744m) | Free | [1.4](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
+| [**Sleep foundation**](https://www.sleepfoundation.org/sleep-hygiene/napping) | Free | [3.3](https://uk.trustpilot.com/review/sleepfoundation.org) | 
+| [**Progressive Hypnosis**](https://www.youtube.com/watch?v=AFiRv1OITco) | Free | [1.6](https://uk.trustpilot.com/review/www.youtube.com) | 
   
 
 <br/><br/>

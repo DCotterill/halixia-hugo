@@ -13,9 +13,9 @@ Homemade bread is more nutritious and tastier than the store-bought variety as y
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [BBC](https://www.bbcgoodfood.com/howto/guide/6-steps-brilliant-bread) | Free | [1.3](https://www.trustpilot.com/review/www.bbc.co.uk) | 
-| [Udemy](https://www.udemy.com/topic/bread-baking/) | Paid | [2](https://uk.trustpilot.com/review/udemy.com) | 
-| [BBC](https://www.bbcmaestro.com/courses/richard-bertinet/bread-making) | paid | [1.3](https://www.trustpilot.com/review/www.bbc.co.uk) | 
+| [**BBC**](https://www.bbcgoodfood.com/howto/guide/6-steps-brilliant-bread) | Free | [1.3](https://www.trustpilot.com/review/www.bbc.co.uk) | 
+| [**Udemy**](https://www.udemy.com/topic/bread-baking/) | Paid | [2](https://uk.trustpilot.com/review/udemy.com) | 
+| [**BBC**](https://www.bbcmaestro.com/courses/richard-bertinet/bread-making) | paid | [1.3](https://www.trustpilot.com/review/www.bbc.co.uk) | 
   
 
 <br/><br/>

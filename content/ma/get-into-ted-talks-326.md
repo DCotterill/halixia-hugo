@@ -13,9 +13,9 @@ TED is on a mission to discover and spread ideas that spark imagination, it is d
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [TED](https://www.ted.com/talks?sort=popular) | Free | [n/a](n/a) | 
-| [Video lectures](http://videolectures.net/Top/) | Free | [n/a](n/a) | 
-| [Wired](https://www.wired.co.uk/article/best-podcasts) | Free | [1.3](https://www.trustpilot.com/review/wired.co.uk) | 
+| [**TED**](https://www.ted.com/talks?sort=popular) | Free | [n/a](n/a) | 
+| [**Video lectures**](http://videolectures.net/Top/) | Free | [n/a](n/a) | 
+| [**Wired**](https://www.wired.co.uk/article/best-podcasts) | Free | [1.3](https://www.trustpilot.com/review/wired.co.uk) | 
   
 
 <br/><br/>

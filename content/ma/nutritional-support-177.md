@@ -13,9 +13,9 @@ Good nutrition is getting the right amount of nutrients in the right combination
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [British Nutrition Foundation](https://www.nutrition.org.uk/life-stages/men/) | Free | N/A
-| [Lloyds pharmacy](https://lloydspharmacy.com/blogs/weight-management/diet-plan-for-men) | Free | [3.5](https://uk.trustpilot.com/review/www.lloydspharmacy.com) | 
-| [BBc](https://www.bbcgoodfood.com/howto/guide/balanced-diet-men) | Free | [1.9](https://uk.trustpilot.com/review/www.bbcgoodfood.com) | 
+| [**British Nutrition Foundation**](https://www.nutrition.org.uk/life-stages/men/) | Free | N/A
+| [**Lloyds pharmacy**](https://lloydspharmacy.com/blogs/weight-management/diet-plan-for-men) | Free | [3.5](https://uk.trustpilot.com/review/www.lloydspharmacy.com) | 
+| [**BBc**](https://www.bbcgoodfood.com/howto/guide/balanced-diet-men) | Free | [1.9](https://uk.trustpilot.com/review/www.bbcgoodfood.com) | 
   
 
 <br/><br/>

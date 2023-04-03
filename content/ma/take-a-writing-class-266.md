@@ -13,9 +13,9 @@ To learn creative writing, like any art form, requires compassion, contemplation
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Centre of Excellence](https://www.centreofexcellence.com/shop/writing-courses/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
-| [The Write Practice](https://thewritepractice.com/daily-routines/) | Paid | [n/a](n/a) | 
-| [Indeed](https://www.indeed.com/career-advice/finding-a-job/how-to-become-creative-writer) | free | [1.9](https://uk.trustpilot.com/review/www.indeed.com) | 
+| [**Centre of Excellence**](https://www.centreofexcellence.com/shop/writing-courses/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
+| [**The Write Practice**](https://thewritepractice.com/daily-routines/) | Paid | [n/a](n/a) | 
+| [**Indeed**](https://www.indeed.com/career-advice/finding-a-job/how-to-become-creative-writer) | free | [1.9](https://uk.trustpilot.com/review/www.indeed.com) | 
   
 
 <br/><br/>

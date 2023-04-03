@@ -13,9 +13,9 @@ Start improving your life by adding these small healthy ageing habits to improve
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Everyday health](https://www.everydayhealth.com/longevity/everyday-health-and-wellness-habits-linked-with-a-longer-life/) | Free | N/A
-| [Vagaro](https://sales.vagaro.co.uk/?utm_source=bing&utm_medium=cpc&utm_campaign=BOFU-UK-Non-Brand&utm_content=appointment-app&utm_term=appointment%20app-p&msclkid=ea92d7dd203513f07c12b427b7e05941) | Paid | N/A
-| [Family wall](https://www.familywall.com/) | Free | N/A
+| [**Everyday health**](https://www.everydayhealth.com/longevity/everyday-health-and-wellness-habits-linked-with-a-longer-life/) | Free | N/A
+| [**Vagaro**](https://sales.vagaro.co.uk/?utm_source=bing&utm_medium=cpc&utm_campaign=BOFU-UK-Non-Brand&utm_content=appointment-app&utm_term=appointment%20app-p&msclkid=ea92d7dd203513f07c12b427b7e05941) | Paid | N/A
+| [**Family wall**](https://www.familywall.com/) | Free | N/A
   
 
 <br/><br/>

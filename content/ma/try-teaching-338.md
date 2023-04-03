@@ -13,9 +13,9 @@ Teach what you know and help learners explore their interests, gain new skills, 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [UK Government](https://www.teach-in-further-education.campaign.gov.uk/) | Free | [n/a](n/a) | 
-| [FutureLearn](https://www.futurelearn.com/microcredentials/online-teaching) | Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
-| [Brooks & Kirk](https://brooksandkirk.co.uk/tips-to-be-a-better-adult-teacher/) | Paid | [4.9](https://www.trustpilot.com/review/brooksandkirk.co.uk) | 
+| [**UK Government**](https://www.teach-in-further-education.campaign.gov.uk/) | Free | [n/a](n/a) | 
+| [**FutureLearn**](https://www.futurelearn.com/microcredentials/online-teaching) | Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
+| [**Brooks & Kirk**](https://brooksandkirk.co.uk/tips-to-be-a-better-adult-teacher/) | Paid | [4.9](https://www.trustpilot.com/review/brooksandkirk.co.uk) | 
   
 
 <br/><br/>

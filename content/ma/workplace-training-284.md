@@ -13,9 +13,9 @@ Online learning can be a be modern and innovative way to keep learning and help 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Virtual College](https://www.virtual-college.co.uk/resources/expanding-your-employment-options-over-50) | Free/Paid | [4.7](https://www.trustpilot.com/review/www.virtual-college.co.uk) | 
-| [Centre of Excellence](https://www.centreofexcellence.com/shop/writing-courses/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
-| [1 training](https://www.1training.org/) | Paid | [4.9](https://www.trustpilot.com/review/1training.org) | 
+| [**Virtual College**](https://www.virtual-college.co.uk/resources/expanding-your-employment-options-over-50) | Free/Paid | [4.7](https://www.trustpilot.com/review/www.virtual-college.co.uk) | 
+| [**Centre of Excellence**](https://www.centreofexcellence.com/shop/writing-courses/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
+| [**1 training**](https://www.1training.org/) | Paid | [4.9](https://www.trustpilot.com/review/1training.org) | 
   
 
 <br/><br/>

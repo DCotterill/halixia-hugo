@@ -13,9 +13,9 @@ It’s no secret that being smart with your money and adopting good money habits
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [What Investment](https://www.whatinvestment.co.uk/how-cash-flow-planning-can-improve-your-finances-2616100/) | Free | [n/a](n/a) | 
-| [Experian](https://www.experian.com/blogs/ask-experian/how-to-create-personal-cash-flow-statement/) | Free | [3.8](https://www.trustpilot.com/review/experian.com) | 
-| [Vertex 42](https://www.vertex42.com/ExcelTemplates/monthly-cash-flow.html) | Free | [n/a](n/a) | 
+| [**What Investment**](https://www.whatinvestment.co.uk/how-cash-flow-planning-can-improve-your-finances-2616100/) | Free | [n/a](n/a) | 
+| [**Experian**](https://www.experian.com/blogs/ask-experian/how-to-create-personal-cash-flow-statement/) | Free | [3.8](https://www.trustpilot.com/review/experian.com) | 
+| [**Vertex 42**](https://www.vertex42.com/ExcelTemplates/monthly-cash-flow.html) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

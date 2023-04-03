@@ -13,9 +13,9 @@ A healthy diet rich in fruits, vegetables, wholegrains and low-fat dairy can hel
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [NHS](https://www.nhs.uk/live-well/eat-well/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
-| [Active health](https://www.activehealth.sg/read/nutrition/what-is-good-nutrition-and-why-is-it-important) | Free | N/A
-| [Nutritional meal plans](https://nutritionmealplans.com/) | Free | N/A
+| [**NHS**](https://www.nhs.uk/live-well/eat-well/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
+| [**Active health**](https://www.activehealth.sg/read/nutrition/what-is-good-nutrition-and-why-is-it-important) | Free | N/A
+| [**Nutritional meal plans**](https://nutritionmealplans.com/) | Free | N/A
   
 
 <br/><br/>

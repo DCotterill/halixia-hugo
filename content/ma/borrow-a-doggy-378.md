@@ -13,9 +13,9 @@ Spending time with a dog can greatly improve your mood, thereby helping you to h
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Borrow my Doggy](https://www.borrowmydoggy.com/#home__why) | Free | [3.9](https://uk.trustpilot.com/review/borrowmydoggy.com) | 
-| [Rover](https://www.rover.com/uk/become-a-sitter/) | Free | [4.6](https://uk.trustpilot.com/review/rover.com) | 
-| [Trusted house sitters](https://www.trustedhousesitters.com) | Paid | [4.5](https://uk.trustpilot.com/review/www.trustedhousesitters.com) | 
+| [**Borrow my Doggy**](https://www.borrowmydoggy.com/#home__why) | Free | [3.9](https://uk.trustpilot.com/review/borrowmydoggy.com) | 
+| [**Rover**](https://www.rover.com/uk/become-a-sitter/) | Free | [4.6](https://uk.trustpilot.com/review/rover.com) | 
+| [**Trusted house sitters**](https://www.trustedhousesitters.com) | Paid | [4.5](https://uk.trustpilot.com/review/www.trustedhousesitters.com) | 
   
 
 <br/><br/>

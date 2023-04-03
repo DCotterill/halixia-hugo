@@ -13,9 +13,9 @@ It doesn’t matter how old we are research suggests that having a creative hobb
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Skillshare](https://www.skillshare.com/) | Paid | [1.6](https://uk.trustpilot.com/review/skillshare.com) | 
-| [Youtube](https://www.youtube.com/results?search_query=arts+and+crafts) | Free | [1.6](https://uk.trustpilot.com/review/www.youtube.com) | 
-| [Autodesk instructables](https://www.instructables.com/craft/) | Free | [n/a](n/a) | 
+| [**Skillshare**](https://www.skillshare.com/) | Paid | [1.6](https://uk.trustpilot.com/review/skillshare.com) | 
+| [**Youtube**](https://www.youtube.com/results?search_query=arts+and+crafts) | Free | [1.6](https://uk.trustpilot.com/review/www.youtube.com) | 
+| [**Autodesk instructables**](https://www.instructables.com/craft/) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

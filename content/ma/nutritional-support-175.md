@@ -13,9 +13,9 @@ Good nutrition is getting the right amount of nutrients in the right combination
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [British Nutrition Foundation](https://www.nutrition.org.uk/life-stages/women/) | Free | N/A
-| [BBC](https://www.bbcgoodfood.com/howto/guide/balanced-diet-women) | Free | [1.9](https://uk.trustpilot.com/review/www.bbcgoodfood.com) | 
-| [Eat for health](https://www.eatforhealth.gov.au/food-essentials/how-much-do-we-need-each-day/sample-meal-plan-women) | Free | N/A
+| [**British Nutrition Foundation**](https://www.nutrition.org.uk/life-stages/women/) | Free | N/A
+| [**BBC**](https://www.bbcgoodfood.com/howto/guide/balanced-diet-women) | Free | [1.9](https://uk.trustpilot.com/review/www.bbcgoodfood.com) | 
+| [**Eat for health**](https://www.eatforhealth.gov.au/food-essentials/how-much-do-we-need-each-day/sample-meal-plan-women) | Free | N/A
   
 
 <br/><br/>

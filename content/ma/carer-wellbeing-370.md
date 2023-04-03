@@ -13,9 +13,9 @@ Looking after yourself is a really important part of caring for someone else. It
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Mind](https://www.mind.org.uk/information-support/helping-someone-else/carers-friends-family-coping-support/am-i-a-carer/) | Free | [2.6](https://uk.trustpilot.com/review/www.mind.org.uk) | 
-| [Citizens advice](https://www.citizensadvice.org.uk/family/looking-after-people/carers-help-and-support/) | Free | [1.6](https://uk.trustpilot.com/review/www.citizensadvice.org.uk) | 
-| [Carers uk](https://www.carersuk.org/about-us/our-support-for-carers/) | Free | N/A
+| [**Mind**](https://www.mind.org.uk/information-support/helping-someone-else/carers-friends-family-coping-support/am-i-a-carer/) | Free | [2.6](https://uk.trustpilot.com/review/www.mind.org.uk) | 
+| [**Citizens advice**](https://www.citizensadvice.org.uk/family/looking-after-people/carers-help-and-support/) | Free | [1.6](https://uk.trustpilot.com/review/www.citizensadvice.org.uk) | 
+| [**Carers uk**](https://www.carersuk.org/about-us/our-support-for-carers/) | Free | N/A
   
 
 <br/><br/>

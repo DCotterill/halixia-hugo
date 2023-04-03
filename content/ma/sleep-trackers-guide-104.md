@@ -13,9 +13,9 @@ Tracking your sleep can help you to better understand your sleep habits, helping
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [The dozy owl](https://thedozyowl.co.uk/sleep-trackers/) | Free | N/A
-| [Consensus sleep diary](https://consensussleepdiary.com/) | Free | N/A
-| [Sleep on](https://shop.sleepon.us/collections/sleepon-family/products/go2sleep-ai-powered-device-for-restful-sleep) | Paid | N/A
+| [**The dozy owl**](https://thedozyowl.co.uk/sleep-trackers/) | Free | N/A
+| [**Consensus sleep diary**](https://consensussleepdiary.com/) | Free | N/A
+| [**Sleep on**](https://shop.sleepon.us/collections/sleepon-family/products/go2sleep-ai-powered-device-for-restful-sleep) | Paid | N/A
   
 
 <br/><br/>

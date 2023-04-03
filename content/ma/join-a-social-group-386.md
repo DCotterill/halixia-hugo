@@ -13,9 +13,9 @@ We are social beings, and interacting with people is in our nature. But it also 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Pscychology today](https://www.psychologytoday.com/us/blog/living-mild-cognitive-impairment/201606/the-health-benefits-socializing) | Free | [1.7](https://uk.trustpilot.com/review/www.psychologytoday.com) | 
-| [BBC](https://www.bbc.co.uk/sport/get-inspired/45353880) | Free | [1.2](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
-| [Country living](https://www.countryliving.com/uk/wellbeing/a32850447/virtual-groups-loneliness/) | Free | [2.8](https://uk.trustpilot.com/review/www.countryliving.com) | 
+| [**Pscychology today**](https://www.psychologytoday.com/us/blog/living-mild-cognitive-impairment/201606/the-health-benefits-socializing) | Free | [1.7](https://uk.trustpilot.com/review/www.psychologytoday.com) | 
+| [**BBC**](https://www.bbc.co.uk/sport/get-inspired/45353880) | Free | [1.2](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
+| [**Country living**](https://www.countryliving.com/uk/wellbeing/a32850447/virtual-groups-loneliness/) | Free | [2.8](https://uk.trustpilot.com/review/www.countryliving.com) | 
   
 
 <br/><br/>

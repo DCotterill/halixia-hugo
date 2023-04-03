@@ -13,9 +13,9 @@ Daily contact with nature is linked to better health, reduced levels of chronic 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Rspb](https://www.rspb.org.uk/birds-and-wildlife/natures-home-magazine/birds-and-wildlife-articles/food-chains/wildlife-habitats/) | Free | [2.2](https://uk.trustpilot.com/review/www.rspb.org.uk) | 
-| [Barnacle hedgehogs](https://www.barnaclehedgehogs.co.uk/fostering.html) | Free | N/A
-| [Wild life trust](https://www.wildlifetrusts.org/cy/actions) | Free | [3.5](https://uk.trustpilot.com/review/www.wildlifetrusts.org) | 
+| [**Rspb**](https://www.rspb.org.uk/birds-and-wildlife/natures-home-magazine/birds-and-wildlife-articles/food-chains/wildlife-habitats/) | Free | [2.2](https://uk.trustpilot.com/review/www.rspb.org.uk) | 
+| [**Barnacle hedgehogs**](https://www.barnaclehedgehogs.co.uk/fostering.html) | Free | N/A
+| [**Wild life trust**](https://www.wildlifetrusts.org/cy/actions) | Free | [3.5](https://uk.trustpilot.com/review/www.wildlifetrusts.org) | 
   
 
 <br/><br/>

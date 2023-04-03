@@ -13,9 +13,9 @@ We are social beings, and interacting with people is in our nature. But it also 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Royal voluntary service](https://www.royalvoluntaryservice.org.uk/our-services/social-activities/) | Paid | N/A
-| [Safeseniorcare](https://saferseniorcare.com/recreational-activities-for-elderly-seniors/) | Free | N/A
-| [Life hack](https://www.lifehack.org/articles/lifestyle/24-enriching-activities-50-somethings-should-their-free-time.html) | Free | [3.1](https://uk.trustpilot.com/review/lifehack.org) | 
+| [**Royal voluntary service**](https://www.royalvoluntaryservice.org.uk/our-services/social-activities/) | Paid | N/A
+| [**Safeseniorcare**](https://saferseniorcare.com/recreational-activities-for-elderly-seniors/) | Free | N/A
+| [**Life hack**](https://www.lifehack.org/articles/lifestyle/24-enriching-activities-50-somethings-should-their-free-time.html) | Free | [3.1](https://uk.trustpilot.com/review/lifehack.org) | 
   
 
 <br/><br/>

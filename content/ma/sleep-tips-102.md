@@ -13,9 +13,9 @@ Sleep is an essential function to help our mind and body recharge. Healthy sleep
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Sleep foundation](https://www.thensf.org/10-sleep-tips-sleep-quality/) | Free | [3.3](https://uk.trustpilot.com/review/sleepfoundation.org) | 
-| [BBC](https://www.bbc.co.uk/sounds/curation/p0bw83p3?partner=uk.co.bbc&origin=share-mobile) | Free | [1.4](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
-| [Insight timer](https://insighttimer.com/) | Free/paid | [3.9](https://uk.trustpilot.com/review/www.insighttimer.com) | 
+| [**Sleep foundation**](https://www.thensf.org/10-sleep-tips-sleep-quality/) | Free | [3.3](https://uk.trustpilot.com/review/sleepfoundation.org) | 
+| [**BBC**](https://www.bbc.co.uk/sounds/curation/p0bw83p3?partner=uk.co.bbc&origin=share-mobile) | Free | [1.4](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
+| [**Insight timer**](https://insighttimer.com/) | Free/paid | [3.9](https://uk.trustpilot.com/review/www.insighttimer.com) | 
   
 
 <br/><br/>

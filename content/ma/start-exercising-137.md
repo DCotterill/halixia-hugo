@@ -13,9 +13,9 @@ Regular exercise is one of the best things you can do for your health. However, 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [The Body Coach](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ) | Free | [3.8](https://uk.trustpilot.com/review/www.thebodycoach.co.uk) | 
-| [NHS](https://www.nhs.uk/better-health/get-active/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
-| [Healthline](https://www.healthline.com/nutrition/how-to-start-exercising#TOC_TITLE_HDR_4) | Free/paid | [1.5](https://uk.trustpilot.com/review/www.healthline.com) | 
+| [**The Body Coach**](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ) | Free | [3.8](https://uk.trustpilot.com/review/www.thebodycoach.co.uk) | 
+| [**NHS**](https://www.nhs.uk/better-health/get-active/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
+| [**Healthline**](https://www.healthline.com/nutrition/how-to-start-exercising#TOC_TITLE_HDR_4) | Free/paid | [1.5](https://uk.trustpilot.com/review/www.healthline.com) | 
   
 
 <br/><br/>

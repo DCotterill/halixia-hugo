@@ -13,9 +13,9 @@ We are social beings, and interacting with people is in our nature. But it also 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Pscychology today](https://www.psychologytoday.com/us/blog/living-mild-cognitive-impairment/201606/the-health-benefits-socializing) | Free | [1.7](https://uk.trustpilot.com/review/www.psychologytoday.com) | 
-| [NWR](https://nwr.org.uk/) | Free | N/A
-| [Together friends](https://www.togetherfriends.com/) | Free | N/A
+| [**Pscychology today**](https://www.psychologytoday.com/us/blog/living-mild-cognitive-impairment/201606/the-health-benefits-socializing) | Free | [1.7](https://uk.trustpilot.com/review/www.psychologytoday.com) | 
+| [**NWR**](https://nwr.org.uk/) | Free | N/A
+| [**Together friends**](https://www.togetherfriends.com/) | Free | N/A
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ Zumba is a dance class that features high and low intensity intervals that help 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Zumba](https://www.zumba.com/en-US/benefits-of-zumba) | Free | [4.8](https://uk.trustpilot.com/review/www.zumba.com) | 
-| [Very Well](https://www.verywellfit.com/zumba-pros-cons-and-how-it-works-4688722) | Free | [3.5](https://uk.trustpilot.com/review/www.verywellfit.com) | 
-| [Healthline](https://www.healthline.com/health/fitness-exercise/benefits-of-zumba#Its-a-full-body-workout) | Free | [1.5](https://uk.trustpilot.com/review/www.healthline.com) | 
+| [**Zumba**](https://www.zumba.com/en-US/benefits-of-zumba) | Free | [4.8](https://uk.trustpilot.com/review/www.zumba.com) | 
+| [**Very Well**](https://www.verywellfit.com/zumba-pros-cons-and-how-it-works-4688722) | Free | [3.5](https://uk.trustpilot.com/review/www.verywellfit.com) | 
+| [**Healthline**](https://www.healthline.com/health/fitness-exercise/benefits-of-zumba#Its-a-full-body-workout) | Free | [1.5](https://uk.trustpilot.com/review/www.healthline.com) | 
   
 
 <br/><br/>

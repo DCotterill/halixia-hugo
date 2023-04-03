@@ -13,9 +13,9 @@ Running is a great way to improve your overall physical health. It can improve h
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [NHS](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/get-running-with-couch-to-5k/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
-| [Strava](https://www.strava.com/) | Free/Paid | [1.9](https://uk.trustpilot.com/review/strava.com) | 
-| [Parkrun](https://www.parkrun.org.uk/) | Free | N/A
+| [**NHS**](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/get-running-with-couch-to-5k/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
+| [**Strava**](https://www.strava.com/) | Free/Paid | [1.9](https://uk.trustpilot.com/review/strava.com) | 
+| [**Parkrun**](https://www.parkrun.org.uk/) | Free | N/A
   
 
 <br/><br/>

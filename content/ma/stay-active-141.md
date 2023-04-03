@@ -13,9 +13,9 @@ Regular physical activity or exercise helps your brain, heart and lungs stay hea
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Psych reg](https://www.psychreg.org/staying-fit-and-healthy-at-home/) | Free | N/A
-| [Livestrong](https://www.livestrong.com/article/97879-stay-fit-/) | Free | [3.2](https://uk.trustpilot.com/review/www.livestrong.com) | 
-| [Stay Fit](https://www.stay.fit/blog/2021/9/16/13-ways-to-stay-fit-and-heatlhy) | Free | N/A
+| [**Psych reg**](https://www.psychreg.org/staying-fit-and-healthy-at-home/) | Free | N/A
+| [**Livestrong**](https://www.livestrong.com/article/97879-stay-fit-/) | Free | [3.2](https://uk.trustpilot.com/review/www.livestrong.com) | 
+| [**Stay Fit**](https://www.stay.fit/blog/2021/9/16/13-ways-to-stay-fit-and-heatlhy) | Free | N/A
   
 
 <br/><br/>

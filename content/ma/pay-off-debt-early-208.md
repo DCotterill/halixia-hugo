@@ -13,8 +13,8 @@ Debt can cause financial strain whereby high repayments can affect your ability 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Money.co.uk](https://www.money.co.uk/guides/which-debts-should-you-pay-off-first) | Free | [4.4](https://www.trustpilot.com/review/www.money.co.uk) | 
-| [Step Change](https://www.citizensadvice.org.uk/debt-and-money/help-with-debt/dealing-with-your-debts/making-a-plan-to-pay-your-debts/) | Free | [4.5](https://www.trustpilot.com/review/stepchange.org) | 
+| [**Money.co.uk**](https://www.money.co.uk/guides/which-debts-should-you-pay-off-first) | Free | [4.4](https://www.trustpilot.com/review/www.money.co.uk) | 
+| [**Step Change**](https://www.citizensadvice.org.uk/debt-and-money/help-with-debt/dealing-with-your-debts/making-a-plan-to-pay-your-debts/) | Free | [4.5](https://www.trustpilot.com/review/stepchange.org) | 
   
 
 <br/><br/>

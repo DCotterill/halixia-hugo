@@ -13,9 +13,9 @@ Feeling in control of both your day-to-day finances and long-term goals can have
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Morningstar](https://www.morningstar.co.uk/uk/portfoliomanager/start) | Free | [2.3](https://www.trustpilot.com/review/morningstar.co.uk) | 
-| [Lumio](https://yourmoney.lumio-app.com/best-uk-portfolio-trackers/) | Free/Paid | [4.2](https://www.trustpilot.com/review/lumio-app.com) | 
-| [Investor Junkie](https://investorjunkie.com/investing/how-to-track-your-investments/) | Free | [n/a](n/a) | 
+| [**Morningstar**](https://www.morningstar.co.uk/uk/portfoliomanager/start) | Free | [2.3](https://www.trustpilot.com/review/morningstar.co.uk) | 
+| [**Lumio**](https://yourmoney.lumio-app.com/best-uk-portfolio-trackers/) | Free/Paid | [4.2](https://www.trustpilot.com/review/lumio-app.com) | 
+| [**Investor Junkie**](https://investorjunkie.com/investing/how-to-track-your-investments/) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

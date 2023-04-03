@@ -13,9 +13,9 @@ Centre of Excellence offers courses in many 'small business specialisms' and com
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Centre of excellence](https://www.centreofexcellence.com/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
-| [Skillshare](https://www.skillshare.com/) | Paid | [1.6](https://uk.trustpilot.com/review/skillshare.com) | 
-| [UK Government](https://www.gov.uk/set-up-business) | Free | [n/a](n/a) | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
+| [**Skillshare**](https://www.skillshare.com/) | Paid | [1.6](https://uk.trustpilot.com/review/skillshare.com) | 
+| [**UK Government**](https://www.gov.uk/set-up-business) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

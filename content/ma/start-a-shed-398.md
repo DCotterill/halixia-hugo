@@ -13,9 +13,9 @@ We are social beings, and interacting with people is in our nature. But it also 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Men in Sheds](menssheds.org.uk) | Free | N/A
-| [Mens group](https://mensgroup.com/peer-support-group) | Free | N/A
-| [Man health](https://www.manhealth.org.uk/peer-support-groups/) | Free | N/A
+| [**Men in Sheds**](menssheds.org.uk) | Free | N/A
+| [**Mens group**](https://mensgroup.com/peer-support-group) | Free | N/A
+| [**Man health**](https://www.manhealth.org.uk/peer-support-groups/) | Free | N/A
   
 
 <br/><br/>

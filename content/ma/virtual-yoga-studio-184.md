@@ -13,9 +13,9 @@ Yoga is for everyone, whatever ability or disability, age, experience, fitness o
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Giam](https://www.gaiam.com/pages/yoga-studio-app) | Paid | [1.5](https://uk.trustpilot.com/review/www.gaiam.com) | 
-| [The house of yoga](https://thehouseofyoga.co.uk/online-yoga-classes/) | Paid | [3.7](https://uk.trustpilot.com/review/www.thehouseofyoga.co.uk) | 
-| [Do yoga with me](https://www.doyogawithme.com/) | Free | N/A
+| [**Giam**](https://www.gaiam.com/pages/yoga-studio-app) | Paid | [1.5](https://uk.trustpilot.com/review/www.gaiam.com) | 
+| [**The house of yoga**](https://thehouseofyoga.co.uk/online-yoga-classes/) | Paid | [3.7](https://uk.trustpilot.com/review/www.thehouseofyoga.co.uk) | 
+| [**Do yoga with me**](https://www.doyogawithme.com/) | Free | N/A
   
 
 <br/><br/>

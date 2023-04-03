@@ -13,9 +13,9 @@ As you get older finding meaningful work that works flexibly can be difficult, d
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Age UK](https://www.ageuk.org.uk/information-advice/work-learning/looking-for-work/be-your-own-boss/) | Free | [1.6](https://www.trustpilot.com/review/ageuk.co.uk) | 
-| [Futurelearn](https://www.futurelearn.com/courses/starting-a-business-1) | Free/Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
-| [Centre of excellence](https://www.centreofexcellence.com/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
+| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/looking-for-work/be-your-own-boss/) | Free | [1.6](https://www.trustpilot.com/review/ageuk.co.uk) | 
+| [**Futurelearn**](https://www.futurelearn.com/courses/starting-a-business-1) | Free/Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
   
 
 <br/><br/>

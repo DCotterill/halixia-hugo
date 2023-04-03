@@ -13,9 +13,9 @@ Digital, numeracy and transferable skills, like communicating confidently or han
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [UK Government](https://skillsforlife.campaign.gov.uk/) | Free | [n/a](n/a) | 
-| [UK Government](https://beta.nationalcareers.service.gov.uk/) | Free | [n/a](n/a) | 
-| [OpenLearn](https://www.open.edu/openlearn/) | Free | [2.8](https://www.trustpilot.com/review/www.open.ac.uk) | 
+| [**UK Government**](https://skillsforlife.campaign.gov.uk/) | Free | [n/a](n/a) | 
+| [**UK Government**](https://beta.nationalcareers.service.gov.uk/) | Free | [n/a](n/a) | 
+| [**OpenLearn**](https://www.open.edu/openlearn/) | Free | [2.8](https://www.trustpilot.com/review/www.open.ac.uk) | 
   
 
 <br/><br/>

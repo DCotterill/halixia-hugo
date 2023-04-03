@@ -13,9 +13,9 @@ As adults, it can be all too easy to forget that learning remains important. Sta
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Age UK](https://www.ageuk.org.uk/information-advice/work-learning/education-training/) | Free | [1.6](https://www.trustpilot.com/review/ageuk.co.uk) | 
-| [Centre of Excellence](https://www.centreofexcellence.com/shop/writing-courses/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
-| [Skills you need](https://www.skillsyouneed.com/learning-skills.html) | Free | [n/a](n/a) | 
+| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/education-training/) | Free | [1.6](https://www.trustpilot.com/review/ageuk.co.uk) | 
+| [**Centre of Excellence**](https://www.centreofexcellence.com/shop/writing-courses/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
+| [**Skills you need**](https://www.skillsyouneed.com/learning-skills.html) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

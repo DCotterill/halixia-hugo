@@ -13,9 +13,9 @@ Investing in stocks & shares is a popular alternative to cash. On average, stock
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Unbiased](https://www.unbiased.co.uk/life/get-smart/when-to-start-investing-5-things-to-help-decide-if-you-re-ready) | Free | [4.1](https://www.trustpilot.com/review/www.unbiased.co.uk) | 
-| [MoneyHelper](https://www.moneyhelper.org.uk/en/savings/investing) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
-| [Money.co.uk](https://www.money.co.uk/guides/7-questions-you-must-ask-before-you-invest) | Free | [4.4](https://www.trustpilot.com/review/www.money.co.uk) | 
+| [**Unbiased**](https://www.unbiased.co.uk/life/get-smart/when-to-start-investing-5-things-to-help-decide-if-you-re-ready) | Free | [4.1](https://www.trustpilot.com/review/www.unbiased.co.uk) | 
+| [**MoneyHelper**](https://www.moneyhelper.org.uk/en/savings/investing) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
+| [**Money.co.uk**](https://www.money.co.uk/guides/7-questions-you-must-ask-before-you-invest) | Free | [4.4](https://www.trustpilot.com/review/www.money.co.uk) | 
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ The best way to maintain health is to preserve it. Regular health checks not onl
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [No Ordinary homestead](https://www.noordinaryhomestead.com/importance-of-checking-your-health/) | Free | N/A
-| [Benenden](https://www.benenden.co.uk/health/health-assessments/) | Paid | [4.5](https://uk.trustpilot.com/review/benenden.co.uk) | 
-| [Nuffield](https://www.nuffieldhealth.com/health-assessments) | Paid | [2.2](https://uk.trustpilot.com/review/www.nuffieldhealth.com) | 
+| [**No Ordinary homestead**](https://www.noordinaryhomestead.com/importance-of-checking-your-health/) | Free | N/A
+| [**Benenden**](https://www.benenden.co.uk/health/health-assessments/) | Paid | [4.5](https://uk.trustpilot.com/review/benenden.co.uk) | 
+| [**Nuffield**](https://www.nuffieldhealth.com/health-assessments) | Paid | [2.2](https://uk.trustpilot.com/review/www.nuffieldhealth.com) | 
   
 
 <br/><br/>

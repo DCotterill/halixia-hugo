@@ -15,9 +15,9 @@ Social media can pave a good way for networking with people far and wide. You ca
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Nextdoor](https://about.nextdoor.com/) | Free | [3.7](https://uk.trustpilot.com/review/nextdoor.co.uk) | 
-| [NCSC](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely) | Free | [3.2](https://uk.trustpilot.com/review/www.ncsc.gov.uk) | 
-| [Smart Social](https://smartsocial.com/post/using-social-media-responsibly) | Free | N/A
+| [**Nextdoor**](https://about.nextdoor.com/) | Free | [3.7](https://uk.trustpilot.com/review/nextdoor.co.uk) | 
+| [**NCSC**](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely) | Free | [3.2](https://uk.trustpilot.com/review/www.ncsc.gov.uk) | 
+| [**Smart Social**](https://smartsocial.com/post/using-social-media-responsibly) | Free | N/A
   
 
 <br/><br/>

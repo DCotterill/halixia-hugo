@@ -13,9 +13,9 @@ Many families are unprepared for a loved one needing to go into care and are oft
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [What Investment](https://www.whatinvestment.co.uk/the-cost-of-care-in-later-life-2621038/) | Free | [n/a](n/a) | 
-| [Age UK](https://www.ageuk.org.uk/information-advice/care/paying-for-care/) | Free | [1.6](https://www.trustpilot.com/review/ageuk.co.uk) | 
-| [UK Care Guide](https://ukcareguide.co.uk/paying-for-care/) | Free | [4](https://www.trustpilot.com/review/www.ukcareguide.co.uk) | 
+| [**What Investment**](https://www.whatinvestment.co.uk/the-cost-of-care-in-later-life-2621038/) | Free | [n/a](n/a) | 
+| [**Age UK**](https://www.ageuk.org.uk/information-advice/care/paying-for-care/) | Free | [1.6](https://www.trustpilot.com/review/ageuk.co.uk) | 
+| [**UK Care Guide**](https://ukcareguide.co.uk/paying-for-care/) | Free | [4](https://www.trustpilot.com/review/www.ukcareguide.co.uk) | 
   
 
 <br/><br/>

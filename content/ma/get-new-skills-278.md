@@ -13,9 +13,9 @@ Online learning can be a be modern and innovative way to keep learning and help 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [1 training](https://www.1training.org/) | Paid | [4.9](https://www.trustpilot.com/review/1training.org) | 
-| [Futurelearn](https://www.futurelearn.com/microcredentials) | Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
-| [OpenLearn](https://www.open.edu/openlearn/) | Free | [2.8](https://www.trustpilot.com/review/www.open.ac.uk) | 
+| [**1 training**](https://www.1training.org/) | Paid | [4.9](https://www.trustpilot.com/review/1training.org) | 
+| [**Futurelearn**](https://www.futurelearn.com/microcredentials) | Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
+| [**OpenLearn**](https://www.open.edu/openlearn/) | Free | [2.8](https://www.trustpilot.com/review/www.open.ac.uk) | 
   
 
 <br/><br/>

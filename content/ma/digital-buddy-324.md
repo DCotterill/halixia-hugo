@@ -13,9 +13,9 @@ In an increasingly digital world it's great when everyone benefits from technolo
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Age UK](https://www.ageuk.org.uk/get-involved/volunteer/become-an-age-uk-digital-buddy/) | Free | [1.6](https://www.trustpilot.com/review/ageuk.co.uk) | 
-| [Volunteering matters](https://volunteeringmatters.org.uk/pillars/older-people/) | Free | [n/a](n/a) | 
-| [U3A](https://www.u3a.org.uk/index.php) | Free | [n/a](n/a) | 
+| [**Age UK**](https://www.ageuk.org.uk/get-involved/volunteer/become-an-age-uk-digital-buddy/) | Free | [1.6](https://www.trustpilot.com/review/ageuk.co.uk) | 
+| [**Volunteering matters**](https://volunteeringmatters.org.uk/pillars/older-people/) | Free | [n/a](n/a) | 
+| [**U3A**](https://www.u3a.org.uk/index.php) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ Good nutrition is getting the right amount of nutrients in the right combination
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Nutritionist-Resource](https://www.nutritionist-resource.org.uk/) | Free/Paid | [3.6](https://uk.trustpilot.com/review/nutritionist-resource.org.uk) | 
-| [Nutrition](https://www.nutrition.org.uk/putting-it-into-practice/planning/7-day-meal-plan/) | Free | N/A
-| [Active health](https://www.activehealth.sg/read/nutrition/what-is-good-nutrition-and-why-is-it-important) | Free | N/A
+| [**Nutritionist-Resource**](https://www.nutritionist-resource.org.uk/) | Free/Paid | [3.6](https://uk.trustpilot.com/review/nutritionist-resource.org.uk) | 
+| [**Nutrition**](https://www.nutrition.org.uk/putting-it-into-practice/planning/7-day-meal-plan/) | Free | N/A
+| [**Active health**](https://www.activehealth.sg/read/nutrition/what-is-good-nutrition-and-why-is-it-important) | Free | N/A
   
 
 <br/><br/>

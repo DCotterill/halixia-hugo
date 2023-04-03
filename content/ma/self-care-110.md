@@ -13,9 +13,9 @@ Start engaging in self-care, to help you to relieve the pressures of everyday li
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [The couples centre](https://www.thecouplescenter.org/why-self-care-is-so-important-for-longevity-and-wellness/) | Free | N/A
-| [Simple lion heart life](https://simplelionheartlife.com/how-to-slow-down/) | Free | N/A
-| [me time therapy](https://www.me-time-therapy.co.uk/me-time-activities-to-try/) | Free | N/A
+| [**The couples centre**](https://www.thecouplescenter.org/why-self-care-is-so-important-for-longevity-and-wellness/) | Free | N/A
+| [**Simple lion heart life**](https://simplelionheartlife.com/how-to-slow-down/) | Free | N/A
+| [**me time therapy**](https://www.me-time-therapy.co.uk/me-time-activities-to-try/) | Free | N/A
   
 
 <br/><br/>

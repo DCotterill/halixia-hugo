@@ -13,9 +13,9 @@ According to research up to a third of adults had no or less than £1,000 in sav
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [HSBC](https://www.hsbc.co.uk/financial-fitness/emergency-fund-calculator/) | Free/paid | [1.4](https://www.trustpilot.com/review/www.hsbc.co.uk) | 
-| [Which?](https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5) | Free/paid | [1.6](https://www.trustpilot.com/review/www.which.co.uk) | 
-| [MoneySavingExpert.com](https://www.moneysavingexpert.com/savings/savings-accounts-best-interest/#easyaccess) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
+| [**HSBC**](https://www.hsbc.co.uk/financial-fitness/emergency-fund-calculator/) | Free/paid | [1.4](https://www.trustpilot.com/review/www.hsbc.co.uk) | 
+| [**Which?**](https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5) | Free/paid | [1.6](https://www.trustpilot.com/review/www.which.co.uk) | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/savings/savings-accounts-best-interest/#easyaccess) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
   
 
 <br/><br/>

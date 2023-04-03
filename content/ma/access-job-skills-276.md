@@ -13,9 +13,9 @@ Digital, numeracy and transferable skills, like communicating confidently or han
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [UK Government](https://skillsforlife.campaign.gov.uk/) | Free | [n/a](n/a) | 
-| [Virtual College](https://www.virtual-college.co.uk/) | Free/Paid | [4.7](https://www.trustpilot.com/review/www.virtual-college.co.uk) | 
-| [learningstylequiz.com](https://www.learningstylequiz.com/) | Free | [n/a](n/a) | 
+| [**UK Government**](https://skillsforlife.campaign.gov.uk/) | Free | [n/a](n/a) | 
+| [**Virtual College**](https://www.virtual-college.co.uk/) | Free/Paid | [4.7](https://www.trustpilot.com/review/www.virtual-college.co.uk) | 
+| [**learningstylequiz.com**](https://www.learningstylequiz.com/) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

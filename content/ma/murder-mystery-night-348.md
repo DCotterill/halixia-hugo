@@ -13,9 +13,9 @@ Is there anything more enjoyable than playing games with friends? Not only is it
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Murder Mystery Store](https://www.murdermysterystore.co.uk/article.asp?id=78) | Paid | N/A
-| [Murder mysteries](https://murdermysteryinvestigations.com/) | Paid | N/A
-| [Mayhem](https://www.mayhem.org.uk/murder-mystery-types/free-murder-mysteries/) | Free | N/A
+| [**Murder Mystery Store**](https://www.murdermysterystore.co.uk/article.asp?id=78) | Paid | N/A
+| [**Murder mysteries**](https://murdermysteryinvestigations.com/) | Paid | N/A
+| [**Mayhem**](https://www.mayhem.org.uk/murder-mystery-types/free-murder-mysteries/) | Free | N/A
   
 
 <br/><br/>

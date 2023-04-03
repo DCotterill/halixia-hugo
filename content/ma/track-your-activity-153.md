@@ -13,9 +13,9 @@ Research has shown that consistently using a fitness tracker, can help motivate 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Map my walk](https://www.mapmywalk.com/) | Free/Paid | [3.1](https://uk.trustpilot.com/review/www.mapmywalk.com) | 
-| [NHS](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
-| [Strava](https://www.strava.com/) | Free/Paid | [1.9](https://uk.trustpilot.com/review/strava.com) | 
+| [**Map my walk**](https://www.mapmywalk.com/) | Free/Paid | [3.1](https://uk.trustpilot.com/review/www.mapmywalk.com) | 
+| [**NHS**](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
+| [**Strava**](https://www.strava.com/) | Free/Paid | [1.9](https://uk.trustpilot.com/review/strava.com) | 
   
 
 <br/><br/>

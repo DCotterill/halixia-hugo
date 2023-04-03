@@ -13,9 +13,9 @@ This simple budgeting method requires less tracking than many others as it only 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [HSBC](https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/spending-your-income/) | Free/paid | [1.4](https://www.trustpilot.com/review/www.hsbc.co.uk) | 
-| [Moneyfit](https://www.moneyfit.org/50-30-20-budget-calculator/) | Free | [n/a](n/a) | 
-| [Cabot Financial](https://www.cabotfinancial.co.uk/money-management/money-management/what-are-the-benefits-of-budgeting) | Free/Paid | [4.4](https://www.trustpilot.com/review/www.cabotfinancial.co.uk) | 
+| [**HSBC**](https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/spending-your-income/) | Free/paid | [1.4](https://www.trustpilot.com/review/www.hsbc.co.uk) | 
+| [**Moneyfit**](https://www.moneyfit.org/50-30-20-budget-calculator/) | Free | [n/a](n/a) | 
+| [**Cabot Financial**](https://www.cabotfinancial.co.uk/money-management/money-management/what-are-the-benefits-of-budgeting) | Free/Paid | [4.4](https://www.trustpilot.com/review/www.cabotfinancial.co.uk) | 
   
 
 <br/><br/>

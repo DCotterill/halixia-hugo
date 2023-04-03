@@ -13,9 +13,9 @@ With increasing demand for language skills in education, and more broadly across
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Open University](https://www.open.ac.uk/courses/languages/short-courses) | Paid | [n/a](n/a) | 
-| [Mezzofanti Guild](https://www.mezzoguild.com/foreign-language-careers/) | Free | [n/a](n/a) | 
-| [Indeed](https://uk.indeed.com/Language-Required-jobs?vjk=8d27a4bce63e8841) | Free | [1.9](https://www.trustpilot.com/review/www.indeed.com) | 
+| [**Open University**](https://www.open.ac.uk/courses/languages/short-courses) | Paid | [n/a](n/a) | 
+| [**Mezzofanti Guild**](https://www.mezzoguild.com/foreign-language-careers/) | Free | [n/a](n/a) | 
+| [**Indeed**](https://uk.indeed.com/Language-Required-jobs?vjk=8d27a4bce63e8841) | Free | [1.9](https://www.trustpilot.com/review/www.indeed.com) | 
   
 
 <br/><br/>

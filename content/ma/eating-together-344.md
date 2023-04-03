@@ -13,9 +13,9 @@ By eating meals together we practice gratitude. While sharing and enjoying a tas
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Am Dietics](https://www.amdietetics.com/articles/the-importance-of-eating-together) | Free | N/A
-| [BBC](https://www.bbc.co.uk/food/collections/family_feasts) | Free | [1.2](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
-| [Eating together being together](https://eatingtogetherbeingtogether.com/) | Paid | N/A
+| [**Am Dietics**](https://www.amdietetics.com/articles/the-importance-of-eating-together) | Free | N/A
+| [**BBC**](https://www.bbc.co.uk/food/collections/family_feasts) | Free | [1.2](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
+| [**Eating together being together**](https://eatingtogetherbeingtogether.com/) | Paid | N/A
   
 
 <br/><br/>

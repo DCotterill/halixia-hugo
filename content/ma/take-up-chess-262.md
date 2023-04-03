@@ -13,9 +13,9 @@ Chess has been shown to have many benefits from stress reduction to improving co
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Mindful chess](https://www.mindfulchess.org/) | Paid | [n/a](n/a) | 
-| [Chess.com](https://www.chess.com/learn) | ? | [n/a]() | 
-| [Udemy](https://www.udemy.com/topic/chess/) | Paid | [2](https://uk.trustpilot.com/review/udemy.com) | 
+| [**Mindful chess**](https://www.mindfulchess.org/) | Paid | [n/a](n/a) | 
+| [**Chess.com**](https://www.chess.com/learn) | ? | [n/a]() | 
+| [**Udemy**](https://www.udemy.com/topic/chess/) | Paid | [2](https://uk.trustpilot.com/review/udemy.com) | 
   
 
 <br/><br/>

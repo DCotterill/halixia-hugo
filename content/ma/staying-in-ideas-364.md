@@ -13,9 +13,9 @@ Is there anything more enjoyable than playing games with friends? Not only is it
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [You Magazine](https://www.you.co.uk/night-in-ideas/) | Free | N/A
-| [Every minute mum](https://everyminutemum.com/family-night-ideas/) | Free | N/A
-| [Clever girl finance](https://www.clevergirlfinance.com/blog/family-night-ideas/) | Free | N/A
+| [**You Magazine**](https://www.you.co.uk/night-in-ideas/) | Free | N/A
+| [**Every minute mum**](https://everyminutemum.com/family-night-ideas/) | Free | N/A
+| [**Clever girl finance**](https://www.clevergirlfinance.com/blog/family-night-ideas/) | Free | N/A
   
 
 <br/><br/>

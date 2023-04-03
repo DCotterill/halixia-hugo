@@ -13,9 +13,9 @@ Dance is a great way to stay in shape and can also help your heart. The aerobic 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [BBC](https://www.bbc.co.uk/programmes/m0017cfl) | Free | [1.4](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
-| [Healthline](https://www.healthline.com/health/fitness-exercise/benefits-of-dance) | Free | [1.5](https://uk.trustpilot.com/review/www.healthline.com) | 
-| [Ceroc](https://www.ceroc.com/) | Paid | N/A
+| [**BBC**](https://www.bbc.co.uk/programmes/m0017cfl) | Free | [1.4](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
+| [**Healthline**](https://www.healthline.com/health/fitness-exercise/benefits-of-dance) | Free | [1.5](https://uk.trustpilot.com/review/www.healthline.com) | 
+| [**Ceroc**](https://www.ceroc.com/) | Paid | N/A
   
 
 <br/><br/>

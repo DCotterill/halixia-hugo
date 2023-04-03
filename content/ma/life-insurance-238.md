@@ -13,9 +13,9 @@ Life insurance makes a huge difference to bereaved families. The loss of a partn
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [MoneySavingExpert.com](https://www.moneysavingexpert.com/insurance/cheap-life-insurance/#basics) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
-| [Moneyhelper](https://www.moneyhelper.org.uk/en/everyday-money/insurance/what-is-life-insurance) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
-| [Aviva](https://www.aviva.co.uk/insurance/life-products/life-insurance/vulnerable-to-financial-shock/) | Free/paid | [4.4](https://www.trustpilot.com/review/www.aviva.co.uk) | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/insurance/cheap-life-insurance/#basics) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
+| [**Moneyhelper**](https://www.moneyhelper.org.uk/en/everyday-money/insurance/what-is-life-insurance) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
+| [**Aviva**](https://www.aviva.co.uk/insurance/life-products/life-insurance/vulnerable-to-financial-shock/) | Free/paid | [4.4](https://www.trustpilot.com/review/www.aviva.co.uk) | 
   
 
 <br/><br/>

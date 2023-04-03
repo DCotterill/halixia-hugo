@@ -13,9 +13,9 @@ GetSetUp is an online community of people who want to learn new skills, connect 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [get set up](https://www.getsetup.io/) | Free/paid | [n/a](n/a) | 
-| [Centre of excellence](https://www.centreofexcellence.com/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
-| [Future Learn](https://www.futurelearn.com/) | Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
+| [**get set up**](https://www.getsetup.io/) | Free/paid | [n/a](n/a) | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
+| [**Future Learn**](https://www.futurelearn.com/) | Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
   
 
 <br/><br/>

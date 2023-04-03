@@ -13,9 +13,9 @@ Yoga is for everyone, whatever ability or disability, age, experience,  fitness 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Very well fit](https://www.verywellfit.com/top-health-benefits-of-yoga-3566733) | Free | N/A
-| [Yoga Basics](https://www.yogabasics.com/practice/yoga-for-beginners/#:~:text=After%20you%E2%80%99ve%20found%20a%20style%2C%20teacher%2C%20and%20yoga,study%20to%20learn%20more%20about%20yoga%20More%20items) | Free | N/A
-| [Yoga for everyone](https://yogaforeveryone.tv/) | Paid | N/A
+| [**Very well fit**](https://www.verywellfit.com/top-health-benefits-of-yoga-3566733) | Free | N/A
+| [**Yoga Basics**](https://www.yogabasics.com/practice/yoga-for-beginners/#:~:text=After%20you%E2%80%99ve%20found%20a%20style%2C%20teacher%2C%20and%20yoga,study%20to%20learn%20more%20about%20yoga%20More%20items) | Free | N/A
+| [**Yoga for everyone**](https://yogaforeveryone.tv/) | Paid | N/A
   
 
 <br/><br/>

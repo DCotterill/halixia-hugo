@@ -13,9 +13,9 @@ It's the perfect time to get active. No matter how much you do, physical activit
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [This Girl Can](https://www.thisgirlcan.co.uk/) | Free | N/A
-| [Active](https://www.active.com/fitness/articles/5-fun-activities-to-help-you-get-fit) | Free | [1.4](https://uk.trustpilot.com/review/active.com) | 
-| [The Studio by Jamie Kinkeade](https://www.youtube.com/watch?v=yN3GgCUmmXw) | Free | [1.6](https://uk.trustpilot.com/review/www.youtube.com) | 
+| [**This Girl Can**](https://www.thisgirlcan.co.uk/) | Free | N/A
+| [**Active**](https://www.active.com/fitness/articles/5-fun-activities-to-help-you-get-fit) | Free | [1.4](https://uk.trustpilot.com/review/active.com) | 
+| [**The Studio by Jamie Kinkeade**](https://www.youtube.com/watch?v=yN3GgCUmmXw) | Free | [1.6](https://uk.trustpilot.com/review/www.youtube.com) | 
   
 
 <br/><br/>

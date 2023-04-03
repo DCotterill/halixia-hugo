@@ -13,9 +13,9 @@ Supplementation is intended to bridge this nutritional gap, so that we maintain 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Healthspan](https://www.healthspan.co.uk/mens-health#t=Mens-Health-Products&numberOfResults=15) | Paid | [2.1](https://uk.trustpilot.com/review/www.healthspan.co.uk) | 
-| [AZ big media](https://azbigmedia.com/lifestyle/12-benefits-of-supplements-why-theyre-important/) | Free | N/A
-| [Healthline](https://www.healthline.com/nutrition/best-multivitamins-for-men) | Free | [1.5](https://uk.trustpilot.com/review/www.healthline.com) | 
+| [**Healthspan**](https://www.healthspan.co.uk/mens-health#t=Mens-Health-Products&numberOfResults=15) | Paid | [2.1](https://uk.trustpilot.com/review/www.healthspan.co.uk) | 
+| [**AZ big media**](https://azbigmedia.com/lifestyle/12-benefits-of-supplements-why-theyre-important/) | Free | N/A
+| [**Healthline**](https://www.healthline.com/nutrition/best-multivitamins-for-men) | Free | [1.5](https://uk.trustpilot.com/review/www.healthline.com) | 
   
 
 <br/><br/>

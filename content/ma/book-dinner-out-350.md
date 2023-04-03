@@ -13,9 +13,9 @@ By eating meals together we practice gratitude. While sharing and enjoying a tas
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Open Table](https://www.opentable.co.uk/about/?lang=en) | Paid | [1.7](https://uk.trustpilot.com/review/www.opentable.co.uk) | 
-| [Families online](https://www.familiesonline.co.uk/local-eating-out) | Free | [3.2](https://uk.trustpilot.com/review/www.familiesonline.co.uk) | 
-| [Stanctos](https://www.stancatos.com/family-bonding-and-eating-out/) | Free | N/A
+| [**Open Table**](https://www.opentable.co.uk/about/?lang=en) | Paid | [1.7](https://uk.trustpilot.com/review/www.opentable.co.uk) | 
+| [**Families online**](https://www.familiesonline.co.uk/local-eating-out) | Free | [3.2](https://uk.trustpilot.com/review/www.familiesonline.co.uk) | 
+| [**Stanctos**](https://www.stancatos.com/family-bonding-and-eating-out/) | Free | N/A
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ We are social beings, and interacting with people is in our nature. But it also 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [U3A](https://www.u3a.org.uk/about) | Free | N/A
-| [Volunteering matters](https://volunteeringmatters.org.uk/pillars/older-people/) | Free | N/A
-| [Royal Voluntary Service](https://www.royalvoluntaryservice.org.uk/volunteering/) | Free | N/A
+| [**U3A**](https://www.u3a.org.uk/about) | Free | N/A
+| [**Volunteering matters**](https://volunteeringmatters.org.uk/pillars/older-people/) | Free | N/A
+| [**Royal Voluntary Service**](https://www.royalvoluntaryservice.org.uk/volunteering/) | Free | N/A
   
 
 <br/><br/>

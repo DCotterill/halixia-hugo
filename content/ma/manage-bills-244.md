@@ -13,9 +13,9 @@ Building good money habits and making simple savings on everyday spending helps 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [HSBC](https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-manage-bills/) | Free/paid | [1.4](https://www.trustpilot.com/review/www.hsbc.co.uk) | 
-| [MoneySavingExpert.com](https://www.moneysavingexpert.com/family/money-help/) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
-| [UK Government](https://helpforhouseholds.campaign.gov.uk/) | Free | [n/a](n/a) | 
+| [**HSBC**](https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-manage-bills/) | Free/paid | [1.4](https://www.trustpilot.com/review/www.hsbc.co.uk) | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/family/money-help/) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
+| [**UK Government**](https://helpforhouseholds.campaign.gov.uk/) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ Learning languages improves memory, increases attention span and strengthens bot
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Rocket Language](https://www.rocketlanguages.com/blog/what-language-should-I-learn-learning-type) | Paid | [3.5](https://www.trustpilot.com/review/rocketlanguages.com) | 
-| [Babbel](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | [3.8](https://www.trustpilot.com/review/babbel.com) | 
-| [Go Overseas](https://www.gooverseas.com/blog/best-languages-learn) | Free | [2.6](https://www.trustpilot.com/review/gooverseas.com) | 
+| [**Rocket Language**](https://www.rocketlanguages.com/blog/what-language-should-I-learn-learning-type) | Paid | [3.5](https://www.trustpilot.com/review/rocketlanguages.com) | 
+| [**Babbel**](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | [3.8](https://www.trustpilot.com/review/babbel.com) | 
+| [**Go Overseas**](https://www.gooverseas.com/blog/best-languages-learn) | Free | [2.6](https://www.trustpilot.com/review/gooverseas.com) | 
   
 
 <br/><br/>

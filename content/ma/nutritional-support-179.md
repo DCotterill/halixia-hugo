@@ -13,9 +13,9 @@ Good nutrition is getting the right amount of nutrients in the right combination
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [British Nutrition Foundation](https://www.nutrition.org.uk/life-stages/older-people/) | Free | N/A
-| [Active health](https://www.activehealth.sg/read/nutrition/what-is-good-nutrition-and-why-is-it-important) | Free | N/A
-| [Nutritional meal plans](https://nutritionmealplans.com/) | Free | N/A
+| [**British Nutrition Foundation**](https://www.nutrition.org.uk/life-stages/older-people/) | Free | N/A
+| [**Active health**](https://www.activehealth.sg/read/nutrition/what-is-good-nutrition-and-why-is-it-important) | Free | N/A
+| [**Nutritional meal plans**](https://nutritionmealplans.com/) | Free | N/A
   
 
 <br/><br/>

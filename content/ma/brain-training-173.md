@@ -13,9 +13,9 @@ Brain training turns inactive brain cells into healthy, active ones. The more yo
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Lumosity](https://www.lumosity.com/en/) | Free | [2.2](https://uk.trustpilot.com/review/www.lumosity.com) | 
-| [Braingymer](https://www.braingymmer.com/en/brain-games/) | Free | N/A
-| [Elevate](https://elevateapp.com) | Free/paid | N/A
+| [**Lumosity**](https://www.lumosity.com/en/) | Free | [2.2](https://uk.trustpilot.com/review/www.lumosity.com) | 
+| [**Braingymer**](https://www.braingymmer.com/en/brain-games/) | Free | N/A
+| [**Elevate**](https://elevateapp.com) | Free/paid | N/A
   
 
 <br/><br/>

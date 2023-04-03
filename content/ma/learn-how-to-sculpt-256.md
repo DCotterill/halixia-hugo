@@ -13,9 +13,9 @@ So get creative and use sculpture as a way to take your mind off the world's pro
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [LearnSculpture](https://learnsculpture.org/) | Free | [n/a](n/a) | 
-| [Tutorials Press](https://tutorialspress.com/useful-sculpting-tutorials/) | Free | [n/a](n/a) | 
-| [Udemy](https://www.udemy.com/course/easily-learn-sculpture-and-modeling-in-clay/) | Paid | [2](https://uk.trustpilot.com/review/udemy.com) | 
+| [**LearnSculpture**](https://learnsculpture.org/) | Free | [n/a](n/a) | 
+| [**Tutorials Press**](https://tutorialspress.com/useful-sculpting-tutorials/) | Free | [n/a](n/a) | 
+| [**Udemy**](https://www.udemy.com/course/easily-learn-sculpture-and-modeling-in-clay/) | Paid | [2](https://uk.trustpilot.com/review/udemy.com) | 
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ In an increasingly digital world it's great when everyone benefits from technolo
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Online Centre Network](https://www.onlinecentresnetwork.org/) | Free | [n/a](n/a) | 
-| [Age UK](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/) | Free | [1.6](https://www.trustpilot.com/review/ageuk.co.uk) | 
-| [Barclays](https://digital.wings.uk.barclays/) | Free | [1.4](https://www.trustpilot.com/review/www.barclays.co.uk) | 
+| [**Online Centre Network**](https://www.onlinecentresnetwork.org/) | Free | [n/a](n/a) | 
+| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/) | Free | [1.6](https://www.trustpilot.com/review/ageuk.co.uk) | 
+| [**Barclays**](https://digital.wings.uk.barclays/) | Free | [1.4](https://www.trustpilot.com/review/www.barclays.co.uk) | 
   
 
 <br/><br/>

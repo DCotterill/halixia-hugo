@@ -13,9 +13,9 @@ It’s a simple way to manage your day-to-day expenses without worrying you'll r
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Your Money Sorted](https://www.yourmoneysorted.co.uk/blog/bills-account-simplest-way-budgeting-ever) | Free/Paid | [n/a](n/a) | 
-| [MoneySavingExpert.com](https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
-| [MoneyHelper](https://www.moneyhelper.org.uk/en/everyday-money/budgeting/managing-your-money-using-the-jam-jar-approach) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
+| [**Your Money Sorted**](https://www.yourmoneysorted.co.uk/blog/bills-account-simplest-way-budgeting-ever) | Free/Paid | [n/a](n/a) | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
+| [**MoneyHelper**](https://www.moneyhelper.org.uk/en/everyday-money/budgeting/managing-your-money-using-the-jam-jar-approach) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
   
 
 <br/><br/>

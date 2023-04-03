@@ -15,9 +15,9 @@ Social media can pave a good way for networking with people far and wide. You ca
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Age UK](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/using-social-media/) | Free | [1.6](https://uk.trustpilot.com/review/ageuk.co.uk) | 
-| [NCSC](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely) | Free | [3.2](https://uk.trustpilot.com/review/www.ncsc.gov.uk) | 
-| [Smart Social](https://smartsocial.com/post/using-social-media-responsibly) | Free | N/A
+| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/using-social-media/) | Free | [1.6](https://uk.trustpilot.com/review/ageuk.co.uk) | 
+| [**NCSC**](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely) | Free | [3.2](https://uk.trustpilot.com/review/www.ncsc.gov.uk) | 
+| [**Smart Social**](https://smartsocial.com/post/using-social-media-responsibly) | Free | N/A
   
 
 <br/><br/>

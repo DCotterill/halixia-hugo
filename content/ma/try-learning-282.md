@@ -13,9 +13,9 @@ Online learning can be a modern and innovative way to keep learning, but we migh
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [OpenLearn](https://www.open.edu/openlearn/) | Free | [2.8](https://www.trustpilot.com/review/www.open.ac.uk) | 
-| [Future Learn](https://www.futurelearn.com/) | Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
-| [Centre of Excellence](https://www.centreofexcellence.com) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
+| [**OpenLearn**](https://www.open.edu/openlearn/) | Free | [2.8](https://www.trustpilot.com/review/www.open.ac.uk) | 
+| [**Future Learn**](https://www.futurelearn.com/) | Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
+| [**Centre of Excellence**](https://www.centreofexcellence.com) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
   
 
 <br/><br/>

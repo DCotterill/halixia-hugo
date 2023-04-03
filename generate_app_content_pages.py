@@ -61,19 +61,19 @@ with open('resources/MA Database 170323 for upload.csv'
 
             content_pages[internal_name]["internal-name"] = internal_name
 
-            content_pages[internal_name]["primary-links"] = "[" + primary_link_name_1 + "]" + \
+            content_pages[internal_name]["primary-links"] = "[**" + primary_link_name_1 + "**]" + \
                                                             "(" + primary_link_1 + ")" + \
                                                             '\n\nOther Providers\n\n' + \
-                                                            "[" + primary_link_name_2 + "]" + \
+                                                            "[**" + primary_link_name_2 + "**]" + \
                                                             "(" + primary_link_2 + ")" + \
                                                             '\n\n' + \
-                                                            "[" + primary_link_name_3 + "]" + \
+                                                            "[**" + primary_link_name_3 + "**]" + \
                                                             "(" + primary_link_3 + ")"
 
             def build_primary_link_row (link_name, link, paid_free, tp_rating, tp_link):
                 line = ""
                 if link_name:
-                    line = line + "| [" + link_name + "](" + link + ") | "
+                    line = line + "| [**" + link_name + "**](" + link + ") | "
                     line = line + paid_free + " | "
                     if tp_rating == "N/A":
                         line = line + tp_rating + "\n"

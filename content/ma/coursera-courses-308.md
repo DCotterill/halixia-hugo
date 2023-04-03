@@ -13,9 +13,9 @@ Coursera is one of the most popular online learning platforms with a huge range 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Coursera](https://www.coursera.org/) | Free/paid | [1.6](https://uk.trustpilot.com/review/coursera.org) | 
-| [Upskillwise](https://upskillwise.com/online-learning-platforms/) | Free | [n/a](n/a) | 
-| [Masterclass](https://www.masterclass.com/) | Paid | [2.6](https://www.trustpilot.com/review/masterclass.com) | 
+| [**Coursera**](https://www.coursera.org/) | Free/paid | [1.6](https://uk.trustpilot.com/review/coursera.org) | 
+| [**Upskillwise**](https://upskillwise.com/online-learning-platforms/) | Free | [n/a](n/a) | 
+| [**Masterclass**](https://www.masterclass.com/) | Paid | [2.6](https://www.trustpilot.com/review/masterclass.com) | 
   
 
 <br/><br/>

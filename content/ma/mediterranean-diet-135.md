@@ -13,9 +13,9 @@ Rich in flavourful ingredients like fruits, vegetables, wholegrains, and heart-h
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Noom](https://www.noom.com/blog/the-mediterranean-diet/) | Free | [4.2](https://uk.trustpilot.com/review/noom.com) | 
-| [BBC](https://www.bbc.co.uk/food/collections/mediterranean_diet_recipes) | Free | [1.4](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
-| [Fitonapp](https://fitonapp.com/nutrition/foods-to-eat-on-the-mediterranean-diet/) | Free | N/A
+| [**Noom**](https://www.noom.com/blog/the-mediterranean-diet/) | Free | [4.2](https://uk.trustpilot.com/review/noom.com) | 
+| [**BBC**](https://www.bbc.co.uk/food/collections/mediterranean_diet_recipes) | Free | [1.4](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
+| [**Fitonapp**](https://fitonapp.com/nutrition/foods-to-eat-on-the-mediterranean-diet/) | Free | N/A
   
 
 <br/><br/>

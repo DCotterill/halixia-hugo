@@ -13,9 +13,9 @@ Health checks often focus on preventative health, helping to detect problems in 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Bluecrestwellness](https://www.bluecrestwellness.com/health-checks) | Paid | [4.3](https://uk.trustpilot.com/review/bluecrestwellness.com) | 
-| [Bupa](https://www.bupa.co.uk/health/health-assessments/compare-health-assessments) | Paid | [4.2](https://uk.trustpilot.com/review/bupa.co.uk) | 
-| [Circle health group](https://www.circlehealthgroup.co.uk/treatments/health-assessments--advanced) | Paid | [3.5](https://uk.trustpilot.com/review/www.circlehealthgroup.co.uk) | 
+| [**Bluecrestwellness**](https://www.bluecrestwellness.com/health-checks) | Paid | [4.3](https://uk.trustpilot.com/review/bluecrestwellness.com) | 
+| [**Bupa**](https://www.bupa.co.uk/health/health-assessments/compare-health-assessments) | Paid | [4.2](https://uk.trustpilot.com/review/bupa.co.uk) | 
+| [**Circle health group**](https://www.circlehealthgroup.co.uk/treatments/health-assessments--advanced) | Paid | [3.5](https://uk.trustpilot.com/review/www.circlehealthgroup.co.uk) | 
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ The Open University is expert in distance learning and online courses its helped
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Open University](https://www.open.ac.uk) | Paid | [2.8](https://uk.trustpilot.com/review/www.open.ac.uk) | 
-| [Video lectures](http://videolectures.net/Top/) | Free | [n/a](n/a) | 
-| [OpenLearn](https://www.open.edu/openlearn/) | Free | [2.8](https://www.trustpilot.com/review/www.open.ac.uk) | 
+| [**Open University**](https://www.open.ac.uk) | Paid | [2.8](https://uk.trustpilot.com/review/www.open.ac.uk) | 
+| [**Video lectures**](http://videolectures.net/Top/) | Free | [n/a](n/a) | 
+| [**OpenLearn**](https://www.open.edu/openlearn/) | Free | [2.8](https://www.trustpilot.com/review/www.open.ac.uk) | 
   
 
 <br/><br/>

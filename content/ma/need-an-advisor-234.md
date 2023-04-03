@@ -13,7 +13,7 @@ Feeling in control of both your day-to-day finances and long-term goals can have
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Which?](https://www.which.co.uk/money/investing/financial-advice/how-to-find-a-financial-adviser-affjl6z26bl4) | Free | [1.6](https://www.trustpilot.com/review/www.which.co.uk) | 
+| [**Which?**](https://www.which.co.uk/money/investing/financial-advice/how-to-find-a-financial-adviser-affjl6z26bl4) | Free | [1.6](https://www.trustpilot.com/review/www.which.co.uk) | 
   
 
 <br/><br/>

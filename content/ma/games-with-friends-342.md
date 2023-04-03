@@ -13,9 +13,9 @@ Is there anything more enjoyable than playing games with friends? Not only is it
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [skribbl](https://skribbl.io/) | Free | N/A
-| [Uno](https://www.letsplayuno.com/) | Free | N/A
-| [Among us](https://www.innersloth.com/games/among-us/) | Free | [2.7](https://uk.trustpilot.com/review/innersloth.com) | 
+| [**skribbl**](https://skribbl.io/) | Free | N/A
+| [**Uno**](https://www.letsplayuno.com/) | Free | N/A
+| [**Among us**](https://www.innersloth.com/games/among-us/) | Free | [2.7](https://uk.trustpilot.com/review/innersloth.com) | 
   
 
 <br/><br/>

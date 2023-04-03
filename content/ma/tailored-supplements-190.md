@@ -13,9 +13,9 @@ Supplementation is intended to bridge this nutritional gap, so that we maintain 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Healthspan](https://www.healthspan.co.uk/over-50s-health#t=Over-50s-Health-Products&numberOfResults=15) | Paid | [2.1](https://uk.trustpilot.com/review/www.healthspan.co.uk) | 
-| [AZ big media](https://azbigmedia.com/lifestyle/12-benefits-of-supplements-why-theyre-important/) | Free | N/A
-| [Eat this](https://www.eatthis.com/best-supplements-for-people-over-50/) | Free | N/A
+| [**Healthspan**](https://www.healthspan.co.uk/over-50s-health#t=Over-50s-Health-Products&numberOfResults=15) | Paid | [2.1](https://uk.trustpilot.com/review/www.healthspan.co.uk) | 
+| [**AZ big media**](https://azbigmedia.com/lifestyle/12-benefits-of-supplements-why-theyre-important/) | Free | N/A
+| [**Eat this**](https://www.eatthis.com/best-supplements-for-people-over-50/) | Free | N/A
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ Supplementation is intended to bridge this nutritional gap, so that we maintain 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Healthspan](https://www.healthspan.co.uk/womens-health#t=Womens-Health-Products&numberOfResults=15) | Paid | [1.9](https://uk.trustpilot.com/review/strava.com) | 
-| [AZ big media](https://azbigmedia.com/lifestyle/12-benefits-of-supplements-why-theyre-important/) | Free | N/A
-| [Very well](https://www.verywellfit.com/best-supplements-for-women-4171317) | Free | [3.5](https://uk.trustpilot.com/review/www.verywellfit.com) | 
+| [**Healthspan**](https://www.healthspan.co.uk/womens-health#t=Womens-Health-Products&numberOfResults=15) | Paid | [1.9](https://uk.trustpilot.com/review/strava.com) | 
+| [**AZ big media**](https://azbigmedia.com/lifestyle/12-benefits-of-supplements-why-theyre-important/) | Free | N/A
+| [**Very well**](https://www.verywellfit.com/best-supplements-for-women-4171317) | Free | [3.5](https://uk.trustpilot.com/review/www.verywellfit.com) | 
   
 
 <br/><br/>

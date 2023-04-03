@@ -13,9 +13,9 @@ Online learning can be a modern and innovative way to keep learning. As adults, 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Upskillwise](https://upskillwise.com/online-learning-platforms/) | Free | [n/a](n/a) | 
-| [Coursera](https://www.coursera.org/) | Paid | [1.6](https://uk.trustpilot.com/review/coursera.org) | 
-| [Masterclass](https://www.masterclass.com/) | Paid | [2.6](https://www.trustpilot.com/review/masterclass.com) | 
+| [**Upskillwise**](https://upskillwise.com/online-learning-platforms/) | Free | [n/a](n/a) | 
+| [**Coursera**](https://www.coursera.org/) | Paid | [1.6](https://uk.trustpilot.com/review/coursera.org) | 
+| [**Masterclass**](https://www.masterclass.com/) | Paid | [2.6](https://www.trustpilot.com/review/masterclass.com) | 
   
 
 <br/><br/>

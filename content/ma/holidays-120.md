@@ -13,9 +13,9 @@ Taking holidays can be a great chance to escape your daily routine and see new p
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Age UK](https://www.ageuk.org.uk/information-advice/travel-hobbies/accessible-holidays/free-days-out-around-the-uk/) | Free | N/A
-| [Leisure care](https://www.leisurecare.com/resources/benefits-senior-travel/) | Free | N/A
-| [Tourism for all](https://www.tourismforall.co.uk/) | Paid | N/A
+| [**Age UK**](https://www.ageuk.org.uk/information-advice/travel-hobbies/accessible-holidays/free-days-out-around-the-uk/) | Free | N/A
+| [**Leisure care**](https://www.leisurecare.com/resources/benefits-senior-travel/) | Free | N/A
+| [**Tourism for all**](https://www.tourismforall.co.uk/) | Paid | N/A
   
 
 <br/><br/>

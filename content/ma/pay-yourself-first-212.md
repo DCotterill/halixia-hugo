@@ -13,9 +13,9 @@ According to research up to a third of adults have none or less than £1,000 in 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Monzo](https://monzo.com/blog/2019/06/28/pay-yourself-first-how-to-save-money) | Free/paid | [4.3](https://www.trustpilot.com/review/www.monzo.com) | 
-| [MoneyHelper](https://www.moneyhelper.org.uk/en/savings/how-to-save/getting-into-the-savings-habit) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
-| [MoneySavingExpert.com](https://www.moneysavingexpert.com/savings/best-regular-savings-accounts/) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
+| [**Monzo**](https://monzo.com/blog/2019/06/28/pay-yourself-first-how-to-save-money) | Free/paid | [4.3](https://www.trustpilot.com/review/www.monzo.com) | 
+| [**MoneyHelper**](https://www.moneyhelper.org.uk/en/savings/how-to-save/getting-into-the-savings-habit) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/savings/best-regular-savings-accounts/) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
   
 
 <br/><br/>

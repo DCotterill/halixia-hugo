@@ -13,7 +13,7 @@ In the current climate more than one stream of income can help you spread your b
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [MoneySavingExpert.com](https://www.moneysavingexpert.com/family/boost-your-income/) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/family/boost-your-income/) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ When facing a mental health issue, it's normal to feel alone or afraid to ask fo
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Mind](https://www.mind.org.uk/information-support/drugs-and-treatments/peer-support/about-peer-support/) | Free | [2.6](https://uk.trustpilot.com/review/www.mind.org.uk) | 
-| [Mental Health](https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/peer-support) | Free | N/A
-| [NHS](https://www.england.nhs.uk/personalisedcare/supported-self-management/peer-support/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
+| [**Mind**](https://www.mind.org.uk/information-support/drugs-and-treatments/peer-support/about-peer-support/) | Free | [2.6](https://uk.trustpilot.com/review/www.mind.org.uk) | 
+| [**Mental Health**](https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/peer-support) | Free | N/A
+| [**NHS**](https://www.england.nhs.uk/personalisedcare/supported-self-management/peer-support/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
   
 
 <br/><br/>

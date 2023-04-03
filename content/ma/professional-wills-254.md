@@ -13,9 +13,9 @@ Financial wellbeing put simply is all about building a good relationship with mo
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Law Society](https://solicitors.lawsociety.org.uk/search/results?UmbrellaLegalIssue=LIUPCW&Pro=False) | Free | [1.7](https://www.trustpilot.com/review/www.lawsociety.org.uk) | 
-| [SOLLA](https://societyoflaterlifeadvisers.co.uk/) | Free | [n/a](n/a) | 
-| [UK Government](https://www.gov.uk/make-will) | Free | [n/a](n/a) | 
+| [**Law Society**](https://solicitors.lawsociety.org.uk/search/results?UmbrellaLegalIssue=LIUPCW&Pro=False) | Free | [1.7](https://www.trustpilot.com/review/www.lawsociety.org.uk) | 
+| [**SOLLA**](https://societyoflaterlifeadvisers.co.uk/) | Free | [n/a](n/a) | 
+| [**UK Government**](https://www.gov.uk/make-will) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ Research from insurer Canada Life in 2020 revealed three in five of UK adults ha
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Farewill](https://farewill.com/) | Paid | [4.9](https://www.trustpilot.com/review/farewill.com) | 
-| [MoneySavingExpert.com](https://www.moneysavingexpert.com/family/free-cheap-wills/) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
-| [Law Society](https://solicitors.lawsociety.org.uk/search/results?UmbrellaLegalIssue=LIUPCW&Pro=False) | Free | [1.7](https://www.trustpilot.com/review/www.lawsociety.org.uk) | 
+| [**Farewill**](https://farewill.com/) | Paid | [4.9](https://www.trustpilot.com/review/farewill.com) | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/family/free-cheap-wills/) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
+| [**Law Society**](https://solicitors.lawsociety.org.uk/search/results?UmbrellaLegalIssue=LIUPCW&Pro=False) | Free | [1.7](https://www.trustpilot.com/review/www.lawsociety.org.uk) | 
   
 
 <br/><br/>

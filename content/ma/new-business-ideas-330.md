@@ -13,9 +13,9 @@ As you get older finding meaningful work that works flexibly can be difficult, d
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Due](https://due.com/blog/10-retirement-friendly-business-ideas-for-the-over-50s/) | Free | [3.2](https://www.trustpilot.com/review/due.com) | 
-| [Futurelearn](https://www.futurelearn.com/courses/starting-a-business-1) | Free/Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
-| [Centre of excellence](https://www.centreofexcellence.com/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
+| [**Due**](https://due.com/blog/10-retirement-friendly-business-ideas-for-the-over-50s/) | Free | [3.2](https://www.trustpilot.com/review/due.com) | 
+| [**Futurelearn**](https://www.futurelearn.com/courses/starting-a-business-1) | Free/Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
   
 
 <br/><br/>

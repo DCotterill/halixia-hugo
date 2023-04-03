@@ -13,9 +13,9 @@ Starting to become more active can be daunting, especially if you are managing a
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [We are undefeatable](https://weareundefeatable.co.uk/ways-to-move) | Free | N/A
-| [My living well](https://mylivingwell.co.uk/physical-activity/exercising-with-long-term-health-conditions) | Free | N/A
-| [CSP](https://www.csp.org.uk/public-patient/keeping-active-healthy/love-activity-hate-exercise-campaign/being-active-long-term) | Free | N/A
+| [**We are undefeatable**](https://weareundefeatable.co.uk/ways-to-move) | Free | N/A
+| [**My living well**](https://mylivingwell.co.uk/physical-activity/exercising-with-long-term-health-conditions) | Free | N/A
+| [**CSP**](https://www.csp.org.uk/public-patient/keeping-active-healthy/love-activity-hate-exercise-campaign/being-active-long-term) | Free | N/A
   
 
 <br/><br/>

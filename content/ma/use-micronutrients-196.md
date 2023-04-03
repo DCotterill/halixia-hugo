@@ -13,9 +13,9 @@ Micronutrients, often referred to as vitamins and minerals, are vital to healthy
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Huberman lab](https://hubermanlab.com/dr-rhonda-patrick-micronutrients-for-health-and-longevity/) | Free | N/A
-| [Diets meal plan](https://www.dietsmealplan.com/micronutrient/) | Free | N/A
-| [Super healthy foods](https://thesuperhealthyfood.com/micronutrient-diet-plan-for-weight-loss/) | Free | N/A
+| [**Huberman lab**](https://hubermanlab.com/dr-rhonda-patrick-micronutrients-for-health-and-longevity/) | Free | N/A
+| [**Diets meal plan**](https://www.dietsmealplan.com/micronutrient/) | Free | N/A
+| [**Super healthy foods**](https://thesuperhealthyfood.com/micronutrient-diet-plan-for-weight-loss/) | Free | N/A
   
 
 <br/><br/>

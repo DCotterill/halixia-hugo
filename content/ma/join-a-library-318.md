@@ -13,9 +13,9 @@ A public library is the biggest treasure known to local communities. It's always
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [UK Government](https://www.gov.uk/local-library-services) | Free | [n/a](n/a) | 
-| [Your Story](https://yourstory.com/mystory/10-benefits-of-joining-your-local-library?utm_pageloadtype=scroll) | Free | [n/a](n/a) | 
-| [Nalitabali](https://nalitabali.medium.com/tips-on-how-to-start-your-reading-journey-e66a9e61fe0d) | Free | [n/a](n/a) | 
+| [**UK Government**](https://www.gov.uk/local-library-services) | Free | [n/a](n/a) | 
+| [**Your Story**](https://yourstory.com/mystory/10-benefits-of-joining-your-local-library?utm_pageloadtype=scroll) | Free | [n/a](n/a) | 
+| [**Nalitabali**](https://nalitabali.medium.com/tips-on-how-to-start-your-reading-journey-e66a9e61fe0d) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

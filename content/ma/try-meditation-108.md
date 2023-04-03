@@ -13,9 +13,9 @@ Apart from enhancing your happiness and improving your overall well-being, medit
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Tara brach](https://www.tarabrach.com/guided-meditations/) | Free | N/A
-| [The heart of meditation](https://theartofmeditation.org/meditation-courses) | Paid | N/A
-| [Yoga journal](https://www.yogajournal.com/meditation/best-free-online-guided-meditations-for-beginners/) | Paid | [2.9](https://uk.trustpilot.com/review/yogajournal.com) | 
+| [**Tara brach**](https://www.tarabrach.com/guided-meditations/) | Free | N/A
+| [**The heart of meditation**](https://theartofmeditation.org/meditation-courses) | Paid | N/A
+| [**Yoga journal**](https://www.yogajournal.com/meditation/best-free-online-guided-meditations-for-beginners/) | Paid | [2.9](https://uk.trustpilot.com/review/yogajournal.com) | 
   
 
 <br/><br/>

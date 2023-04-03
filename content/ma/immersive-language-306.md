@@ -13,9 +13,9 @@ Learning a language improves memory, increases attention span and strengthens bo
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [cactus language](https://www.cactuslanguage.com/adults/courses/50-plus/) | Paid | [n/a](n/a) | 
-| [Memrise](https://www.memrise.com/) | Paid | [3](https://www.trustpilot.com/review/www.memrise.com) | 
-| [Findcourses.co.uk](https://www.findcourses.co.uk/search/language-training-courses) | Paid | [3.7](https://www.trustpilot.com/review/www.findcourses.co.uk) | 
+| [**cactus language**](https://www.cactuslanguage.com/adults/courses/50-plus/) | Paid | [n/a](n/a) | 
+| [**Memrise**](https://www.memrise.com/) | Paid | [3](https://www.trustpilot.com/review/www.memrise.com) | 
+| [**Findcourses.co.uk**](https://www.findcourses.co.uk/search/language-training-courses) | Paid | [3.7](https://www.trustpilot.com/review/www.findcourses.co.uk) | 
   
 
 <br/><br/>

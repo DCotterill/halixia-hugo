@@ -13,9 +13,9 @@ Savings platforms offer you the opportunity to manage your savings all in one pl
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Which?](https://www.which.co.uk/money/savings-and-isas/savings-accounts/what-is-a-savings-platform-ah9112x13r8n) | Free/paid | [1.6](https://www.trustpilot.com/review/www.which.co.uk) | 
-| [Money to the Masses](https://moneytothemasses.com/saving-for-your-future/investing/best-savings-platforms) | Free | [n/a](n/a) | 
-| [Koody](https://www.koody.co/saving/best-money-saving-apps-uk) | Free/paid | [n/a](n/a) | 
+| [**Which?**](https://www.which.co.uk/money/savings-and-isas/savings-accounts/what-is-a-savings-platform-ah9112x13r8n) | Free/paid | [1.6](https://www.trustpilot.com/review/www.which.co.uk) | 
+| [**Money to the Masses**](https://moneytothemasses.com/saving-for-your-future/investing/best-savings-platforms) | Free | [n/a](n/a) | 
+| [**Koody**](https://www.koody.co/saving/best-money-saving-apps-uk) | Free/paid | [n/a](n/a) | 
   
 
 <br/><br/>

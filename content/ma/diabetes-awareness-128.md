@@ -13,9 +13,9 @@ One in ten people over 40 in the UK are now living with type 2 diabetes, thats t
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Diabetes UK](https://www.diabetes.org.uk/) | Free | N/A
-| [NHS](https://www.stopdiabetes.co.uk/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
-| [Medical News today](https://www.medicalnewstoday.com/articles/318277#1-200-calorie-plan) | Free | [2](https://uk.trustpilot.com/review/www.medicalnewstoday.com) | 
+| [**Diabetes UK**](https://www.diabetes.org.uk/) | Free | N/A
+| [**NHS**](https://www.stopdiabetes.co.uk/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
+| [**Medical News today**](https://www.medicalnewstoday.com/articles/318277#1-200-calorie-plan) | Free | [2](https://uk.trustpilot.com/review/www.medicalnewstoday.com) | 
   
 
 <br/><br/>

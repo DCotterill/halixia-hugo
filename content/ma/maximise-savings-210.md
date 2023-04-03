@@ -13,9 +13,9 @@ Since 2016, the personal savings allowance sets an amount of savings interest yo
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [MoneyHelper](https://www.moneyhelper.org.uk/en/savings/types-of-savings/isas-and-other-tax-efficient-ways-to-save-or-invest) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
-| [Which?](https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5) | Free/paid | [1.6](https://www.trustpilot.com/review/www.which.co.uk) | 
-| [MoneySavingExpert.com](https://www.moneysavingexpert.com/savings/personal-savings-allowance/) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
+| [**MoneyHelper**](https://www.moneyhelper.org.uk/en/savings/types-of-savings/isas-and-other-tax-efficient-ways-to-save-or-invest) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
+| [**Which?**](https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5) | Free/paid | [1.6](https://www.trustpilot.com/review/www.which.co.uk) | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/savings/personal-savings-allowance/) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
   
 
 <br/><br/>

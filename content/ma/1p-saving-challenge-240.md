@@ -13,9 +13,9 @@ According to research up to a third of adults have none or less than £1,000 in 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Skint Dad](https://skintdad.co.uk/skint-52-week-saving-challenge/) | Free | [n/a](n/a) | 
-| [MoneyHelper](https://www.moneyhelper.org.uk/en/savings/how-to-save/getting-into-the-savings-habit) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
-| [Money to the masses](https://moneytothemasses.com/banking/best-savings-apps-in-the-uk-how-to-save-money-using-your-smartphone) | Free | [n/a](n/a) | 
+| [**Skint Dad**](https://skintdad.co.uk/skint-52-week-saving-challenge/) | Free | [n/a](n/a) | 
+| [**MoneyHelper**](https://www.moneyhelper.org.uk/en/savings/how-to-save/getting-into-the-savings-habit) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
+| [**Money to the masses**](https://moneytothemasses.com/banking/best-savings-apps-in-the-uk-how-to-save-money-using-your-smartphone) | Free | [n/a](n/a) | 
   
 
 <br/><br/>

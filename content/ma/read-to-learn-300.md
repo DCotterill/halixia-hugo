@@ -13,9 +13,9 @@ Learning a language improves memory, increases attention span and strengthens bo
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Beelinguapp](https://beelinguapp.com/) | Free/paid | [3.1](https://www.trustpilot.com/review/beelinguapp.com) | 
-| [Babbel](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | [3.8](https://www.trustpilot.com/review/babbel.com) | 
-| [Alison](https://alison.com/courses/language) | Free/paid | [4.6](https://www.trustpilot.com/review/alison.com) | 
+| [**Beelinguapp**](https://beelinguapp.com/) | Free/paid | [3.1](https://www.trustpilot.com/review/beelinguapp.com) | 
+| [**Babbel**](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | [3.8](https://www.trustpilot.com/review/babbel.com) | 
+| [**Alison**](https://alison.com/courses/language) | Free/paid | [4.6](https://www.trustpilot.com/review/alison.com) | 
   
 
 <br/><br/>

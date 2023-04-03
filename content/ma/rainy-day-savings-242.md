@@ -13,9 +13,9 @@ According to research up to a third of adults have none or less than £1,000 in 
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Skint Dad](https://skintdad.co.uk/start-an-emergency-fund/) | Free | [n/a](n/a) | 
-| [MoneyHelper](https://www.moneyhelper.org.uk/en/savings/how-to-save/getting-into-the-savings-habit) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
-| [MoneySavingExpert.com](https://www.moneysavingexpert.com/savings/savings-accounts-best-interest/#easyaccess) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
+| [**Skint Dad**](https://skintdad.co.uk/start-an-emergency-fund/) | Free | [n/a](n/a) | 
+| [**MoneyHelper**](https://www.moneyhelper.org.uk/en/savings/how-to-save/getting-into-the-savings-habit) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/savings/savings-accounts-best-interest/#easyaccess) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
   
 
 <br/><br/>

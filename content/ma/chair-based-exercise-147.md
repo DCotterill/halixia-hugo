@@ -13,9 +13,9 @@ As we age we tend to lose muscle and keeping our muscles strong is vital, to pre
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Move it or lose it](https://www.moveitorloseit.co.uk/chair-based-exercises/) | Free | N/A
-| [NHS](https://www.nhs.uk/live-well/exercise/strength-and-flexibility-exercises/sitting-exercises/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
-| [NHS](https://www.nhs.uk/conditions/nhs-fitness-studio/chair-based-pilates-exercise-video/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
+| [**Move it or lose it**](https://www.moveitorloseit.co.uk/chair-based-exercises/) | Free | N/A
+| [**NHS**](https://www.nhs.uk/live-well/exercise/strength-and-flexibility-exercises/sitting-exercises/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
+| [**NHS**](https://www.nhs.uk/conditions/nhs-fitness-studio/chair-based-pilates-exercise-video/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
   
 
 <br/><br/>

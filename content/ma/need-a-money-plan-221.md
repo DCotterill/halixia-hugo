@@ -13,9 +13,9 @@ In 2022 the gender pay gap reached 8.3% in 2022, meaning women in the UK take ho
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Money Nuggets](https://www.moneynuggets.co.uk/) | Free | [n/a](n/a) | 
-| [Unbiased](https://www.unbiased.co.uk/discover/personal-finance/budgeting/financial-planning-for-women-what-s-stopping-women-from-managing-their-own-finances) | Free | [4.1](https://www.trustpilot.com/review/www.unbiased.co.uk) | 
-| [Feedspot](https://blog.feedspot.com/uk_women_financial_blogs/) | Free | [4.1](https://www.trustpilot.com/review/feedspot.com) | 
+| [**Money Nuggets**](https://www.moneynuggets.co.uk/) | Free | [n/a](n/a) | 
+| [**Unbiased**](https://www.unbiased.co.uk/discover/personal-finance/budgeting/financial-planning-for-women-what-s-stopping-women-from-managing-their-own-finances) | Free | [4.1](https://www.trustpilot.com/review/www.unbiased.co.uk) | 
+| [**Feedspot**](https://blog.feedspot.com/uk_women_financial_blogs/) | Free | [4.1](https://www.trustpilot.com/review/feedspot.com) | 
   
 
 <br/><br/>

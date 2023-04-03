@@ -13,9 +13,9 @@ If you've not discovered them yet, podcasts are a great learning tool. You can l
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Wired](https://www.wired.com/story/podcasts-beginners-guide/) | Free | [1.3](https://www.trustpilot.com/review/wired.co.uk) | 
-| [Buffer](https://buffer.com/library/podcasting-for-beginners/) | free | [2.8](https://www.trustpilot.com/review/buffer.com) | 
-| [TED Talks](https://www.ted.com/podcasts) | Free | N/A
+| [**Wired**](https://www.wired.com/story/podcasts-beginners-guide/) | Free | [1.3](https://www.trustpilot.com/review/wired.co.uk) | 
+| [**Buffer**](https://buffer.com/library/podcasting-for-beginners/) | free | [2.8](https://www.trustpilot.com/review/buffer.com) | 
+| [**TED Talks**](https://www.ted.com/podcasts) | Free | N/A
   
 
 <br/><br/>

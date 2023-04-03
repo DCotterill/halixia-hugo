@@ -13,9 +13,9 @@ Did you know that gardening can also play an important role in happiness and men
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [RHS](https://www.rhs.org.uk/Advice/Beginners-Guide/Allotment-basics/Choose-your-crops) | Free | [2.2](https://uk.trustpilot.com/review/rhs.org.uk) | 
-| [Gardeners club](https://www.gardeners-club.co.uk/) | Free | N/A
-| [Gardeners wor;d](https://www.gardenersworld.com/how-to/grow-plants/allotment-year-planner/) | Free | N/A
+| [**RHS**](https://www.rhs.org.uk/Advice/Beginners-Guide/Allotment-basics/Choose-your-crops) | Free | [2.2](https://uk.trustpilot.com/review/rhs.org.uk) | 
+| [**Gardeners club**](https://www.gardeners-club.co.uk/) | Free | N/A
+| [**Gardeners wor;d**](https://www.gardenersworld.com/how-to/grow-plants/allotment-year-planner/) | Free | N/A
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ Knowing, recording, and preserving your family history directly impacts you, you
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [findmypast](https://www.findmypast.co.uk/) | Paid | [3.8](https://uk.trustpilot.com/review/www.findmypast.co.uk) | 
-| [Heritage consulting](https://www.heritageconsulting.com/5-benefits-of-understanding-your-ancestry/) | Free | N/A
-| [Geneology guide](https://thegenealogyguide.com/20-reasons-why-is-genealogy-important) | Free | N/A
+| [**findmypast**](https://www.findmypast.co.uk/) | Paid | [3.8](https://uk.trustpilot.com/review/www.findmypast.co.uk) | 
+| [**Heritage consulting**](https://www.heritageconsulting.com/5-benefits-of-understanding-your-ancestry/) | Free | N/A
+| [**Geneology guide**](https://thegenealogyguide.com/20-reasons-why-is-genealogy-important) | Free | N/A
   
 
 <br/><br/>

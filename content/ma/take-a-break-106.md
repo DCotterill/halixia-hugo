@@ -13,9 +13,9 @@ Taking breaks can be beneficial to both you and what you are working on, whether
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [BBC](https://www.bbc.co.uk/programmes/m0018p32) | Free | [1.4](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
-| [Headspace](https://www.headspace.com/meditation/5-minute-meditation) | Paid | [2.1](https://uk.trustpilot.com/review/headspace.com) | 
-| [WebMD](https://www.webmd.com/fitness-exercise/video/office-exercises-in-5-minutes) | Free | [2.9](https://uk.trustpilot.com/review/www.webmd.com) | 
+| [**BBC**](https://www.bbc.co.uk/programmes/m0018p32) | Free | [1.4](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
+| [**Headspace**](https://www.headspace.com/meditation/5-minute-meditation) | Paid | [2.1](https://uk.trustpilot.com/review/headspace.com) | 
+| [**WebMD**](https://www.webmd.com/fitness-exercise/video/office-exercises-in-5-minutes) | Free | [2.9](https://uk.trustpilot.com/review/www.webmd.com) | 
   
 
 <br/><br/>

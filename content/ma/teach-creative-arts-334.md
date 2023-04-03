@@ -13,9 +13,9 @@ If you’re an experienced creative pro with tips, techniques and skills to demo
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
-| [Skillshare](https://www.skillshare.com/en/teach) | Free/paid | [1.6](https://uk.trustpilot.com/review/skillshare.com) | 
-| [Craft Courses](https://www.craftcourses.com/blog/the-craftcourses-guide-to-becoming-an-arts-and-crafts-tutor) | Free/paid | [4.8](https://www.trustpilot.com/review/craftcourses.com) | 
-| [UK Government](https://www.teach-in-further-education.campaign.gov.uk/) | Free | [n/a](n/a) | 
+| [**Skillshare**](https://www.skillshare.com/en/teach) | Free/paid | [1.6](https://uk.trustpilot.com/review/skillshare.com) | 
+| [**Craft Courses**](https://www.craftcourses.com/blog/the-craftcourses-guide-to-becoming-an-arts-and-crafts-tutor) | Free/paid | [4.8](https://www.trustpilot.com/review/craftcourses.com) | 
+| [**UK Government**](https://www.teach-in-further-education.campaign.gov.uk/) | Free | [n/a](n/a) | 
   
 
 <br/><br/>
