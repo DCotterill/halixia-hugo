@@ -7,7 +7,7 @@ layout: static
 
 Live classes for older adults
 
-Learn something new with live classes for older adults by older adults from anything from art to travel.
+Learn something new with live classes for older adults, by older adults - anything from art to travel.
 
 GetSetUp is an online community of people who want to learn new skills, connect with others and unlock new life experiences. GetSetUp believes people over 55 can do anything when they have the tools to discover, learn and connect.
 

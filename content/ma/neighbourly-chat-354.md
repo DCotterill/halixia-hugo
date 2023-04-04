@@ -9,7 +9,7 @@ Help look out for your elderly neighbours
 
 Volunteer your time and energy to help older people live a happy, connected, and purposeful later life.
 
-Over one million older people say they go more than a month without speaking to a friend, neighbour or family member.  But small acts of kindness can create a big difference.
+Over one million older people say they go more than a month without speaking to a friend, neighbour or family member. But small acts of kindness can create a big difference for you and others.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

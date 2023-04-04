@@ -7,7 +7,7 @@ layout: static
 
 Combine learning a new language with cultural experience
 
-Learn a new language with in country courses to not only explore the language but the culture too. Taught by qualified native speaking teachers.
+Learn a new language with in-country courses to not only explore the language but the culture too. Taught by qualified, native speaking teachers.
 
 Learning a language improves memory, increases attention span and strengthens both problem-solving abilities and concentration. Multilingual people have also been shown to be more logical, have stronger decision-making skills and be more perceptive and aware of their surroundings.
 

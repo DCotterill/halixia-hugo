@@ -7,7 +7,7 @@ layout: static
 
 Learn how to eat mindfully, for lasting change
 
-Noom aims to empower you to take control of your health for good and meet personal health and wellness goals, including weight management, though delicious balanced healthy recipe boxes.
+Noom aims to empower you to take control of your health for good and meet personal health and wellness goals, including weight management, through delicious balanced healthy recipe boxes.
 
 A healthy diet rich in fruits, vegetables, wholegrains and low-fat dairy can help to reduce your risk of heart disease by maintaining blood pressure and cholesterol levels as well as strengthening your immune system.
 

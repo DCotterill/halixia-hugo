@@ -7,9 +7,9 @@ layout: static
 
 8 ways you can support your local arts community
 
-Find out how to support your local arts community and know you are helping build a healthy, robust and diverse society.  
+Find out how to support arts in your local community, knowing you are helping build a healthy, robust and diverse society.
 
-When you think of some of the most culturally diverse and renowned cities on Earth, they all have one thing in common a healthy vibrant arts scene. From local galleries to life-size wall murals, a community full of art is a community full of culture.
+When you think of some of the most culturally diverse and renowned cities on Earth, they all have one thing in common – communities with a healthy vibrant arts scene. From local galleries to life-size wall murals, a community full of art is a community full of culture.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

@@ -9,7 +9,7 @@ Creating a shared interest group
 
 Learn more about starting your own shared interest group.
 
-We are social beings, and interacting with people is in our nature. But it also brings us benefits on a mental and physical level, social motivation and social contact can help to improve memory formation and recall and protects the brain from neurodegenerative diseases.
+We are social beings, and interacting with people is in our nature. Helping others enjoy the mental and physical benefits of social connectiveness brings its own rewards instilling a strong sense of purpose, boosting our own wellbeing.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

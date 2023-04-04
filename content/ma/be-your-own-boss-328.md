@@ -7,7 +7,7 @@ layout: static
 
 Guidance on becoming your own boss
 
-Starting a business or becoming self-employed is a life-long dream for many and it can also be risky, so legal, and financial aspects need to be carefully considered.
+Starting a business or becoming self-employed is a life-long dream for many, however, it can also be risky so legal and financial aspects need to be carefully considered.
 
 As you get older finding meaningful work that works flexibly can be difficult, despite your experience and knowledge. Starting a business takes care of that obstacle. After a lifetime of work in your chosen career, it could be the perfect time to revisit your passions and turn them into a business.
 

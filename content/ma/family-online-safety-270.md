@@ -7,9 +7,9 @@ layout: static
 
 Get practical knowhow keeping your family safe online
 
-Young people are growing up in an increasingly digital world, exposing them to both the opportunities and risks of the internet. Get savvy on how you can protect yourself and your family when online.
+Young people are growing up in an increasingly digital world, exposing them to both the opportunities and risks of the internet. Get savvy on how you can protect yourself and your family when online.
 
-Get practical advice on how to protect yourself, your computers and mobiles device and your business against fraud, identity theft, viruses and many other problems encountered online.
+Get practical advice on how to protect yourself, your computers and mobile devices and your business against fraud, identity theft, viruses and many other problems encountered online.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

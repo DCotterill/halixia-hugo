@@ -9,7 +9,7 @@ Find a specialist legal professional for your will
 
 Using a legal professional who specialises in writing wills and other estate matters could be crucial especially if you have more complex affairs.
 
-Financial wellbeing put simply is all about building a good relationship with money and feeling in control of both your day-to-day finances and long-term goals. This is also true when planning how you are going to pass your money to your loved ones.
+Financial wellbeing is all about building a good relationship with money and feeling in control of both your day-to-day finances and long-term goals. This is also true when planning how you are going to pass your money to your loved ones.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

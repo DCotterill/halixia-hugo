@@ -7,7 +7,7 @@ layout: static
 
 Find training, support and advice to gain new job skills
 
-Unlock a better way ahead. Find training, support, and advice to gain the skills you need for the job you want.
+Unlock a better career ahead. Find training, support, and advice to gain the skills you need for the job you want.
 
 Digital, numeracy and transferable skills, like communicating confidently or handling stressful situations, are some of the most sought-after by employers. Developing these skills can strengthen your CV and help you stand out from the crowd.
 

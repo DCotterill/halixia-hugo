@@ -7,7 +7,7 @@ layout: static
 
 Find out how to increase the quality of your sleep
 
-One of the most common problems related to ageing is sleep quality, with over half of older adults reporting symptoms of insomnia. Read tips on how to better increase your sleep quality.
+One of the most common problems related to ageing is sleep quality with over half of older adults reporting symptoms of insomnia. Read tips on how to increase your sleep quality.
 
 Sleep is an essential function to help our mind and body recharge. Healthy sleep also helps the body remain healthy and stave off diseases. Without enough sleep, the brain cannot function properly.
 

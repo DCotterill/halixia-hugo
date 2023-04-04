@@ -7,7 +7,7 @@ layout: static
 
 Learn about giving blood
 
- Most people can give blood if they are fit and healthy, but there are some rules for donor to follow, find out if you can be a blood donor.
+Most people can give blood if they are fit and healthy, but there are some rules for donor to follow, find out if you can be a blood donor.
 
 Giving blood saves lives. The blood you give is a lifeline in an emergency as well as for people who need long-term treatments.
 

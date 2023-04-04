@@ -7,7 +7,7 @@ layout: static
 
 Help to get you moving and stay moving, whatever your age
 
-However you're feeling right now, and whatever you're dealing with, getting and staying moving more will help you feel better for longer.
+However you're feeling right now and whatever challenges you’re facing, moving more will help you feel better for longer.
 
 Regular physical activity or exercise helps your brain, heart and lungs stay healthy, and keeps your body strong and flexible.
 

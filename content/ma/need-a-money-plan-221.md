@@ -9,7 +9,7 @@ Take control of your finances with smart financial goals
 
 Make tangible differences in your financial life to redress the money gender gap. Spring clean your finances and you will enhance your financial and personal wellbeing.
 
-In 2022 the gender pay gap reached 8.3% in 2022, meaning women in the UK take home less income compared to their male counterparts. The impact of this gender pay gap has led to a savings gap too, money.co.uk revealed in a new study that women save a third less than their male colleagues.
+In 2022 the gender pay gap reached 8.3% in 2022, meaning women in the UK take home less income compared to their male counterparts. The impact of this gender pay gap has led to a savings gap too, one study reports that women save up to a third less than their male colleagues.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

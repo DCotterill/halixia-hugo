@@ -7,9 +7,9 @@ layout: static
 
 Learn about combining your pensions for ease and efficiency
 
-Understand the advantages, and possible disadvantages, of bringing all your pensions together. 
+Understand the advantages, and possible disadvantages, of bringing all your pensions together.
 
-A key part of retirement planning is understanding what you’ve got and what you need in later life. The average person in the UK changes job every five years, and that means trying to keep track of several different pension plans. Putting it all in one pot can help simplify things. 
+A key part of retirement planning is understanding what you’ve got and what you need in later life. The average person in the UK changes job every five years, and that means trying to keep track of several different pension plans. Putting it all in one pot can help simplify things.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

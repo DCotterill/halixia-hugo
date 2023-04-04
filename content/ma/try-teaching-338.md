@@ -9,7 +9,7 @@ Find out about teaching in Further Education
 
 If you have real-world industry experience, you already have what it takes to teach in further education, and you don’t always need teaching experience or an academic degree to get started.
 
-Teach what you know and help learners explore their interests, gain new skills, and advance their careers. It's rewarding in more ways than one, you get to share your passion, as well as continue to develop your knowledge and understanding of that passion. 
+Teach what you know and help learners explore their interests, gain new skills, and advance their careers. It's rewarding in more ways than one, you get to share your passion, as well as continue to develop your knowledge and understanding of that passion.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

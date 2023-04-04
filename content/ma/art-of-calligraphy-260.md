@@ -7,9 +7,9 @@ layout: static
 
 Learn the art of beautiful writing
 
-Calligraphy can be described as the ancient art of writing words aesthetically. It is considered to be an art form, as it requires a considerable amount of patience and skill to master. 
+Calligraphy can be described as the ancient art of writing words aesthetically. It is considered to be an art form, as it requires a considerable amount of patience and skill to master.
 
-Not only is Calligraphy considered an art form, which can enhance the meaning and beauty of words, it also has numerous benefits for the physical and mental well-being of the individual. Calligraphy is known to improve cognitive function as well as help in increasing patience and focus of mind. 
+Not only is Calligraphy considered an art form, which can enhance the meaning and beauty of words, it also has numerous benefits for the physical and mental well-being of the individual. Calligraphy is known to improve cognitive function as well as help in increasing patience and focus of mind.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

@@ -9,7 +9,7 @@ Help in tackling debts head on
 
 If you're juggling several different debts the best thing you could do is to tackle them head-on and get on track to becoming debt-free. But where do you start?
 
-Debt can cause financial strain whereby high repayments can affect your ability to budget and you end up paying back much more than you borrowed. Also, when debt becomes unmanageable it is closely related to poor physical and mental health and affect current and future financial wellbeing.
+Debt can cause financial strain as high repayments can affect your ability to budget and you end up paying back much more than you borrowed. Not only can it impact your future financial position it can also affect your physical and mental wellbeing.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

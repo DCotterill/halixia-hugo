@@ -7,9 +7,9 @@ layout: static
 
 Yoga and meditation classes you can practice anywhere
 
-This online yoga studio includes ready-made classes to practice anywhere, choose your level, duration and focus see if you can find the perfect class for you.
+This online yoga studio includes ready-made classes to practice anywhere, choose your level, duration and focus to find the perfect class for you.
 
-Yoga is for everyone, whatever ability or disability, age, experience, fitness or bendiness and you can do it anywhere and anytime. Finding a yoga practice that’s right for you is worth the effort as it helps deepen the neural grooves that help us enjoy the benefits that regular practice brings.
+Yoga is for everyone, whatever your ability or disability, age, experience, fitness or bendiness. You can do it anywhere and anytime. Finding a yoga practice that’s right for you is worth the effort as it helps deepen the neural grooves that help us enjoy the benefits regular practice brings.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

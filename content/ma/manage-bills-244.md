@@ -7,9 +7,9 @@ layout: static
 
 Minimise and manage bills for extra peace of mind
 
-Guide to how to manage your bills closely to avoid penalities and start cutting out anything that is not a necessity.
+Guide to how to manage your bills closely to avoid penalties and start cutting out anything that is not a necessity. Check regularly to stay on top of things.
 
-Building good money habits and making simple savings on everyday spending helps build good financial resilience. As result you will be more likely to cope with loss of income, less anxious about finances, more confident in managing money and more satisfied with life as a whole. 
+Building good money habits and making simple savings on everyday spending helps build good financial resilience. As result you will be more likely to cope with loss of income, less anxious about finances, more confident in managing money and more satisfied with life as a whole.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

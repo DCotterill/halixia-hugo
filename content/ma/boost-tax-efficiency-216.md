@@ -7,9 +7,9 @@ layout: static
 
 Use these methods to ensure you're not paying too much tax
 
-One of the simplest methods to make your money go further is to reduce your tax burden. Making even little modifications to your tax situation will save you a lot of money.
+One of the simplest methods to make your money go further is to reduce your tax burden. Even making little modifications to your tax situation may save you a lot of money.
 
-It’s no secret that being smart with your money and adopting good money habits can have a positive impact on our everyday lives. Financial wellbeing put simply is all about building a good relationship with money and feeling in control of both your day-to-day finances and long-term goals.
+It’s no secret that being smart with your money and adopting good money habits can have a positive impact on our everyday lives. Making sure you’re on top of your tax issues can help.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

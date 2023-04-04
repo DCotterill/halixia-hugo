@@ -9,7 +9,7 @@ Learn more about men's peer support groups across the UK
 
 Learn more about peer support and how it can provide a social connection whilst pursing shared practical interests.
 
-When facing a difficult time in your life, it's normal to feel alone and struggle to ask for help. That’s why having a good support network is incredibly important and has the potential to increase your confidence, mood and wellbeing and ultimately your health. 
+When facing a difficult time in your life, it's normal to feel alone and struggle to ask for help. That’s why having a good support network is incredibly important and has the potential to increase your confidence, mood and wellbeing and ultimately your health.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

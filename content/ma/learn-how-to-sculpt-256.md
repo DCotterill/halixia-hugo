@@ -7,9 +7,9 @@ layout: static
 
 Have fun and get creative with pottery
 
-You can create sculpture! Even if you’re just a beginner, you won’t believe what you can do!  By understanding the basics, you will be surprised with what you can achieve in a short space of time.
+You can create sculpture! Even if you’re just a beginner, you won’t believe what you can do! By understanding the basics, you will be surprised with what you can achieve in a short space of time.
 
-So get creative and use sculpture as a way to take your mind off the world's problems and learn a new creative skill. Creating with clay is a great natural high and something we can all try.
+So, get creative and use sculpture as a way to take your mind off the world's problems and learn a new creative skill. Creating with clay is a great natural high and something we can all try.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

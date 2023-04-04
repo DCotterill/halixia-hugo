@@ -11,8 +11,6 @@ Social networking websites are a great way to keep in touch with family and frie
 
 Social media can pave a good way for networking with people far and wide. You can connect with anyone you want on these platforms and build contacts for your personal and professional life.
 
-
-
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
 | [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/using-social-media/) | Free | [1.6](https://uk.trustpilot.com/review/ageuk.co.uk) | 

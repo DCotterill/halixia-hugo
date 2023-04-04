@@ -9,7 +9,7 @@ A simple workout series to help begin your fitness journey
 
 Start your exercise journey with easy-to-follow exercise sessions designed for beginners.
 
-Regular exercise is one of the best things you can do for your health. However, working it into your routine and sticking with it can take some determination and discipline, but if you exercise regularly, you’ll begin to see and feel the benefits it can have on your body and well-being quickly.
+Regular exercise is one of the best things you can do for your health. Working exercise into your routine and sticking with it takes determination and discipline, but if you exercise regularly, you’ll begin to see and feel the benefits it can have on your body and well-being quickly.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

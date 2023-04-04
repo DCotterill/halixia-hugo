@@ -7,9 +7,9 @@ layout: static
 
 Micronutrients to help improve health and longevity
 
-Listen to podcast, talking about the four major categories of micronutrients that improve immune system and longevity and much more. With actionable protocols for obtaining key micronutrients. 
+Listen to this podcast which talks about the four major categories of micronutrients that improve the immune system, longevity and much more, with actions for obtaining key micronutrients.
 
-Micronutrients, often referred to as vitamins and minerals, are vital to healthy development, disease prevention, and wellbeing. They have a wide range of functions in the brain and body, from the workings of the nervous system to immune function and bone strength.
+Micronutrients, often referred to as vitamins and minerals, are vital to healthy development, disease prevention, and wellbeing. They perform a wide range of functions in the brain and body, from the workings of the nervous system to immune function and bone strength.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

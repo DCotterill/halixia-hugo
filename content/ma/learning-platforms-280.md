@@ -9,7 +9,7 @@ Help in choosing a suitable online learning platform
 
 Help in choosing from the many online learning platforms available to ensure you get the best out of any learning experience.
 
-Online learning can be a modern and innovative way to keep learning. As adults, it can be all too easy to forget that learning remains important. Staying open to new experiences, actively seeking out ways to learn and develop helps retain a keen interest in the world and your own self improvement.
+Online learning can be a modern and innovative way to keep learning. As adults, it can be all too easy to forget that learning remains important. Staying open to new experiences, actively seeking out ways to learn and develop helps retain a keen interest in the world and your own self-improvement.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

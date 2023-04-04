@@ -9,7 +9,7 @@ The importance of transferable skills
 
 You are already likely to possess many transferable skills employers value. Highlighting your transferable skills is especially important when changing jobs or industries.
 
-Many job seekers aren’t able to capture their transferable skills adequately, communicate them well or even identify how their skills can apply across industries. If you are seeking a career change transferable skills can be the factor that most impacts your ability to find work in a new field.
+Many job seekers can’t capture their transferable skills adequately, communicate them well or even identify how their skills can apply across industries. If you are seeking a career change, transferable skills can be the factor that most impacts your ability to find work in a new field.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

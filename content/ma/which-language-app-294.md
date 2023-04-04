@@ -9,7 +9,7 @@ Find the right language learning platform for you
 
 Digital technology has opened up loads of new ways to learn a language, making it very practical and affordable. Work out which is best for you before diving in and learning a second language.
 
-Today's top language learning platforms use innovative technology and modern study tools to make your learning process easier and more productive. Making accessing the benefits of learning a language easier for everyone.
+Today's top language learning platforms use innovative technology and modern study tools to make your learning process easier and more productive. Make accessing the benefits of learning a language easier for everyone.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

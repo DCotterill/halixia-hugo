@@ -7,9 +7,9 @@ layout: static
 
 Find out about the importance of taking a break
 
-This episode of the "Just one Thing" podcast introduces the importance of taking a break to boost focus, enhance creativity and even improve your eye health.
+This episode of the "Just one Thing" podcast introduces the importance of taking a break to boost focus, enhance creativity and even improve eye health.
 
-Taking breaks can be beneficial to both you and what you are working on, whether it's a micro break, lunch break or longer break, give yourself a break.
+Taking breaks can be beneficial to both you and what you are working on. Whether it's a micro break, lunch break or longer break, give yourself a break!
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

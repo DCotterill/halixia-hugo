@@ -7,7 +7,7 @@ layout: static
 
 Discover museums to visit from all over UK
 
-Discover museums to visit from all over UK, no matter what your interests are, with this independent museum listing site in the UK.
+Discover museums to visit all over UK, no matter what your interests are, with this independent museum listing site in the UK.
 
 Museums and galleries provide an insight into the history of humankind. And while no museum can claim to provide a complete picture, the lessons we can learn from past events, wonders and tragedies are priceless. Stay curious!
 

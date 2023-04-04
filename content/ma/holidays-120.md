@@ -7,9 +7,9 @@ layout: static
 
 Importance of taking holidays
 
-Holidays are not just for relaxation; they help us deal with stressors and contribute to our overall wellbeing. Can’t afford a holiday? You can also get the same effect with a day trip!
+Holidays are not just for relaxing; they help us deal with stressors and improve our overall wellbeing. Can’t afford a holiday? You can get the same effect with a day trip!
 
-Taking holidays can be a great chance to escape your daily routine and see new places, whilst also improving your health or well-being.
+Taking holidays can be a great chance to escape your daily routine and see new places, whilst also improving your health and wellbeing.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

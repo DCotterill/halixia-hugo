@@ -7,9 +7,9 @@ layout: static
 
 An app for complete brain training.
 
-Challenge your cognitive skills, focus, memory, problem solving, mental agility and more, with these games designed to push you hard with short, intense workouts to fit around your life. 
+Challenge your cognitive skills, focus, memory, problem solving, mental agility and more, with these games designed to push you hard with short, intense workouts that fit around your life.
 
-Brain training turns inactive brain cells into healthy, active ones. The more you use your brain, the better your mental functions become. So, get strengthening your brain daily to start improving your cognitive capabilities.
+Brain training turns inactive brain cells into healthy, active ones. The more you use your brain, the better your mental functions become. So, get strengthening your brain every day to start improving your cognitive capabilities.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

@@ -7,7 +7,7 @@ layout: static
 
 Explore Skillshare's range of creative skills courses
 
-Not sure what creative art to try, Skillshare has a range of creative courses from popular to very niche skills. Explore new skills, deepen existing passions, and get lost in creativity. 
+Not sure what creative art to try? Skillshare has a range of creative courses from popular to very niche skills. Explore new skills, deepen existing passions, and get lost in creativity.
 
 It doesn’t matter how old we are research suggests that having a creative hobby can actually benefit our mental and emotional health. The arts can help to keep us well, aid recovery and support people to live longer and healthier lives. So don't leave it to the children!
 

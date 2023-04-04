@@ -7,7 +7,7 @@ layout: static
 
 Tips on how to get a better night's sleep
 
-Learn everything you need to know about sleep, including how to fall asleep faster, stay asleep and wake up rested as well as how it can improve your health. 
+Learn everything you need to know about sleep, including how to fall asleep faster, stay asleep and wake up rested as well as how it can improve your health.
 
 Sleep is an essential function to help our mind and body recharge. Healthy sleep also helps the body remain healthy and stave off diseases. Without enough sleep, the brain cannot function properly.
 

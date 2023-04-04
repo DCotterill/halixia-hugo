@@ -9,7 +9,7 @@ Find out how to meet your nutritional requirements
 
 Healthspan offers supplements for women of all ages, from PMS support, to conception, to the menopause.
 
-Supplementation is intended to bridge this nutritional gap, so that we maintain the proper balance of nutrients from food and supplementation. This will enhance the nutrient density of your diet and make sure you are obtaining the right amount of nutrients tailored to your dietary needs.
+Supplements are intended to bridge the nutritional gap, so that we maintain the proper balance of nutrients from food and supplementation. This will enhance the nutrient density of your diet and make sure you are obtaining the right amount of nutrients tailored to your dietary needs.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

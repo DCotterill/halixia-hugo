@@ -9,7 +9,7 @@ Learn more about men's peer support groups across the UK
 
 Learn more about peer support and how it can help you in a judgment-free, confidential space to be open about the storms in your life.
 
-When facing a mental health issue, it's normal to feel alone or afraid to ask for help. That’s why having a good support network is incredibly important and has the potential to increase your confidence, mood and wellbeing and ultimately your health. 
+When facing a mental health issue, it's normal to feel alone or afraid to ask for help. That’s why having a good support network is incredibly important and has the potential to increase your confidence, mood and wellbeing and ultimately your health.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

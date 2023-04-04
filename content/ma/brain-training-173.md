@@ -5,11 +5,11 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Exercise you cognitive skills with this program
+Exercise your cognitive skills with this program
 
-Discover what your mind can do with activities to help exercise your memory, processing speed and problem solving and more.
+Discover what your mind can do with activities to help exercise your memory, processing speed, problem solving and much more.
 
-Brain training turns inactive brain cells into healthy, active ones. The more you use your brain, the better your mental functions become. So, get strengthening your brain daily to start improving your cognitive capabilities.
+Brain training turns inactive brain cells into healthy, active ones. The more you use your brain, the better your mental functions become. So, get strengthening your brain every day to start improving your cognitive capabilities.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

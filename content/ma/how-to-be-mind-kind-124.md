@@ -7,9 +7,9 @@ layout: static
 
 Mindfulness and meditation tools for a healthier you
 
-Mindfulness and meditation tools can help you create life-changing habits to support your mental health. Become your mind’s best friend, helping you get through tough times and find joy in every day. 
+Mindfulness and meditation tools can help you create life-changing habits to support your mental health. These tools will help you get through tough times and find joy in everyday life.
 
-It can be easy to rush through life without stopping to notice much. Start paying more attention to the present moment, to your own thoughts and feelings, and to the world around you, to improve your mental wellbeing.
+It can be easy to rush through life without stopping to notice much. Start paying more attention to the present moment, your own thoughts and feelings, and the world around you to improve your mental wellbeing.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

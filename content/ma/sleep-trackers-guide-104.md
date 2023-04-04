@@ -9,7 +9,7 @@ Guide to sleep trackers
 
 Read a guide to the best sleep trackers to help you make an informed decision when buying one for yourself, to help you get a good night of restful sleep.
 
-Tracking your sleep can help you to better understand your sleep habits, helping you to learn what is potentially helping or harming your sleep.
+Tracking your sleep can help to better understand your sleep habits, helping you to learn what could be helping or harming your sleep.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

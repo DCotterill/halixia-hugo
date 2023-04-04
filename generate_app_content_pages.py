@@ -5,13 +5,14 @@ content_pages = {}
 count = 0
 # with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - Full Content Samples.csv'
 #         , newline='') as csvfile:
-with open('resources/MA Database 170323 for upload.csv'
+with open('resources/MA Database 170323 for upload-2.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
     next(reader, None)
 
     for row in reader:
+        # print(row)
         count = count + 1
 
         category = row[1]
@@ -24,6 +25,7 @@ with open('resources/MA Database 170323 for upload.csv'
         # Content Type
         content_text = row[11]
 
+        print (ddm_type)
         if ddm_type == 'Development':
             page = {"display-name": display_name,
                     "summary-description": summary,
@@ -113,7 +115,7 @@ for k, page in content_pages.items():
         template = template.replace("*" + k + "*", v)
 
 
-    # print(page)
+    print(page)
 
     display_name = page['display-name']
     internal_name = page['internal-name']

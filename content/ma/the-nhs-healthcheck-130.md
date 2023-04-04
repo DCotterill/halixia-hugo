@@ -7,9 +7,9 @@ layout: static
 
 A health check-up for adults 40 to 74 in England
 
-This check-up is for adults in England aged 40 to 74, every 5 years. It's designed to spot early signs of stroke, kidney disease, heart disease, type 2 diabetes or dementia.
+This 5-year check-up is aimed at adults in England aged 40 to 74. It's designed to detect early signs of stroke, kidney disease, heart disease, type 2 diabetes and dementia.
 
-After the check your healthcare professional will discuss your results with you. You'll be given advice to help you lower your risk of a stroke, kidney disease, heart disease, diabetes or dementia, and maintain or improve your health. But you do not have to wait until then to make healthy changes. 
+After the check your healthcare professional will discuss your results with you. You'll be given advice to help you lower your risk of a stroke, kidney disease, heart disease, diabetes or dementia, and maintain or improve your health. But don’t wait until then to make healthy changes!
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

@@ -9,7 +9,7 @@ Cook for your younger family members
 
 There's mountains of research about the social emotional and intellectual benefits of the family dinner, so cook a few extra spuds and invite the grandchildren round.
 
-By eating meals together we practice gratitude. While sharing and enjoying a tasty meal with those who are the closest to you, you feel happy and more content as well as help to foster a sense of security and belonging, and even alleviate depression.
+By eating meals together we practice gratitude. While sharing and enjoying a tasty meal with those who are the closest to you, you feel happy and more content as well as help to foster a sense of security and belonging, and even alleviate depression across generations.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

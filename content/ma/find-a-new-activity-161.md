@@ -7,9 +7,9 @@ layout: static
 
 Activity inspired by women doing their thing their way!
 
-This Girl Can, celebrates active women and believes that there’s no “right” way to get active. However, you jiggle, kick, lift, stretch, or sprint, it’s time to get moving how you damn please!
+This Girl Can, celebrates active women and believes that there’s no “right” way to get active. However you jiggle, kick, lift, stretch, or sprint, it’s time to get moving how you damn please!
 
-It's the perfect time to get active. No matter how much you do, physical activity is good for your body and mind. Adults should aim to be active every day. Some is good, more is better still.
+It's the perfect time to get active. No matter how much you do, physical activity is good for your body and mind. Adults should aim to be active every day. Some is good, more is even better.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

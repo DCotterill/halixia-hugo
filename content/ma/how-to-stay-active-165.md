@@ -7,9 +7,9 @@ layout: static
 
 Get support to be active with a long-term health condition
 
-Help and support to be active with a long-term health condition. Understanding that everybody is unique and knowing when to be more active is just as important as accepting when you can’t.
+Help and support to be active with a long-term health condition. Understanding that everybody is unique and knowing when to be more active is just as important as accepting when you can’t be.
 
-Starting to become more active can be daunting, especially if you are managing a health condition. However, everyone can be active, no matter their age or physical condition. It’s completely free, and something we all have the power to start doing more of at any point in our lives.
+Becoming more active can be daunting, especially if you are managing a health condition. However, everyone can be active, no matter their age or physical condition. It’s completely free, and something we all have the power to start doing more of at any point in our life.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

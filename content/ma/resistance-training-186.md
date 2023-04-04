@@ -9,7 +9,7 @@ Change the way you exercise in later life
 
 Instepp is designed to activate, tone, and strengthen your whole body using established methods of exercise that combine the benefits of resistance training with fundamental movement.
 
-Resistance training improves muscle strength and tone and protects your joints from injury. It also is a relatively accessible option that can help you reach your weight management goals as well as maintain flexibility and balance.
+Resistance training improves muscle strength and tone and protects your joints from injury. It is also a relatively accessible option that can help you to reach weight management goals as well as maintain flexibility and balance.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

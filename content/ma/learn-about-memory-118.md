@@ -9,7 +9,7 @@ Understanding and improving your memory
 
 This podcast explains the different types of memory and how to improve your learning and memory abilities.
 
-Brain training turns inactive brain cells into healthy, active ones. The more you use your brain, the better your mental functions become. So get strengthening your brain daily to start improving your cognitive capabilities.
+Brain training turns inactive brain cells into healthy, active ones. The more you use your brain, the better your mental functions become. So, get strengthening your brain daily to start improving your cognitive capabilities.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

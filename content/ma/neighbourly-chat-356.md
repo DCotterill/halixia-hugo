@@ -9,7 +9,7 @@ Make a difference by checking in on your neighbours
 
 Check out our five simple tips for making a new connection in under five minutes, whether that’s with someone familiar or someone new and unexpected. You never know the difference it could make.
 
-Over one million older people say they go more than a month without speaking to a friend, neighbour or family member.  But small acts of kindness can create a big difference.
+Over one million older people say they go more than a month without speaking to a friend, neighbour or family member. Small acts of kindness can create a huge difference.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

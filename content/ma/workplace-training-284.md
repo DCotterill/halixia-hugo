@@ -9,7 +9,7 @@ Expand your employment opportunities
 
 At Virtual College, there are courses to help you expand your employment opportunities. Whether that's learning a new skill or complying with current legislation, this training platform can help.
 
-Online learning can be a be modern and innovative way to keep learning and help you retrain for a new career. As adults, it can be all too easy to forget that learning remains important but staying open to new experiences can help you stay relevant in your chosen career. 
+Online learning can be a be modern and innovative way to keep learning and help you retrain for a new career. As adults, it can be all too easy to forget that learning remains important but staying open to new experiences can help you stay relevant in your chosen career.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

@@ -9,7 +9,7 @@ Help to keep you moving, whatever your age
 
 However you're feeling right now, and whatever you're dealing with, this site can help you get moving more so you'll feel better for longer.
 
-Regular physical activity or exercise helps your brain, heart and lungs stay healthy, and keeps your body strong and flexible.
+Regular physical activity helps your brain, heart and lungs stay healthy, and keeps your body strong and flexible.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

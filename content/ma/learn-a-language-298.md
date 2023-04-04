@@ -7,7 +7,7 @@ layout: static
 
 Learn a new language with videos from native speakers
 
-Learn a new language and be able to watch lessons from native speakers to fully understand and absorb the language.
+Learn a new language and be able to watch lessons from native speakers will help you fully understand and absorb the language.
 
 Learning a language improves memory, increases attention span and strengthens both problem-solving abilities and concentration. Multilingual people have also been shown to be more logical, have stronger decision-making skills and be more perceptive and aware of their surroundings.
 

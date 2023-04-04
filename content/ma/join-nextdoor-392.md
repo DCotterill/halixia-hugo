@@ -7,11 +7,9 @@ layout: static
 
 Social network with people in your local area
 
-Learn more about nextdoor, the social network for your local area. It's where you can share news, events and even sell your unwanted stuff.
+Learn more about Nextdoor, the social network for your local area. It's where you can share news, events and even sell your unwanted stuff.
 
-Social media can pave a good way for networking with people far and wide. You can connect with anyone you want on these platforms and build contacts for your personal and professional life.
-
-
+Social media can pave a good way for networking with people far and wide, with these communities having a local focus. You can connect with anyone you want on these platforms and build contacts for your personal and professional life.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

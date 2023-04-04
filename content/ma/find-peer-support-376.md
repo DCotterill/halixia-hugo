@@ -9,7 +9,7 @@ Learn more about peer support to support your mental health
 
 Learn more about peer support and how it can help you in a judgment-free, confidential space to be open about your mental health.
 
-When facing a mental health crisis, it's normal to feel alone or afraid to ask for help. That’s why having a good support network is incredibly important and has the potential to increase your confidence, mood and wellbeing and ultimately your health. 
+When facing a mental health crisis, it's normal to feel alone or afraid to ask for help. That’s why having a good support network is incredibly important and has the potential to increase your confidence, mood and wellbeing and ultimately your health.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

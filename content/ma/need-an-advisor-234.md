@@ -7,9 +7,9 @@ layout: static
 
 How do you know when it’s time to find an advisor?
 
-If you’re looking to invest, buy a financial product, manage your money more effectively or simply plan for the longer term, getting a financial advisor can be a good investment.
+If you’re looking to invest, buy a financial product, manage your money more effectively or simply plan for the longer term, getting a financial advisor can be a good idea.
 
-Feeling in control of both your day-to-day finances and long-term goals can have a positive impact on our everyday lives. Maximising your financial wellbeing through investments can completely change your mindset and this will have a big impact on your behaviours and long-term financial goals.
+Feeling in control of both your day-to-day finances and long-term goals can have a positive impact on our everyday lives. Financial advisors can help in many situations, particularly as retirement comes closer. Expect to pay a fee.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

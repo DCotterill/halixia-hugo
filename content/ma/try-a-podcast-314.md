@@ -9,7 +9,7 @@ Try a podcast
 
 Dip your toe into a pick of the best podcasts on Spotify, Apple Podcasts and more covering technology, culture, science, politics, and new ideas.
 
-If you've not discovered them yet, podcasts are a great learning tool. You can listen anywhere and access a wide range of topics. 
+If you've not discovered them yet, podcasts are a great learning tool. You can listen anywhere and access a wide range of topics.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

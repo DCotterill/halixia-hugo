@@ -9,7 +9,7 @@ Keep up to date with Age UK news
 
 Learn about the issues affecting the elderly with news and views on age and ageing.
 
-Your news, your stories, your later life. Discover the latest news and views on age and ageing – from analysis of what's hitting the headlines, to the big issues affecting older people. Staying relevant helps retain a key interest in the world and keep your mind active. 
+Your news, your stories, your later life. Discover the latest news and views on age and ageing – from analysis of what's hitting the headlines, to the big issues affecting older people. Staying relevant helps retain a key interest in the world and keep your mind active.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

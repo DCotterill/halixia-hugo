@@ -7,7 +7,7 @@ layout: static
 
 Discover a love for creative writing with a class
 
-Take an online writing class to learn how to write, whether your interest is fiction, articles or non-fiction, find a writing workshop best suited for you and get writing.
+Take an online creative writing class to learn how to write. Whether your interest is fiction, articles or non-fiction, find a writing workshop best suited for you and get writing.
 
 To learn creative writing, like any art form, requires compassion, contemplation, and curiosity. There are benefits in making you a better communicator, improve your thinking skills, increase empathy and could even lead to greater job success.
 

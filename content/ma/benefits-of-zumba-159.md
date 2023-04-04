@@ -7,7 +7,7 @@ layout: static
 
 Learn about the benefits of Zumba
 
-Find out more about this global dance inspired fitness activity.  It’s a great way to dance to great music, with great people, and burn a ton of calories!
+Find out more about this global dance inspired fitness activity. It’s a great way to dance to great music, with great people, and burn a ton of calories!
 
 Zumba is a dance class that features high and low intensity intervals that help improve cardiovascular fitness while also enhancing balance, coordination, agility, and to some degree, strength through the application of beginner-accessible choreography.
 

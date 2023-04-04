@@ -7,7 +7,7 @@ layout: static
 
 Football based health programme to support a healthier you
 
-Fit fans has helped football fans to achieve long-term improvements in weight loss, physical activity, diet and general wellbeing with fun football based activity programmes.
+Fit fans has helped football fans to achieve long-term improvement in weight loss, physical activity, diet and general wellbeing with fun football based programmes.
 
 It's the perfect time to get active. No matter how much you do, physical activity is good for your body and mind. Adults should aim to be active every day. Some is good, more is better still.
 

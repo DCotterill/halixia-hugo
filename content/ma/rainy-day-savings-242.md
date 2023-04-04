@@ -9,7 +9,7 @@ Everyone can start an emergency fund
 
 An emergency fund is easy to start and can save you from an unexpected crisis. Here’s everything you need to know to start saving for a rainy day.
 
-According to research up to a third of adults have none or less than £1,000 in savings. Regular saving provides good financial resilience, making you more likely to cope with loss of income, less anxious about finances, more confident in managing money and more satisfied with life as a whole. 
+According to research up to a third of adults have none or less than £1,000 in savings. Regular saving provides good financial resilience, making you more likely to cope with loss of income, less anxious about finances, more confident in managing money and more satisfied with life as a whole.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |

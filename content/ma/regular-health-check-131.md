@@ -7,7 +7,7 @@ layout: static
 
 Learn more about why you should get a health check
 
-Even if exercise, eat right and feel healthy, its useful to get a regular health check to understand if there are any undelying risks to your future health.
+Even if you exercise regularly, eat well and feel healthy it’s important to get regular health check to understand if there are any underlying risks to your future health.
 
 The best way to maintain health is to preserve it. Regular health checks not only help identify underlying medical conditions, but they can also guide you to options that speed up the recovery process and help you maintain and/or improve your overall health and wellbeing.
 

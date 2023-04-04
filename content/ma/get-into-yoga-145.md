@@ -7,9 +7,9 @@ layout: static
 
 Learn about the benefits of adding yoga into your life
 
-Read about the benfits of yoga for everyone. Getting into a regular practice offers so many mental and physical health benefits. Some, like improved flexibility, are clearly evident.
+Read about the benefits of yoga for everyone. Getting into a regular practice offers so many mental and physical health benefits. Some, like improved flexibility, are clearly evident.
 
-Yoga is for everyone, whatever ability or disability, age, experience,  fitness or bendiness and you can do it anywhere and anytime. Finding a yoga practice that’s right for you is worth the effort as it helps deepen the neural grooves that help us enjoy the benefits that regular practice brings.
+Yoga is for everyone, whatever your ability or disability, age, experience, fitness or bendiness. You can do it anywhere and anytime. Finding a yoga practice that’s right for you is worth the effort as it helps deepen the neural grooves that help us enjoy the benefits regular practice brings.
 
 | Provider      | Free or Paid  |  Trustpilot Score  |
 | :-----------          | :--------------:      |  :--------------:         |
