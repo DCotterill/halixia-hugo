@@ -11,17 +11,14 @@ Mindfulness and meditation tools can help you create life-changing habits to sup
 
 It can be easy to rush through life without stopping to notice much. Start paying more attention to the present moment, your own thoughts and feelings, and the world around you to improve your mental wellbeing.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**NHS**](https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
-| [**BBC**](https://www.bbc.co.uk/programmes/m001817f) | Free | [1.4](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
-| [**Oxford Mindfulness**](https://www.oxfordmindfulness.org/free-online-mindfulness-course-sessions/) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**NHS**](https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/) | Free | 
+| [**BBC**](https://www.bbc.co.uk/programmes/m001817f) | Free | 
+| [**Oxford Mindfulness**](https://www.oxfordmindfulness.org/free-online-mindfulness-course-sessions/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

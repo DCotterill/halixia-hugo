@@ -11,17 +11,14 @@ When it comes to paying for care in later life, there’s no one size that fits 
 
 Many families are unprepared for a loved one needing to go into care and are often at crisis point before considering the financial impact. The inevitable anxiety and stress can be eased with more careful advance financial planning and research.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**What Investment**](https://www.whatinvestment.co.uk/the-cost-of-care-in-later-life-2621038/) | Free | [n/a](n/a) | 
-| [**Age UK**](https://www.ageuk.org.uk/information-advice/care/paying-for-care/) | Free | [1.6](https://www.trustpilot.com/review/ageuk.co.uk) | 
-| [**UK Care Guide**](https://ukcareguide.co.uk/paying-for-care/) | Free | [4](https://www.trustpilot.com/review/www.ukcareguide.co.uk) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**What Investment**](https://www.whatinvestment.co.uk/the-cost-of-care-in-later-life-2621038/) | Free | 
+| [**Age UK**](https://www.ageuk.org.uk/information-advice/care/paying-for-care/) | Free | 
+| [**UK Care Guide**](https://ukcareguide.co.uk/paying-for-care/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

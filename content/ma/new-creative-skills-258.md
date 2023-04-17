@@ -11,17 +11,14 @@ Not sure what creative art to try? Skillshare has a range of creative courses fr
 
 It doesn’t matter how old we are research suggests that having a creative hobby can actually benefit our mental and emotional health. The arts can help to keep us well, aid recovery and support people to live longer and healthier lives. So don't leave it to the children!
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Skillshare**](https://www.skillshare.com/) | Paid | [1.6](https://uk.trustpilot.com/review/skillshare.com) | 
-| [**Youtube**](https://www.youtube.com/results?search_query=arts+and+crafts) | Free | [1.6](https://uk.trustpilot.com/review/www.youtube.com) | 
-| [**Autodesk instructables**](https://www.instructables.com/craft/) | Free | [n/a](n/a) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Skillshare**](https://www.skillshare.com/) | Paid | 
+| [**Youtube**](https://www.youtube.com/results?search_query=arts+and+crafts) | Free | 
+| [**Autodesk instructables**](https://www.instructables.com/craft/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

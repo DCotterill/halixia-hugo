@@ -11,17 +11,14 @@ If you have real-world industry experience, you already have what it takes to te
 
 Teach what you know and help learners explore their interests, gain new skills, and advance their careers. It's rewarding in more ways than one, you get to share your passion, as well as continue to develop your knowledge and understanding of that passion.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**UK Government**](https://www.teach-in-further-education.campaign.gov.uk/) | Free | [n/a](n/a) | 
-| [**FutureLearn**](https://www.futurelearn.com/microcredentials/online-teaching) | Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
-| [**Brooks & Kirk**](https://brooksandkirk.co.uk/tips-to-be-a-better-adult-teacher/) | Paid | [4.9](https://www.trustpilot.com/review/brooksandkirk.co.uk) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**UK Government**](https://www.teach-in-further-education.campaign.gov.uk/) | Free | 
+| [**FutureLearn**](https://www.futurelearn.com/microcredentials/online-teaching) | Paid | 
+| [**Brooks & Kirk**](https://brooksandkirk.co.uk/tips-to-be-a-better-adult-teacher/) | Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

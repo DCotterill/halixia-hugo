@@ -11,17 +11,14 @@ Help and support to be active with a long-term health condition. Understanding t
 
 Becoming more active can be daunting, especially if you are managing a health condition. However, everyone can be active, no matter their age or physical condition. It’s completely free, and something we all have the power to start doing more of at any point in our life.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**We are undefeatable**](https://weareundefeatable.co.uk/ways-to-move) | Free | N/A
-| [**My living well**](https://mylivingwell.co.uk/physical-activity/exercising-with-long-term-health-conditions) | Free | N/A
-| [**CSP**](https://www.csp.org.uk/public-patient/keeping-active-healthy/love-activity-hate-exercise-campaign/being-active-long-term) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**We are undefeatable**](https://weareundefeatable.co.uk/ways-to-move) | Free | 
+| [**My living well**](https://mylivingwell.co.uk/physical-activity/exercising-with-long-term-health-conditions) | Free | 
+| [**CSP**](https://www.csp.org.uk/public-patient/keeping-active-healthy/love-activity-hate-exercise-campaign/being-active-long-term) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

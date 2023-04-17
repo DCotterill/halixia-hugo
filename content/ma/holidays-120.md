@@ -11,17 +11,14 @@ Holidays are not just for relaxing; they help us deal with stressors and improve
 
 Taking holidays can be a great chance to escape your daily routine and see new places, whilst also improving your health and wellbeing.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Age UK**](https://www.ageuk.org.uk/information-advice/travel-hobbies/accessible-holidays/free-days-out-around-the-uk/) | Free | N/A
-| [**Leisure care**](https://www.leisurecare.com/resources/benefits-senior-travel/) | Free | N/A
-| [**Tourism for all**](https://www.tourismforall.co.uk/) | Paid | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Age UK**](https://www.ageuk.org.uk/information-advice/travel-hobbies/accessible-holidays/free-days-out-around-the-uk/) | Free | 
+| [**Leisure care**](https://www.leisurecare.com/resources/benefits-senior-travel/) | Free | 
+| [**Tourism for all**](https://www.tourismforall.co.uk/) | Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

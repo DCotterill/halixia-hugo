@@ -11,17 +11,14 @@ If you have a specific skill or talent that others might want to learn about, ho
 
 It's rewarding in more ways than one, you get to share your passion, as well as continue to develop your knowledge and understanding. Hosting a webinar is also a great way to build your reputation and expand your network personally and professionally.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Get set up**](https://share.hsforms.com/1NendfH52RSCvpOFkCq8D1A49suz) | Free | N/A
-| [**Wix**](https://www.wix.com/blog/2020/04/how-to-create-an-online-course/) | Free | [4.6](https://uk.trustpilot.com/review/www.wix.com) | 
-| [**Online course show**](https://www.onlinecoursehow.com/tips/host-course-online/) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Get set up**](https://share.hsforms.com/1NendfH52RSCvpOFkCq8D1A49suz) | Free | 
+| [**Wix**](https://www.wix.com/blog/2020/04/how-to-create-an-online-course/) | Free | 
+| [**Online course show**](https://www.onlinecoursehow.com/tips/host-course-online/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

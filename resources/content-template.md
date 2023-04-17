@@ -11,14 +11,11 @@ layout: static
 
 *additional-text*
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
 *primary-links-table*  
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

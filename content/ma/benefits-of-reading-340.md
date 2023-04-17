@@ -11,17 +11,14 @@ Listen to this podcast and explore how losing yourself in a novel for a short ti
 
 We live in an age where we can spend hours bingeing on TV box sets or surfing social media. But despite these distractions, reading remains a popular pastime. The health benefits are great, as is the opportunity to be transported to another world without even leaving your sofa!
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**BBC**](https://www.bbc.co.uk/programmes/m00187ws) | Free | [1.3](https://www.trustpilot.com/review/www.bbc.co.uk) | 
-| [**BBC**](https://www.bbc.co.uk/teach/skillswise) | free | [1.3](https://www.trustpilot.com/review/www.bbc.co.uk) | 
-| [**UK Government**](https://www.gov.uk/local-library-services) | Free | [n/a](n/a) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**BBC**](https://www.bbc.co.uk/programmes/m00187ws) | Free | 
+| [**BBC**](https://www.bbc.co.uk/teach/skillswise) | Free | 
+| [**UK Government**](https://www.gov.uk/local-library-services) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

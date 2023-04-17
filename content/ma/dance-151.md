@@ -11,17 +11,14 @@ Learn about how you can two-step, boogie and bop your way to improved mood, musc
 
 Dance is a great way to stay in shape and help your heart. The aerobic effect of dance is great for overall fitness whilst the gentle impact of the turns and steps can help to protect against bone diseases. It can leave you feeling great too!
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**BBC**](https://www.bbc.co.uk/programmes/m0017cfl) | Free | [1.4](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
-| [**Healthline**](https://www.healthline.com/health/fitness-exercise/benefits-of-dance) | Free | [1.5](https://uk.trustpilot.com/review/www.healthline.com) | 
-| [**Ceroc**](https://www.ceroc.com/) | Paid | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**BBC**](https://www.bbc.co.uk/programmes/m0017cfl) | Free | 
+| [**Healthline**](https://www.healthline.com/health/fitness-exercise/benefits-of-dance) | Free | 
+| [**Ceroc**](https://www.ceroc.com/) | Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

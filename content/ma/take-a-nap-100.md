@@ -11,17 +11,14 @@ Listen to a podcast explaining the joys of an afternoon nap. It’s not a lazy s
 
 Naps have been shown to have numerous benefits including improving cognitive functions such as memory, logical reasoning, and the ability to complete complex tasks. Naps have also been shown to help improve cardiovascular health.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**BBC**](https://www.bbc.co.uk/programmes/m001744m) | Free | [1.4](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
-| [**Sleep foundation**](https://www.sleepfoundation.org/sleep-hygiene/napping) | Free | [3.3](https://uk.trustpilot.com/review/sleepfoundation.org) | 
-| [**Progressive Hypnosis**](https://www.youtube.com/watch?v=AFiRv1OITco) | Free | [1.6](https://uk.trustpilot.com/review/www.youtube.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**BBC**](https://www.bbc.co.uk/programmes/m001744m) | Free | 
+| [**Sleep foundation**](https://www.sleepfoundation.org/sleep-hygiene/napping) | Free | 
+| [**Progressive Hypnosis**](https://www.youtube.com/watch?v=AFiRv1OITco) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

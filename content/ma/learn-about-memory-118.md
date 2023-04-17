@@ -11,17 +11,14 @@ This podcast explains the different types of memory and how to improve your lear
 
 Brain training turns inactive brain cells into healthy, active ones. The more you use your brain, the better your mental functions become. So, get strengthening your brain daily to start improving your cognitive capabilities.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**hubermanlab**](https://hubermanlab.com/understand-and-improve-memory-using-science-based-tools/) | Free | N/A
-| [**Brain gymmer**](https://www.braingymmer.com/en/) | Free | N/A
-| [**A Cognitive connection**](https://acognitiveconnection.com/why-brain-training-is-important/) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**hubermanlab**](https://hubermanlab.com/understand-and-improve-memory-using-science-based-tools/) | Free | 
+| [**Brain gymmer**](https://www.braingymmer.com/en/) | Free | 
+| [**A Cognitive connection**](https://acognitiveconnection.com/why-brain-training-is-important/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

@@ -11,17 +11,14 @@ Think differently about working as you get older. Staying in work and taking con
 
 Get ahead and keep working the way you want. Employers in the UK waste a huge amount of talent, skills and experience by denying older workers the chance to stay in jobs or find new ones. Many older workers face discrimination and challenges that, with a little support, could be overcome.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**UK Government**](https://www.gov.uk/government/publications/help-and-support-for-older-workers/help-and-support-for-older-workers) | Free | [n/a](n/a) | 
-| [**Centre for Ageing Better**](https://ageing-better.org.uk/work) | Free | [n/a](n/a) | 
-| [**Skills you need**](https://www.skillsyouneed.com/ps/career-management-skills.html) | Free | [n/a](n/a) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**UK Government**](https://www.gov.uk/government/publications/help-and-support-for-older-workers/help-and-support-for-older-workers) | Free | 
+| [**Centre for Ageing Better**](https://ageing-better.org.uk/work) | Free | 
+| [**Skills you need**](https://www.skillsyouneed.com/ps/career-management-skills.html) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

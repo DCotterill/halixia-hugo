@@ -11,17 +11,14 @@ Find out more about this global dance inspired fitness activity. It’s a great 
 
 Zumba is a dance class that features high and low intensity intervals that help improve cardiovascular fitness while also enhancing balance, coordination, agility, and to some degree, strength through the application of beginner-accessible choreography.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Zumba**](https://www.zumba.com/en-US/benefits-of-zumba) | Free | [4.8](https://uk.trustpilot.com/review/www.zumba.com) | 
-| [**Very Well**](https://www.verywellfit.com/zumba-pros-cons-and-how-it-works-4688722) | Free | [3.5](https://uk.trustpilot.com/review/www.verywellfit.com) | 
-| [**Healthline**](https://www.healthline.com/health/fitness-exercise/benefits-of-zumba#Its-a-full-body-workout) | Free | [1.5](https://uk.trustpilot.com/review/www.healthline.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Zumba**](https://www.zumba.com/en-US/benefits-of-zumba) | Free | 
+| [**Better**](https://www.better.org.uk/what-we-offer/activities/fitness-classes/dance#) | Free | 
+| [**Very Well**](https://www.verywellfit.com/zumba-pros-cons-and-how-it-works-4688722) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

@@ -11,17 +11,14 @@ Your local library provides many services such as book loans, CD rental and inte
 
 A public library is the biggest treasure known to local communities. It's always free to join and what you find there might surprise you and do more than inspire just a love of reading.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**UK Government**](https://www.gov.uk/local-library-services) | Free | [n/a](n/a) | 
-| [**Your Story**](https://yourstory.com/mystory/10-benefits-of-joining-your-local-library?utm_pageloadtype=scroll) | Free | [n/a](n/a) | 
-| [**Nalitabali**](https://nalitabali.medium.com/tips-on-how-to-start-your-reading-journey-e66a9e61fe0d) | Free | [n/a](n/a) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**UK Government**](https://www.gov.uk/local-library-services) | Free | 
+| [**Your Story**](https://yourstory.com/mystory/10-benefits-of-joining-your-local-library?utm_pageloadtype=scroll) | Free | 
+| [**Nalitabali**](https://nalitabali.medium.com/tips-on-how-to-start-your-reading-journey-e66a9e61fe0d) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

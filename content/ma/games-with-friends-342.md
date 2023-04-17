@@ -11,17 +11,14 @@ Have fun with friends and family even if not together by playing online games to
 
 Is there anything more enjoyable than playing games with friends? Not only is it a fun way to socialise, but research shows that it also has numerous health benefits. From improving cognitive function to reducing stress levels, playing games with friends can help you stay healthy and happy.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**skribbl**](https://skribbl.io/) | Free | N/A
-| [**Uno**](https://www.letsplayuno.com/) | Free | N/A
-| [**Among us**](https://www.innersloth.com/games/among-us/) | Free | [2.7](https://uk.trustpilot.com/review/innersloth.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**skribbl**](https://skribbl.io/) | Free | 
+| [**Uno**](https://www.letsplayuno.com/) | Free | 
+| [**Among us**](https://www.innersloth.com/games/among-us/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

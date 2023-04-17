@@ -11,17 +11,14 @@ Dip your toe into a pick of the best podcasts on Spotify, Apple Podcasts and mor
 
 If you've not discovered them yet, podcasts are a great learning tool. You can listen anywhere and access a wide range of topics.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Wired**](https://www.wired.com/story/podcasts-beginners-guide/) | Free | [1.3](https://www.trustpilot.com/review/wired.co.uk) | 
-| [**Buffer**](https://buffer.com/library/podcasting-for-beginners/) | free | [2.8](https://www.trustpilot.com/review/buffer.com) | 
-| [**TED Talks**](https://www.ted.com/podcasts) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Wired**](https://www.wired.com/story/podcasts-beginners-guide/) | Free | 
+| [**Buffer**](https://buffer.com/library/podcasting-for-beginners/) | Free | 
+| [**TED Talks**](https://www.ted.com/podcasts) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

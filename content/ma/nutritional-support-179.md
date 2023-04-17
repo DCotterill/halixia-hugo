@@ -11,17 +11,14 @@ Read about the nutrition and lifestyle factors that may play a role in ensuring 
 
 Good nutrition is getting the right amount of nutrients in the right combinations to help boost and strengthen out immune system, leading to healthier, more energetic, longer life.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**British Nutrition Foundation**](https://www.nutrition.org.uk/life-stages/older-people/) | Free | N/A
-| [**Active health**](https://www.activehealth.sg/read/nutrition/what-is-good-nutrition-and-why-is-it-important) | Free | N/A
-| [**Nutritional meal plans**](https://nutritionmealplans.com/) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**British Nutrition Foundation**](https://www.nutrition.org.uk/life-stages/older-people/) | Free | 
+| [**Active health**](https://www.activehealth.sg/read/nutrition/what-is-good-nutrition-and-why-is-it-important) | Free | 
+| [**Nutritional meal plans**](https://nutritionmealplans.com/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

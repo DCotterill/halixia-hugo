@@ -5,7 +5,7 @@ content_pages = {}
 count = 0
 # with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - Full Content Samples.csv'
 #         , newline='') as csvfile:
-with open('resources/MA Database 170323 for upload-2.csv'
+with open('resources/MA Database 170423 for upload.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
@@ -76,11 +76,11 @@ with open('resources/MA Database 170323 for upload-2.csv'
                 line = ""
                 if link_name:
                     line = line + "| [**" + link_name + "**](" + link + ") | "
-                    line = line + paid_free + " | "
-                    if tp_rating == "N/A":
-                        line = line + tp_rating + "\n"
-                    else:
-                        line = line + "[" + tp_rating + "](" + tp_link + ") | \n"
+                    line = line + paid_free + " | \n"
+                    # if tp_rating == "N/A":
+                    #     line = line + tp_rating + "\n"
+                    # else:
+                    #     line = line + "[" + tp_rating + "](" + tp_link + ") | \n"
                 return line
 
 

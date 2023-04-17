@@ -11,17 +11,14 @@ Try guided meditation hosted by a psychotherapist. Walking you through calm disc
 
 Apart from enhancing your happiness and improving your overall well-being, meditation also helps your memory stay sharp and your concentration remain steady. Start working meditation into your life to reap the benefits.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Tara brach**](https://www.tarabrach.com/guided-meditations/) | Free | N/A
-| [**The heart of meditation**](https://theartofmeditation.org/meditation-courses) | Paid | N/A
-| [**Yoga journal**](https://www.yogajournal.com/meditation/best-free-online-guided-meditations-for-beginners/) | Paid | [2.9](https://uk.trustpilot.com/review/yogajournal.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Tara brach**](https://www.tarabrach.com/guided-meditations/) | Free | 
+| [**The heart of meditation**](https://theartofmeditation.org/meditation-courses) | Paid | 
+| [**Yoga journal**](https://www.yogajournal.com/meditation/best-free-online-guided-meditations-for-beginners/) | Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

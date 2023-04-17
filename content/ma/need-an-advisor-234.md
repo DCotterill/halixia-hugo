@@ -11,15 +11,12 @@ If you’re looking to invest, buy a financial product, manage your money more e
 
 Feeling in control of both your day-to-day finances and long-term goals can have a positive impact on our everyday lives. Financial advisors can help in many situations, particularly as retirement comes closer. Expect to pay a fee.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Which?**](https://www.which.co.uk/money/investing/financial-advice/how-to-find-a-financial-adviser-affjl6z26bl4) | Free | [1.6](https://www.trustpilot.com/review/www.which.co.uk) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Which?**](https://www.which.co.uk/money/investing/financial-advice/how-to-find-a-financial-adviser-affjl6z26bl4) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

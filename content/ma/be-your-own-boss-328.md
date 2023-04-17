@@ -11,17 +11,14 @@ Starting a business or becoming self-employed is a life-long dream for many, how
 
 As you get older finding meaningful work that works flexibly can be difficult, despite your experience and knowledge. Starting a business takes care of that obstacle. After a lifetime of work in your chosen career, it could be the perfect time to revisit your passions and turn them into a business.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/looking-for-work/be-your-own-boss/) | Free | [1.6](https://www.trustpilot.com/review/ageuk.co.uk) | 
-| [**Futurelearn**](https://www.futurelearn.com/courses/starting-a-business-1) | Free/Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
-| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/looking-for-work/be-your-own-boss/) | Free | 
+| [**Futurelearn**](https://www.futurelearn.com/courses/starting-a-business-1) | Free/Paid | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

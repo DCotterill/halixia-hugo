@@ -11,17 +11,14 @@ You might already be walking or running regularly, but a tracking app like MapMy
 
 Research has shown that consistently using a fitness tracker, can help motivate you to increase physical activity by making you more accountable to yourself. Community and personal challenge features help to mix things up and keep you motivated for longer.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Map my walk**](https://www.mapmywalk.com/) | Free/Paid | [3.1](https://uk.trustpilot.com/review/www.mapmywalk.com) | 
-| [**NHS**](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/) | Free | [1.5](https://uk.trustpilot.com/review/www.england.nhs.uk) | 
-| [**Strava**](https://www.strava.com/) | Free/Paid | [1.9](https://uk.trustpilot.com/review/strava.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Map my walk**](https://www.mapmywalk.com/) | Free/Paid | 
+| [**NHS**](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/) | Free | 
+| [**Strava**](https://www.strava.com/) | Free/Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

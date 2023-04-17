@@ -36,7 +36,7 @@ weight = 3
 [params]
 blogPageURL = "blog"
 contactLink = "#earlyaccess"
-copyright = "All right reserved copyright © Halixia 2023"
+copyright = "All rights reserved copyright © Halixia 2023"
 # footerLogo = "images/site-navigation/Logo-Icon.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"

@@ -11,17 +11,14 @@ This Girl Can, celebrates active women and believes that there’s no “right�
 
 It's the perfect time to get active. No matter how much you do, physical activity is good for your body and mind. Adults should aim to be active every day. Some is good, more is even better.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**This Girl Can**](https://www.thisgirlcan.co.uk/) | Free | N/A
-| [**Active**](https://www.active.com/fitness/articles/5-fun-activities-to-help-you-get-fit) | Free | [1.4](https://uk.trustpilot.com/review/active.com) | 
-| [**The Studio by Jamie Kinkeade**](https://www.youtube.com/watch?v=yN3GgCUmmXw) | Free | [1.6](https://uk.trustpilot.com/review/www.youtube.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**This Girl Can**](https://www.thisgirlcan.co.uk/) | Free | 
+| [**Active**](https://www.active.com/fitness/articles/5-fun-activities-to-help-you-get-fit) | Free | 
+| [**The Studio by Jamie Kinkeade**](https://www.youtube.com/watch?v=yN3GgCUmmXw) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

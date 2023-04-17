@@ -11,17 +11,14 @@ Challenge your cognitive skills, focus, memory, problem solving, mental agility 
 
 Brain training turns inactive brain cells into healthy, active ones. The more you use your brain, the better your mental functions become. So, get strengthening your brain every day to start improving your cognitive capabilities.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Peak**](https://www.peak.net/) | Free | N/A
-| [**Mindamate**](https://www.mindmate-app.com/) | Free | N/A
-| [**Protectstudy**](https://www.protectstudy.org.uk/) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Peak**](https://www.peak.net/) | Free | 
+| [**Mindamate**](https://www.mindmate-app.com/) | Free | 
+| [**Protectstudy**](https://www.protectstudy.org.uk/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

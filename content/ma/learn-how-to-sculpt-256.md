@@ -11,17 +11,14 @@ You can create sculpture! Even if you’re just a beginner, you won’t believe 
 
 So, get creative and use sculpture as a way to take your mind off the world's problems and learn a new creative skill. Creating with clay is a great natural high and something we can all try.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**LearnSculpture**](https://learnsculpture.org/) | Free | [n/a](n/a) | 
-| [**Tutorials Press**](https://tutorialspress.com/useful-sculpting-tutorials/) | Free | [n/a](n/a) | 
-| [**Udemy**](https://www.udemy.com/course/easily-learn-sculpture-and-modeling-in-clay/) | Paid | [2](https://uk.trustpilot.com/review/udemy.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**LearnSculpture**](https://learnsculpture.org/) | Free | 
+| [**Tutorials Press**](https://tutorialspress.com/useful-sculpting-tutorials/) | Free | 
+| [**Udemy**](https://www.udemy.com/course/easily-learn-sculpture-and-modeling-in-clay/) | Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

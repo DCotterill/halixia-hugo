@@ -11,17 +11,14 @@ If anyone depends on your income, planning for their future if the worst were to
 
 Life insurance makes a huge difference to bereaved families. The loss of a partner will inevitably impact the family’s finances and their level of financial comfort. A life insurance pay out can help them manage financially, with the mortgage, bills, childcare, or maintain a standard of living.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/insurance/cheap-life-insurance/#basics) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
-| [**Moneyhelper**](https://www.moneyhelper.org.uk/en/everyday-money/insurance/what-is-life-insurance) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
-| [**Aviva**](https://www.aviva.co.uk/insurance/life-products/life-insurance/vulnerable-to-financial-shock/) | Free/paid | [4.4](https://www.trustpilot.com/review/www.aviva.co.uk) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/insurance/cheap-life-insurance/#basics) | Free | 
+| [**Moneyhelper**](https://www.moneyhelper.org.uk/en/everyday-money/insurance/what-is-life-insurance) | Free | 
+| [**Aviva**](https://www.aviva.co.uk/insurance/life-products/life-insurance/vulnerable-to-financial-shock/) | Free/Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

@@ -11,17 +11,14 @@ Learn more about Leanin, where working women come together to learn from each ot
 
 Bringing women together can have powerful impact on your physical and mental wellbeing as well as benefits for your career and life outside of work.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Leanin**](https://leanin.org/about) | Free | N/A
-| [**NWR**](https://nwr.org.uk/) | Free | N/A
-| [**Together friends**](https://www.togetherfriends.com/) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Leanin**](https://leanin.org/about) | Free | 
+| [**NWR**](https://nwr.org.uk/) | Free | 
+| [**Together friends**](https://www.togetherfriends.com/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

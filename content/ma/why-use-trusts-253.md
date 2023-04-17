@@ -11,15 +11,12 @@ Avoid potential inheritance tax and long delays in pay-out through using a trust
 
 Life insurance helps bereaved families manage financially, with the mortgage, bills, childcare, or maintain a standard of living. Getting that money quickly can make all the difference at a difficult time.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Which?**](https://www.which.co.uk/money/insurance/life-insurance/how-to-write-life-insurance-in-trust-a1pdy5r28lwf) | Free/paid | [1.6](https://www.trustpilot.com/review/www.which.co.uk) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Which?**](https://www.which.co.uk/money/insurance/life-insurance/how-to-write-life-insurance-in-trust-a1pdy5r28lwf) | Free/Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

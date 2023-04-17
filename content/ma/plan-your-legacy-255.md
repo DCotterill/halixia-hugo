@@ -11,15 +11,12 @@ The Society of Later Life Advisors is a not for profit organisation that matches
 
 Financial wellbeing put simply is all about building a good relationship with money and feeling in control of both your day-to-day finances and long-term goals. This is also true when planning how you are going to pass your money to your loved ones.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**SOLLA**](https://societyoflaterlifeadvisers.co.uk/) | Free | [n/a](n/a) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**SOLLA**](https://societyoflaterlifeadvisers.co.uk/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

@@ -11,17 +11,14 @@ Reconnect with an old friend, after you have kids, it's easy to let friends slip
 
 Don’t wait to reconnect with the people who were once important to you. They will likely respond with gratitude and delight. Make the effort. It’s time to reconnect with a few old friends.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Fatherly**](https://www.fatherly.com/love-money/best-way-reach-out-old-friend-advice) | Free | [2](https://uk.trustpilot.com/review/www.fatherly.com) | 
-| [**New York Times**](https://www.nytimes.com/2022/07/11/well/family/check-in-text-friendship.html) | Free | [1.6](https://uk.trustpilot.com/review/www.nytimes.com) | 
-| [**Very well mind**](https://www.verywellmind.com/how-to-reconnect-with-an-old-friend-without-making-it-awkward-5225930) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Fatherly**](https://www.fatherly.com/love-money/best-way-reach-out-old-friend-advice) | Free | 
+| [**New York Times**](https://www.nytimes.com/2022/07/11/well/family/check-in-text-friendship.html) | Free/Paid | 
+| [**Very well mind**](https://www.verywellmind.com/how-to-reconnect-with-an-old-friend-without-making-it-awkward-5225930) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

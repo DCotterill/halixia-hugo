@@ -11,17 +11,14 @@ Take an online creative writing class to learn how to write. Whether your intere
 
 To learn creative writing, like any art form, requires compassion, contemplation, and curiosity. There are benefits in making you a better communicator, improve your thinking skills, increase empathy and could even lead to greater job success.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Centre of Excellence**](https://www.centreofexcellence.com/shop/writing-courses/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
-| [**The Write Practice**](https://thewritepractice.com/daily-routines/) | Paid | [n/a](n/a) | 
-| [**Indeed**](https://www.indeed.com/career-advice/finding-a-job/how-to-become-creative-writer) | free | [1.9](https://uk.trustpilot.com/review/www.indeed.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Centre of Excellence**](https://www.centreofexcellence.com/shop/writing-courses/) | Paid | 
+| [**The Write Practice**](https://thewritepractice.com/daily-routines/) | Paid | 
+| [**Indeed**](https://www.indeed.com/career-advice/finding-a-job/how-to-become-creative-writer) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

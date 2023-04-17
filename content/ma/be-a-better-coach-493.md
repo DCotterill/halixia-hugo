@@ -11,17 +11,14 @@ Read about how as a coach, you will keep learning and improving your skills to s
 
 You already know that coaching helps individuals see themselves more clearly. But as a coach its important you continue to learn and grow to fulfil your own development goals and feel positive about helping others.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Udemy**](https://www.udemy.com/course/coaching-and-mentoring-techniques/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-DSA_Webindex_la.EN_cc.BE&utm_content=deal4584&utm_term=_._ag_1222657343651662_._ad__._kw_udemy_._de_c_._dm__._pl__._ti_dat-2328215871879260%3Aloc-188_._li_132721_._pd__._&matchtype=b&msclkid=fa44bee2db1b1d264427daf82ce85ac1) | Paid | [2.2](https://uk.trustpilot.com/review/udemy.com) | 
-| [**Thinkific**](https://www.thinkific.com/blog/how-to-improve-your-coaching-skills/) | Free | [4.6](https://uk.trustpilot.com/review/thinkific.com) | 
-| [**Padfield partnership**](https://padfieldpartnership.com/why-and-how-to-improve-your-coaching-skills/) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Udemy**](https://www.udemy.com/course/coaching-and-mentoring-techniques/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-DSA_Webindex_la.EN_cc.BE&utm_content=deal4584&utm_term=_._ag_1222657343651662_._ad__._kw_udemy_._de_c_._dm__._pl__._ti_dat-2328215871879260%3Aloc-188_._li_132721_._pd__._&matchtype=b&msclkid=fa44bee2db1b1d264427daf82ce85ac1) | Paid | 
+| [**Thinkific**](https://www.thinkific.com/blog/how-to-improve-your-coaching-skills/) | Free | 
+| [**Padfield partnership**](https://padfieldpartnership.com/why-and-how-to-improve-your-coaching-skills/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

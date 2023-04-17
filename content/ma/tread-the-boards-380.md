@@ -11,17 +11,14 @@ Information and listings for amateur theatrical groups, schools, societies, choi
 
 Taking part in amateur theatre, is a fun way to meet new people, form connections and have fun while helping to build your confidence and communication and public speaking skills.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Noda**](https://www.noda.org.uk/) | Free | N/A
-| [**Amdram**](https://amdram.community/groups) | Free | N/A
-| [**NDFA**](https://ndfa.co.uk/national-drama-festival/) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Noda**](https://www.noda.org.uk/) | Free | 
+| [**Amdram**](https://amdram.community/groups) | Free | 
+| [**NDFA**](https://ndfa.co.uk/national-drama-festival/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

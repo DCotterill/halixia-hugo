@@ -11,17 +11,14 @@ Udemy offers free course creation with easy-to-follow steps to help in the creat
 
 Teach what you know and help learners explore their interests, gain new skills, and advance their careers. It's rewarding in more ways than one, you get to share your passion, as well as continue to develop your knowledge and understanding of that passion.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Udemy**](https://www.udemy.com/teaching/?ref=teach_footer) | Free/paid | [2](https://uk.trustpilot.com/review/udemy.com) | 
-| [**FutureLearn**](https://www.futurelearn.com/microcredentials/online-teaching) | Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
-| [**UK Government**](https://www.teach-in-further-education.campaign.gov.uk/) | Free | [n/a](n/a) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Udemy**](https://www.udemy.com/teaching/?ref=teach_footer) | Free/Paid | 
+| [**FutureLearn**](https://www.futurelearn.com/microcredentials/online-teaching) | Paid | 
+| [**UK Government**](https://www.teach-in-further-education.campaign.gov.uk/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

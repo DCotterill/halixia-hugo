@@ -11,17 +11,14 @@ Discover what your mind can do with activities to help exercise your memory, pro
 
 Brain training turns inactive brain cells into healthy, active ones. The more you use your brain, the better your mental functions become. So, get strengthening your brain every day to start improving your cognitive capabilities.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Lumosity**](https://www.lumosity.com/en/) | Free | [2.2](https://uk.trustpilot.com/review/www.lumosity.com) | 
-| [**Braingymer**](https://www.braingymmer.com/en/brain-games/) | Free | N/A
-| [**Elevate**](https://elevateapp.com) | Free/paid | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Lumosity**](https://www.lumosity.com/en/) | Free | 
+| [**Braingymer**](https://www.braingymmer.com/en/brain-games/) | Free | 
+| [**Elevate**](https://elevateapp.com) | Free/Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

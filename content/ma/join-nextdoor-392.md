@@ -11,17 +11,14 @@ Learn more about Nextdoor, the social network for your local area. It's where yo
 
 Social media can pave a good way for networking with people far and wide, with these communities having a local focus. You can connect with anyone you want on these platforms and build contacts for your personal and professional life.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Nextdoor**](https://about.nextdoor.com/) | Free | [3.7](https://uk.trustpilot.com/review/nextdoor.co.uk) | 
-| [**NCSC**](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely) | Free | [3.2](https://uk.trustpilot.com/review/www.ncsc.gov.uk) | 
-| [**Smart Social**](https://smartsocial.com/post/using-social-media-responsibly) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Nextdoor**](https://about.nextdoor.com/) | Free | 
+| [**NCSC**](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely) | Free | 
+| [**Smart Social**](https://smartsocial.com/post/using-social-media-responsibly) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

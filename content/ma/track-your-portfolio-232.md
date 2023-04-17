@@ -11,17 +11,14 @@ Track your investments, get a clear picture of your assets and understand your p
 
 Feeling in control of both your day-to-day finances and long-term goals can have a positive impact on our everyday lives. Monitoring your investments regularly will give you more opportunity to meet your short term needs and longer term goals.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Morningstar**](https://www.morningstar.co.uk/uk/portfoliomanager/start) | Free | [2.3](https://www.trustpilot.com/review/morningstar.co.uk) | 
-| [**Lumio**](https://yourmoney.lumio-app.com/best-uk-portfolio-trackers/) | Free/Paid | [4.2](https://www.trustpilot.com/review/lumio-app.com) | 
-| [**Investor Junkie**](https://investorjunkie.com/investing/how-to-track-your-investments/) | Free | [n/a](n/a) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Morningstar**](https://www.morningstar.co.uk/uk/portfoliomanager/start) | Free | 
+| [**Lumio**](https://yourmoney.lumio-app.com/best-uk-portfolio-trackers/) | Free/Paid | 
+| [**Investor Junkie**](https://investorjunkie.com/investing/how-to-track-your-investments/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

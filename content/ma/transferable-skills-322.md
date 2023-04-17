@@ -11,17 +11,14 @@ You are already likely to possess many transferable skills employers value. High
 
 Many job seekers can’t capture their transferable skills adequately, communicate them well or even identify how their skills can apply across industries. If you are seeking a career change, transferable skills can be the factor that most impacts your ability to find work in a new field.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Coursera**](https://www.coursera.org/articles/transferable-skills) | Paid | [1.6](https://uk.trustpilot.com/review/coursera.org) | 
-| [**Indeed**](https://www.indeed.com/career-advice/resumes-cover-letters/transferable-skills) | free | [1.9](https://www.trustpilot.com/review/www.indeed.com) | 
-| [**Career Foundry**](https://www.youtube.com/watch?v=g3jX_QsGiiI) | Free | [3.1](https://www.trustpilot.com/review/careerfoundry.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Coursera**](https://www.coursera.org/articles/transferable-skills) | Paid | 
+| [**Indeed**](https://www.indeed.com/career-advice/resumes-cover-letters/transferable-skills) | Free | 
+| [**Career Foundry**](https://www.youtube.com/watch?v=g3jX_QsGiiI) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

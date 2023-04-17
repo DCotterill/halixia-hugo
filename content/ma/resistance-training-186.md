@@ -11,17 +11,14 @@ Instepp is designed to activate, tone, and strengthen your whole body using esta
 
 Resistance training improves muscle strength and tone and protects your joints from injury. It is also a relatively accessible option that can help you to reach weight management goals as well as maintain flexibility and balance.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Strava**](https://www.strava.com/) | Free/paid | [1.5](https://uk.trustpilot.com/review/www.gaiam.com) | 
-| [**Sharp muscle**](https://www.sharpmuscle.com/fitness/resistance-training-strength-training/) | Free | N/A
-| [**Harvard**](https://www.health.harvard.edu/exercise-and-fitness/strength-and-power-training-for-all-ages) | Paid | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Strava**](https://www.strava.com/) | Free/Paid | 
+| [**Sharp muscle**](https://www.sharpmuscle.com/fitness/resistance-training-strength-training/) | Free | 
+| [**Harvard**](https://www.health.harvard.edu/exercise-and-fitness/strength-and-power-training-for-all-ages) | Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

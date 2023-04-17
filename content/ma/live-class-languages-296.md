@@ -11,17 +11,14 @@ Learn a new language quickly and efficiently in a fun and interesting environmen
 
 Learning a language improves memory, increases attention span and strengthens both problem-solving abilities and concentration. Multilingual people have also been shown to be more logical, have stronger decision-making skills and be more perceptive and aware of their surroundings.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Babbel**](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | [3.8](https://www.trustpilot.com/review/babbel.com) | 
-| [**Findcourses.co.uk**](https://www.findcourses.co.uk/search/language-training-courses) | Paid | [3.7](https://www.trustpilot.com/review/www.findcourses.co.uk) | 
-| [**Fluent u**](https://www.fluentu.com/) | Paid | [4.6](https://www.trustpilot.com/review/fluentu.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Babbel**](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | 
+| [**Findcourses.co.uk**](https://www.findcourses.co.uk/search/language-training-courses) | Paid | 
+| [**Fluent u**](https://www.fluentu.com/) | Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

@@ -11,17 +11,14 @@ Private healthcare is paid-for medical treatment. It’s an alternative to free 
 
 Private medical insurance is designed to cover you for non-routine tests and treatment for acute conditions; typically those that are serious, curable and usually short-lived. It gives peace of mind that you can get treatment quickly and be back on your feet sooner.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Which?**](https://www.which.co.uk/money/insurance/health-insurance/get-the-best-private-health-insurance-a22mw2v9035j) | Free/paid | [1.6](https://www.trustpilot.com/review/www.which.co.uk) | 
-| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/insurance/cheap-health-insurance/) | Free | [2.1](https://www.trustpilot.com/review/www.moneysavingexpert.com) | 
-| [**Moneyhelper**](https://www.moneyhelper.org.uk/en/everyday-money/insurance/do-you-need-private-medical-insurance) | Free | [2.7](https://www.trustpilot.com/review/www.moneyhelper.org.uk) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Which?**](https://www.which.co.uk/money/insurance/health-insurance/get-the-best-private-health-insurance-a22mw2v9035j) | Free/Paid | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/insurance/cheap-health-insurance/) | Free | 
+| [**Moneyhelper**](https://www.moneyhelper.org.uk/en/everyday-money/insurance/do-you-need-private-medical-insurance) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

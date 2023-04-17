@@ -11,17 +11,14 @@ Nutritional therapy is the practice of using food, supplements and healthy diets
 
 Good nutrition is getting the right amount of nutrients in the right combinations to help boost and strengthen our immune system, leading to healthier, more energetic, longer life.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Nutritionist-Resource**](https://www.nutritionist-resource.org.uk/) | Free/Paid | [3.6](https://uk.trustpilot.com/review/nutritionist-resource.org.uk) | 
-| [**Nutrition**](https://www.nutrition.org.uk/putting-it-into-practice/planning/7-day-meal-plan/) | Free | N/A
-| [**Active health**](https://www.activehealth.sg/read/nutrition/what-is-good-nutrition-and-why-is-it-important) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Nutritionist-Resource**](https://www.nutritionist-resource.org.uk/) | Free/Paid | 
+| [**Nutrition**](https://www.nutrition.org.uk/putting-it-into-practice/planning/7-day-meal-plan/) | Free | 
+| [**Active health**](https://www.activehealth.sg/read/nutrition/what-is-good-nutrition-and-why-is-it-important) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

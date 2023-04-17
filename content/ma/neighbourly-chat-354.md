@@ -11,17 +11,14 @@ Volunteer your time and energy to help older people live a happy, connected, and
 
 Over one million older people say they go more than a month without speaking to a friend, neighbour or family member. But small acts of kindness can create a big difference for you and others.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Careline**](https://www.careline.co.uk/elderly-neighbours/) | Free | [4.6](https://uk.trustpilot.com/review/www.careline.co.uk) | 
-| [**National care line**](https://thenationalcareline.org/SafetyAtHome/CheckOnYourNeighbour) | Free | N/A
-| [**Community access network**](https://www.communityaccessnetwork.org/ways-to-check-in-on-your-neighbors/) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Careline**](https://www.careline.co.uk/elderly-neighbours/) | Free | 
+| [**National care line**](https://thenationalcareline.org/SafetyAtHome/CheckOnYourNeighbour) | Free | 
+| [**Community access network**](https://www.communityaccessnetwork.org/ways-to-check-in-on-your-neighbors/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

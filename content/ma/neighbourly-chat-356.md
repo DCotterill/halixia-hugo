@@ -11,17 +11,14 @@ Check out our five simple tips for making a new connection in under five minutes
 
 Over one million older people say they go more than a month without speaking to a friend, neighbour or family member. Small acts of kindness can create a huge difference.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Careline**](https://www.careline.co.uk/elderly-neighbours/) | Free | [4.6](https://uk.trustpilot.com/review/www.careline.co.uk) | 
-| [**BBC**](https://www.bbc.co.uk/food/casserole) | Free | [1.2](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
-| [**Community access network**](https://www.communityaccessnetwork.org/ways-to-check-in-on-your-neighbors/) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Careline**](https://www.careline.co.uk/elderly-neighbours/) | Free | 
+| [**BBC**](https://www.bbc.co.uk/food/casserole) | Free | 
+| [**Community access network**](https://www.communityaccessnetwork.org/ways-to-check-in-on-your-neighbors/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

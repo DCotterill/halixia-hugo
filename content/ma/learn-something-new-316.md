@@ -11,17 +11,14 @@ Learn something new with live classes for older adults, by older adults - anythi
 
 GetSetUp is an online community of people who want to learn new skills, connect with others and unlock new life experiences. GetSetUp believes people over 55 can do anything when they have the tools to discover, learn and connect.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**get set up**](https://www.getsetup.io/) | Free/paid | [n/a](n/a) | 
-| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | [4.8](https://uk.trustpilot.com/review/www.centreofexcellence.com) | 
-| [**Future Learn**](https://www.futurelearn.com/) | Paid | [4.6](https://www.trustpilot.com/review/www.futurelearn.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**get set up**](https://www.getsetup.io/) | Free/Paid | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
+| [**Future Learn**](https://www.futurelearn.com/) | Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

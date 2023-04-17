@@ -11,17 +11,14 @@ Learn about the benefits of using self-affirmations in your life including reduc
 
 Start working on improving your stress, anxiety, and self-worth with the use of self-affirmations to get all the benefits that come with it.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Happier human**](https://www.happierhuman.com/benefits-affirmations/) | Free | N/A
-| [**refined by age**](https://refinedbyage.com/2019/12/17/7-affirmations-for-positive-aging/) | Free | N/A
-| [**Get help**](https://www.betterup.com/blog/positive-affirmations) | Free | [2.9](https://uk.trustpilot.com/review/betterup.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Happier human**](https://www.happierhuman.com/benefits-affirmations/) | Free | 
+| [**Refined by Age**](https://refinedbyage.com/2019/12/17/7-affirmations-for-positive-aging/) | Free | 
+| [**Get help**](https://www.betterup.com/blog/positive-affirmations) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

@@ -11,17 +11,14 @@ Read tips on how you can help and support your co-workers to foster a better wor
 
 Helping and supporting others, such as your co-workers, doesn’t just make things better for them, it helps make you better as well. The act of helping those around us can help to boost your happiness, health, and sense of well-being.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Indeed**](https://www.indeed.com/career-advice/career-development/helping-and-supporting-others-at-work) | Free | [2.6](https://uk.trustpilot.com/review/www.indeed.com) | 
-| [**The muse**](https://www.themuse.com/advice/how-to-support-a-coworker-through-a-personal-crisis-without-crossing-the-line) | Free | [3.3](https://uk.trustpilot.com/review/themuse.com) | 
-| [**Indeed**](https://uk.indeed.com/career-advice/career-development/supportive-colleagues) | Free | [2.6](https://uk.trustpilot.com/review/www.indeed.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Indeed**](https://www.indeed.com/career-advice/career-development/helping-and-supporting-others-at-work) | Free | 
+| [**The muse**](https://www.themuse.com/advice/how-to-support-a-coworker-through-a-personal-crisis-without-crossing-the-line) | Free | 
+| [**Indeed**](https://uk.indeed.com/career-advice/career-development/supportive-colleagues) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

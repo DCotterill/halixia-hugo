@@ -11,17 +11,14 @@ With busy modern lives we often tend to put ourselves last, but self-care is cru
 
 Start engaging in self-care, to help you to relieve the pressures of everyday life and reset yourself to get back to a healthy point where productivity is once again maximised.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**The couples centre**](https://www.thecouplescenter.org/why-self-care-is-so-important-for-longevity-and-wellness/) | Free | N/A
-| [**Simple lion heart life**](https://simplelionheartlife.com/how-to-slow-down/) | Free | N/A
-| [**me time therapy**](https://www.me-time-therapy.co.uk/me-time-activities-to-try/) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**The couples centre**](https://www.thecouplescenter.org/why-self-care-is-so-important-for-longevity-and-wellness/) | Free | 
+| [**Simple lion heart life**](https://simplelionheartlife.com/how-to-slow-down/) | Free | 
+| [**Me Time Therapies**](https://www.me-time-therapy.co.uk/me-time-activities-to-try/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

@@ -11,17 +11,14 @@ Calligraphy can be described as the ancient art of writing words aesthetically. 
 
 Not only is Calligraphy considered an art form, which can enhance the meaning and beauty of words, it also has numerous benefits for the physical and mental well-being of the individual. Calligraphy is known to improve cognitive function as well as help in increasing patience and focus of mind.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Learncalligraphy**](https://www.learncalligraphy.co.uk/index.html) | Paid | [n/a](n/a) | 
-| [**Autodesk Instructables**](https://www.instructables.com/A-Beginners-Guide-to-Calligraphy/) | Free | [n/a](N/a) | 
-| [**Calligraphy Skills**](https://www.calligraphy-skills.com/) | Free | [n/a](n/a) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Learncalligraphy**](https://www.learncalligraphy.co.uk/index.html) | Paid | 
+| [**Autodesk Instructables**](https://www.instructables.com/A-Beginners-Guide-to-Calligraphy/) | Free | 
+| [**Calligraphy Skills**](https://www.calligraphy-skills.com/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

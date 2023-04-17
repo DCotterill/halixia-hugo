@@ -11,17 +11,14 @@ Vitamin D is known as” the sunshine vitamin” as it is the only nutrient our 
 
 UK Government advice is that everyone should take a vitamin D supplement during the autumn and winter months. Vitamin D helps regulate the amount of calcium and phosphate in the body, needed to keep bones, teeth and muscles healthy. The need increases as we age to help against the risk of bone fragility.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**The geriatric dietician**](https://thegeriatricdietitian.com/vitamin-d-in-the-elderly/) | Free | N/A
-| [**Eating well**](https://www.eatingwell.com/gallery/12814/recipes-to-get-more-vitamin-d/) | Free | [3.2](https://uk.trustpilot.com/review/eatingwell.com) | 
-| [**Healthline**](https://www.healthline.com/health/nutrition/vitamin-d-foods) | Free | [1.5](https://uk.trustpilot.com/review/www.healthline.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**The geriatric dietician**](https://thegeriatricdietitian.com/vitamin-d-in-the-elderly/) | Free | 
+| [**Eating well**](https://www.eatingwell.com/gallery/12814/recipes-to-get-more-vitamin-d/) | Free | 
+| [**Healthline**](https://www.healthline.com/health/nutrition/vitamin-d-foods) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

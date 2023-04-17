@@ -11,17 +11,14 @@ Online learning platform Coursea offers more than 5,000 courses, Professional Ce
 
 Coursera is one of the most popular online learning platforms with a huge range of courses. It offers a range of payment options with 2,600+ free courses to kickstart your learning habit.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Coursera**](https://www.coursera.org/) | Free/paid | [1.6](https://uk.trustpilot.com/review/coursera.org) | 
-| [**Upskillwise**](https://upskillwise.com/online-learning-platforms/) | Free | [n/a](n/a) | 
-| [**Masterclass**](https://www.masterclass.com/) | Paid | [2.6](https://www.trustpilot.com/review/masterclass.com) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Coursera**](https://www.coursera.org/) | Free/Paid | 
+| [**Upskillwise**](https://upskillwise.com/online-learning-platforms/) | Free | 
+| [**Masterclass**](https://www.masterclass.com/) | Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

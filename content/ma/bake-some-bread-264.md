@@ -11,17 +11,14 @@ Making fresh bread at home is a tasty, satisfying and rewarding skill. From mixi
 
 Homemade bread is more nutritious and tastier than the store-bought variety as you can control what goes in it. Aside from the nutritional value, baking your own bread is good for your mental health. Mixing the ingredients, kneading the bread, and watching the dough rise can be soothing.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**BBC**](https://www.bbcgoodfood.com/howto/guide/6-steps-brilliant-bread) | Free | [1.3](https://www.trustpilot.com/review/www.bbc.co.uk) | 
-| [**Udemy**](https://www.udemy.com/topic/bread-baking/) | Paid | [2](https://uk.trustpilot.com/review/udemy.com) | 
-| [**BBC**](https://www.bbcmaestro.com/courses/richard-bertinet/bread-making) | paid | [1.3](https://www.trustpilot.com/review/www.bbc.co.uk) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**BBC**](https://www.bbcgoodfood.com/howto/guide/6-steps-brilliant-bread) | Free | 
+| [**Udemy**](https://www.udemy.com/topic/bread-baking/) | Paid | 
+| [**BBC**](https://www.bbcmaestro.com/courses/richard-bertinet/bread-making) | Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

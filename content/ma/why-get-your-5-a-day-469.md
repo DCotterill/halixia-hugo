@@ -11,17 +11,14 @@ Fruit and vegetables are part of a healthy, balanced diet and can help you stay 
 
 The World Health Organisation advises that you eat 400g of fruit and vegetables daily, or five 80g portions. Fruit and vegetables are a good source of vitamins and minerals, and an excellent source of dietary fibre, which can help to maintain a healthy gut and prevent constipation.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**NHS**](https://www.nhs.uk/live-well/eat-well/5-a-day/why-5-a-day/) | Free | N/A
-| [**Odd box**](https://www.oddbox.co.uk/) | Paid | [4.6](https://uk.trustpilot.com/review/www.oddbox.co.uk) | 
-| [**BBC**](https://www.bbcgoodfood.com/howto/guide/easy-ways-7-day) | Free | [1.2](https://uk.trustpilot.com/review/www.bbc.co.uk) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**NHS**](https://www.nhs.uk/live-well/eat-well/5-a-day/why-5-a-day/) | Free | 
+| [**Odd box**](https://www.oddbox.co.uk/) | Paid | 
+| [**BBC**](https://www.bbcgoodfood.com/howto/guide/easy-ways-7-day) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

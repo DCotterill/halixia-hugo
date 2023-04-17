@@ -11,17 +11,14 @@ Listen to this podcast which talks about the four major categories of micronutri
 
 Micronutrients, often referred to as vitamins and minerals, are vital to healthy development, disease prevention, and wellbeing. They perform a wide range of functions in the brain and body, from the workings of the nervous system to immune function and bone strength.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Huberman lab**](https://hubermanlab.com/dr-rhonda-patrick-micronutrients-for-health-and-longevity/) | Free | N/A
-| [**Diets meal plan**](https://www.dietsmealplan.com/micronutrient/) | Free | N/A
-| [**Super healthy foods**](https://thesuperhealthyfood.com/micronutrient-diet-plan-for-weight-loss/) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Huberman lab**](https://hubermanlab.com/dr-rhonda-patrick-micronutrients-for-health-and-longevity/) | Free | 
+| [**Diets meal plan**](https://www.dietsmealplan.com/micronutrient/) | Free | 
+| [**Super healthy foods**](https://thesuperhealthyfood.com/micronutrient-diet-plan-for-weight-loss/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

@@ -11,17 +11,14 @@ It makes sense to try and grow what you like to eat and what lifestyle choices, 
 
 Did you know that gardening can also play an important role in happiness and mental well-being? The health benefits of gardening are many, from reducing stress and depression to even boosting your immune system.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**RHS**](https://www.rhs.org.uk/Advice/Beginners-Guide/Allotment-basics/Choose-your-crops) | Free | [2.2](https://uk.trustpilot.com/review/rhs.org.uk) | 
-| [**Gardeners club**](https://www.gardeners-club.co.uk/) | Free | N/A
-| [**Gardeners world**](https://www.gardenersworld.com/how-to/grow-plants/allotment-year-planner/) | Free | N/A
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**RHS**](https://www.rhs.org.uk/Advice/Beginners-Guide/Allotment-basics/Choose-your-crops) | Free | 
+| [**Gardeners club**](https://www.gardeners-club.co.uk/) | Free | 
+| [**Gardeners world**](https://www.gardenersworld.com/how-to/grow-plants/allotment-year-planner/) | Free | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 

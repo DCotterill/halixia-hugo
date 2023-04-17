@@ -7,21 +7,18 @@ layout: static
 
 Importance of taking holidays
 
-Holidays are not just for relaxing; they help us deal with stressors and improve our overall wellbeing. Can’t afford a holiday? You can get the same effect with a day trip!
+Holidays are not just for relaxing; they help us deal with stresseses and improve our overall wellbeing. Can’t afford a holiday? You can get the same effect with a day trip!
 
 Taking holidays can be a great chance to escape your daily routine and see new places, whilst also improving your health or wellbeing.
 
-| Provider      | Free or Paid  |  Trustpilot Score  |
-| :-----------          | :--------------:      |  :--------------:         |
-| [**Thrive global**](https://community.thriveglobal.com/the-importance-of-taking-a-holiday/) | Free | N/A
-| [**Bupa**](https://www.bupa.co.uk/business/news-and-information/why-holidays-are-good-for-employees-health) | No | [4.2](https://uk.trustpilot.com/review/bupa.co.uk) | 
-| [**Barrhead travel**](https://www.barrheadtravel.co.uk/) | Paid | [4.9](https://uk.trustpilot.com/review/www.barrheadtravel.co.uk) | 
+| Provider Links      | Free or Paid  |  
+| :-----------          | :--------------:      |  
+| [**Thrive global**](https://community.thriveglobal.com/the-importance-of-taking-a-holiday/) | Free | 
+| [**Bupa**](https://www.bupa.co.uk/business/news-and-information/why-holidays-are-good-for-employees-health) | No | 
+| [**Barrhead travel**](https://www.barrheadtravel.co.uk/) | Paid | 
   
 
 <br/><br/>
-
-*This post contains affiliate links. If you use these links to buy something we may
-earn a commission. Thanks.*
 
 
 
