@@ -119,7 +119,7 @@ for k, page in content_pages.items():
 
     display_name = page['display-name']
     internal_name = page['internal-name']
-    name = display_name.strip().replace(" ", "-").replace("?", "") + "-" + internal_name
+    name = display_name.strip().replace(" ", "-").replace("?", "").replace("&", "and") + "-" + internal_name
     filename = "content/ma/" + name.lower() + ".md"
 
     print("https://www.halixia.com/ma/" + name.lower())
