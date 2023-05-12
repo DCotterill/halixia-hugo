@@ -1,11 +1,32 @@
 
 import csv
+import requests
 
 content_pages = {}
 count = 0
 # with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - Full Content Samples.csv'
 #         , newline='') as csvfile:
-with open('resources/MA Database 020523.xlsx - Upload Prep.csv'
+
+got_there = False
+
+def test_url(link):
+    global got_there
+    if "friendship" in link:
+        got_there = True
+    if got_there:
+        try:
+            request = requests.get(link, timeout=5)
+            if request.status_code != 200:
+                print(link)
+                print(request.status_code)
+        except:
+            print("Exception occurred")
+            print(link)
+
+
+
+
+with open('resources/MA Database 170423 for upload.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
@@ -25,7 +46,7 @@ with open('resources/MA Database 020523.xlsx - Upload Prep.csv'
         # Content Type
         content_text = row[11]
 
-        print (ddm_type)
+        # print (ddm_type)
         if ddm_type == 'Development':
             page = {"display-name": display_name,
                     "summary-description": summary,
@@ -83,6 +104,9 @@ with open('resources/MA Database 020523.xlsx - Upload Prep.csv'
                     #     line = line + "[" + tp_rating + "](" + tp_link + ") | \n"
                 return line
 
+            test_url(primary_link_1)
+            test_url(primary_link_2)
+            test_url(primary_link_3)
 
             content_pages[internal_name]["primary-links-table"] = build_primary_link_row(primary_link_name_1,
                                                                                          primary_link_1,
@@ -100,7 +124,7 @@ with open('resources/MA Database 020523.xlsx - Upload Prep.csv'
                                                                                              primary_link_tp_rating_3,
                                                                                              primary_link_tp_link_3)
 
-    print(content_pages)
+    # print(content_pages)
 
 with open('resources/content-template.md','r') as file:
     template = file.read()
@@ -115,15 +139,20 @@ for k, page in content_pages.items():
         template = template.replace("*" + k + "*", v)
 
 
-    print(page)
+    # print(page)
 
     display_name = page['display-name']
     internal_name = page['internal-name']
     name = display_name.strip().replace(" ", "-").replace("?", "").replace("&", "and") + "-" + internal_name
     filename = "content/ma/" + name.lower() + ".md"
 
-    print("https://www.halixia.com/ma/" + name.lower())
+    # print("https://www.halixia.com/ma/" + name.lower())
 
-    with open(filename, "w") as md_file:
-        md_file.write(template)
-    md_file.close()
+    url = "https://www.halixia.com/ma/" + name.lower()
+
+    # request = requests.get(url)
+    # print(request.status_code)
+
+    # with open(filename, "w") as md_file:
+    #     md_file.write(template)
+    # md_file.close()
