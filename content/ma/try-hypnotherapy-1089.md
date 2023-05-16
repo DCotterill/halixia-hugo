@@ -1,11 +1,11 @@
 ---
-title: "Try hypnotherapy "
+title: "Try hypnotherapy"
 date: 2020-09-01T12:49:27+06:00
 featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Try online hypnotherapy 
+Try online hypnotherapy
 
 Try online hypnotherapy to help you to relive stress.
 

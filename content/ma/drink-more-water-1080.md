@@ -7,9 +7,9 @@ layout: static
 
 Importance of staying hydrated
 
-Drinking water does more than just quench your thirst. It's essential to keep your body functioning properly and feeling healthy, learn more about the importance of staying hydrated. 
+Drinking water does more than just quench your thirst. It's essential to keep your body functioning properly and feeling healthy, learn more about the importance of staying hydrated.
 
-Water is important in your body – from removing waste products in urine, to lubricating your joints, transporting nutrients around your body, and controlling your temperature. It can even help make your skin look good. 
+Water is important in your body – from removing waste products in urine, to lubricating your joints, transporting nutrients around your body, and controlling your temperature. It can even help make your skin look good.
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  

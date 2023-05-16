@@ -15,7 +15,7 @@ Helping others can be an excellent way to connect with others, as well as your c
 | :-----------          | :--------------:      |  
 | [**Volunteering matters**](https://volunteeringmatters.org.uk/pillars/older-people/) | Free | 
 | [**Help guide**](https://www.helpguide.org/articles/healthy-living/volunteering-and-its-surprising-benefits.htm) | Free | 
-| [**Harvard Health **](https://www.health.harvard.edu/blog/volunteering-may-be-good-for-body-and-mind-201306266428) | Free | 
+| [**Harvard Health**](https://www.health.harvard.edu/blog/volunteering-may-be-good-for-body-and-mind-201306266428) | Free | 
   
 
 <br/><br/>

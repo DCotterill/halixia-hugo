@@ -1,5 +1,5 @@
 ---
-title: "Eat more nuts "
+title: "Eat more nuts"
 date: 2020-09-01T12:49:27+06:00
 featureImage: images/ma/placeholder.jpeg
 layout: static
@@ -13,7 +13,7 @@ Eating nuts as part of a healthy diet may be good for the heart. Nuts contain un
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Life time daily **](https://www.lifetimedaily.com/what-are-the-healthiest-nuts/) | Free | 
+| [**Life time daily**](https://www.lifetimedaily.com/what-are-the-healthiest-nuts/) | Free | 
 | [**BBC**](https://www.bbcgoodfood.com/howto/guide/health-benefits-nuts) | Free | 
 | [**Nutmad**](https://nutmad.com/shop/healthy-snack-box-subscription/) | Paid | 
   

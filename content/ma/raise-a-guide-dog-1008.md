@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about becoming a guide dog puppy raiser 
+Learn about becoming a guide dog puppy raiser
 
 Learn more about becoming a guide dog puppy raiser, for those with a love of animals, with extra love and time to give towards making a big difference in someone life.
 
@@ -13,7 +13,7 @@ Volunteer puppy raisers receive a pup when they are approximately 8 weeks old an
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Guide dogs **](https://www.guidedogs.org.uk/how-you-can-help/volunteering-for-guide-dogs/volunteer-role-descriptions/puppy-raiser/) | Free | 
+| [**Guide dogs**](https://www.guidedogs.org.uk/how-you-can-help/volunteering-for-guide-dogs/volunteer-role-descriptions/puppy-raiser/) | Free | 
 | [**Country living**](https://www.countryliving.com/uk/wildlife/pets/a42529255/raise-puppy-guide-dogs-uk/) | Free | 
 | [**BBC**](https://www.bbc.co.uk/news/av/uk-64148085) | Free | 
   
