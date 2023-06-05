@@ -7,7 +7,7 @@ layout: static
 
 Improve your training skills
 
-Learn more about train the trainer courses, courses to help you improve your skills in teaching others.
+Learn about train the trainer courses, courses to help you improve your skills in teaching others.
 
 Train-the-Trainer is a framework for training potential instructors or subject matter experts to enable them to train other people.
 

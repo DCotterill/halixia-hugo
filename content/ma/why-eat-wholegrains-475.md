@@ -7,7 +7,7 @@ layout: static
 
 Learn about the benefits of adding wholegrains to your diet
 
-Wholegrains are the grain of cereal plants such as wheat, barley, oats and rye. They have had very little removed in processing and contain all three parts of the grain, and a wide range of nutrients.
+Wholegrains are the grain of cereal plants such as wheat, barley, oats and rye. They have had very little removed in processing and contain all three parts of the grain, and a wide range of nutrients.
 
 The consumption of wholegrains as part of a healthy diet has been shown to help lower cholesterol levels, weight, blood pressure and lower the risk of diabetes, adding whole grains to your diet doesn't have to be difficult, with simple and easy to follow recipes.
 

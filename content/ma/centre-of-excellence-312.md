@@ -7,7 +7,7 @@ layout: static
 
 Learn a new skill with online platform Centre of Excellence
 
-Centre of Excellence offers opportunity to learn a new skillset for life, or possibly take the next step into using the techniques to set up a rewarding new business.
+Centre of Excellence offers opportunity to learn a new skillset for life, or possibly take the next step into using the techniques to set up a rewarding new business. 
 
 Centre of Excellence offers courses in many 'small business specialisms' and complementary therapies, opening up opportunity to start your own business and new career direction. The online Business Support Group can help you make your dream of opening an exciting new business a reality.
 

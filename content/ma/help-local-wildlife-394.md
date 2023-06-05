@@ -9,7 +9,7 @@ Find out how to get involved in helping local wildlife
 
 If you have a love for nature, give back to your community by getting involved in helping wildlife, find out more about how you can help.
 
-Daily contact with nature is linked to better health, reduced levels of chronic stress, reductions in obesity and improved concentration. All helping towards a making sure you have better quality of life - for longer.
+Daily contact with nature is linked to better health, reduced levels of chronic stress, reductions in obesity and improved concentration. All helping towards a making sure you have better quality of life - for longer.
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  

@@ -7,7 +7,7 @@ layout: static
 
 Advice on chiropractic care on the NHS
 
-Read to find about more about chiropractic care and if you are eligible on the NHS.
+Read to find about chiropractic care and if you are eligible on the NHS.
 
 Chiropractic is a form of alternative medicine that is concerned with the diagnosis, treatment and prevention of mechanical disorders of the musculoskeletal system, especially of the spine.
 

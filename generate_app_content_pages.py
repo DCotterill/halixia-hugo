@@ -5,7 +5,7 @@ content_pages = {}
 count = 0
 # with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - Full Content Samples.csv'
 #         , newline='') as csvfile:
-with open('resources/MA Database 020523.xlsx - Upload Prep-2.csv'
+with open('resources/MA Database 220523.xlsx - Upload Prep.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
@@ -119,7 +119,9 @@ for k, page in content_pages.items():
 
     display_name = page['display-name']
     internal_name = page['internal-name']
-    name = display_name.strip().replace(" ", "-").replace("?", "").replace("&", "and") + "-" + internal_name
+    name = display_name.strip().replace(" ", "-").replace("?", "").replace("&", "and")\
+               .replace("'", "").replace("’", "").replace("!", "") \
+           + "-" + internal_name
     filename = "content/ma/" + name.lower() + ".md"
 
     print("https://www.halixia.com/ma/" + name.lower())

@@ -7,7 +7,7 @@ layout: static
 
 Learn more about volunteering at a foodbank
 
-Learn more about helping those in your comunity by volunteering at a foodbank.
+Learn about helping those in your community by volunteering at a foodbank.
 
 Food banks play a major role in the food aid sector, by distributing donated and purchased groceries, directly to food insecure families.
 

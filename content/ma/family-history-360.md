@@ -5,9 +5,9 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-?Explore your family's story with historical records
+ Explore your family's story with historical records
 
-Using digitised historic records connect to people, both past and present, and visualise your family story in more detail than ever before.?
+Using digitised historic records connect to people, both past and present, and visualise your family story in more detail than ever before. 
 
 Knowing, recording, and preserving your family history directly impacts you, your family, by helping to develop a strong sense of who you really are. In discovering your family story, you create your own narratives about yourself helping to establish your unique, authentic core family identity.
 

@@ -7,9 +7,9 @@ layout: static
 
 Learn about protecting your income
 
-Get more information on income protection and if this is right for you.
+Learn about income protection and if this is right for you.
 
-Income protection helps by providing a monthly benefit if your off word due to an accident or illness, it helps pay for your essential outgoings.
+Income protection helps by providing a monthly benefit if your of work due to an accident or illness, it helps pay for your essential outgoings.
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  

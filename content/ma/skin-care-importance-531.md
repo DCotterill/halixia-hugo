@@ -7,7 +7,7 @@ layout: static
 
 Read about the importance of skin care
 
-Skin is the largest organ in the body but often gets neglected, read more about the importance of looking after your skincare.
+The skin is the largest organ in the body but often gets neglected, read more about the importance of looking after your skincare.
 
 It’s important to take care of your skin as it helps it look more youthful. As you age, your skin cells regenerate less frequently, which means your skin can start to show signs of aging and lose that jovial radiance.
 

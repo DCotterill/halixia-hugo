@@ -7,7 +7,7 @@ layout: static
 
 Learn more about volunteering and sharing your skills
 
-Learn more about changing someones life by using your skils by volunteering.
+Learn about changing someone's life by using your skills by volunteering.
 
 Skills-based volunteers can make a huge difference to people, as well as, good causes by adding capacity, growing capability and helping them to innovate.
 
