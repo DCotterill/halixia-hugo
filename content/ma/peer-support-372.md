@@ -16,6 +16,7 @@ When facing a mental health issue, it's normal to feel alone or afraid to ask fo
 | [**Mind**](https://www.mind.org.uk/information-support/drugs-and-treatments/peer-support/about-peer-support/) | Free | 
 | [**Mental Health**](https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/peer-support) | Free | 
 | [**NHS**](https://www.england.nhs.uk/personalisedcare/supported-self-management/peer-support/) | Free | 
+| [**Andys Manclub**](https://andysmanclub.co.uk/) | Free | 
   
 
 <br/><br/>

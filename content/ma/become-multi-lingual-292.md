@@ -16,6 +16,7 @@ Learning languages improves memory, increases attention span and strengthens bot
 | [**Rocket Language**](https://www.rocketlanguages.com/blog/what-language-should-I-learn-learning-type) | Paid | 
 | [**Babbel**](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | 
 | [**Go Overseas**](https://www.gooverseas.com/blog/best-languages-learn) | Free | 
+| [**Alison**](https://alison.com/courses/language) | Free/Paid | 
   
 
 <br/><br/>

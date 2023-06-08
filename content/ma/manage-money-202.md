@@ -16,6 +16,7 @@ It’s a simple way to manage your day-to-day expenses without worrying you'll r
 | [**MoneyHelper**](https://www.moneyhelper.org.uk/en/everyday-money/budgeting/beginners-guide-to-managing-your-money) | Free | 
 | [**Cabot Financial**](https://www.cabotfinancial.co.uk/money-management/money-management/what-are-the-benefits-of-budgeting) | Free/Paid | 
 | [**HSBC**](https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/spending-your-income/) | Free/Paid | 
+| [**Skint Dad**](https://skintdad.co.uk/best-budgeting-app-uk/) | Free | 
   
 
 <br/><br/>

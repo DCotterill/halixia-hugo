@@ -16,6 +16,7 @@ Zumba is a dance class that features high and low intensity intervals that help 
 | [**Zumba**](https://www.zumba.com/en-US/benefits-of-zumba) | Free | 
 | [**Better**](https://www.better.org.uk/what-we-offer/activities/fitness-classes/dance#) | Free | 
 | [**Very Well**](https://www.verywellfit.com/zumba-pros-cons-and-how-it-works-4688722) | Free | 
+| [**Healthline**](https://www.healthline.com/health/fitness-exercise/benefits-of-zumba#Its-a-full-body-workout) | Free | 
   
 
 <br/><br/>

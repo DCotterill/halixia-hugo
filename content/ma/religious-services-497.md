@@ -16,6 +16,7 @@ Studies has shown that regularly attending religious services. and the support s
 | [**Psychology today**](https://www.psychologytoday.com/us/blog/supersurvivors/201809/is-religion-good-or-bad-us) | Free | 
 | [**Learn Religions**](https://www.learnreligions.com/) | Free | 
 | [**Near me**](https://near-me.store/en/religious-centers-near-me) | Free | 
+| [**PsyCat Games**](https://psycatgames.com/quiz/what-is-my-religion/) | Free | 
   
 
 <br/><br/>

@@ -16,6 +16,7 @@ Spending time with a dog can greatly improve your mood, thereby helping you to h
 | [**Borrow my Doggy**](https://www.borrowmydoggy.com/#home__why) | Free | 
 | [**Rover**](https://www.rover.com/uk/become-a-sitter/) | Free | 
 | [**Trusted house sitters**](https://www.trustedhousesitters.com) | Paid | 
+| [**RSPCA**](https://www.rspca.org.uk/-/blog_a_guide_to_voluntary_dog_walking) | Free | 
   
 
 <br/><br/>

@@ -16,6 +16,7 @@ Is there anything more enjoyable than playing games with friends? Not only is it
 | [**You Magazine**](https://www.you.co.uk/night-in-ideas/) | Free | 
 | [**Every minute mum**](https://everyminutemum.com/family-night-ideas/) | Free | 
 | [**Clever girl finance**](https://www.clevergirlfinance.com/blog/family-night-ideas/) | Free | 
+| [**Mindfulmazing**](https://www.mindfulmazing.com/45-fun-family-night-ideas-the-entire-family-will-love/) | Free | 
   
 
 <br/><br/>

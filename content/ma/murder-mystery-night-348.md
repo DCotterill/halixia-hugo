@@ -16,6 +16,7 @@ Is there anything more enjoyable than playing games with friends? Not only is it
 | [**Murder Mystery Store**](https://www.murdermysterystore.co.uk/article.asp?id=78) | Paid | 
 | [**Murder mysteries**](https://murdermysteryinvestigations.com/) | Paid | 
 | [**Mayhem**](https://www.mayhem.org.uk/murder-mystery-types/free-murder-mysteries/) | Free | 
+| [**Host a Murder Mystery**](https://www.hostamurdermystery.co.uk/) | Paid | 
   
 
 <br/><br/>

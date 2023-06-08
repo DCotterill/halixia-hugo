@@ -16,6 +16,7 @@ When you think of some of the most culturally diverse and renowned cities on Ear
 | [**The Artling**](https://theartling.com/en/artzine/support-local-arts-community) | Paid | 
 | [**Mac fine art**](https://macfineart.com/how-you-can-support-your-local-art-community/) | Free | 
 | [**Sound wave art**](https://soundwaveart.com/how-to-support-your-local-arts-community/) | Free | 
+| [**Art UK**](https://artuk.org/support-us/support-us) | Paid | 
   
 
 <br/><br/>

@@ -16,6 +16,7 @@ Being smart with your money and adopting good money habits now, can have a posit
 | [**UK Government**](https://www.gov.uk/get-help-savings-low-income) | Free | 
 | [**Money saving expert**](https://www.moneysavingexpert.com/savings/help-to-save/) | Free | 
 | [**UK Government**](https://www.gov.uk/sign-in-help-to-save) | Free | 
+| [**Skint Dad**](https://skintdad.co.uk/skint-52-week-saving-challenge/) | Free | 
   
 
 <br/><br/>

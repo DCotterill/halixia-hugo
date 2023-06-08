@@ -16,6 +16,7 @@ Did you know that gardening can also play an important role in happiness and men
 | [**RHS**](https://www.rhs.org.uk/Advice/Beginners-Guide/Allotment-basics/Choose-your-crops) | Free | 
 | [**Gardeners club**](https://www.gardeners-club.co.uk/) | Free | 
 | [**Gardeners world**](https://www.gardenersworld.com/how-to/grow-plants/allotment-year-planner/) | Free | 
+| [**DIY garden**](https://diygarden.co.uk/gardening/starting-an-allotment) | Free | 
   
 
 <br/><br/>

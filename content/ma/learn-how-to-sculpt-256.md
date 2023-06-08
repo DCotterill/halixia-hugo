@@ -16,6 +16,7 @@ So, get creative and use sculpture as a way to take your mind off the world's pr
 | [**LearnSculpture**](https://learnsculpture.org/) | Free | 
 | [**Tutorials Press**](https://tutorialspress.com/useful-sculpting-tutorials/) | Free | 
 | [**Udemy**](https://www.udemy.com/course/easily-learn-sculpture-and-modeling-in-clay/) | Paid | 
+| [**Skillshare**](https://www.skillshare.com/en/browse/sculpture) | Paid | 
   
 
 <br/><br/>

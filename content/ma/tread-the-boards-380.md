@@ -16,6 +16,7 @@ Taking part in amateur theatre, is a fun way to meet new people, form connection
 | [**Noda**](https://www.noda.org.uk/) | Free | 
 | [**Amdram**](https://amdram.community/groups) | Free | 
 | [**NDFA**](https://ndfa.co.uk/national-drama-festival/) | Free | 
+| [**Drama Groups**](https://dramagroups.com/DGlocategroup.htm) | Free | 
   
 
 <br/><br/>

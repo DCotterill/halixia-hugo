@@ -16,6 +16,7 @@ Centre of Excellence offers courses in many 'small business specialisms' and com
 | [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
 | [**Skillshare**](https://www.skillshare.com/) | Paid | 
 | [**UK Government**](https://www.gov.uk/set-up-business) | Free | 
+| [**Skills you need**](https://www.skillsyouneed.com/shop/self-employment.html) | Free | 
   
 
 <br/><br/>

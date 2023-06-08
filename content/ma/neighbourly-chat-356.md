@@ -16,6 +16,7 @@ Over one million older people say they go more than a month without speaking to 
 | [**Careline**](https://www.careline.co.uk/elderly-neighbours/) | Free | 
 | [**BBC**](https://www.bbc.co.uk/food/casserole) | Free | 
 | [**Community access network**](https://www.communityaccessnetwork.org/ways-to-check-in-on-your-neighbors/) | Free | 
+| [**The Campaign to End Loneliness.**](https://bemoreus.org.uk/five-ways-to-check-in-with-the-people-around-you/) | Free | 
   
 
 <br/><br/>

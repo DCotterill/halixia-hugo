@@ -16,6 +16,7 @@ Learning a language improves memory, increases attention span and strengthens bo
 | [**Babbel**](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | 
 | [**Findcourses.co.uk**](https://www.findcourses.co.uk/search/language-training-courses) | Paid | 
 | [**Fluent u**](https://www.fluentu.com/) | Paid | 
+| [**Alison**](https://alison.com/courses/language) | Free/Paid | 
   
 
 <br/><br/>

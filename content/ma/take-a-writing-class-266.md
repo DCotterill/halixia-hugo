@@ -16,6 +16,7 @@ To learn creative writing, like any art form, requires compassion, contemplation
 | [**Centre of Excellence**](https://www.centreofexcellence.com/shop/writing-courses/) | Paid | 
 | [**The Write Practice**](https://thewritepractice.com/daily-routines/) | Paid | 
 | [**Indeed**](https://www.indeed.com/career-advice/finding-a-job/how-to-become-creative-writer) | Free | 
+| [**Writers.com**](https://writers.com/why-learn-creative-writing) | Free/Paid | 
   
 
 <br/><br/>

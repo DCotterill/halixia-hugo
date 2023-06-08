@@ -16,6 +16,7 @@ Life insurance makes a huge difference to bereaved families. The loss of a partn
 | [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/insurance/cheap-life-insurance/#basics) | Free | 
 | [**Moneyhelper**](https://www.moneyhelper.org.uk/en/everyday-money/insurance/what-is-life-insurance) | Free | 
 | [**Aviva**](https://www.aviva.co.uk/insurance/life-products/life-insurance/vulnerable-to-financial-shock/) | Free/Paid | 
+| [**Cavendish Online**](https://www.cavendishonline.co.uk/how-to-apply) | Free/Paid | 
   
 
 <br/><br/>

@@ -16,6 +16,7 @@ Volunteering gives you that opportunity to ‘pay it forward’ or to give somet
 | [**Happiness**](https://www.happiness.com/magazine/personal-growth/why-volunteering-is-important-benefits/) | Free | 
 | [**Scouts**](https://www.scouts.org.uk/volunteer/volunteering-with-scouts/what-do-volunteers-do/) | Free | 
 | [**Guide dogs**](https://www.guidedogs.org.uk/how-you-can-help/volunteering-for-guide-dogs/volunteer-role-descriptions/puppy-raiser/) | Free | 
+| [**Age UK/Silverline**](https://www.ageuk.org.uk/get-involved/volunteer/silver-line-helpline/) | Free | 
   
 
 <br/><br/>

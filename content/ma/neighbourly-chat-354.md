@@ -16,6 +16,7 @@ Over one million older people say they go more than a month without speaking to 
 | [**Careline**](https://www.careline.co.uk/elderly-neighbours/) | Free | 
 | [**National care line**](https://thenationalcareline.org/SafetyAtHome/CheckOnYourNeighbour) | Free | 
 | [**Community access network**](https://www.communityaccessnetwork.org/ways-to-check-in-on-your-neighbors/) | Free | 
+| [**Independent Age**](https://www.independentage.org/get-involved/volunteering) | Free | 
   
 
 <br/><br/>

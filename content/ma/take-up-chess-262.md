@@ -16,6 +16,7 @@ Chess has been shown to have many benefits from stress reduction to improving co
 | [**Mindful chess**](https://www.mindfulchess.org/) | Paid | 
 | [**Chess.com**](https://www.chess.com/learn) | Free/Paid | 
 | [**Udemy**](https://www.udemy.com/topic/chess/) | Paid | 
+| [**The Chess Journal**](https://www.chessjournal.com/chess-facts/) | Free | 
   
 
 <br/><br/>

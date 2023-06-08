@@ -16,6 +16,7 @@ Not only is Calligraphy considered an art form, which can enhance the meaning an
 | [**Learncalligraphy**](https://www.learncalligraphy.co.uk/index.html) | Paid | 
 | [**Autodesk Instructables**](https://www.instructables.com/A-Beginners-Guide-to-Calligraphy/) | Free | 
 | [**Calligraphy Skills**](https://www.calligraphy-skills.com/) | Free | 
+| [**Boomerang**](https://www.goboomerang.com/blog/health-wellness/6-benefits-of-learning-calligraphy-and-handwriting/) | Free | 
   
 
 <br/><br/>

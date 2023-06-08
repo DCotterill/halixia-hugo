@@ -16,6 +16,7 @@ Friendships benefit us on every level, helping to improve our self-esteem, happi
 | [**Friendmatch**](https://www.friendmatch.com/) | Free | 
 | [**Meetup**](https://www.meetup.com/) | Free | 
 | [**Facebook**](https://www.facebook.com) | Free | 
+| [**Healthline**](https://www.healthline.com/health/benefits-of-friendship#reduced-loneliness) | Free | 
   
 
 <br/><br/>

@@ -16,6 +16,7 @@ Taking holidays can be a great chance to escape your daily routine and see new p
 | [**Age UK**](https://www.ageuk.org.uk/information-advice/travel-hobbies/accessible-holidays/free-days-out-around-the-uk/) | Free | 
 | [**Leisure care**](https://www.leisurecare.com/resources/benefits-senior-travel/) | Free | 
 | [**Tourism for all**](https://www.tourismforall.co.uk/) | Paid | 
+| [**Silver travel advisor**](https://silvertraveladvisor.com/) | Paid | 
   
 
 <br/><br/>

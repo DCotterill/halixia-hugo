@@ -16,6 +16,7 @@ We are social beings, and interacting with people is in our nature. But it also 
 | [**Women's Institute**](https://www.thewi.org.uk/become-a-member) | Free | 
 | [**NWR**](https://nwr.org.uk/) | Free | 
 | [**Together friends**](https://www.togetherfriends.com/) | Free | 
+| [**Psychology Today**](https://www.psychologytoday.com/us/blog/living-mild-cognitive-impairment/201606/the-health-benefits-socializing) | Free | 
   
 
 <br/><br/>

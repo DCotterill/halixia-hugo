@@ -16,6 +16,7 @@ Don’t wait to reconnect with the people who were once important to you. They w
 | [**Fatherly**](https://www.fatherly.com/love-money/best-way-reach-out-old-friend-advice) | Free | 
 | [**New York Times**](https://www.nytimes.com/2022/07/11/well/family/check-in-text-friendship.html) | Free/Paid | 
 | [**Very well mind**](https://www.verywellmind.com/how-to-reconnect-with-an-old-friend-without-making-it-awkward-5225930) | Free | 
+| [**Social Self**](https://socialself.com/blog/reconnect-friend/) | Free | 
   
 
 <br/><br/>

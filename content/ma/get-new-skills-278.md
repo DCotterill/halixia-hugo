@@ -16,6 +16,7 @@ Online learning can be a be modern and innovative way to keep learning and help 
 | [**1 training**](https://www.1training.org/) | Paid | 
 | [**Futurelearn**](https://www.futurelearn.com/microcredentials) | Paid | 
 | [**OpenLearn**](https://www.open.edu/openlearn/) | Free | 
+| [**Skills you need**](https://www.skillsyouneed.com/learning-skills.html) | Free | 
   
 
 <br/><br/>

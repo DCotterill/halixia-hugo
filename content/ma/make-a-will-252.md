@@ -16,6 +16,7 @@ Research from insurer Canada Life in 2020 revealed three in five of UK adults ha
 | [**Farewill**](https://farewill.com/) | Paid | 
 | [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/family/free-cheap-wills/) | Free | 
 | [**Law Society**](https://solicitors.lawsociety.org.uk/search/results?UmbrellaLegalIssue=LIUPCW&Pro=False) | Free | 
+| [**UK Government**](https://www.gov.uk/make-will) | Free | 
   
 
 <br/><br/>

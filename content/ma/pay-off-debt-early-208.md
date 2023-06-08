@@ -15,6 +15,7 @@ Debt can cause financial strain as high repayments can affect your ability to bu
 | :-----------          | :--------------:      |  
 | [**Money.co.uk**](https://www.money.co.uk/guides/which-debts-should-you-pay-off-first) | Free | 
 | [**Step Change**](https://www.citizensadvice.org.uk/debt-and-money/help-with-debt/dealing-with-your-debts/making-a-plan-to-pay-your-debts/) | Free | 
+| [**Clearscore**](https://www.clearscore.com/) | Free | 
   
 
 <br/><br/>

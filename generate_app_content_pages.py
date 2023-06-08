@@ -50,6 +50,12 @@ with open('resources/MA Database 220523.xlsx - Upload Prep.csv'
             primary_link_tp_rating_3 = row[62]
             primary_link_tp_link_3 = row[63]
 
+            primary_link_4 = row[69]
+            primary_link_name_4 = row[67]
+            primary_link_paid_free_4 = row[72]
+            primary_link_tp_rating_4 = row[77]
+            primary_link_tp_link_4 = row[78]
+
             content_pages[internal_name] = page
 
             # if int(score) == 1:
@@ -70,7 +76,11 @@ with open('resources/MA Database 220523.xlsx - Upload Prep.csv'
                                                             "(" + primary_link_2 + ")" + \
                                                             '\n\n' + \
                                                             "[**" + primary_link_name_3 + "**]" + \
-                                                            "(" + primary_link_3 + ")"
+                                                            "(" + primary_link_3 + ")" \
+                                                            '\n\n' + \
+                                                            "[**" + primary_link_name_4 + "**]" + \
+                                                            "(" + primary_link_4 + ")"
+
 
             def build_primary_link_row (link_name, link, paid_free, tp_rating, tp_link):
                 line = ""
@@ -95,12 +105,17 @@ with open('resources/MA Database 220523.xlsx - Upload Prep.csv'
                                                                                          primary_link_tp_rating_2,
                                                                                          primary_link_tp_link_2) + \
                                                                   build_primary_link_row(primary_link_name_3,
-                                                                                             primary_link_3,
-                                                                                             primary_link_paid_free_3,
-                                                                                             primary_link_tp_rating_3,
-                                                                                             primary_link_tp_link_3)
+                                                                                         primary_link_3,
+                                                                                         primary_link_paid_free_3,
+                                                                                         primary_link_tp_rating_3,
+                                                                                         primary_link_tp_link_3) + \
+                                                                  build_primary_link_row(primary_link_name_4,
+                                                                                         primary_link_4,
+                                                                                         primary_link_paid_free_4,
+                                                                                         primary_link_tp_rating_4,
+                                                                                         primary_link_tp_link_4)
 
-    print(content_pages)
+            print(content_pages)
 
 with open('resources/content-template.md','r') as file:
     template = file.read()

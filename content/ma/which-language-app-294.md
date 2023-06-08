@@ -16,6 +16,7 @@ Today's top language learning platforms use innovative technology and modern stu
 | [**Linguatics**](https://linguatics.com/best-language-learning-apps/?utm_content=cmp-true) | Free | 
 | [**Rocket Language**](https://www.rocketlanguages.com/) | Paid | 
 | [**Babbel**](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | 
+| [**Pimsleur**](https://www.pimsleur.com/) | Paid | 
   
 
 <br/><br/>

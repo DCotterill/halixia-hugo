@@ -16,6 +16,7 @@ Animal shelters play a vital role in our communities, they continuously work to 
 | [**RSPCA**](https://www.rspca.org.uk/getinvolved/volunteer) | Free | 
 | [**Blue cross**](https://www.bluecross.org.uk/volunteer-pets) | Free | 
 | [**Dogs trust**](https://www.dogstrust.org.uk/support-us/volunteering) | Free | 
+| [**Restless**](https://restless.co.uk/volunteer/volunteer-types-of-roles/animals/) | Free | 
   
 
 <br/><br/>

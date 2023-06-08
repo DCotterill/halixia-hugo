@@ -16,6 +16,7 @@ We are social beings, and interacting with people is in our nature. But it also 
 | [**Royal voluntary service**](https://www.royalvoluntaryservice.org.uk/our-services/social-activities/) | Paid | 
 | [**Safeseniorcare**](https://saferseniorcare.com/recreational-activities-for-elderly-seniors/) | Free | 
 | [**Life hack**](https://www.lifehack.org/articles/lifestyle/24-enriching-activities-50-somethings-should-their-free-time.html) | Free | 
+| [**Age UK**](https://www.ageuk.org.uk/services/in-your-area/social-activities/) | Paid | 
   
 
 <br/><br/>
