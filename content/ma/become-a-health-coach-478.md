@@ -16,6 +16,7 @@ Health and wellness coaches have deep passion for wellbeing and keen to share th
 | [**Integrative nutrition**](https://www.integrativenutrition.com/) | Paid | 
 | [**Integrative nutrition**](https://www.integrativenutrition.com/health-coach-certificate) | Free | 
 | [**NHS**](https://www.england.nhs.uk/personalisedcare/workforce-and-training/health-and-wellbeing-coaches/) | Free | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
   
 
 <br/><br/>

@@ -16,7 +16,7 @@ Coursera is one of the most popular online learning platforms with a huge range 
 | [**Coursera**](https://www.coursera.org/) | Free/Paid | 
 | [**Upskillwise**](https://upskillwise.com/online-learning-platforms/) | Free | 
 | [**Masterclass**](https://www.masterclass.com/) | Paid | 
-| [**Udacity**](https://www.udacity.com/) | Free | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
   
 
 <br/><br/>

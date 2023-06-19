@@ -16,6 +16,7 @@ As we age we tend to lose muscle and keeping our muscles strong is vital, to pre
 | [**Move it or lose it**](https://www.moveitorloseit.co.uk/chair-based-exercises/) | Free | 
 | [**NHS**](https://www.nhs.uk/live-well/exercise/strength-and-flexibility-exercises/sitting-exercises/) | Free | 
 | [**NHS**](https://www.nhs.uk/conditions/nhs-fitness-studio/chair-based-pilates-exercise-video/) | Free | 
+| [**Pro:Direct Sport**](https://www.prodirectsport.com/running/) |  | 
   
 
 <br/><br/>

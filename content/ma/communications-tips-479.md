@@ -16,6 +16,7 @@ Communication is vital for healthy relationships. Being able to talk openly and 
 | [**Psych alive**](https://www.psychalive.org/top-10-effective-communication-techniques-couples/) | Paid | 
 | [**Marriage.com**](https://www.marriage.com/advice/communication/easy-games-that-can-help-fix-bad-communication/) | Free | 
 | [**Agapé**](https://www.getdailyagape.com/) | Free | 
+| [**12 Magical Dates**](https://www.12magicaldates.com/reignite-marriage-relationship?r_done=1) |  | 
   
 
 <br/><br/>

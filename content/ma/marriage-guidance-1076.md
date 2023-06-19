@@ -16,6 +16,7 @@ A good supportive relationship has many health benefits, but sometimes we need a
 | [**Relate**](https://www.relate.org.uk/) | Paid | 
 | [**Marriage**](https://www.marriage.com/advice/counseling/4-benefits-of-marriage-counseling/) | Free | 
 | [**Marriage**](https://www.marriage.com/advice/relationship/best-marriage-advice/) | Free | 
+| [**12 Magical Dates**](https://www.12magicaldates.com/reignite-marriage-relationship?r_done=1) |  | 
   
 
 <br/><br/>

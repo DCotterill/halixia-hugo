@@ -14,9 +14,9 @@ Learning to sew as a hobby allows for creative expression, develops practical sk
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
 | [**Stitch Sisters**](https://www.thestitchsisters.co.uk/blog/why-you-should-learn-to-sew/) | Free | 
+| [**Good Housekeeping**](https://www.youtube.com/watch?v=rnTwT-ifLkU) | Free | 
 | [**Keep Britain sewing**](https://www.keepbritainsewing.com/sewing-groups) | Free | 
 | [**Trimmingshop**](https://www.awin1.com/cread.php?awinmid=44013&awinaffid=1198638&ued=https%3A%2F%2Ftrimmingshop.co.uk%2F) | Paid | 
-| [**#REF!**](#REF!) | #REF! | 
   
 
 <br/><br/>

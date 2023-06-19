@@ -16,6 +16,7 @@ Regular physical activity or exercise helps your brain, heart and lungs stay hea
 | [**Age UK**](https://www.ageuk.org.uk/information-advice/health-wellbeing/exercise/) | Free | 
 | [**NHS**](https://www.nhs.uk/better-health/get-active/) | Free | 
 | [**The Body Coach**](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ) | Free | 
+| [**Pro:Direct Sport**](https://www.prodirectsport.com/running/) |  | 
   
 
 <br/><br/>

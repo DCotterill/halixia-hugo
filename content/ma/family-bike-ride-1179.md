@@ -16,6 +16,7 @@ Family bike rides offer a chance to spend quality time with your loved ones. Itâ
 | [**cycleGuard**](https://www.cycleguard.co.uk/cycling-family-benefits) | Free | 
 | [**BikeRadar**](https://www.bikeradar.com/features/routes-and-rides/best-family-cycling-routes-uk/) | Free | 
 | [**Bobshop**](https://www.bobshop.com/en/) | Paid | 
+| [**Bobshop**](https://www.bobshop.com/en/) | Paid | 
   
 
 <br/><br/>

@@ -16,6 +16,7 @@ Everyone encounters a situation where public speaking skills are necessary, bein
 | [**Alison**](https://alison.com/course/public-speaking) | Free | 
 | [**Curran coaching**](https://currancoaching.com/?msclkid=0f024def2d0919d5a02129dae57bc527&utm_term=public%20speaking%20courses&utm_content=Public%20Speaking%20Workshops) | Paid | 
 | [**Ihasco**](https://www.ihasco.co.uk/courses/detail/speaking-confidently-training?utm_source=SearchEngineBing&utm_medium=Paid&utm_campaign=DSA&utm_keyword=https%3A%2F%2Fwww.ihasco.co.uk%2Fcourses%2Fdetail%2Fspeaking-confidently-training&msclkid=c76fa907c37b12747c5ecd320b0929d0) | Paid | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
   
 
 <br/><br/>

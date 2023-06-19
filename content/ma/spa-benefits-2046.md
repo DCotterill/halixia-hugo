@@ -15,8 +15,8 @@ A spa break is essential for health as it reduces stress, improves sleep, boosts
 | :-----------          | :--------------:      |  
 | [**Spa and Hotel Break**](https://www.spaandhotelbreak.co.uk/blog/5-health-benefits-spa-break/) | Free | 
 | [**Life hack**](https://www.lifehack.org/articles/lifestyle/10-irresistible-health-benefits-spa-baths.html) | Free  | 
-| [**Buy a gift**](http://www.buyagift.co.uk) | Paid | 
-| [**#REF!**](#REF!) | #REF! | 
+| [**Spa breaks**](https://www.spabreaks.com/) | Paid | 
+| [**Buy a gift**](https://www.awin1.com/cread.php?awinmid=273&awinaffid=1198638&ued=https%3A%2F%2Fwww.buyagift.co.uk%2Fspa-and-beauty%2Fspa-day) | Paid | 
   
 
 <br/><br/>

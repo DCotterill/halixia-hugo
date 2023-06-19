@@ -13,9 +13,9 @@ Becoming a local councillor is important as it allows individuals to represent t
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Gov**](https://www.gov.uk/government/get-involved/take-part/become-a-councillor) | Free | 
-| [**Local gov**](https://www.local.gov.uk/our-support/councillor-and-officer-development/councillor-hub/role-councillor) | Free | 
-| [**Local gov**](https://www.local.gov.uk/be-councillor/becoming-councillor-0) | Free | 
+| [**UK Government**](https://www.gov.uk/government/get-involved/take-part/become-a-councillor) | Free | 
+| [**UK Government**](https://www.local.gov.uk/our-support/councillor-and-officer-development/councillor-hub/role-councillor) | Free | 
+| [**UK Government**](https://www.local.gov.uk/be-councillor/becoming-councillor-0) | Free | 
   
 
 <br/><br/>

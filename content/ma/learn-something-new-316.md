@@ -16,6 +16,7 @@ GetSetUp is an online community of people who want to learn new skills, connect 
 | [**get set up**](https://www.getsetup.io/) | Free/Paid | 
 | [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
 | [**Future Learn**](https://www.futurelearn.com/) | Paid | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
   
 
 <br/><br/>

@@ -13,9 +13,10 @@ Healthy eating is crucial for overall well-being as it provides essential nutrie
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Nutrition**](https://www.nutrition.org.uk/our-work/what-we-do/healthy-eating-week/) | Free  | 
+| [**Beauty bites**](https://www.beautybites.org/7-day-clean-eating-challenge/) | Free  | 
 | [**NHS**](https://www.nhsinform.scot/healthy-living/food-and-nutrition/eating-well/health-benefits-of-eating-well) | Free  | 
-| [**#REF!**](#REF!) | #REF! | 
+| [**Balance box**](https://www.balancebox.com) | Paid | 
+| [**Spanish Passion foods**](https://www.spanishpassionfoods.co.uk) |  | 
   
 
 <br/><br/>

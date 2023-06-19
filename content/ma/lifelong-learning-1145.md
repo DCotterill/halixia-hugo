@@ -16,6 +16,7 @@ Lifelong learning can provide health benefits such as improving cognitive functi
 | [**Future Learn**](https://www.futurelearn.com/) | Paid | 
 | [**Learnerbly**](https://www.learnerbly.com/articles/continuous-learning-what-it-is-why-its-important-and-how-to-support-it) | Free | 
 | [**Virtual College**](https://www.virtual-college.co.uk/) | Paid | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
   
 
 <br/><br/>

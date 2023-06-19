@@ -16,6 +16,7 @@ Learning skills that are in demand is important as it can increase employability
 | [**Indeed**](https://www.indeed.com/career-advice/career-development/learning-skills-online) | Free | 
 | [**BBC**](https://www.bbc.com/worklife/article/20220412-what-upskilling-means-for-the-future-of-work) | Free | 
 | [**Coursera**](https://www.coursera.org/articles/high-income-skills) | Free | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
   
 
 <br/><br/>

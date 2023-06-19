@@ -16,6 +16,7 @@ You already know that coaching helps individuals see themselves more clearly. Bu
 | [**Udemy**](https://www.udemy.com/course/coaching-and-mentoring-techniques/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-DSA_Webindex_la.EN_cc.BE&utm_content=deal4584&utm_term=_._ag_1222657343651662_._ad__._kw_udemy_._de_c_._dm__._pl__._ti_dat-2328215871879260%3Aloc-188_._li_132721_._pd__._&matchtype=b&msclkid=fa44bee2db1b1d264427daf82ce85ac1) | Paid | 
 | [**Thinkific**](https://www.thinkific.com/blog/how-to-improve-your-coaching-skills/) | Free | 
 | [**Padfield partnership**](https://padfieldpartnership.com/why-and-how-to-improve-your-coaching-skills/) | Free | 
+| [**New Skill Academy**](https://newskillsacademy.co.uk/course/mentoring-coaching-skills-certificate) |  | 
   
 
 <br/><br/>

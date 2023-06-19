@@ -16,6 +16,7 @@ Research has shown that consistently using a fitness tracker, can help motivate 
 | [**Map my walk**](https://www.mapmywalk.com/) | Free/Paid | 
 | [**NHS**](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/) | Free | 
 | [**Strava**](https://www.strava.com/) | Free/Paid | 
+| [**Pro:Direct Sport**](https://www.prodirectsport.com/running/) |  | 
   
 
 <br/><br/>

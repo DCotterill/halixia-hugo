@@ -16,6 +16,7 @@ Our mental health directly influences how we think, feel and act, it also affect
 | [**Mental health courses**](https://mentalhealthcourses.org.uk/) | Free | 
 | [**Learn direct**](https://www.learndirect.com/blog/the-importance-of-understanding-mental-health) | Free | 
 | [**Red cross**](https://blog.redcrossfirstaidtraining.co.uk/7-advantages-of-mental-health-training-that-will-help-deliver-value) | Free | 
+| [**Lovendu**](https://lovendu.co.uk/) |  | 
   
 
 <br/><br/>

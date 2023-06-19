@@ -16,6 +16,7 @@ Taking holidays can be a great chance to escape your daily routine and see new p
 | [**Thrive global**](https://community.thriveglobal.com/the-importance-of-taking-a-holiday/) | Free | 
 | [**Bupa**](https://www.bupa.co.uk/business/news-and-information/why-holidays-are-good-for-employees-health) | No | 
 | [**Barrhead Travel**](https://www.barrheadtravel.co.uk/) | Paid | 
+| [**Jet2holidays**](https://www.jet2holidays.com/) |  | 
   
 
 <br/><br/>

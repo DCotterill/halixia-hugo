@@ -16,7 +16,7 @@ Learning a language improves memory, increases attention span and strengthens bo
 | [**cactus language**](https://www.cactuslanguage.com/adults/courses/50-plus/) | Paid | 
 | [**Memrise**](https://www.memrise.com/) | Paid | 
 | [**Findcourses.co.uk**](https://www.findcourses.co.uk/search/language-training-courses) | Paid | 
-| [**Duolingo**](https://blog.duolingo.com/twenty-tips-to-sharpen-your-language-skills-and-have-fun-doing-it/) | Free | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
   
 
 <br/><br/>

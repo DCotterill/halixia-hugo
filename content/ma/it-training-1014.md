@@ -16,6 +16,7 @@ Over the past few years, technology has adapted and evolved beyond anyone’s ex
 | [**Age UK**](https://www.ageuk.org.uk/services/in-your-area/it-training/) | Free | 
 | [**Personnel today**](https://www.personneltoday.com/hr/why-it-training-is-important/) | Free | 
 | [**Global knowledge**](https://www.globalknowledge.com/us-en/resources/resource-library/articles/the-10-most-important-it-skills-for-2020/) | Free | 
+| [**The Code Zone**](https://www.thecodezone.co.uk/) |  | 
   
 
 <br/><br/>

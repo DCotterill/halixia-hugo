@@ -16,6 +16,7 @@ We live in an age where we can spend hours bingeing on TV box sets or surfing so
 | [**BBC**](https://www.bbc.co.uk/programmes/m00187ws) | Free | 
 | [**BBC**](https://www.bbc.co.uk/teach/skillswise) | Free | 
 | [**UK Government**](https://www.gov.uk/local-library-services) | Free | 
+| [**Harper Collins**](https://harpercollins.co.uk/) |  | 
   
 
 <br/><br/>

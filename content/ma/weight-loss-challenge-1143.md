@@ -13,9 +13,10 @@ Maintaining a healthy weight is important as it can reduce the risk of chronic d
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Better. me**](https://betterme.world/articles/60-day-weight-loss-challenge/) | Free | 
+| [**BetterMe**](https://betterme.world/articles/60-day-weight-loss-challenge/) | Free | 
 | [**Verywell fit**](https://www.verywellfit.com/benefits-of-losing-weight-3495571) | Free | 
 | [**Healthline**](https://www.healthline.com/health/exercise-and-weight-loss) | Free | 
+| [**Grape Tree**](https://www.grapetree.co.uk/) |  | 
   
 
 <br/><br/>

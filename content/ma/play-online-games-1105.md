@@ -16,6 +16,7 @@ Playing games with friends is important as it fosters social connections, improv
 | [**Study International**](https://www.studyinternational.com/news/research-playing-online-games-friends-happier/) | Free | 
 | [**Uno**](https://www.letsplayuno.com/) | Free | 
 | [**Scropely**](https://scopely.com/game/scr-go-mobile/) | Free | 
+| [**Cold case inc**](https://coldcaseinc.com/) |  | 
   
 
 <br/><br/>

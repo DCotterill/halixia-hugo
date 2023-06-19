@@ -16,6 +16,7 @@ Strong, supportive relationships not only give us pleasure, but also influence o
 | [**Lasting**](https://www.getlasting.com/) | Paid | 
 | [**5 love languages**](https://5lovelanguages.com/resources/app/) | Free/Paid | 
 | [**Between**](https://between.us/) | Paid | 
+| [**12 Magical Dates**](https://www.12magicaldates.com/reignite-marriage-relationship?r_done=1) |  | 
   
 
 <br/><br/>

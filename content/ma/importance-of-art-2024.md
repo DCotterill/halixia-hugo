@@ -15,7 +15,8 @@ Art benefits your life in various ways. It promotes self-expression, creativity,
 | :-----------          | :--------------:      |  
 | [**NPR**](https://www.npr.org/2019/12/30/792439555/making-art-is-good-for-your-health-heres-how-to-start-a-habit) | Free | 
 | [**American scientist**](https://www.americanscientist.org/article/how-art-can-heal) | Free  | 
-| [**#REF!**](#REF!) | #REF! | 
+| [**London art college**](https://www.londonartcollege.co.uk/art-courses/) | Free  | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
   
 
 <br/><br/>
