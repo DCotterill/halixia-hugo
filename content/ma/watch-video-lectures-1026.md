@@ -13,7 +13,7 @@ There are a range of benefits of continuous learning, including helping you to g
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Video lectures**](http://videolectures.net/Top/) | Free | 
+| [**FreeVideoLectures**](https://freevideolectures.com/) | Free | 
 | [**LinkedIn**](https://www.linkedin.com/pulse/7-reasons-students-learn-better-video-travis-bergwall/) | Free | 
 | [**Oxford University**](https://www.ox.ac.uk/students/academic/guidance/skills/recorded-lectures) | Free | 
   

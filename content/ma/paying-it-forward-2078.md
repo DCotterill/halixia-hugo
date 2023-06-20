@@ -7,7 +7,7 @@ layout: static
 
 Learn about paying it forward
 
-Learn about performing acts of kindness to positively impact others and create a ripple effect of goodwill.
+Learn about paying it forward to positively impact others and create a ripple effect of goodwill.
 
 Paying it forward involves doing kind deeds for others without expecting anything in return. It spreads positivity, fosters a sense of community, and encourages others to do the same, creating a chain of goodwill and making a difference in people's lives.
 

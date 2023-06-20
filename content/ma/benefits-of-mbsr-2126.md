@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Read about the benefits of MBSR
+Read about Mindfulness Based Stress Reduction (MBSR)
 
 Read more about incorporating regular mindfulness practices into your daily life to reduce stress, increase self-awareness, and enhance overall well-being.
 

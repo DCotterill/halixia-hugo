@@ -16,7 +16,7 @@ Is there anything more enjoyable than playing games with friends? Not only is it
 | [**skribbl**](https://skribbl.io/) | Free | 
 | [**Uno**](https://www.letsplayuno.com/) | Free | 
 | [**Among us**](https://www.innersloth.com/games/among-us/) | Free | 
-| [**Cold case inc**](https://coldcaseinc.com/) |  | 
+| [**Cold case inc**](https://coldcaseinc.com/) | Paid | 
   
 
 <br/><br/>

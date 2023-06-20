@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about benefits of attending local events and festivals
+Find local local events and festivals of interest to you 
 
 Learn about actively participate in local events or festivals to celebrate community culture, support local businesses, and engage with fellow community members.
 
