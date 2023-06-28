@@ -16,7 +16,7 @@ Healthy eating is crucial for overall well-being as it provides essential nutrie
 | [**Beauty bites**](https://www.beautybites.org/7-day-clean-eating-challenge/) | Free  | 
 | [**NHS**](https://www.nhsinform.scot/healthy-living/food-and-nutrition/eating-well/health-benefits-of-eating-well) | Free  | 
 | [**Balance box**](https://www.balancebox.com) | Paid | 
-| [**Spanish Passion foods**](https://www.spanishpassionfoods.co.uk) |  | 
+| [**Spanish Passion foods**](https://www.spanishpassionfoods.co.uk) | Paid | 
   
 
 <br/><br/>

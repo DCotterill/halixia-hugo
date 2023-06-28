@@ -16,7 +16,7 @@ Increasing communication in a relationship is crucial to build trust, improve un
 | [**Gottman**](https://www.gottman.com/couples/apps/) | Free | 
 | [**Psychology today**](https://www.psychologytoday.com/us/blog/communication-matters/202107/why-communication-matters) | Free | 
 | [**Counselling directory**](https://www.counselling-directory.org.uk/memberarticles/the-importance-of-communication-in-relationships) | Free | 
-| [**12 Magical Dates**](https://www.12magicaldates.com/reignite-marriage-relationship?r_done=1) |  | 
+| [**12 Magical Dates**](https://www.12magicaldates.com/reignite-marriage-relationship?r_done=1) | Paid | 
   
 
 <br/><br/>

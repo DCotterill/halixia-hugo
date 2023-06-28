@@ -16,7 +16,7 @@ Dance is a great way to stay in shape and help your heart. The aerobic effect of
 | [**BBC**](https://www.bbc.co.uk/programmes/m0017cfl) | Free | 
 | [**Healthline**](https://www.healthline.com/health/fitness-exercise/benefits-of-dance) | Free | 
 | [**Ceroc**](https://www.ceroc.com/) | Paid | 
-| [**Dance Direct**](https://www.dancedirect.com/) |  | 
+| [**Dance Direct**](https://www.dancedirect.com/) | Paid | 
   
 
 <br/><br/>

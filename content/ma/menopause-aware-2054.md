@@ -7,7 +7,7 @@ layout: static
 
 Learn all about menopause
 
-Learn about the menopause and how it affects women to increase your awareness and learn how to support your partners or loved ones.
+Learn about the menopause and how it affects women to increase your awareness and learn how to support your partner or loved ones.
 
 A men's course on menopause educates men about the physical and emotional changes women experience during this stage of life. It fosters empathy, better communication, and provides guidance on how to offer support and understanding.
 

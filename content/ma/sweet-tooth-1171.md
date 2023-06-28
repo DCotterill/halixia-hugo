@@ -16,7 +16,7 @@ Treating yourself can provide a small indulgence and moment of pleasure. It can 
 | [**Psych central**](https://psychcentral.com/blog/psychology-rewarding-yourself-with-treats#2) | Free | 
 | [**Insanely good recipes**](https://insanelygoodrecipes.com/homemade-candy-bars/) | Free | 
 | [**A Quarter Of...**](https://www.awin1.com/cread.php?awinmid=978&awinaffid=1198638&ued=https%3A%2F%2Fwww.aquarterof.co.uk) | Paid | 
-| [**SWeet hamper company**](https://www.sweethampercompany.co.uk/) |  | 
+| [**Sweet hamper company**](https://www.sweethampercompany.co.uk/) | Paid | 
   
 
 <br/><br/>

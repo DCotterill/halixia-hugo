@@ -7,7 +7,7 @@ layout: static
 
 Learn about beekeeping
 
-Learn more about the art of beekeeping and contribute to pollinator conservation efforts.
+Learn about the art of beekeeping and contribute to pollinator conservation efforts.
 
 A beekeeping course teaches the fundamentals of beekeeping, including hive management, honey production, and the importance of bees for ecosystems. It promotes environmental stewardship, enhances understanding of bees' crucial role, and offers opportunities to support local biodiversity.
 

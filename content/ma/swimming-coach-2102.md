@@ -5,11 +5,11 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about becoming a swimming coach
+Learn about becoming a swimming coach
 
-Learn more coaching and mentoring swimmers of various skill levels, promoting technique, endurance, and a love for swimming.
+Turn a love of swimming into coaching and mentoring swimmers of all levels.
 
-As a swimming coach, you provide guidance, training, and support to swimmers to enhance their technique, build endurance, and develop a lifelong passion for swimming. It fosters physical fitness, discipline, and a sense of accomplishment.
+As a swimming coach, you can provide guidance, training, and support to swimmers to enhance their technique, build endurance, and develop a lifelong passion for swimming. It fosters physical fitness, discipline, and a sense of accomplishment.
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  

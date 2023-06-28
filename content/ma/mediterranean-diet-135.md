@@ -16,7 +16,7 @@ Rich in flavourful ingredients like fruits, vegetables, wholegrains, and heart-h
 | [**Noom**](https://www.noom.com/blog/the-mediterranean-diet/) | Free | 
 | [**BBC**](https://www.bbc.co.uk/food/collections/mediterranean_diet_recipes) | Free | 
 | [**Fitonapp**](https://fitonapp.com/nutrition/foods-to-eat-on-the-mediterranean-diet/) | Free | 
-| [**Spanish Passion foods**](https://www.spanishpassionfoods.co.uk) |  | 
+| [**Spanish Passion foods**](https://www.spanishpassionfoods.co.uk) | Paid | 
   
 
 <br/><br/>

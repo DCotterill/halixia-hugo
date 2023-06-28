@@ -16,7 +16,7 @@ Social connections help to influence our long-term health in ways every bit as p
 | [**Psych central**](https://psychcentral.com/lib/simple-steps-to-improve-your-relationship#general-strategies) | Free | 
 | [**Help guide**](https://www.helpguide.org/articles/relationships-communication/relationship-help.htm) | Free | 
 | [**Very well mind**](https://www.verywellmind.com/7-surprising-ways-to-make-your-relationship-better-5094212) | Free | 
-| [**12 Magical Dates**](https://www.12magicaldates.com/reignite-marriage-relationship?r_done=1) |  | 
+| [**12 Magical Dates**](https://www.12magicaldates.com/reignite-marriage-relationship?r_done=1) | Paid | 
   
 
 <br/><br/>

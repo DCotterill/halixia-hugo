@@ -16,7 +16,7 @@ Regular physical activity or exercise helps your brain, heart and lungs stay hea
 | [**NHS**](https://www.nhs.uk/better-health/get-active/) | Free | 
 | [**longevity live**](https://longevitylive.com/anti-aging/reasons-always-take-stairs-2020-2/) | Free | 
 | [**Active**](https://www.active.com/fitness/articles/5-fun-activities-to-help-you-get-fit) | Free | 
-| [**Pro:Direct Sport**](https://www.prodirectsport.com/running/) |  | 
+| [**Pro:Direct Sport**](https://www.prodirectsport.com/running/) | Paid | 
   
 
 <br/><br/>

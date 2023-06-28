@@ -7,9 +7,9 @@ layout: static
 
 Learn about the importance of comparison sites
 
-Learn more about comparing prices and features of services such as mortgages, utilities, and Wi-Fi, to help you make more informed purchasing decisions and save money.
+Learn about comparing prices and features of services such as mortgages, utilities, and Wi-Fi, to help you make more informed purchasing decisions and save money.
 
-Comparison shopping helps find the best deals, ensures value for money, and avoids overpaying. It empowers consumers to make informed choices and maximize their purchasing power.
+Comparison shopping helps find the best deals, ensures value for money, and avoids overpaying. It empowers consumers to make informed choices and maximise their purchasing power.
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  

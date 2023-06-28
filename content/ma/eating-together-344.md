@@ -16,7 +16,7 @@ By eating meals together we practice gratitude. While sharing and enjoying a tas
 | [**Am Dietics**](https://www.amdietetics.com/articles/the-importance-of-eating-together) | Free | 
 | [**BBC**](https://www.bbc.co.uk/food/collections/family_feasts) | Free | 
 | [**Eating together being together**](https://eatingtogetherbeingtogether.com/) | Paid | 
-| [**Tabl**](https://tabl.com/) |  | 
+| [**Tabl**](https://tabl.com/) | Paid | 
   
 
 <br/><br/>

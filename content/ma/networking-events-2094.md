@@ -5,9 +5,9 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about organising networking events
+Want to organise and networking event
 
-Learn about organising networking events to foster professional connections, knowledge sharing, and collaboration within the industry.
+Learn about how you can organise a networking event to foster professional connections, knowledge sharing, and collaboration within the industry.
 
 Facilitating industry networking events brings professionals together, enabling them to exchange ideas, build relationships, and explore collaboration opportunities. It contributes to professional growth, expands networks, and strengthens the industry ecosystem.
 

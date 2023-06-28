@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Read more about leading community projects
+Could you lead a community project
 
 Look into taking a leadership role in initiating and guiding community projects or initiatives to address local needs and improve the community.
 

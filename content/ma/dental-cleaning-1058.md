@@ -16,7 +16,7 @@ Getting your teeth professionally cleaned every six months is very important, as
 | [**Dental one**](https://www.dentalone-ga.com/blog/7-important-benefits-of-dental-cleanings) | Free | 
 | [**Healthline**](https://www.healthline.com/health/dental-and-oral-health/how-often-should-you-get-your-teeth-cleaned) | Free | 
 | [**Forbes**](https://www.forbes.com/health/body/what-is-dental-cleaning/) | Free | 
-| [**Spotlight Oral**](https://uk.spotlightoralcare.com/) |  | 
+| [**Spotlight Oral**](https://uk.spotlightoralcare.com/) | Paid | 
   
 
 <br/><br/>

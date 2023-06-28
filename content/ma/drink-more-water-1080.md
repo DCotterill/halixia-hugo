@@ -16,7 +16,7 @@ Water is important in your body – from removing waste products in urine, to lu
 | [**Plant nanny**](https://plantnanny.app/) | Free | 
 | [**Healthline**](https://www.healthline.com/health/food-nutrition/why-is-water-important) | Free | 
 | [**Medical news today**](https://www.medicalnewstoday.com/articles/290814) | Free | 
-| [**DA-SH water**](https://dash-water.com/) |  | 
+| [**DA-SH water**](https://dash-water.com/) | Paid | 
   
 
 <br/><br/>

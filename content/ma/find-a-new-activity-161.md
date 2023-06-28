@@ -16,7 +16,7 @@ It's the perfect time to get active. No matter how much you do, physical activit
 | [**This Girl Can**](https://www.thisgirlcan.co.uk/) | Free | 
 | [**Active**](https://www.active.com/fitness/articles/5-fun-activities-to-help-you-get-fit) | Free | 
 | [**The Studio by Jamie Kinkeade**](https://www.youtube.com/watch?v=yN3GgCUmmXw) | Free | 
-| [**Rubymoon**](https://rubymoon.org.uk/) |  | 
+| [**Rubymoon**](https://rubymoon.org.uk/) | Paid | 
   
 
 <br/><br/>

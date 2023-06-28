@@ -16,7 +16,7 @@ Attending local events or festivals fosters community connection, promotes local
 | [**Event brite**](https://www.eventbrite.co.uk/) | Free | 
 | [**Event academy**](https://eventacademy.com/events/how-events-can-benefit-local-communities/) | Free | 
 | [**Billeto**](https://billetto.co.uk/blog/why-people-attend-events/) | Free | 
-| [**Eventim**](https://www.eventim.co.uk/) |  | 
+| [**Eventim**](https://www.eventim.co.uk/) | Paid | 
   
 
 <br/><br/>

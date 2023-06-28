@@ -16,7 +16,7 @@ By eating meals together we practice gratitude. While sharing and enjoying a tas
 | [**BBC**](https://www.bbc.co.uk/food/collections/family_friendly_dinner) | Free | 
 | [**Jamie Oliver**](https://www.jamieoliver.com/family/) | Free | 
 | [**Team building with taste**](https://www.teambuildingwithtaste.com/why-family-cooking-together-matters/) | Free | 
-| [**Gousto**](https://www.gousto.co.uk/) |  | 
+| [**Gousto**](https://www.gousto.co.uk/) | Paid | 
   
 
 <br/><br/>

@@ -16,7 +16,7 @@ Yoga is for everyone, whatever your ability or disability, age, experience, fitn
 | [**Yoga International**](https://yogainternational.com/article/view/starting-yoga-after-age-49) | Free | 
 | [**Yoga Basics**](https://www.yogabasics.com/practice/yoga-for-beginners/#:~:text=After%20you%E2%80%99ve%20found%20a%20style%2C%20teacher%2C%20and%20yoga,study%20to%20learn%20more%20about%20yoga%20More%20items) | Free | 
 | [**Yoga for everyone**](https://yogaforeveryone.tv/) | Paid | 
-| [**Complete Unity Yoga**](https://completeunityyoga.com/) |  | 
+| [**Complete Unity Yoga**](https://completeunityyoga.com/) | Paid | 
   
 
 <br/><br/>

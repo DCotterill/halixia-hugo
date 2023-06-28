@@ -16,7 +16,7 @@ Wellbeing is about physical, mental, and emotional health. It is crucial for a f
 | [**CAREinMIND**](https://careinmind.com.au/blog/what-is-wellbeing-and-why-is-it-important/) | Free | 
 | [**Mind**](https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/relaxation-tips/) | Free  | 
 | [**Very well mind**](https://www.verywellmind.com/improve-psychological-well-being-4177330) | Free  | 
-| [**Complete Unity Yoga**](https://completeunityyoga.com/) |  | 
+| [**Complete Unity Yoga**](https://completeunityyoga.com/) | Paid | 
   
 
 <br/><br/>

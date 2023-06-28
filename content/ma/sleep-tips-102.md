@@ -16,7 +16,7 @@ Sleep is an essential function to help our mind and body recharge. Healthy sleep
 | [**Sleep foundation**](https://www.thensf.org/sleep-tips/) | Free | 
 | [**BBC**](https://www.bbc.co.uk/sounds/curation/p0bw83p3?partner=uk.co.bbc&origin=share-mobile) | Free | 
 | [**Insight timer**](https://insighttimer.com/) | Free/Paid | 
-| [**Sleep Hubs**](https://sleephubs.com/) |  | 
+| [**Sleep Hubs**](https://sleephubs.com/) | Paid | 
   
 
 <br/><br/>

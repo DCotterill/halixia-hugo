@@ -16,7 +16,7 @@ Honey offers health benefits such as soothing sore throats, aiding in wound heal
 | [**Natural Food Series**](https://www.naturalfoodseries.com/11-benefits-honey/) | Free | 
 | [**Local honey finder**](https://localhoneyfinder.org/UK.php) | Free  | 
 | [**Comvita**](https://www.comvita.co.uk/) | Paid | 
-| [**Spanish Passion foods**](https://www.spanishpassionfoods.co.uk/spanish-honey/) |  | 
+| [**Spanish Passion foods**](https://www.spanishpassionfoods.co.uk/spanish-honey/) | Paid | 
   
 
 <br/><br/>

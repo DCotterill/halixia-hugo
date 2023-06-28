@@ -7,7 +7,7 @@ layout: static
 
 Learn about diversifying investments
 
-Read and learn more about why you should spread investment across different assets or sectors to help manage risk and maximize returns.
+Read and learn about why you should spread investment across different assets or sectors to help manage risk and maximise returns.
 
 Diversifying investments reduces the impact of market volatility, mitigates risk, and increases the potential for long-term returns. It ensures a well-balanced portfolio and aligns with the principle of not putting all eggs in one basket.
 

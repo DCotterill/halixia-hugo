@@ -16,7 +16,7 @@ Starting your day with breakfast can provide health benefits such as improving m
 | [**BBC Food**](https://www.bbcgoodfood.com/recipes/collection/healthy-breakfast-recipes) | Free | 
 | [**Healthline**](https://www.healthline.com/health-news/breakfast-most-important-meal) | Free | 
 | [**Web MD**](https://www.webmd.com/food-recipes/breakfast-lose-weight) | Free | 
-| [**Surreal Cereal**](https://eatsurreal.co.uk/) |  | 
+| [**Surreal Cereal**](https://eatsurreal.co.uk/) | Paid | 
   
 
 <br/><br/>

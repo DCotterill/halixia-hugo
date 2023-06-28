@@ -5,11 +5,11 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about functional training
+Learn about high intensity functional (HIFT) training
 
-Learn more about focusing on functional exercises that mimic real-life movements to improve overall strength, stability, and mobility for daily activities.
+HIFT is an exercise program based on doing functional movements at a high intensity, combining cardiovascular conditioning, strength training, and functional movements to provide a comprehensive workout.  
 
-Functional training emphasizes exercises that mimic real-life movements, enhancing functional fitness and reducing the risk of injury. It improves muscle coordination, balance, and the ability to perform daily tasks with ease.
+HIFT workouts typically involve exercises that mimic real-life movements and can include activities such as lifting, pushing, pulling, squatting, jumping, and running. It is carried out a high intensity to challenge your physical capabilities, and can yield significant results in a short amount of time. 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  

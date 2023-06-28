@@ -16,7 +16,7 @@ Starting your day with breakfast can provide health benefits such as improving m
 | [**Graying with grace**](https://www.grayingwithgrace.com/importance-of-breakfast-for-elderly/) | Free | 
 | [**Lottie**](https://lottie.org/carecollective/healthy-breakfast-ideas-for-the-elderly/) | Free | 
 | [**Mature times**](https://www.maturetimes.co.uk/breakfast-important-older-people/) | Free | 
-| [**Surreal Cereal**](https://eatsurreal.co.uk/) |  | 
+| [**Surreal Cereal**](https://eatsurreal.co.uk/) | Paid | 
   
 
 <br/><br/>

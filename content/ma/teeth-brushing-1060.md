@@ -16,7 +16,7 @@ Knowing how to brush your teeth properly is important to prevent conditions such
 | [**Oral B**](https://www.oralb.co.uk/en-gb/oral-health/why-oral-b/electric-toothbrushes/how-to-brush-teeth-properly) | Free | 
 | [**Insider**](https://www.insider.com/guides/health/best-toothpaste) | Free | 
 | [**Healthline**](https://www.healthline.com/health/dental-and-oral-health/best-practices-for-healthy-teeth) | Free | 
-| [**Brevi brush**](https://brevibrush.com/) |  | 
+| [**Brevi brush**](https://brevibrush.com/) | Paid | 
   
 
 <br/><br/>

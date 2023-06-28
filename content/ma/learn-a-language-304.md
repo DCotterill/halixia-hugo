@@ -16,7 +16,7 @@ With increasing demand for language skills in education, and more broadly across
 | [**Open University**](https://www.open.ac.uk/courses/languages/short-courses) | Paid | 
 | [**Mezzofanti Guild**](https://www.mezzoguild.com/foreign-language-careers/) | Free | 
 | [**Indeed**](https://uk.indeed.com/Language-Required-jobs?vjk=8d27a4bce63e8841) | Free | 
-| [**#REF!**](#REF!) |  | 
+| [**#REF!**](#REF!) | Paid | 
   
 
 <br/><br/>

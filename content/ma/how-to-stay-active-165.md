@@ -16,7 +16,7 @@ Becoming more active can be daunting, especially if you are managing a health co
 | [**We are undefeatable**](https://weareundefeatable.co.uk/ways-to-move) | Free | 
 | [**My living well**](https://mylivingwell.co.uk/physical-activity/exercising-with-long-term-health-conditions) | Free | 
 | [**CSP**](https://www.csp.org.uk/public-patient/keeping-active-healthy/love-activity-hate-exercise-campaign/being-active-long-term) | Free | 
-| [**Go Gym**](https://www.gogym.uk/) |  | 
+| [**Go Gym**](https://www.gogym.uk/) | Paid | 
   
 
 <br/><br/>

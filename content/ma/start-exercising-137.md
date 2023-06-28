@@ -16,7 +16,7 @@ Regular exercise is one of the best things you can do for your health. Working e
 | [**The Body Coach**](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ) | Free | 
 | [**NHS**](https://www.nhs.uk/better-health/get-active/) | Free | 
 | [**Healthline**](https://www.healthline.com/nutrition/how-to-start-exercising#TOC_TITLE_HDR_4) | Free/Paid | 
-| [**Pro:Direct Sport**](https://www.prodirectsport.com/running/) |  | 
+| [**Pro:Direct Sport**](https://www.prodirectsport.com/running/) | Paid | 
   
 
 <br/><br/>

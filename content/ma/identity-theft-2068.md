@@ -7,9 +7,9 @@ layout: static
 
 Learn about protecting yourself from identity theft
 
-Learn more about safeguarding personal information, using strong passwords, and monitoring financial accounts for suspicious activity.
+Learn about safeguarding personal information, using strong passwords, and monitoring financial accounts for suspicious activity.
 
-Protecting against identity theft involves adopting security measures like safeguarding personal information, creating strong passwords, and regularly monitoring financial accounts. It mitigates the risk of fraud, preserves financial well-being, and promotes peace of mind.
+Protecting against identity theft involves adopting security measures like safeguarding personal information, creating strong passwords, and regularly monitoring financial accounts. It mitigates the risk of fraud, preserves financial wellbeing, and promotes peace of mind.
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  

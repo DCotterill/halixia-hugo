@@ -16,7 +16,7 @@ The UK's wildlife is continuing to decline, with hundreds of species now at risk
 | [**The Wildlife Trusts**](https://www.wildlifetrusts.org/) | Free | 
 | [**Woodland Trust**](https://www.woodlandtrust.org.uk/) | Free | 
 | [**Selections**](https://www.selections.com/birds-and-wildlife/wildlife-habitats-houses) | Paid | 
-| [**Garden Wildlife Direct**](https://www.gardenwildlifedirect.co.uk/) |  | 
+| [**Garden Wildlife Direct**](https://www.gardenwildlifedirect.co.uk/) | Paid | 
   
 
 <br/><br/>

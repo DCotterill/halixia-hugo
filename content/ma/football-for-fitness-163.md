@@ -16,7 +16,7 @@ It's the perfect time to get active. No matter how much you do, physical activit
 | [**Fit Fans (Public Health England)**](https://www.efl.com/news/2020/november/how-the-fit-fans-programme-is-changing-lives-for-the-better/) | Free | 
 | [**Fit Fans**](https://www.efltrust.com/mens-health-month-how-fit-fans-is-providing-benefits-beyond-weight-loss/) | Free | 
 | [**Active**](https://www.active.com/fitness/articles/5-fun-activities-to-help-you-get-fit) | Free | 
-| [**Mitre**](https://www.mitre.com/) |  | 
+| [**Mitre**](https://www.mitre.com/) | Paid | 
   
 
 <br/><br/>

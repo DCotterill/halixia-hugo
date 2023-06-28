@@ -16,7 +16,7 @@ Going to a nature park offers numerous benefits. It allows you to connect with n
 | [**Healthline**](https://www.healthline.com/health/health-benefits-of-being-outdoors) | Free | 
 | [**National Trust**](https://www.nationaltrust.org.uk/visit/gardens-parks) | Free  | 
 | [**Forest holidays**](https://www.forestholidays.co.uk) | Paid | 
-| [**Go Ape**](https://goape.co.uk/) |  | 
+| [**Go Ape**](https://goape.co.uk/) | Paid | 
   
 
 <br/><br/>

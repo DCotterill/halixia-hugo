@@ -16,7 +16,7 @@ Cheese offers several health benefits. It is a good source of protein and calciu
 | [**Healthline**](https://www.healthline.com/health/is-cheese-bad-for-you) | Free | 
 | [**Healthline**](https://www.healthline.com/nutrition/healthiest-cheese) | Free  | 
 | [**Butlers Cheeses**](https://www.butlerscheeses.co.uk/) | Paid | 
-| [**Cartmel Cheeses**](https://www.cartmelcheeses.co.uk/) |  | 
+| [**Cartmel Cheeses**](https://www.cartmelcheeses.co.uk/) | Paid | 
   
 
 <br/><br/>
