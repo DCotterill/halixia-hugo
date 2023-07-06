@@ -13,9 +13,10 @@ Learning to preserve and make jams is important as it preserves the flavours of 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Verywell Mind**](https://www.verywellmind.com/the-importance-of-hobbies-for-stress-relief-3144574) | Free | 
-| [**Rosie makes jam**](https://rosiemakesjam.com/jam-and-preserve-making-classes/) | Free  | 
-| [**Craft company**](https://www.craftcompany.co.uk) | Paid | 
+| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](Verywell Mind) | Online | 
+| [**Quarterly **](Rosie makes jam) | Online | 
+| [**Quarterly **](Craft company) | Online | 
+| [**Yearly**]() |  | 
   
 
 <br/><br/>

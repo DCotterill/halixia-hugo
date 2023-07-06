@@ -13,10 +13,10 @@ Eating nuts as part of a healthy diet may be good for the heart. Nuts contain un
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Life time daily**](https://www.lifetimedaily.com/what-are-the-healthiest-nuts/) | Free | 
-| [**BBC**](https://www.bbcgoodfood.com/howto/guide/health-benefits-nuts) | Free | 
-| [**Nutmad**](https://nutmad.com/shop/healthy-snack-box-subscription/) | Paid | 
-| [**Nutspick**](https://nutspick.co.uk/) | Paid | 
+| [**https://www.mdpi.com/2076-3921/8/8/302, https://academic.oup.com/ajcn/article/70/3/500s/4714957**](Life time daily) | Online | 
+| [**Quarterly**](BBC) | Online | 
+| [**Yearly**](Nutmad) | Online | 
+| [**Quarterly**](Nutspick) |  | 
   
 
 <br/><br/>

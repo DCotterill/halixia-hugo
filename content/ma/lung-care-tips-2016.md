@@ -13,9 +13,10 @@ Looking after your lungs is crucial for maintaining respiratory health, reducing
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**NHS**](https://www.southeastclinicalnetworks.nhs.uk/loveyourlungs/) | Free | 
-| [**Breathing matters**](https://www.breathingmatters.co.uk/about/love-your-lungs/) | Free  | 
-| [**Lung**](https://www.lung.org/lung-health-diseases/wellness/breathing-exercises) | Free  | 
+| [**https://core.ac.uk/download/pdf/224740251.pdf**](NHS) | Online | 
+| [**Yearly**](Breathing matters) | Online | 
+| [**Quarterly **](Lung) | Online | 
+| [**Quarterly **]() |  | 
   
 
 <br/><br/>

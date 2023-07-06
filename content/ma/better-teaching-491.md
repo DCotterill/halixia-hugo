@@ -13,10 +13,10 @@ The biggest benefit of teaching others is that in the process, you begin to mast
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Venngage**](https://venngage.com/blog/training-materials/) | Free | 
-| [**OCTEL**](http://octel.alt.ac.uk/course-materials/learning-materials/) | Free | 
-| [**The Guardian**](https://www.theguardian.com/teacher-network/teacher-blog/2014/oct/31/effective-teaching-10-tips) | Free | 
-| [**My tutor**](https://www.mytutor.co.uk/tutors/apply/) | Paid | 
+| [**https://psycnet.apa.org/record/1980-33312-001**](Venngage) | Online | 
+| [**Annual**](OCTEL) | Online | 
+| [**Quarterly**](The Guardian) | Online | 
+| [**Annual**](My tutor) |  | 
   
 
 <br/><br/>

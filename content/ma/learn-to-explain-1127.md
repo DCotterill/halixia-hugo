@@ -13,9 +13,10 @@ Learning how to explain things better is important as it can enhance communicati
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Life hack**](https://www.lifehack.org/710722/how-to-explain-things-better) | Free | 
-| [**Lingual box**](https://www.lingualbox.com/blog/tips-on-how-to-explain-succinctly-and-effectively-in-english) | Free | 
-| [**UP journey**](https://upjourney.com/how-to-be-better-at-explaining-things) | Free | 
+| [**https://www.sciencedirect.com/science/article/abs/pii/S1053482209000904**](Life hack) | Online | 
+| [**Yearly**](Lingual box) | Online | 
+| [**Quarterly**](UP journey) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

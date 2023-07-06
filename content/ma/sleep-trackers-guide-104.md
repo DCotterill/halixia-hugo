@@ -13,10 +13,10 @@ Tracking your sleep can help to better understand your sleep habits, helping you
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**The dozy owl**](https://thedozyowl.co.uk/sleep-trackers/) | Free | 
-| [**Consensus sleep diary**](https://consensussleepdiary.com/) | Free | 
-| [**Sleep on**](https://shop.sleepon.us/collections/sleepon-family/products/go2sleep-ai-powered-device-for-restful-sleep) | Paid | 
-| [**Sleep Hubs**](https://sleephubs.com/) | Paid | 
+| [**https://academic.oup.com/sleep/article/33/4/509/2454611, https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2648.2009.04982.x**](The dozy owl) | Online | 
+| [**Quarterly**](Consensus sleep diary) | Online | 
+| [**Annual**](Sleep on) | Online | 
+| [**Quarterly**](Sleep Hubs) |  | 
   
 
 <br/><br/>

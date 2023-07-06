@@ -13,10 +13,9 @@ It’s no secret that being smart with your money and adopting good money habits
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Which?**](https://www.which.co.uk/money/tax/saving-on-tax/35-ways-to-save-on-tax-a18nb3s9144f) | Free/Paid | 
-| [**#REF!**](#REF!) | #REF! | 
-| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/banking/tax-rates/) | Free | 
-| [**UK Government**](https://www.gov.uk/self-assessment-tax-returns) | Free | 
+| [**6 monthly**](MoneySavingExpert.com) | Online | 
+| [**6 monthly**](UK Government) | Online | 
+| [**Annual**](Tax Advice Network) | Online | 
   
 
 <br/><br/>

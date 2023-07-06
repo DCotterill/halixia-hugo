@@ -13,10 +13,10 @@ People who belong to a gym not only exercised more, they also have better cardio
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Pure Gym**](https://www.puregym.com/) | Paid | 
-| [**Body mind**](https://bodymind.com/7-benefits-of-joining-a-gym/) | Free | 
-| [**Total fitness**](https://www.totalfitness.co.uk/blog/inspiration/10-reasons-to-join-a-gym/) | Free | 
-| [**Hussle**](https://www.hussle.com/) | Paid | 
+| [**https://www.news.iastate.edu/news/2017/01/23/gymmembership**](Pure Gym) | In person | 
+| [**Annual**](Body mind) | Online | 
+| [**Quarterly**](Total fitness) | Online | 
+| [**Annual**](Hussle) |  | 
   
 
 <br/><br/>

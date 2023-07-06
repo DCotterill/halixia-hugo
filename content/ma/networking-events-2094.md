@@ -13,9 +13,10 @@ Facilitating industry networking events brings professionals together, enabling 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Red water events**](https://www.redwaterevents.com/blog/how-to-facilitate-a-networking-event) | Free | 
-| [**Indeed**](https://www.indeed.com/career-advice/career-development/planning-a-networking-event) | Free  | 
-| [**Eventia**](https://www.eventtia.com/en/blog/fun-and-engaging-networking-ideas-to-make-your-business-event-a-success) | Free  | 
+| [**https://journals.co.za/doi/abs/10.10520/EJC22385**](Red water events) | Online | 
+| [**Quarterly**](Indeed) | Online | 
+| [**Yearly**](Eventia) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

@@ -13,10 +13,10 @@ Drinking more milk is beneficial as it is a nutrient-rich containing calcium, pr
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Healthline**](https://www.healthline.com/nutrition/whole-vs-skim-milk) | Free | 
-| [**Which?**](https://www.which.co.uk/news/article/milk-myths-8-common-cows-milk-concerns-debunked-ad0070G46Mnl) | Free | 
-| [**BBC Good Food**](https://www.bbcgoodfood.com/howto/guide/which-milk-right-you) | Free | 
-| [**Find me a milkman**](https://findmeamilkman.net/) | Free | 
+| [**https://journals.sagepub.com/doi/abs/10.1177/0017896914540295?journalCode=heja**](Healthline) | Online | 
+| [**Yearly**](Which?) | Online | 
+| [**Quarterly**](BBC Good Food) | Online | 
+| [**Yearly**](Find me a milkman) | Online | 
   
 
 <br/><br/>

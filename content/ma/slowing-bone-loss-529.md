@@ -13,9 +13,10 @@ Bone loss means that you have lost some bone material. Your bones become less de
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Prevention**](https://www.prevention.com/health/a20492419/know-your-bones-and-how-to-take-care-of-them-at-40/) | Free | 
-| [**Prevention**](https://www.prevention.com/health/a20428985/19-ways-to-preserve-bone-strength-and-treat-osteoporosis/) | Free | 
-| [**Mayo clinic**](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/bone-health/art-20045060) | Free | 
+| [**https://www.geriatric.theclinics.com/article/S0749-0690(02)00022-8/fulltext, https://asbmr.onlinelibrary.wiley.com/doi/full/10.1359/jbmr.2000.15.2.322**](Prevention) | Online | 
+| [**Yearly**](Prevention) | Online | 
+| [**Yearly**](Mayo clinic) | Online | 
+| [**6 monthly**]() |  | 
   
 
 <br/><br/>

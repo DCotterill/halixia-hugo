@@ -13,9 +13,9 @@ TED is on a mission to discover and spread ideas that spark imagination. It is d
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**TED**](https://www.ted.com/talks?sort=popular) | Free | 
-| [**Video lectures**](http://videolectures.net/Top/) | Free | 
-| [**Wired**](https://www.wired.co.uk/article/best-podcasts) | Free | 
+| [**Annual**](Video lectures) | Online | 
+| [**6 monthly**](Wired) | online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

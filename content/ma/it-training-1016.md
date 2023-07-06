@@ -13,10 +13,10 @@ Over the past few years, technology has adapted and evolved beyond anyone’s ex
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Open university**](https://www.open.edu/openlearn/digital-computing/introducing-computing-and-it/content-section-0?active-tab=description-tab) | Free | 
-| [**Personnel today**](https://www.personneltoday.com/hr/why-it-training-is-important/) | Free | 
-| [**Global knowledge**](https://www.globalknowledge.com/us-en/resources/resource-library/articles/the-10-most-important-it-skills-for-2020/) | Free | 
-| [**The Code Zone**](https://www.thecodezone.co.uk/) | Paid | 
+| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](Open university) | Online | 
+| [**Quarterly**](Personnel today) | Online | 
+| [**Quarterly**](Global knowledge) | Online | 
+| [**Quarterly**](The Code Zone) |  | 
   
 
 <br/><br/>

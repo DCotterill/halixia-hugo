@@ -13,10 +13,10 @@ Working to improve yourself can positively impact your own well-being and your r
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Psychology Today**](https://www.psychologytoday.com/us/blog/making-change/201512/five-ways-help-become-your-ideal-self) | Free | 
-| [**Minimalism made simple**](https://www.minimalismmadesimple.com/home/be-your-best-self/) | Free | 
-| [**Psychology Today**](https://www.psychologytoday.com/us/blog/what-matters-most/201303/what-is-your-best-possible-self) | Free | 
-| [**Chopra**](https://www.chopra.com/articles/11-ways-to-become-the-best-version-of-yourself) | Free | 
+| [**https://books.google.co.uk/books?hl=en&lr=&id=m0nePQxwGSoC&oi=fnd&pg=PR3&dq=being+your+optimal+self&ots=_-EP1spwvw&sig=SyiDn51N6sefcpRpGnndVkA4YYA&redir_esc=y#v=onepage&q=being%20your%20optimal%20self&f=false**](Psychology Today) | Online | 
+| [**6 monthly**](Minimalism made simple) | Online | 
+| [**Quarterly**](Psychology Today) | Online | 
+| [**Annual**](Chopra) | Online | 
   
 
 <br/><br/>

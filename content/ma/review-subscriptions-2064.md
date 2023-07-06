@@ -13,9 +13,10 @@ Regularly reviewing subscriptions helps identify unused or redundant services, s
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Track my subs**](https://trackmysubs.com/) | Free | 
-| [**Subvio**](https://subvio.com/articles/managing-subscriptions/) | Free  | 
-| [**Money dashboard**](https://www.moneydashboard.com/blog/managing-subscriptions-what-you-need-to-know) | Free | 
+| [**https://academicjournals.org/article/article1379511994_Norman.pdf**](Track my subs) | Online | 
+| [**Quarterly**](Subvio) | Online | 
+| [**Quarterly**](Money dashboard) | Online | 
+| [**Yearly**]() |  | 
   
 
 <br/><br/>

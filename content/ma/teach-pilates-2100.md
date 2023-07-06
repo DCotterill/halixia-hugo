@@ -13,10 +13,10 @@ Teaching Pilates involves guiding individuals through exercises that target core
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Centre of excellence**](https://www.centreofexcellence.com/shop/pilates-diploma-course/) | Paid | 
-| [**Core pilates studio**](https://corepilatesstudios.co.uk/why-become-a-pilates-instructor/) | Free  | 
-| [**Sheppard method pilates**](https://sheppardmethodpilates.com/become-pilates-instructor/) | Free  | 
-| [**New Skill Academy**](https://newskillsacademy.co.uk/) | Paid | 
+| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](Centre of excellence) | Online | 
+| [**Yearly**](Core pilates studio) | Online | 
+| [**Quarterly**](Sheppard method pilates) | Online | 
+| [**Quarterly**](New Skill Academy) |  | 
   
 
 <br/><br/>

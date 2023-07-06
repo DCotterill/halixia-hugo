@@ -13,9 +13,10 @@ Teaching others offers the opportunity to change other people's lives permanentl
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**University of the third age**](https://www.u3a.org.uk/index.php) | Free | 
-| [**Skills you need**](https://www.skillsyouneed.com/learn/teaching-skills.html) | Free | 
-| [**Inc**](https://www.inc.com/kevin-daum/how-to-teach-anything-to-anyone.html) | Free | 
+| [**https://academic.oup.com/psychsocgerontology/article/58/3/S137/583366**](University of the third age) | Online | 
+| [**Quarterly**](Skills you need) | Online | 
+| [**Quarterly**](Inc) | Online | 
+| [**Yearly**]() |  | 
   
 
 <br/><br/>

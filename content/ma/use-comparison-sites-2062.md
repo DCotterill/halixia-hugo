@@ -13,9 +13,10 @@ Comparison shopping helps find the best deals, ensures value for money, and avoi
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Moneysupermarket.com**](https://www.moneysupermarket.com) | Free | 
-| [**AWIN**](https://www.awin.com/gb/affiliate-marketing/what-is-comparison-shopping) | Free  | 
-| [**Money management**](https://www.moneymanagement.org/blog/comparison-shopping) | Free | 
+| [**https://academicjournals.org/article/article1379511994_Norman.pdf**](Moneysupermarket.com) | Online | 
+| [**Yearly**](AWIN) | Online | 
+| [**Yearly**](Money management) | Online | 
+| [**Yearly**]() |  | 
   
 
 <br/><br/>

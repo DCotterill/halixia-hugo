@@ -13,10 +13,10 @@ Family bike rides offer a chance to spend quality time with your loved ones. Itâ
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**cycleGuard**](https://www.cycleguard.co.uk/cycling-family-benefits) | Free | 
-| [**BikeRadar**](https://www.bikeradar.com/features/routes-and-rides/best-family-cycling-routes-uk/) | Free | 
-| [**Bobshop**](https://www.bobshop.com/en/) | Paid | 
-| [**Bobshop**](https://www.bobshop.com/en/) | Paid | 
+| [**https://books.google.co.uk/books?hl=en&lr=&id=aUXdrs5_kCoC&oi=fnd&pg=PP2&dq=Importance+of+family+time&ots=8_uOQ1WtE1&sig=Pus9EECmAH7pHygYDEw9MjKubjo&redir_esc=y#v=onepage&q=Importance%20of%20family%20time&f=false**](cycleGuard) | Online | 
+| [**Yearly**](BikeRadar) | Online | 
+| [**Quarterly**](Bobshop) | Online | 
+| [**Yearly**](Bobshop) | Online | 
   
 
 <br/><br/>

@@ -13,10 +13,10 @@ One in ten people over 40 in the UK are now living with type 2 diabetes, that’
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Diabetes UK**](https://www.diabetes.org.uk/) | Free | 
-| [**NHS**](https://www.stopdiabetes.co.uk/) | Free | 
-| [**Medical News today**](https://www.medicalnewstoday.com/articles/318277#1-200-calorie-plan) | Free | 
-| [**Good Body clinic**](https://health.goodbodyclinic.com/product/diabetes-hba1c-blood-test/) | Paid | 
+| [**https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5297564/**](Diabetes UK) | Online | 
+| [**Annual**](NHS) | Online | 
+| [**Annual**](Medical News today) | Online | 
+| [**6 Monthly**](Good Body clinic) |  | 
   
 
 <br/><br/>

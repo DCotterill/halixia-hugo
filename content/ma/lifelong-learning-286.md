@@ -13,10 +13,10 @@ As adults, it can be all too easy to forget that learning remains important. Sta
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/education-training/) | Free | 
-| [**Centre of Excellence**](https://www.centreofexcellence.com/shop/writing-courses/) | Paid | 
-| [**Skills you need**](https://www.skillsyouneed.com/learning-skills.html) | Free | 
-| [**GetSetUp**](https://www.getsetup.io/) | Free/Paid | 
+| [**https://www.tandfonline.com/doi/abs/10.1300/J016v28n04_01**](Age UK) | Online/inperson | 
+| [**Annual**](Centre of Excellence) | online | 
+| [**Annual**](Skills you need) | Online | 
+| [**Annual**](GetSetUp) | Online | 
   
 
 <br/><br/>

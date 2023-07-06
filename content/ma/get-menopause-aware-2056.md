@@ -13,9 +13,10 @@ A women's course on menopause educates women about hormonal changes, common symp
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**RCGP**](https://elearning.rcgp.org.uk/course/view.php?id=237) | Free | 
-| [**Health and her**](https://www.healthandher.com) | Paid | 
-| [**Healthy women**](https://www.healthywomen.org/content/article/what-every-woman-should-know-about-menopause) | Free  | 
+| [**https://www.tandfonline.com/doi/abs/10.3109/13697137.2011.637651**](RCGP) | Online | 
+| [**Quarterly**](Health and her) | Online | 
+| [**Yearly**](Healthy women) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

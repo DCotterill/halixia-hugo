@@ -13,10 +13,10 @@ A healthy diet rich in fruits, vegetables, wholegrains and low-fat dairy can hel
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Noom**](https://www.noom.com/) | Paid | 
-| [**Harvard**](https://www.health.harvard.edu/staying-healthy/8-steps-to-mindful-eating) | Free | 
-| [**Headspace**](https://www.headspace.com/mindfulness/mindful-eating) | Free/Paid | 
-| [**Spanish Passion foods**](https://www.spanishpassionfoods.co.uk) | Paid | 
+| [**https://europepmc.org/article/med/15658235**](Noom) | Online | 
+| [**Annual**](Harvard) | Online | 
+| [**Quarterly**](Headspace) | Online | 
+| [**Quarterly**](Spanish Passion foods) |  | 
   
 
 <br/><br/>

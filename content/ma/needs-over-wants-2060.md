@@ -13,10 +13,10 @@ Prioritising needs over wants involves making conscious choices about spending, 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**In harmony with money**](https://inharmonywithmoney.com/difference-between-needs-and-wants/) | Free | 
-| [**Igrad**](https://www.igrad.com/articles/wants-versus-needs#!) | Free  | 
-| [**Smart assest**](https://smartasset.com/financial-advisor/needs-vs-wants) | Free | 
-| [**#REF!**](#REF!) | #REF! | 
+| [**https://academicjournals.org/article/article1379511994_Norman.pdf**](In harmony with money) | Online | 
+| [**Quarterly**](MoneySavingExpert.com) | Online | 
+| [**Yearly**](Smartasset) | Online | 
+| [**Yearly**](Igrad) | Online | 
   
 
 <br/><br/>

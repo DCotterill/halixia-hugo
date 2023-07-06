@@ -13,10 +13,10 @@ Drinking more milk is beneficial as it is a nutrient-rich containing calcium, pr
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**The geriatric dietician**](https://thegeriatricdietitian.com/milk-for-the-elderly/) | Free | 
-| [**British Heart Foundation**](https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/full-fat-dairy) | Free | 
-| [**BBC Good Food**](https://www.bbcgoodfood.com/howto/guide/which-milk-right-you) | Free | 
-| [**Find me a milkman**](https://findmeamilkman.net/) | Free | 
+| [**https://thegeriatricdietitian.com/milk-for-the-elderly/**](The geriatric dietician) | Online | 
+| [**Quarterly**](British Heart Foundation) | Online | 
+| [**Quarterly**](BBC Good Food) | Online | 
+| [**Yearly**](Find me a milkman) | Online | 
   
 
 <br/><br/>

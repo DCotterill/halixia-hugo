@@ -13,10 +13,9 @@ FutureLearn's ExpertTracks will help you master new skills in a specialist job a
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Future Learn**](https://www.futurelearn.com/) | Paid | 
-| [**1 training**](https://www.1training.org/) | Paid | 
-| [**OpenLearn**](https://www.open.edu/openlearn/) | Free | 
-| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
+| [**Annual**](1 training) | Online | 
+| [**Annual**](OpenLearn) | online | 
+| [**Annual**](Centre of excellence) | Online | 
   
 
 <br/><br/>

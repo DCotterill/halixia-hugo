@@ -13,10 +13,10 @@ Supplements are intended to bridge the nutritional gap, so that we maintain the 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Healthspan**](https://www.healthspan.co.uk/womens-health#t=Womens-Health-Products&numberOfResults=15) | Paid | 
-| [**AZ big media**](https://azbigmedia.com/lifestyle/12-benefits-of-supplements-why-theyre-important/) | Free | 
-| [**Very well**](https://www.verywellfit.com/best-supplements-for-women-4171317) | Free | 
-| [**City Survivor supplements**](https://citysurvivor.co.uk/) | Paid | 
+| [**https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/encouraging-appropriate-evidencebased-use-of-oral-nutritional-supplements/4BC89D90403D3E5473066C3633D4B088**](Healthspan) | Online | 
+| [**Annual**](AZ big media) | Online | 
+| [**Quarterly**](Very well) | Online | 
+| [**Annual**](City Survivor supplements) |  | 
   
 
 <br/><br/>

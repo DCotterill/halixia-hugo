@@ -13,10 +13,10 @@ Becoming more active can be daunting, especially if you are managing a health co
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**We are undefeatable**](https://weareundefeatable.co.uk/ways-to-move) | Free | 
-| [**My living well**](https://mylivingwell.co.uk/physical-activity/exercising-with-long-term-health-conditions) | Free | 
-| [**CSP**](https://www.csp.org.uk/public-patient/keeping-active-healthy/love-activity-hate-exercise-campaign/being-active-long-term) | Free | 
-| [**Go Gym**](https://www.gogym.uk/) | Paid | 
+| [**https://www.tandfonline.com/doi/abs/10.1080/17439760.2017.1374436**](We are undefeatable) | Online | 
+| [**Quarterly**](My living well) | Online | 
+| [**Quarterly**](CSP) | Online | 
+| [**Quarterly**](Go Gym) |  | 
   
 
 <br/><br/>

@@ -13,10 +13,10 @@ Regular physical activity helps your brain, heart and lungs stay healthy, and ke
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Psych reg**](https://www.psychreg.org/staying-fit-and-healthy-at-home/) | Free | 
-| [**Livestrong**](https://www.livestrong.com/article/97879-stay-fit-/) | Free | 
-| [**Stay Fit**](https://www.stay.fit/blog/2021/9/16/13-ways-to-stay-fit-and-heatlhy) | Free | 
-| [**Pro:Direct Sport**](https://www.prodirectsport.com/running/) | Paid | 
+| [**https://www.tandfonline.com/doi/abs/10.1080/17439760.2017.1374436**](Psych reg) | Online | 
+| [**Quarterly**](Livestrong) | Online | 
+| [**6 Monthly**](Stay Fit) | Online | 
+| [**Quarterly**](Pro:Direct Sport) |  | 
   
 
 <br/><br/>

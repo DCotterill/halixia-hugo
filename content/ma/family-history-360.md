@@ -13,10 +13,10 @@ Knowing, recording, and preserving your family history directly impacts you, you
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**findmypast**](https://www.findmypast.co.uk/) | Paid | 
-| [**Heritage consulting**](https://www.heritageconsulting.com/5-benefits-of-understanding-your-ancestry/) | Free | 
-| [**Geneology guide**](https://thegenealogyguide.com/20-reasons-why-is-genealogy-important) | Free | 
-| [**Ancestry**](https://www.ancestry.co.uk/c/family-tree) | Paid | 
+| [**https://www.taylorfrancis.com/chapters/edit/10.4324/9781315300030-20/ancestry-estimation-importance-history-practice-katherine-spradley-katherine-weisensee**](findmypast) | Online | 
+| [**Annual**](Heritage consulting) | Online | 
+| [**Quarterly**](Geneology guide) | Online | 
+| [**Quarterly**](Ancestry) | Online | 
   
 
 <br/><br/>

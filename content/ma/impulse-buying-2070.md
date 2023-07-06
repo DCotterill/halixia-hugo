@@ -13,9 +13,10 @@ Avoiding impulse buying helps control unnecessary spending, promotes mindful con
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Ramsey solutions**](https://www.ramseysolutions.com/budgeting/stop-impulse-buys) | Free | 
-| [**Develop good habits**](https://www.developgoodhabits.com/impulse-buying/) | Free | 
-| [**Mint notion**](https://www.mintnotion.com/frugal-living/stop-impulse-buying/) | Free  | 
+| [**https://academicjournals.org/article/article1379511994_Norman.pdf**](Ramsey solutions) | Online | 
+| [**Quarterly**](Develop good habits) | Online | 
+| [**Quarterly**](Mint notion) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

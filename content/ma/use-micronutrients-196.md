@@ -13,10 +13,10 @@ Micronutrients, often referred to as vitamins and minerals, are vital to healthy
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Huberman lab**](https://hubermanlab.com/dr-rhonda-patrick-micronutrients-for-health-and-longevity/) | Free | 
-| [**Diets meal plan**](https://www.dietsmealplan.com/micronutrient/) | Free | 
-| [**Super healthy foods**](https://thesuperhealthyfood.com/micronutrient-diet-plan-for-weight-loss/) | Free | 
-| [**City Survivor supplements**](https://citysurvivor.co.uk/) | Paid | 
+| [**https://www.embopress.org/doi/full/10.1038/sj.embor.7400426**](Huberman lab) | Online | 
+| [**Quarterly**](Diets meal plan) | Online | 
+| [**Quarterly**](Super healthy foods) | Online | 
+| [**Quarterly**](City Survivor supplements) |  | 
   
 
 <br/><br/>

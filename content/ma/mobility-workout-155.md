@@ -13,10 +13,10 @@ Mobility training optimizes movement and performance by increasing the range of 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Health**](https://www.health.com/fitness/mobility-workout) | Free | 
-| [**The Lean Machines**](https://www.youtube.com/watch?v=nFo5dOhlYUw) | Free | 
-| [**Builtlean**](https://www.builtlean.com/mobility-routine/) | Free | 
-| [**NHS**](https://www.nhs.uk/live-well/exercise/strength-and-flexibility-exercises/flexibility-exercises/) | Free | 
+| [**https://journals.lww.com/topicsingeriatricrehabilitation/Abstract/2010/04000/The_Relationship_Between_Range_of_Movement,.8.aspx**](Health) | Online | 
+| [**Annual**](The Lean Machines) | Online | 
+| [**Quarterly**](Builtlean) | Online | 
+| [**Quarterly**](NHS) | Online | 
   
 
 <br/><br/>

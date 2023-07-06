@@ -13,10 +13,10 @@ Training for a cycling marathon offers benefits such as improving cardiovascular
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Bicycle 2 Work**](https://bicycle2work.com/cycling-marathon-distance/) | Free | 
-| [**Cycling UK**](https://www.cyclinguk.org/cycle/training-100-mile-ride) | Free | 
-| [**Find a Race**](https://findarace.com/cycling) | Free | 
-| [**Bobshop**](https://www.bobshop.com/en/) | Paid | 
+| [**https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0838.2011.01299.x**](Bicycle 2 Work) | Online | 
+| [**Quarterly**](Cycling UK) | Online | 
+| [**Yearly**](Find a Race) | Online | 
+| [**Quarterly**](Bobshop) | Online | 
   
 
 <br/><br/>

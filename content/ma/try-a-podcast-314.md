@@ -13,10 +13,9 @@ If you've not discovered them yet, podcasts are a great learning tool. You can l
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Wired**](https://www.wired.com/story/podcasts-beginners-guide/) | Free | 
-| [**Buffer**](https://buffer.com/library/podcasting-for-beginners/) | Free | 
-| [**TED Talks**](https://www.ted.com/podcasts) | Free | 
-| [**BBC**](https://www.bbc.co.uk/sounds/podcasts) | Free | 
+| [**Quarterly**](Buffer) | online | 
+| [**6 monthly**](TED Talks) | Online | 
+| [**Annual**](BBC) | Online | 
   
 
 <br/><br/>

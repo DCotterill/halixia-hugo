@@ -13,10 +13,9 @@ In an increasingly digital world, it's great when everyone benefits from technol
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Online Centre Network**](https://www.onlinecentresnetwork.org/) | Free | 
-| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/) | Free | 
-| [**Barclays**](https://digital.wings.uk.barclays/) | Free | 
-| [**Good things Foundation**](https://www.goodthingsfoundation.org/databank/) | Free | 
+| [**Annual**](Age UK) | Online | 
+| [**Annual**](Barclays) | Online/in person | 
+| [**Annual**](Good things Foundation) | Online | 
   
 
 <br/><br/>

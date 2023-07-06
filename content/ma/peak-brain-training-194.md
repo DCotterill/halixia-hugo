@@ -13,9 +13,10 @@ Brain training turns inactive brain cells into healthy, active ones. The more yo
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Peak**](https://www.peak.net/) | Free | 
-| [**Mindamate**](https://www.mindmate-app.com/) | Free | 
-| [**Protectstudy**](https://www.protectstudy.org.uk/) | Free | 
+| [**https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029676**](Peak) | Online | 
+| [**Quarterly**](Mindamate) | Online | 
+| [**Quarterly**](Protectstudy) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

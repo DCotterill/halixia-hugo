@@ -13,9 +13,10 @@ Breathing exercises not only improve your respiratory health, but they can also 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Very well mind**](https://www.verywellmind.com/the-benefits-of-deep-breathing-5208001) | Free | 
-| [**Healthline**](https://www.healthline.com/health/how-to-increase-lung-capacity) | Free | 
-| [**Harvard**](https://www.health.harvard.edu/staying-healthy/breathing-your-way-to-better-health) | Free | 
+| [**https://www.scielo.br/j/clin/a/ZRYgFMXwkPD6WRhJtLzqB3c/abstract/?lang=en, https://europepmc.org/article/med/3292262**](Very well mind) | Online | 
+| [**Quarterly**](Healthline) | Online | 
+| [**Yearly**](Harvard) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

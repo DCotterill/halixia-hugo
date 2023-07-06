@@ -13,10 +13,10 @@ Social media can pave a good way for networking with people far and wide. You ca
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/using-social-media/) | Free | 
-| [**NCSC**](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely) | Free | 
-| [**Smart Social**](https://smartsocial.com/post/using-social-media-responsibly) | Free | 
-| [**Facebook**](https://www.facebook.com) | Free | 
+| [**https://guilfordjournals.com/doi/abs/10.1521/jscp.1993.12.1.25**](Age UK) | Online | 
+| [**Annual**](NCSC) | Online | 
+| [**Annual**](Smart Social) | Online | 
+| [**Quarterly**](Facebook) | Online | 
   
 
 <br/><br/>

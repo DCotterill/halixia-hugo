@@ -13,9 +13,10 @@ Eating more eggs is beneficial as they are a rich source of protein, vitamins, a
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Healthline**](https://www.healthline.com/nutrition/proven-health-benefits-of-eggs#TOC_TITLE_HDR_2) | Free | 
-| [**BBC Good Food**](https://www.bbcgoodfood.com/recipes/collection/egg-recipes) | Free | 
-| [**Lifehack**](https://www.lifehack.org/articles/lifestyle/7-reasons-you-should-eat-eggs-for-breakfast.html) | Free | 
+| [**https://www.emerald.com/insight/content/doi/10.1108/00346651011043961/full/html**](Healthline) | Online | 
+| [**Yearly**](BBC Good Food) | Online | 
+| [**Yearly**](Lifehack) | Online | 
+| [**Yearly**]() |  | 
   
 
 <br/><br/>

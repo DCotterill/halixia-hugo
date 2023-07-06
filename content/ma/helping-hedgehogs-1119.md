@@ -13,9 +13,10 @@ Helping wildlife can provide health benefits such as reducing stress, improving 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Barnacle hedgehogs**](https://www.barnaclehedgehogs.co.uk/fostering.html) | Free | 
-| [**Wildlife trust**](https://www.wildlifetrusts.org/what-do-if-you-find-wild-animal/help-hedgehog) | Free | 
-| [**Hornbeam wood**](https://www.hornbeamwood.org.uk/hedgehog-fosterer) | Free | 
+| [**https://www.wildlifetrusts.org/cy/node/11181**](Barnacle hedgehogs) | Online | 
+| [**Quarterly**](Wildlife trust) | Online | 
+| [**Yearly**](Hornbeam wood) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

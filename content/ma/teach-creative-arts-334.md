@@ -13,10 +13,9 @@ If you’re an experienced creative pro with tips, techniques and skills to demo
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Skillshare**](https://www.skillshare.com/en/teach) | Free/Paid | 
-| [**Craft Courses**](https://www.craftcourses.com/blog/the-craftcourses-guide-to-becoming-an-arts-and-crafts-tutor) | Free/Paid | 
-| [**UK Government**](https://www.teach-in-further-education.campaign.gov.uk/) | Free | 
-| [**GetSetUp**](https://share.hsforms.com/1NendfH52RSCvpOFkCq8D1A49suz) | Free/Paid | 
+| [**Quarterly**](Craft Courses) | Online/in person | 
+| [**Annual**](UK Government) | Online/inperson | 
+| [**Annual**](GetSetUp) | Online | 
   
 
 <br/><br/>

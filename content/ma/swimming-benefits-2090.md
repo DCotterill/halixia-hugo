@@ -13,10 +13,10 @@ Swimming offers a non-weight-bearing exercise option that engages the entire bod
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Swimming**](https://www.swimming.org/poolfinder/) | Free | 
-| [**Swimming**](https://www.swimming.org/justswim/8-benefits-of-swimming/) | Free  | 
-| [**Speedo**](https://www.speedo.com/uk/en) | Paid | 
-| [**Wiggle UK**](https://www.wiggle.com/) | Paid | 
+| [**https://www.britishswimming.org/documents/1079/1._The_Health_and_Wellbeing_Benefits_of_Swimming_June_2017.pdf**](Swimming) | Online | 
+| [**Quarterly**](Swimming) | Online | 
+| [**Quarterly**](Speedo) | Online | 
+| [**Yearly**](Wiggle UK) |  | 
   
 
 <br/><br/>

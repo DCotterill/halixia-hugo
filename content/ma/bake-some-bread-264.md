@@ -13,10 +13,10 @@ Homemade bread is more nutritious and tastier than the store-bought variety as y
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**BBC**](https://www.bbcgoodfood.com/howto/guide/6-steps-brilliant-bread) | Free | 
-| [**Udemy**](https://www.udemy.com/topic/bread-baking/) | Paid | 
-| [**BBC**](https://www.bbcmaestro.com/courses/richard-bertinet/bread-making) | Paid | 
-| [**Serious eats**](https://www.seriouseats.com/breadmaking-101-the-science-of-baking-bread-and-how-to-do-it-righ) | Free | 
+| [**https://www.sciencedirect.com/science/article/abs/pii/S0021915021013186**](BBC) | online | 
+| [**Annual**](Udemy) | Online | 
+| [**Quarterly**](BBC) | Online | 
+| [**Annual**](Serious eats) | Online | 
   
 
 <br/><br/>

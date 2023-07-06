@@ -13,10 +13,10 @@ Regular body composition analysis helps track changes in muscle mass, body fat p
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Verywell Health**](https://www.verywellhealth.com/body-composition-5509458) | Free | 
-| [**Dr Shilpa Davé Health**](https://www.privategp.org/blog/what-body-composition-analysis-and-why-it-important) | Free  | 
-| [**Sadie wells health**](https://sadiewellshealth.com/what-is-body-composition-analysis/) | Free  | 
-| [**Techradar**](https://www.techradar.com/best/best-smart-scales) | Free | 
+| [**https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366261/**](Verywell Health) | Online | 
+| [**Quarterly**](Dr Shilpa Davé Health) | Online | 
+| [**Quarterly**](Sadie wells health) | Online | 
+| [**Quarterly**](Techradar) | Online | 
   
 
 <br/><br/>

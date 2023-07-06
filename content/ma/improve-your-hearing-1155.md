@@ -13,9 +13,10 @@ Improving your hearing is important for maintaining effective communication, enh
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Boots**](https://www.bootshearingcare.com/hearing/lifestyle/how-to-improve-hearing-10-steps-to-hear-better/) | Free | 
-| [**Health Canal**](https://www.healthcanal.com/health/how-to-improve-hearing) | Free | 
-| [**Amplifon**](https://www.amplifon.com/uk/recognising-hearing-loss/how-the-ear-works/10-steps-to-better-hearing) | Free | 
+| [**https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6796676/**](Boots) | Online | 
+| [**Yearly**](Health Canal) | Online | 
+| [**Quarterly**](Amplifon) | Online | 
+| [**Yearly**]() |  | 
   
 
 <br/><br/>

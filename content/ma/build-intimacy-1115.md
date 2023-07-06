@@ -13,10 +13,10 @@ Building intimacy in a relationship is important because it can strengthen emoti
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**New love times**](http://www.newlovetimes.com/10-fun-relationship-games-for-couples-to-increase-intimacy/) | Free | 
-| [**Healthline**](https://www.healthline.com/health/intimacy) | Free | 
-| [**Means happy**](https://meanshappy.com/the-importance-of-intimacy-building-stronger-relationships/) | Free | 
-| [**12 Magical Dates**](https://www.12magicaldates.com/reignite-marriage-relationship?r_done=1) | Paid | 
+| [**https://pubmed.ncbi.nlm.nih.gov/23160504/**](New love times) | Online | 
+| [**Quarterly**](Healthline) | Online | 
+| [**Yearly**](Means happy) | Online | 
+| [**Yearly**](12 Magical Dates) |  | 
   
 
 <br/><br/>

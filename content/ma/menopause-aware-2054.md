@@ -13,9 +13,10 @@ A men's course on menopause educates men about the physical and emotional change
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Udemy**](https://www.udemy.com/course/the-menopausefor-men/) | Paid | 
-| [**Benenden Health**](https://www.benenden.co.uk/be-healthy/body/why-should-men-understand-menopause/) | Free  | 
-| [**Healthline**](https://www.healthline.com/health/8-things-every-woman-wants-men-to-know-about-menopause) | Free  | 
+| [**https://www.ingentaconnect.com/content/wk/gme/2016/00000023/00000002/art00012**](Udemy) | Online | 
+| [**Yearly**](Benenden Health) | Online | 
+| [**Yearly**](Healthline) | Online | 
+| [**Yearly**]() |  | 
   
 
 <br/><br/>

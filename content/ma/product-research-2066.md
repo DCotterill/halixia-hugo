@@ -13,9 +13,10 @@ Thorough research helps make well-informed decisions, avoid buyer's remorse, and
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Forbes**](https://www.forbes.com/sites/theyec/2020/03/11/14-things-to-consider-before-making-a-major-purchase/?sh=148fe5b3674c) | Free | 
-| [**LinkedIn**](https://www.linkedin.com/pulse/what-importance-research-before-purchasing-materials-amin-mirsepasi/) | Free  | 
-| [**Smaket**](https://smaket.org/blog/why-should-consumers-always-do-their-research-before-purchasing-a-product/) | Free  | 
+| [**https://academicjournals.org/article/article1379511994_Norman.pdf**](Forbes) | Online | 
+| [**Yearly**](LinkedIn) | Online | 
+| [**Yearly**](Smaket) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

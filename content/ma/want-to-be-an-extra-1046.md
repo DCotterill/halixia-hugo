@@ -13,9 +13,10 @@ Lights! Camera! Action! Have your moment in the spotlight by becoming an extra a
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Casting collective**](https://www.castingcollective.co.uk/artistes) | Free | 
-| [**Backstage**](https://www.backstage.com/magazine/article/make-living-extra-380/) | Free | 
-| [**Film on a shoe string**](https://filmsonashoestring.com/film-tv-extra/) | Free | 
+| [**N/A**](Casting collective) | Online | 
+| [**Yearly**](Backstage) | Online | 
+| [**Yearly**](Film on a shoe string) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

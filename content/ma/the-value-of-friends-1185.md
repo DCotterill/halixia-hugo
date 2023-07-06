@@ -13,10 +13,10 @@ Spending time with your best friend is important because it nurtures a strong bo
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Psych central**](https://psychcentral.com/relationships/benefits-of-friendship) | Free | 
-| [**Social Self**](https://socialself.com/blog/fun-things-best-friend/) | Free | 
-| [**Tastecard**](https://www.tastecard.co.uk/) | Paid | 
-| [**Tabl**](https://tabl.com/) | Paid | 
+| [**https://karger.com/ger/article-abstract/66/3/286/148324/The-Increasing-Importance-of-Friendship-in-Late?redirectedFrom=fulltext**](Psych central) | Online | 
+| [**Quarterly**](Social Self) | Online | 
+| [**Yearly**](Tastecard) | Online | 
+| [**Yearly**](Tabl) |  | 
   
 
 <br/><br/>

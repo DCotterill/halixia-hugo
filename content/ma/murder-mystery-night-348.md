@@ -13,10 +13,10 @@ Is there anything more enjoyable than playing games with friends? Not only is it
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Murder Mystery Store**](https://www.murdermysterystore.co.uk/article.asp?id=78) | Paid | 
-| [**Murder mysteries**](https://murdermysteryinvestigations.com/) | Paid | 
-| [**Mayhem**](https://www.mayhem.org.uk/murder-mystery-types/free-murder-mysteries/) | Free | 
-| [**Host a Murder Mystery**](https://www.hostamurdermystery.co.uk/) | Paid | 
+| [**http://gamestudies.org/1901/articles/lee**](Murder Mystery Store) | Online | 
+| [**Quarterly**](Murder mysteries) | Online | 
+| [**Quarterly**](Mayhem) | Online | 
+| [**Quarterly**](Host a Murder Mystery) | Online | 
   
 
 <br/><br/>

@@ -13,10 +13,10 @@ By eating meals together we practice gratitude. While sharing and enjoying a tas
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Am Dietics**](https://www.amdietetics.com/articles/the-importance-of-eating-together) | Free | 
-| [**BBC**](https://www.bbc.co.uk/food/collections/family_feasts) | Free | 
-| [**Eating together being together**](https://eatingtogetherbeingtogether.com/) | Paid | 
-| [**Tabl**](https://tabl.com/) | Paid | 
+| [**https://link.springer.com/referenceworkentry/10.1007/978-3-030-14504-0_27**](Am Dietics) | Online | 
+| [**Quarterly**](BBC) | Online | 
+| [**Annual**](Eating together being together) | Online | 
+| [**Quarterly**](Tabl) |  | 
   
 
 <br/><br/>

@@ -13,10 +13,10 @@ Learning a language improves memory, increases attention span and strengthens bo
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Beelinguapp**](https://beelinguapp.com/) | Free/Paid | 
-| [**Babbel**](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | 
-| [**Alison**](https://alison.com/courses/language) | Free/Paid | 
-| [**Brainscape**](https://www.brainscape.com/academy/reading-foreign-languages-learn-study/) | Free | 
+| [**https://www.tandfonline.com/doi/abs/10.1300/J016v28n04_01**](Beelinguapp) | Online | 
+| [**6 Monthly**](Babbel) | Online | 
+| [**Annual**](Alison) | Online | 
+| [**Annual**](Brainscape) | Online | 
   
 
 <br/><br/>

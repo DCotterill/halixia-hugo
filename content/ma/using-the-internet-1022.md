@@ -13,10 +13,10 @@ You might be surprised at how much you're able to do on the internet. You can co
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Age Uk**](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/getting-online/) | Free | 
-| [**GFC global**](https://edu.gcfglobal.org/en/computerbasics/getting-started-with-the-internet/1/) | Free | 
-| [**GFC global**](https://edu.gcfglobal.org/en/internetbasics/) | Free | 
-| [**The Code Zone**](https://www.thecodezone.co.uk/) | Paid | 
+| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](Age Uk) | Online | 
+| [**Yearly**](GFC global) | Online | 
+| [**Quarterly**](GFC global) | Online | 
+| [**Quarterly**](The Code Zone) |  | 
   
 
 <br/><br/>

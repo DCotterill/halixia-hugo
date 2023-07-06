@@ -13,10 +13,10 @@ Music is a powerful art form that can offer a simple way to improve sleep hygien
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Yellow brick cinema**](https://www.youtube.com/watch?v=6dZHGDzFXmY&list=PLQkQfzsIUwRYwVveZoqE-HUxv84Zknrsi) | Free | 
-| [**Psychology today**](https://www.psychologytoday.com/us/blog/sleep-newzzz/201812/the-many-health-and-sleep-benefits-music) | Free | 
-| [**Sleep foundation**](https://www.sleepfoundation.org/noise-and-sleep/music) | Free | 
-| [**Sleep Hubs**](https://sleephubs.com/) | Paid | 
+| [**https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2648.2009.04982.x**](Yellow brick cinema) | Online | 
+| [**Quarterly**](Psychology today) | Online | 
+| [**Yearly**](Sleep foundation) | Online | 
+| [**Yearly**](Sleep Hubs) |  | 
   
 
 <br/><br/>

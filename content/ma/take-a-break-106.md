@@ -13,9 +13,10 @@ Taking breaks can be beneficial to both you and what you are working on. Whether
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**BBC**](https://www.bbc.co.uk/programmes/m0018p32) | Free | 
-| [**Headspace**](https://www.headspace.com/meditation/5-minute-meditation) | Paid | 
-| [**WebMD**](https://www.webmd.com/fitness-exercise/video/office-exercises-in-5-minutes) | Free | 
+| [**https://rightasrain.uwmedicine.org/mind/well-being/taking-breaks**](BBC) | Online | 
+| [**Annual**](Headspace) | Online | 
+| [**Six Monthly**](WebMD) | Online | 
+| [**Annual**]() |  | 
   
 
 <br/><br/>

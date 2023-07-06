@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about starting to make educational videos
+How to start making educational videos
 
 Learn about contributing to the knowledge-sharing community and showcase your passion and expertise, by creating a TikTok or YouTube channel to share and inspire others to learn and grow.
 
@@ -13,10 +13,9 @@ Starting a TikTok or YouTube channel provides a platform to share expertise, tea
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Tech soup**](https://blog.techsoup.org/posts/how-to-create-great-educational-content-on-tiktok) | Free | 
-| [**Make matic**](https://makematic.com/blog/10-reasons-why-educational-videos-are-super-effective/) | Free  | 
-| [**Web dew**](https://www.webdew.com/blog/youtube-educational-videos) | Free  | 
-| [**Centre of excellence**](https://www.centreofexcellence.com/shop/how-to-grow-a-youtube-channel-diploma-course/) | Paid | 
+| [**Yearly**](Make matic) | Online | 
+| [**Quarterly**](Web dew) | Online | 
+| [**Yearly**](Centre of excellence) | Online | 
   
 
 <br/><br/>

@@ -13,10 +13,10 @@ While duration is key, sleep quality is often overlooked. Even if you get your 8
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**The NSF**](https://www.thensf.org/10-sleep-tips-sleep-quality/) | Free | 
-| [**BSLM**](https://bslm.org.uk/the-importance-of-good-quality-sleep/) | Free | 
-| [**National sleep foundation**](https://www.thensf.org/what-is-sleep-quality/) | Free | 
-| [**Sleep Hubs**](https://sleephubs.com/) | Paid | 
+| [**https://academic.oup.com/sleep/article/33/4/509/2454611**](The NSF) | Online | 
+| [**Quarterly**](BSLM) | Online | 
+| [**Quarterly**](National sleep foundation) | Online | 
+| [**Quarterly**](Sleep Hubs) |  | 
   
 
 <br/><br/>

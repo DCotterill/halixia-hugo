@@ -13,10 +13,10 @@ Today's top language learning platforms use innovative technology and modern stu
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Linguatics**](https://linguatics.com/best-language-learning-apps/?utm_content=cmp-true) | Free | 
-| [**Rocket Language**](https://www.rocketlanguages.com/) | Paid | 
-| [**Babbel**](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | 
-| [**Pimsleur**](https://www.pimsleur.com/) | Paid | 
+| [**https://www.thebritishacademy.ac.uk/projects/cognitive-benefits-language-learning/**](Linguatics) | Online | 
+| [**Quarterly**](Rocket Language) | Online | 
+| [**Annual**](Babbel) | Online | 
+| [**Annual**](Pimsleur) | Online | 
   
 
 <br/><br/>

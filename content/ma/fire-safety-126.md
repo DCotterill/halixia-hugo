@@ -13,10 +13,9 @@ The best way to minimise the risk of fire is to take the threat seriously and pu
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Surrey Fire**](https://surreyfire.co.uk/importance-fire-safety/) | Free | 
-| [**Fire services**](https://www.fireservice.co.uk/safety/) | Free | 
-| [**Ready.gov**](https://www.ready.gov/home-fire-escape-plan) | Free | 
-| [**Risk Assessment Products**](https://risk-assessment-products.co.uk/fire-safety-supplies/) | Paid | 
+| [**https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215724**](Surrey Fire) | Online | 
+| [**Annual**](Fire services) | Online | 
+| [**Annual**](Ready.gov) | Online | 
   
 
 <br/><br/>

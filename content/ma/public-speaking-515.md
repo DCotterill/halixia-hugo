@@ -13,10 +13,10 @@ Everyone encounters a situation where public speaking skills are necessary, bein
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Alison**](https://alison.com/course/public-speaking) | Free | 
-| [**Curran coaching**](https://currancoaching.com/?msclkid=0f024def2d0919d5a02129dae57bc527&utm_term=public%20speaking%20courses&utm_content=Public%20Speaking%20Workshops) | Paid | 
-| [**Ihasco**](https://www.ihasco.co.uk/courses/detail/speaking-confidently-training?utm_source=SearchEngineBing&utm_medium=Paid&utm_campaign=DSA&utm_keyword=https%3A%2F%2Fwww.ihasco.co.uk%2Fcourses%2Fdetail%2Fspeaking-confidently-training&msclkid=c76fa907c37b12747c5ecd320b0929d0) | Paid | 
-| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
+| [**https://books.google.co.uk/books?hl=en&lr=&id=Z-0wDgAAQBAJ&oi=fnd&pg=PT428&dq=benefits+of+developing+skills&ots=ZL4u8aXMjE&sig=Xm7GvPGJ6gV7RnJTzDNCc0wFuc8&redir_esc=y#v=onepage&q=benefits%20of%20developing%20skills&f=false**](Alison) | Online | 
+| [**Yearly**](Curran coaching) | Online | 
+| [**Quarterly**](Ihasco) | Online | 
+| [**Yearly**](Centre of excellence) | Online | 
   
 
 <br/><br/>

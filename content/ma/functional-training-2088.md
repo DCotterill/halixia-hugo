@@ -13,10 +13,10 @@ HIFT workouts typically involve exercises that mimic real-life movements and can
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Muscles and Strength**](https://www.muscleandstrength.com/workout/6-week-high-intensity-functional-training-workout) | Free | 
-| [**Live science**](https://www.livescience.com/what-is-functional-training) | Free  | 
-| [**Webmd**](https://www.webmd.com/fitness-exercise/how-to-exercise-with-functional-training) | Free | 
-| [**MP**](https://www.mp.com) | Paid | 
+| [**https://www.mdpi.com/2075-4663/6/3/76**](Muscles and Strength) | Online | 
+| [**Yearly**](Live science) | Online | 
+| [**Yearly**](Webmd) | Online | 
+| [**Yearly**](MP) | Online | 
   
 
 <br/><br/>

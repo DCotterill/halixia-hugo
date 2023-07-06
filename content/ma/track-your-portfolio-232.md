@@ -13,9 +13,9 @@ Feeling in control of both your day-to-day finances and long-term goals can have
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Morningstar**](https://www.morningstar.co.uk/uk/portfoliomanager/start) | Free | 
-| [**Lumio**](https://yourmoney.lumio-app.com/best-uk-portfolio-trackers/) | Free/Paid | 
-| [**Investor Junkie**](https://investorjunkie.com/investing/how-to-track-your-investments/) | Free | 
+| [**6 monthly**](Lumio) | Online | 
+| [**Annual**](Investor Junkie) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

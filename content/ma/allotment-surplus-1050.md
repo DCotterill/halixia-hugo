@@ -13,9 +13,10 @@ Although you are not allowed to run your allotment as a business, you are allowe
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Go self sufficient**](https://goselfsufficient.co.uk/selling-from-your-allotment/) | Free | 
-| [**The guardian**](https://www.theguardian.com/money/2013/jul/26/making-money-allotment-gardeners) | Free | 
-| [**Organic lea**](https://www.organiclea.org.uk/wp-content/uploads/2010/04/sellingallotmentproduce.pdf) | Free | 
+| [**N/A**](Go self sufficient) | Online | 
+| [**Quarterly**](The guardian) | Online | 
+| [**Yearly**](Organic lea) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

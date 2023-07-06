@@ -13,10 +13,10 @@ Treating yourself can provide a small indulgence and moment of pleasure. It can 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Psych central**](https://psychcentral.com/blog/psychology-rewarding-yourself-with-treats#2) | Free | 
-| [**Insanely good recipes**](https://insanelygoodrecipes.com/homemade-candy-bars/) | Free | 
-| [**A Quarter Of...**](https://www.awin1.com/cread.php?awinmid=978&awinaffid=1198638&ued=https%3A%2F%2Fwww.aquarterof.co.uk) | Paid | 
-| [**Sweet hamper company**](https://www.sweethampercompany.co.uk/) | Paid | 
+| [**https://books.google.co.uk/books?hl=en&lr=&id=aUXdrs5_kCoC&oi=fnd&pg=PP2&dq=Importance+of+family+time&ots=8_uOQ1WtE1&sig=Pus9EECmAH7pHygYDEw9MjKubjo&redir_esc=y#v=onepage&q=Importance%20of%20family%20time&f=false**](Psych central) | Online | 
+| [**Quarterly**](Insanely good recipes) | Online | 
+| [**Quarterly**](A Quarter Of...) | Online | 
+| [**Yearly**](Sweet hamper company) |  | 
   
 
 <br/><br/>

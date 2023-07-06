@@ -13,9 +13,9 @@ Digital, numeracy and transferable skills, like communicating confidently or han
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**UK Government**](https://skillsforlife.campaign.gov.uk/) | Free | 
-| [**Virtual College**](https://www.virtual-college.co.uk/) | Free/Paid | 
-| [**learningstylequiz.com**](https://www.learningstylequiz.com/) | Free | 
+| [**Annual**](Virtual College) | Online | 
+| [**Annual**](learningstylequiz.com) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

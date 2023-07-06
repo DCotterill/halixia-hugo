@@ -13,9 +13,10 @@ Social media can pave a good way for networking with people far and wide, with t
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Nextdoor**](https://about.nextdoor.com/) | Free | 
-| [**NCSC**](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely) | Free | 
-| [**Smart Social**](https://smartsocial.com/post/using-social-media-responsibly) | Free | 
+| [**https://guilfordjournals.com/doi/abs/10.1521/jscp.1993.12.1.25**](Nextdoor) | Online | 
+| [**Annual**](NCSC) | Online | 
+| [**Annual**](Smart Social) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

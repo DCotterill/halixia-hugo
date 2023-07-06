@@ -13,9 +13,10 @@ If you believe you have taken some photos people would be willing to pay for, st
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Shutterstock**](https://submit.shutterstock.com/) | Free | 
-| [**Money magpie**](https://www.moneymagpie.com/make-money/sell-your-photos) | Free | 
-| [**Modula**](https://wp-modula.com/best-places-to-sell-photos-online-and-make-money/) | Free | 
+| [**N/A**](Shutterstock) | Online | 
+| [**Yearly**](Money magpie) | Online | 
+| [**Quarterly**](Modula) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

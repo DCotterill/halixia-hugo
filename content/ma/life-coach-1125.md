@@ -13,10 +13,10 @@ Teaching others can provide health benefits such as reducing stress, boosting mo
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**UK CPD**](https://ukcpd.co.uk/how-to-become-a-life-coach-uk/) | Free | 
-| [**Lovely Impact**](https://lovelyimpact.com/reasons-to-become-a-coach/) | Free | 
-| [**Life purpose institute**](https://lifepurposeinstitute.com/7-reasons-to-become-a-life-coach/) | Free | 
-| [**New Skill Academy**](https://newskillsacademy.co.uk/) | Paid | 
+| [**https://www.sciencedirect.com/science/article/abs/pii/S1053482209000904**](UK CPD) | Online | 
+| [**Yearly**](Lovely Impact) | Online | 
+| [**Quarterly**](Life purpose institute) | Online | 
+| [**Quarterly**](New Skill Academy) |  | 
   
 
 <br/><br/>

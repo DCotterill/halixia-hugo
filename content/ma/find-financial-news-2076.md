@@ -13,10 +13,10 @@ Keeping up with financial news helps understand economic shifts, anticipate mark
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Financial Times**](https://www.ft.com/markets) | Paid | 
-| [**ASB**](https://asb.org.uk/finance/03/2019/why-keeping-on-top-of-financial-news-is-essential-for-investors/1760/) | Free  | 
-| [**Financial Expert**](https://www.financial-expert.co.uk/best-financial-news-sources/) | Free | 
-| [**#REF!**](#REF!) | #REF! | 
+| [**https://academicjournals.org/article/article1379511994_Norman.pdf**](ASB) | Online | 
+| [**Quarterly**](Financial Expert) | Online | 
+| [**Quarterly**](Financial Times) | Online | 
+| [**Yearly**](Money Week) | Online | 
   
 
 <br/><br/>

@@ -13,9 +13,10 @@ When facing a mental health crisis, it's normal to feel alone or afraid to ask f
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Mind**](https://www.mind.org.uk/information-support/drugs-and-treatments/peer-support/about-peer-support/) | Free | 
-| [**Mental Health**](https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/peer-support) | Free | 
-| [**NHS**](https://www.england.nhs.uk/personalisedcare/supported-self-management/peer-support/) | Free | 
+| [**https://www.annfammed.org/content/13/Suppl_1/S2.short**](Mind) | Online | 
+| [**Annual**](Mental Health) | Online | 
+| [**Quarterly**](NHS) | Online | 
+| [**Annual**]() |  | 
   
 
 <br/><br/>

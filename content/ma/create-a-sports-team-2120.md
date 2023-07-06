@@ -13,10 +13,10 @@ Organising a sports team involves bringing individuals together to participate i
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Go fame us**](https://www.gofameus.com/starting-your-own-sports-team/) | Free | 
-| [**Athletics weekly**](https://athleticsweekly.com/aw-promotion/the-many-benefits-of-getting-involved-in-team-sports-1039958472/) | Free  | 
-| [**Magic league**](https://www.magicleague.co.uk/league-management-advice-guidance/how-to-start-a-sports-league/) | Free  | 
-| [**Pro:Direct Sport**](https://www.prodirectsport.com) | Paid | 
+| [**https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-017-4561-8**](Go fame us) | Online | 
+| [**Quarterly**](Athletics weekly) | Online | 
+| [**Quarterly**](Magic league) | Online | 
+| [**Quarterly**](Pro:Direct Sport) |  | 
   
 
 <br/><br/>

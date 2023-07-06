@@ -13,9 +13,9 @@ We are social beings, and interacting with people is in our nature. Helping othe
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Meet up**](https://www.meetup.com/blog/the-ultimate-guide-to-starting-a-group-on-meetup/) | Free | 
-| [**Q place**](https://www.qplace.com/10-tips-for-starting-an-online-group/) | Free | 
-| [**Wiki how**](https://www.wikihow.com/Start-an-Online-Discussion-Community) | Free | 
+| [**Annual**](Q place) | Online | 
+| [**Quarterly**](Wiki how) | Online | 
+| [**Annual**]() |  | 
   
 
 <br/><br/>

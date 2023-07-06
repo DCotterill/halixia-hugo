@@ -13,10 +13,8 @@ Managing your tax liabilities is an important part of good financial management 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**The Chartered Institute of Taxation**](https://pilot-portal.tax.org.uk/utilities/ciot/find-a-member) | Free | 
-| [**Tax Advice Network**](https://www.taxadvicenetwork.co.uk/find-an-adviser/) | Free | 
-| [**TaxAid**](https://taxaid.org.uk/guides/taxpayers/choosing-an-accountant-or-tax-adviser) | Free | 
-| [**UK Government**](https://www.gov.uk/tax-help) | Free | 
+| [**Annual**](Tax Advice Network) | Online | 
+| [**Quarterly**](TaxAid) | Online | 
   
 
 <br/><br/>

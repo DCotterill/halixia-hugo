@@ -13,9 +13,10 @@ Chiropractic is a form of alternative medicine that is concerned with the diagno
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**NHS**](https://www.nhs.uk/conditions/chiropractic/) | Free | 
-| [**Chiropractic uk**](https://chiropractic-uk.co.uk/find-a-chiropractor/) | Free | 
-| [**Healthline**](https://www.healthline.com/health/chiropractic-benefits) | Free | 
+| [**https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2505076/**](NHS) | Online | 
+| [**Yearly**](Chiropractic uk) | Online | 
+| [**Quarterly**](Healthline) | Online | 
+| [**6 monthly**]() |  | 
   
 
 <br/><br/>

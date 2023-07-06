@@ -13,9 +13,10 @@ If you have passion or knowledge about on a certain skill, look into turn it int
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Fiverr**](https://www.fiverr.com/) | Free | 
-| [**Ways to wealth**](https://www.thewaystowealth.com/make-money/fiverr/) | Free | 
-| [**Digital fodder**](https://www.digitalfodder.com/how-to-make-money-on-fiverr/) | Free | 
+| [**N/A**](Fiverr) | Online | 
+| [**Yearly**](Ways to wealth) | Online | 
+| [**Quarterly**](Digital fodder) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

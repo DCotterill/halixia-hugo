@@ -13,9 +13,10 @@ Your gut microbiome is a vast community of trillions of bacteria and fungi that 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Huberman lab**](https://hubermanlab.com/how-to-enhance-your-gut-microbiome-for-brain-and-overall-health/) | Free | 
-| [**Health line**](https://www.healthline.com/nutrition/microbiome-diet#guidelines) | Free | 
-| [**Symprove**](https://www.symprove.com/blogs/the-gut-hub?ref=nav) | Paid | 
+| [**https://link.springer.com/article/10.1186/gm228**](Huberman lab) | Online | 
+| [**Quarterly**](Healthline) | Online | 
+| [**Annual**](Symprove) | Online | 
+| [**6 months**]() |  | 
   
 
 <br/><br/>

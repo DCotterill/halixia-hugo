@@ -13,10 +13,9 @@ Private medical insurance is designed to cover you for non-routine tests and tre
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Which?**](https://www.which.co.uk/money/insurance/health-insurance/get-the-best-private-health-insurance-a22mw2v9035j) | Free/Paid | 
-| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/insurance/cheap-health-insurance/) | Free | 
-| [**Moneyhelper**](https://www.moneyhelper.org.uk/en/everyday-money/insurance/do-you-need-private-medical-insurance) | Free | 
-| [**Active Quote**](https://www.activequote.com/) | Free/Paid | 
+| [**6 monthly**](MoneySavingExpert.com) | Online | 
+| [**Yearly**](Moneyhelper) | Online | 
+| [**6 monthly**](Active Quote) | Online | 
   
 
 <br/><br/>

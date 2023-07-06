@@ -13,10 +13,10 @@ It's rewarding in more ways than one, you get to share your passion, as well as 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Get set up**](https://share.hsforms.com/1NendfH52RSCvpOFkCq8D1A49suz) | Free | 
-| [**Wix**](https://www.wix.com/blog/2020/04/how-to-create-an-online-course/) | Free | 
-| [**Online course show**](https://www.onlinecoursehow.com/tips/host-course-online/) | Free | 
-| [**#REF!**](#REF!) | #REF! | 
+| [**https://www.tandfonline.com/doi/abs/10.1300/J016v28n04_01**](Get set up) | Online | 
+| [**Quarterly**](Wix) | Online | 
+| [**Quarterly**](Online course show) | Online | 
+| [**Quarterly**](My tutor) |  | 
   
 
 <br/><br/>

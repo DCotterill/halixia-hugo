@@ -13,10 +13,10 @@ Yoga is for everyone, whatever your ability or disability, age, experience, fitn
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Very well fit**](https://www.verywellfit.com/top-health-benefits-of-yoga-3566733) | Free | 
-| [**Yoga Basics**](https://www.yogabasics.com/practice/yoga-for-beginners/#:~:text=After%20you%E2%80%99ve%20found%20a%20style%2C%20teacher%2C%20and%20yoga,study%20to%20learn%20more%20about%20yoga%20More%20items) | Free | 
-| [**Yoga for everyone**](https://yogaforeveryone.tv/) | Paid | 
-| [**Complete Unity Yoga**](https://completeunityyoga.com/) | Paid | 
+| [**https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3193654/**](Very well fit) | Online | 
+| [**Quarterly**](Yoga Basics) | Online | 
+| [**Quarterly**](Yoga for everyone) | Online | 
+| [**Quarterly**](Complete Unity Yoga) |  | 
   
 
 <br/><br/>

@@ -13,10 +13,10 @@ Start working on improving your stress, anxiety, and self-worth with the use of 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Happier human**](https://www.happierhuman.com/benefits-affirmations/) | Free | 
-| [**Refined by Age**](https://refinedbyage.com/2019/12/17/7-affirmations-for-positive-aging/) | Free | 
-| [**Get help**](https://www.betterup.com/blog/positive-affirmations) | Free | 
-| [**Lovendu**](https://lovendu.co.uk/) | Paid | 
+| [**http://depts.washington.edu/anesth/edi/_resources-docs/Cohen_annurev-psych-010213-115137.pdf**](Happier human) | Online | 
+| [**Quarterly**](Refined by Age) | Online | 
+| [**Quarterly**](Get help) | Online | 
+| [**Quarterly**](Lovendu) |  | 
   
 
 <br/><br/>

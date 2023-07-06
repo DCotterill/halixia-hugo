@@ -13,9 +13,10 @@ Intermittent fasting involves alternating periods of eating and fasting, offerin
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**MedicalNewsToday**](https://www.medicalnewstoday.com/articles/322293#intermittent-fasting-methods) | Free | 
-| [**Hopkins medicine**](https://www.hopkinsmedicine.org/health/wellness-and-prevention/intermittent-fasting-what-is-it-and-how-does-it-work) | Free | 
-| [**Healthline**](https://www.healthline.com/nutrition/10-health-benefits-of-intermittent-fasting) | Free | 
+| [**https://www.nejm.org/doi/full/10.1056/nejmra1905136**](MedicalNewsToday) | Online | 
+| [**Yearly**](Hopkins medicine) | Online | 
+| [**Yearly**](Healthline) | Online | 
+| [**Yearly**]() |  | 
   
 
 <br/><br/>

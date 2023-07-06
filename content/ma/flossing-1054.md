@@ -13,9 +13,10 @@ Flossing regularly plays a crucial role in your dental hygiene. When you skip fl
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Ritten house villages**](https://www.rittenhousevillages.com/assisted-living-blog/the-importance-of-flossing-for-seniors/) | Free | 
-| [**Art of smiles Pasadena**](https://www.artofsmilespasadena.com/flossing-tips-for-seniors-older-adults/) | Free | 
-| [**Healthline**](https://www.healthline.com/health/how-to-floss) | Free | 
+| [**https://www.tandfonline.com/doi/full/10.2147/CIA.S54630, https://pdfs.semanticscholar.org/475e/00158647e34273f742d61aa65391487bf825.pdf**](Ritten house villages) | Online | 
+| [**Quarterly**](Art of smiles Pasadena) | Online | 
+| [**Quarterly**](Healthline) | Online | 
+| [**Yearly**]() |  | 
   
 
 <br/><br/>

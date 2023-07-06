@@ -13,10 +13,10 @@ When you think of some of the most culturally diverse and renowned cities on Ear
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**The Artling**](https://theartling.com/en/artzine/support-local-arts-community) | Paid | 
-| [**Mac fine art**](https://macfineart.com/how-you-can-support-your-local-art-community/) | Free | 
-| [**Sound wave art**](https://soundwaveart.com/how-to-support-your-local-arts-community/) | Free | 
-| [**Art UK**](https://artuk.org/support-us/support-us) | Paid | 
+| [**https://link.springer.com/article/10.1186/s12889-019-8109-y**](The Artling) | Online | 
+| [**Quarterly**](Mac fine art) | Online | 
+| [**Quarterly**](Sound wave art) | Online | 
+| [**Annual**](Art UK) | Online | 
   
 
 <br/><br/>

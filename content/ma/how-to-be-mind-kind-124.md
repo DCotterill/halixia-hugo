@@ -13,10 +13,10 @@ It can be easy to rush through life without stopping to notice much. Start payin
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**NHS**](https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/) | Free | 
-| [**BBC**](https://www.bbc.co.uk/programmes/m001817f) | Free | 
-| [**Oxford Mindfulness**](https://www.oxfordmindfulness.org/free-online-mindfulness-course-sessions/) | Free | 
-| [**Complete Unity Yoga**](https://completeunityyoga.com/) | Paid | 
+| [**https://www.health.harvard.edu/blog/can-mindfulness-change-your-brain-202105132455**](NHS) | Online | 
+| [**Annual**](BBC) | Online | 
+| [**Annual**](Oxford Mindfulness) | Online | 
+| [**Annual**](Complete Unity Yoga) |  | 
   
 
 <br/><br/>

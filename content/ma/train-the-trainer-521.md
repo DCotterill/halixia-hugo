@@ -13,9 +13,10 @@ Train-the-Trainer is a framework for training potential instructors or subject m
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Oxford home study**](https://www.oxfordhomestudy.com/courses/train-the-trainer-courses/train-the-trainer-free-courses-) | Free | 
-| [**Mandatory training**](https://www.mandatorytraining.co.uk/pages/train-the-trainer-courses-and-qualifications) | Paid | 
-| [**Udemy**](https://www.udemy.com/course/an-accelerated-guide-to-adult-learning-for-trainers/?matchtype=e&msclkid=8e9dc4e92fb41b1e1568a0dce5993021&utm_campaign=BG-LongTail_la.EN_cc.BE&utm_content=deal4584&utm_medium=udemyads&utm_source=bing&utm_term=_._ag_1214960761603319_._ad__._kw_Train+the+Trainer+Training_._de_c_._dm__._pl__._ti_kwd-75935386650122%3Aloc-188_._li_132721_._pd__._) | Paid | 
+| [**https://books.google.co.uk/books?hl=en&lr=&id=Z-0wDgAAQBAJ&oi=fnd&pg=PT428&dq=benefits+of+developing+skills&ots=ZL4u8aXMjE&sig=Xm7GvPGJ6gV7RnJTzDNCc0wFuc8&redir_esc=y#v=onepage&q=benefits%20of%20developing%20skills&f=false**](Oxford home study) | Online | 
+| [**Yearly**](Mandatory training) | Online | 
+| [**Yearly**](Udemy) | Online | 
+| [**Yearly**]() |  | 
   
 
 <br/><br/>

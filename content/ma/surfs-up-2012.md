@@ -13,10 +13,10 @@ Learning to surf for health offers benefits like full-body workout, improved car
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Star Surf Camps**](https://www.starsurfcamps.com/news/should-i-learn-to-surf-6-health-benefits-of-surfing/) | Free  | 
-| [**Pacific surf**](https://www.pacificsurf.com/7-amazing-benefits-of-learning-to-surf/) | Free  | 
-| [**BBC **](https://www.bbc.com/future/article/20210218-the-environmental-benefits-of-surfing) | Free  | 
-| [**Decathlon**](https://www.decathlon.co.uk/browse/c0-sports/c1-surf/_/N-13xg3st) | Paid | 
+| [**https://brajets.com/v3/index.php/brajets/article/view/440**](Star Surf Camps) | Online | 
+| [**Quarterly **](Pacific surf) | Online | 
+| [**Quarterly **](BBC ) | Online | 
+| [**Yearly**](Decathlon) | Online | 
   
 
 <br/><br/>

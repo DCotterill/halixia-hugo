@@ -13,9 +13,10 @@ Volunteering with the Scouts is not only about giving your time and skills. It's
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Scouts**](https://www.scouts.org.uk/volunteer/volunteering-with-scouts/what-do-volunteers-do/) | Free | 
-| [**Go outdoors**](https://blog.gooutdoors.co.uk/how-and-why-to-volunteer-for-the-scout-association/) | Free | 
-| [**Her campus**](https://www.hercampus.com/school/leeds/benefits-volunteering-scouts/) | Free | 
+| [**https://academic.oup.com/psychsocgerontology/article/58/3/S137/583366**](Scouts) | Online | 
+| [**Quarterly**](Go outdoors) | Online | 
+| [**Yearly**](Her campus) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

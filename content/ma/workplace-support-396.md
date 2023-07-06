@@ -13,9 +13,10 @@ Bringing women together can have powerful impact on your physical and mental wel
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Leanin**](https://leanin.org/about) | Free | 
-| [**NWR**](https://nwr.org.uk/) | Free | 
-| [**Together friends**](https://www.togetherfriends.com/) | Free | 
+| [**https://www.annfammed.org/content/13/Suppl_1/S2.short**](Leanin) | Online | 
+| [**Quarterly**](NWR) | Online | 
+| [**Quarterly**](Together friends) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

@@ -13,10 +13,9 @@ Learning a language improves memory, increases attention span and strengthens bo
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Alison**](https://alison.com/courses/language) | Free/Paid | 
-| [**Duolingo**](https://blog.duolingo.com/language-practice-tips-from-experts/) | Free | 
-| [**Lifewire**](https://www.lifewire.com/best-free-language-learning-websites-1357061) | Free | 
-| [**Linguatics**](https://linguatics.com/best-language-learning-apps/?utm_content=cmp-true) | Free | 
+| [**Annual**](Duolingo) | Online | 
+| [**Quarterly**](Lifewire) | Online | 
+| [**6 Monthly**](Linguatics) | Online | 
   
 
 <br/><br/>

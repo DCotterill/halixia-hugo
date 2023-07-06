@@ -13,10 +13,10 @@ Donating your old clothes is important as it helps individuals and communities i
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Hello grads**](https://hellograds.com/news/clothing-poverty-awareness/) | Free | 
-| [**Minimalism made simple**](https://www.minimalismmadesimple.com/home/clean-out-closet/) | Free | 
-| [**Pretty simple mom**](https://prettysimplemom.com/declutter-your-closet/) | Free | 
-| [**Charity Retail Association**](https://www.charityretail.org.uk/find-a-charity-shop/) | Free | 
+| [**https://journals.sagepub.com/doi/abs/10.1177/0887302X08327199?journalCode=ctra**](Hello grads) | Online | 
+| [**Quarterly**](Minimalism made simple) | Online | 
+| [**Quarterly**](Pretty simple mom) | Online | 
+| [**Quarterly**](Charity Retail Association) | Online | 
   
 
 <br/><br/>

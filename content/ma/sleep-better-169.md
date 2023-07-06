@@ -13,10 +13,10 @@ Sleep is an essential function to help our mind and body recharge. Healthy sleep
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Mudita Sleep Better**](https://campaign.mudita.com/mudita_sleep_better?msclkid=3b76ddc10d021dd1befdbede43e0e0da) | Free | 
-| [**Dreams**](https://www.dreams.co.uk/sleep-better-hub?msclkid=acb0da718ed91cd437e2be620bc234fe) | Free | 
-| [**NHS**](https://www.nhs.uk/every-mind-matters/coronavirus/how-to-fall-asleep-faster-and-sleep-better/) | Free | 
-| [**Sleep Hubs**](https://sleephubs.com/) | Paid | 
+| [**https://academic.oup.com/sleep/article/33/4/509/2454611, https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2648.2009.04982.x**](Mudita Sleep Better) | Online | 
+| [**Quarterly**](Dreams) | Online | 
+| [**Annual**](NHS) | Online | 
+| [**Annual**](Sleep Hubs) |  | 
   
 
 <br/><br/>

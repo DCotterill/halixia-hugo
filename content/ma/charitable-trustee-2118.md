@@ -13,9 +13,10 @@ Participating in local committees or boards allows individuals to have a voice i
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Getting on board**](https://www.gettingonboard.org/) | Free | 
-| [**Ellavate network**](https://www.ellevatenetwork.com/articles/7585-this-is-why-joining-a-board-is-great-for-your-career) | Free  | 
-| [**Board source**](https://boardsource.org/fundamental-topics-of-nonprofit-board-service/composition-recruitment/board-service/) | Free | 
+| [**https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-017-4561-8**](Getting on board) | Online | 
+| [**Quarterly**](Ellavate network) | Online | 
+| [**Quarterly**](Board source) | Online | 
+| [**Quarterly**]() |  | 
   
 
 <br/><br/>

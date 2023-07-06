@@ -13,10 +13,10 @@ Taking holidays can be a great chance to escape your daily routine and see new p
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Thrive global**](https://community.thriveglobal.com/the-importance-of-taking-a-holiday/) | Free | 
-| [**Bupa**](https://www.bupa.co.uk/business/news-and-information/why-holidays-are-good-for-employees-health) | No | 
-| [**Barrhead Travel**](https://www.barrheadtravel.co.uk/) | Paid | 
-| [**Jet2holidays**](https://www.jet2holidays.com/) | Paid | 
+| [**https://link.springer.com/chapter/10.1007/978-94-007-1375-8_4**](Thrive global) | Online | 
+| [**Quarterly**](Bupa) | Online | 
+| [**Annual**](Barrhead Travel) | Online | 
+| [**Six monthly**](Jet2holidays) |  | 
   
 
 <br/><br/>
