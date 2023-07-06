@@ -13,10 +13,9 @@ Cold therapy, such as ice baths, offers various health benefits, including reduc
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://web.s.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=20668880&AN=122300821&h=afUq9xJ6Kj0O1I1ei101U8xvzc3MCep%2b6U5Gtx3IhqjIOdF47XLhbKoOsVKXdwBIRIPCsnFebLkGoutqBgvEKQ%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d20668880%26AN%3d122300821**](Michael Kummer) | Online | 
-| [**Quarterly **](Mind body green) | Online | 
-| [**Quarterly **](Fab fit fun) | Online | 
-| [**Yearly**]() |  | 
+| [**Michael Kummer**](https://michaelkummer.com/health/ice-bath-benefits/) | Free | 
+| [**Mind body green**](https://www.mindbodygreen.com/articles/ice-bath-benefits) | Free  | 
+| [**Fab fit fun**](https://fabfitfun.com/magazine/how-to-do-an-ice-bath/) | Free  | 
   
 
 <br/><br/>

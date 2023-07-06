@@ -13,10 +13,9 @@ As a swimming coach, you can provide guidance, training, and support to swimmers
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](Swimming) | Online | 
-| [**Quarterly**](Swimming) | Online | 
-| [**Quarterly**](Bluewaves swim) | Online | 
-| [**Quarterly**]() |  | 
+| [**Swimming**](https://www.swimming.org/ios/swimming-teacher-training/) | Paid | 
+| [**Swimming**](https://www.swimming.org/ios/2022/03/09/top-10-reasons-become-swimming-teacher/) | Free  | 
+| [**Bluewaves swim**](https://www.bluewaveswim.co.uk/blog/develop-your-career-as-a-swimming-teacher/) | Free | 
   
 
 <br/><br/>

@@ -13,10 +13,10 @@ Learning MBSR involves engaging in mindfulness practices, such as meditation and
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](Centre of excellence) | Online | 
-| [**Yearly**](Mindful leader) | Online | 
-| [**Yearly**](Very well mind) | Online | 
-| [**Quarterly**](New Skill Academy) |  | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/shop/mindfulness-based-stress-reduction-mbsr-diploma-course/) | Paid | 
+| [**Mindful leader**](https://www.mindfulleader.org/what-is-mbsr) | Free  | 
+| [**Very well mind**](https://www.verywellmind.com/benefits-of-mindfulness-based-stress-reduction-88861) | Free  | 
+| [**New Skill Academy**](https://newskillsacademy.co.uk/) | Paid | 
   
 
 <br/><br/>

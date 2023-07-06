@@ -13,10 +13,9 @@ Diversifying investments reduces the impact of market volatility, mitigates risk
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://academicjournals.org/article/article1379511994_Norman.pdf**](Hargreaves Lansdown) | Online | 
-| [**Yearly**](Barclays) | Online | 
-| [**Yearly**](Hargreaves Lansdown) | Online | 
-| [**Yearly**]() |  | 
+| [**Hargreaves Lansdown**](https://www.hl.co.uk/news/articles/how-to-review-your-investments) | Free | 
+| [**Barclays**](https://www.barclays.co.uk/smart-investor/new-to-investing/reducing-unnecessary-risk/diversifying-your-investments/) | Free  | 
+| [**Hargreaves Lansdown**](https://www.hl.co.uk/learn/diversification) | Free | 
   
 
 <br/><br/>

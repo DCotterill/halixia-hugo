@@ -13,10 +13,9 @@ You can actually be paid for being someone’s friend. In this day and age, peop
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**N/A**](Rent a friend) | Online | 
-| [**Quarterly**](Vital dollar) | Online | 
-| [**Quarterly**](Project untethered) | Online | 
-| [**Quarterly**]() |  | 
+| [**Rent a friend**](https://rentafriend.com/beafriend/) | Free | 
+| [**Vital dollar**](https://vitaldollar.com/rent-friend/) | Free | 
+| [**Project untethered**](https://www.projectuntethered.com/get-paid-to-be-an-online-friend/) | Free | 
   
 
 <br/><br/>

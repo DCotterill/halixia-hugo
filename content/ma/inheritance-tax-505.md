@@ -13,9 +13,9 @@ Inheritance tax is payable on the value of your estate after you die, at 40% of 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Quarterly**](MoneySavingExpert.com) | Online | 
-| [**Yearly**](Skipton) | Online | 
-| [**Yearly**]() |  | 
+| [**Low Incomes Tax Reform Group**](https://www.litrg.org.uk/tax-guides/bereavement/what-reliefs-and-exemptions-are-there-inheritance-tax) | Free | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/family/inheritance-tax-planning-iht/) | Free | 
+| [**Skipton**](https://www.skipton.co.uk/financial-advice/inheritance-tax-planning?utm_source=bing) | Free | 
   
 
 <br/><br/>

@@ -13,10 +13,9 @@ It is estimated that Tourette Syndrome (TS) affects one school child in every hu
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://academic.oup.com/tbm/article-abstract/9/6/1197/5369573**](Tourettes Action) | Online | 
-| [**Quarterly**](GOSH NHS) | Online | 
-| [**Quarterly**](Tourettes Action) | Online | 
-| [**Quarterly**]() |  | 
+| [**Tourettes Action**](https://www.tourettes-action.org.uk/15-get-involved.html) | Free | 
+| [**GOSH NHS**](https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/tourette-syndrome/) | Free | 
+| [**Tourettes Action**](https://www.tourettes-action.org.uk/67-what-is-ts.htm) | Free | 
   
 
 <br/><br/>

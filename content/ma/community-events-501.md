@@ -13,10 +13,9 @@ Community events are an important aspect of everyday life, helping to encourage 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://journals.sagepub.com/doi/full/10.1177/13607804211012708, https://academic.oup.com/psychsocgerontology/article/70/4/607/649802?login=false**](Street party) | Online | 
-| [**Quarterly**](Gov.uk) | Online | 
-| [**Yearly**](Street party) | Online | 
-| [**Quarterly**]() |  | 
+| [**Street party**](https://www.streetparty.org.uk/guide/street-meet/) | Free | 
+| [**Gov.uk**](https://www.gov.uk/organise-street-party) | Free | 
+| [**Street party**](https://www.streetparty.org.uk/guide/) | Free | 
   
 
 <br/><br/>

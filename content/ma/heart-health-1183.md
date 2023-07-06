@@ -13,10 +13,10 @@ Looking after heart health is vital as it reduces the risk of heart disease, imp
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.liebertpub.com/doi/abs/10.1089/ars.2023.0301**](British Heart Foundation) | Online | 
-| [**Yearly**](Heart Foundation) | Online | 
-| [**Quarterly**](Harvard) | Online | 
-| [**Quarterly**](Heart) | Online | 
+| [**British Heart Foundation**](https://www.bhf.org.uk/informationsupport) | Free | 
+| [**Heart Foundation**](https://www.heartfoundation.org.au/bundles/healthy-living-and-eating/keeping-your-heart-healthy) | Free | 
+| [**Harvard**](https://www.health.harvard.edu/healthbeat/10-small-steps-for-better-heart-health) | Free | 
+| [**Heart**](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/the-ten-ways-to-improve-your-heart-health) | Free | 
   
 
 <br/><br/>

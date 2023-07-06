@@ -13,9 +13,10 @@ With increasing demand for language skills in education, and more broadly across
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Annual**](Mezzofanti Guild) | Online | 
-| [**Quarterly**](Indeed) | Online | 
-| [**6 Monthly**](italki) |  | 
+| [**Open University**](https://www.open.ac.uk/courses/languages/short-courses) | Paid | 
+| [**Mezzofanti Guild**](https://www.mezzoguild.com/foreign-language-careers/) | Free | 
+| [**Indeed**](https://uk.indeed.com/Language-Required-jobs?vjk=8d27a4bce63e8841) | Free | 
+| [**italki**](https://www.italki.com/) | Paid | 
   
 
 <br/><br/>

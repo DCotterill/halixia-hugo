@@ -13,10 +13,10 @@ Is there anything more enjoyable than playing games with friends? Not only is it
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**http://gamestudies.org/1901/articles/lee**](skribbl) | Online | 
-| [**Quarterly**](Uno) | Online | 
-| [**Quarterly**](Among us) | Online | 
-| [**Annual**](Cold case inc) |  | 
+| [**skribbl**](https://skribbl.io/) | Free | 
+| [**Uno**](https://www.letsplayuno.com/) | Free | 
+| [**Among us**](https://www.innersloth.com/games/among-us/) | Free | 
+| [**Cold case inc**](https://coldcaseinc.com/) | Paid | 
   
 
 <br/><br/>

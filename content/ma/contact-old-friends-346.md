@@ -13,10 +13,10 @@ Don’t wait to reconnect with the people who were once important to you. They w
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.apa.org/pubs/journals/releases/psp-pspi0000402.pdf**](Fatherly) | Online | 
-| [**Quarterly**](New York Times) | Online | 
-| [**Annual**](Very well mind) | Online | 
-| [**Quarterly**](Social Self) | Online | 
+| [**Fatherly**](https://www.fatherly.com/love-money/best-way-reach-out-old-friend-advice) | Free | 
+| [**New York Times**](https://www.nytimes.com/2022/07/11/well/family/check-in-text-friendship.html) | Free/Paid | 
+| [**Very well mind**](https://www.verywellmind.com/how-to-reconnect-with-an-old-friend-without-making-it-awkward-5225930) | Free | 
+| [**Social Self**](https://socialself.com/blog/reconnect-friend/) | Free | 
   
 
 <br/><br/>

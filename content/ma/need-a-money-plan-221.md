@@ -13,9 +13,9 @@ In 2022 the gender pay gap reached 8.3% in 2022, meaning women in the UK take ho
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Quarterly**](Unbiased) | Online | 
-| [**Annual**](Feedspot) | Online | 
-| [**Annual**]() |  | 
+| [**Money Nuggets**](https://www.moneynuggets.co.uk/) | Free | 
+| [**Unbiased**](https://www.unbiased.co.uk/discover/personal-finance/budgeting/financial-planning-for-women-what-s-stopping-women-from-managing-their-own-finances) | Free | 
+| [**Feedspot**](https://blog.feedspot.com/uk_women_financial_blogs/) | Free | 
   
 
 <br/><br/>

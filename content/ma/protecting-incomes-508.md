@@ -13,9 +13,9 @@ Income protection helps by providing a monthly benefit if your of work due to an
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Yearly**](Citizens advice) | Online | 
-| [**Yearly**](MoneySavingExpert.com) | Online | 
-| [**Yearly**]() |  | 
+| [**Unbiased**](https://www.unbiased.co.uk/discover/insurance/income-protection-insurance) | Free | 
+| [**Citizens advice**](https://www.citizensadvice.org.uk/consumer/insurance/insurance/income-protection-insurance/) | Free | 
+| [**MoneySavingExpert.com**](https://www.moneyexpert.com/income-protection/) | Free | 
   
 
 <br/><br/>

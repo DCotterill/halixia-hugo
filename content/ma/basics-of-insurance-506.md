@@ -13,9 +13,9 @@ Insurance protects you from unexpected loss, it aims to reduce the impact of fin
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Yearly**](Drew Berry Insurance) | Online | 
-| [**Yearly**](HSBC) | Online | 
-| [**Yearly**]() |  | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/insurance/) | Free | 
+| [**Drew Berry Insurance**](https://www.drewberryinsurance.co.uk/knowledge/financial-advice/personal-insurance) | Free | 
+| [**HSBC**](https://www.hsbc.co.uk/insurance/types-of-insurance/) | Free | 
   
 
 <br/><br/>

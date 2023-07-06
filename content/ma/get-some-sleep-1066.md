@@ -13,10 +13,10 @@ Sleep helps to restore the body and improves energy levels, waking up well-reste
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6281147/**](Medical news today) | Online | 
-| [**Yearly**](Morning life) | Online | 
-| [**Quarterly**](Very well health) | Online | 
-| [**Quarterly**](Sleep Hubs) |  | 
+| [**Medical news today**](https://www.medicalnewstoday.com/articles/325353) | Free | 
+| [**Morning life**](https://morninglife.co.uk/how-to-get-8-hours-of-sleep/) | Free | 
+| [**Very well health**](https://www.verywellhealth.com/why-you-should-never-regret-a-good-night-s-sleep-5088198) | Free | 
+| [**Sleep Hubs**](https://sleephubs.com/) | Paid | 
   
 
 <br/><br/>

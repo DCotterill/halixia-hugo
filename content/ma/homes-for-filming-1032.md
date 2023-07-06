@@ -13,10 +13,9 @@ Would you like to see a famous actor hanging out in your living room. Perhaps yo
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**N/A**](Amazing space) | Online | 
-| [**Quarterly**](Money magpie) | Online | 
-| [**Quarterly**](Saga) | Online | 
-| [**Yearly**]() |  | 
+| [**Amazing space**](https://amazingspace.co.uk/) | Free | 
+| [**Money magpie**](https://www.moneymagpie.com/make-money/renting-your-home-as-a-film-set-2) | Free | 
+| [**Saga**](https://www.saga.co.uk/magazine/money/personal-finance/making-money/earn-money-renting-your-home-to-film-and-tv-companies) | Free | 
   
 
 <br/><br/>

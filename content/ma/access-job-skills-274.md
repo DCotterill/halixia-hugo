@@ -13,9 +13,10 @@ Digital, numeracy and transferable skills, like communicating confidently or han
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Annual**](UK Government) | Online | 
-| [**Quarterly**](OpenLearn) | online | 
-| [**Annual**](GCF Global) | online | 
+| [**UK Government**](https://skillsforlife.campaign.gov.uk/) | Free | 
+| [**UK Government**](https://beta.nationalcareers.service.gov.uk/) | Free | 
+| [**OpenLearn**](https://www.open.edu/openlearn/) | Free | 
+| [**GCF Global**](https://edu.gcfglobal.org/en/topics/computers/) | Free | 
   
 
 <br/><br/>

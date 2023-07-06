@@ -13,10 +13,10 @@ Learning languages improves memory, increases attention span and strengthens bot
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.thebritishacademy.ac.uk/projects/cognitive-benefits-language-learning/**](Rocket Language) | Online | 
-| [**Annual**](Babbel) | Online | 
-| [**Annual**](Go Overseas) | Online | 
-| [**6 Monthly**](Alison) | Online | 
+| [**Rocket Language**](https://www.rocketlanguages.com/blog/what-language-should-I-learn-learning-type) | Paid | 
+| [**Babbel**](https://www.babbel.com/en/magazine/which-language-should-you-learn-quiz) | Paid | 
+| [**Go Overseas**](https://www.gooverseas.com/blog/best-languages-learn) | Free | 
+| [**Alison**](https://alison.com/courses/language) | Free/Paid | 
   
 
 <br/><br/>

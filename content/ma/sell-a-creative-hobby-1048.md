@@ -13,10 +13,9 @@ Join a creative marketplace where millions of shoppers spend billions each year 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**N/A**](Etsy) | Online | 
-| [**Yearly**](Etsy) | Online | 
-| [**Yearly**](Start ups) | Online | 
-| [**Yearly**]() |  | 
+| [**Etsy**](https://www.etsy.com/seller-handbook?ref=so_seller_handbook) | Free | 
+| [**Etsy**](https://help.etsy.com/hc/en-gb/articles/115015672808-How-to-Open-an-Etsy-Shop?segment=selling) | Free | 
+| [**Start ups**](https://startups.co.uk/websites/ecommerce/create-online-shop/) | Free | 
   
 
 <br/><br/>

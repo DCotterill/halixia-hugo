@@ -13,10 +13,9 @@ Starting a community learning initiative creates opportunities for individuals t
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-017-4561-8**](UCL) | Online | 
-| [**Yearly**](Forbes) | Online | 
-| [**Yearly**](My community) | Online | 
-| [**Quarterly**]() |  | 
+| [**UCL**](https://www.ucl.ac.uk/teaching-learning/publications/2019/nov/five-steps-developing-community-engaged-learning-programme-module-or-project) | Free | 
+| [**Forbes**](https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/13/how-to-make-community-based-learning-a-crucial-component-of-your-learning-and-development-program/?sh=9e0e723bf1ce) | Free  | 
+| [**My community**](https://mycommunity.org.uk/how-to-get-started-with-a-project-in-your-community) | Free | 
   
 
 <br/><br/>

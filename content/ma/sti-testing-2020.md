@@ -13,10 +13,10 @@ Getting tested for sexual health is important for several reasons. It helps dete
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://link.springer.com/article/10.1007/s10461-014-0733-z**](SH:24) | Online | 
-| [**Yearly**](Patient) | Online | 
-| [**Yearly**](Very well health) | Online | 
-| [**Quarterly **](The STI clinic) |  | 
+| [**SH:24**](https://sh24.org.uk/) | Free  | 
+| [**Patient**](https://patient.info/news-and-features/why-regular-sti-checks-are-so-important) | Free  | 
+| [**Very well health**](https://www.verywellhealth.com/five-reasons-everyone-should-get-tested-for-stds-3133081) | Free  | 
+| [**The STI clinic**](https://yoursexualhealth.co.uk/) | Paid | 
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ It’s no secret that being smart with your money and adopting good money habits
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Quarterly**](Experian) | Online | 
-| [**Annual**](Vertex 42) | Online | 
-| [**Quarterly**]() |  | 
+| [**What Investment**](https://www.whatinvestment.co.uk/how-cash-flow-planning-can-improve-your-finances-2616100/) | Free | 
+| [**Experian**](https://www.experian.com/blogs/ask-experian/how-to-create-personal-cash-flow-statement/) | Free | 
+| [**Vertex 42**](https://www.vertex42.com/ExcelTemplates/monthly-cash-flow.html) | Free | 
   
 
 <br/><br/>

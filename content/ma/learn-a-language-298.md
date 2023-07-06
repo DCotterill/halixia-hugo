@@ -13,10 +13,10 @@ Learning a language improves memory, increases attention span and strengthens bo
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.tandfonline.com/doi/abs/10.1300/J016v28n04_01**](Memrise) | Online | 
-| [**6 Monthly**](Fluent u) | Online | 
-| [**Annual**](Rocket Language) | Online | 
-| [**Annual**](Lingo pie) | Online | 
+| [**Memrise**](https://www.memrise.com/) | Free | 
+| [**Fluent u**](https://www.fluentu.com/) | Paid | 
+| [**Rocket Language**](https://www.rocketlanguages.com/) | Paid | 
+| [**Lingo pie**](https://lingopie.com/) | Free/Paid | 
   
 
 <br/><br/>

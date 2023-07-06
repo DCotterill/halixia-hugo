@@ -13,10 +13,10 @@ Centre of Excellence offers courses in many 'small business specialisms' and com
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.tandfonline.com/doi/abs/10.1300/J016v28n04_01**](Centre of excellence) | Online | 
-| [**Annual**](Skillshare) | online | 
-| [**Quarterly**](UK Government) | Online | 
-| [**Annual**](Skills you need) | Online | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
+| [**Skillshare**](https://www.skillshare.com/) | Paid | 
+| [**UK Government**](https://www.gov.uk/set-up-business) | Free | 
+| [**Skills you need**](https://www.skillsyouneed.com/shop/self-employment.html) | Free | 
   
 
 <br/><br/>

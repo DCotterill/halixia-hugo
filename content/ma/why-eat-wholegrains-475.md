@@ -13,10 +13,10 @@ The consumption of wholegrains as part of a healthy diet has been shown to help 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.cambridge.org/core/journals/nutrition-research-reviews/article/whole-grains-and-human-health/D992CF3AF3244A6C85193EBF4557FD2A**](Heart UK) | Online | 
-| [**Annual**](British Dietetic Association (BDA)) | Online | 
-| [**Annual**](Wholegrains Council) | Online | 
-| [**Quarterly**](BBC Food) | Online | 
+| [**Heart UK**](https://www.heartuk.org.uk/low-cholesterol-foods/wholegrains-) | Free | 
+| [**British Dietetic Association (BDA)**](https://www.bda.uk.com/resource/wholegrains.html) | Free | 
+| [**Wholegrains Council**](https://wholegrainscouncil.org/whole-grains-101/easy-ways-enjoy-whole-grains) | Free | 
+| [**BBC Food**](https://www.bbc.co.uk/food/grain) | Free | 
   
 
 <br/><br/>

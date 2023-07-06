@@ -13,10 +13,10 @@ Health and wellness coaches have deep passion for wellbeing and keen to share th
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.tandfonline.com/doi/abs/10.1300/J016v28n04_01**](Integrative nutrition) | Online | 
-| [**Annual**](Integrative nutrition) | Online | 
-| [**Annual**](NHS) | Online | 
-| [**Annual**](Centre of excellence) | Online | 
+| [**Integrative nutrition**](https://www.integrativenutrition.com/) | Paid | 
+| [**Integrative nutrition**](https://www.integrativenutrition.com/health-coach-certificate) | Free | 
+| [**NHS**](https://www.england.nhs.uk/personalisedcare/workforce-and-training/health-and-wellbeing-coaches/) | Free | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
   
 
 <br/><br/>

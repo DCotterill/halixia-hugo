@@ -13,10 +13,9 @@ Brain training turns inactive brain cells into healthy, active ones. The more yo
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029676**](Lumosity) | Online | 
-| [**Annual**](Braingymer) | Online | 
-| [**Quarterly**](Elevate) | Online | 
-| [**Quarterly**]() |  | 
+| [**Lumosity**](https://www.lumosity.com/en/) | Free | 
+| [**Braingymer**](https://www.braingymmer.com/en/brain-games/) | Free | 
+| [**Elevate**](https://elevateapp.com) | Free/Paid | 
   
 
 <br/><br/>

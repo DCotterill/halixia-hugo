@@ -13,9 +13,10 @@ Online learning can be a modern and innovative way to keep learning. As adults, 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Quarterly**](Coursera) | Online | 
-| [**Quarterly**](Masterclass) | Online | 
-| [**Quarterly**](Udacity) | Online | 
+| [**Upskillwise**](https://upskillwise.com/online-learning-platforms/) | Free | 
+| [**Coursera**](https://www.coursera.org/) | Paid | 
+| [**Masterclass**](https://www.masterclass.com/) | Paid | 
+| [**Udacity**](https://www.udacity.com/) | Free | 
   
 
 <br/><br/>

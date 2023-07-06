@@ -13,9 +13,10 @@ You can still build good money habits even if you’ve experienced a reduction i
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**6 monthly**](MoneyHelper) | Online | 
-| [**6 monthly**](MoneySavingExpert.com) | Online | 
-| [**Yearly**](UK Government) | Online | 
+| [**MoneyHelper**](https://www.moneyhelper.org.uk/en/family-and-care/illness-and-disability/how-to-sort-out-your-money-if-you-become-ill-or-disabled) | Free | 
+| [**MoneyHelper**](https://www.moneyhelper.org.uk/en/money-troubles/coronavirus/use-our-money-navigator-tool) | Free | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/family/money-help/) | Free | 
+| [**UK Government**](https://helpforhouseholds.campaign.gov.uk/) | Free | 
   
 
 <br/><br/>

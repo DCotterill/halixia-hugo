@@ -13,9 +13,9 @@ Building good money habits and making simple savings on everyday spending helps 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Annual**](MoneySavingExpert.com) | Online | 
-| [**Yearly**](UK Government) | Online | 
-| [**Annual**]() |  | 
+| [**HSBC**](https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-manage-bills/) | Free/Paid | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/family/money-help/) | Free | 
+| [**UK Government**](https://helpforhouseholds.campaign.gov.uk/) | Free | 
   
 
 <br/><br/>

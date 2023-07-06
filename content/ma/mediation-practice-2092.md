@@ -13,10 +13,10 @@ Transcendental Meditation (TM) is a technique that involves silently repeating a
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.science.org/doi/abs/10.1126/science.167.3926.1751**](Psych news daily) | Online | 
-| [**Quarterly**](Very well mind) | Online | 
-| [**Quarterly**](Complete unity yoga) | Online | 
-| [**Yearly**](Complete Unity Yoga) |  | 
+| [**Psych news daily**](https://www.psychnewsdaily.com/how-to-do-transcendental-meditation/) | Free | 
+| [**Very well mind**](https://www.verywellmind.com/transcendental-meditation-and-its-many-benefits-4159899) | Free  | 
+| [**Complete unity yoga**](https://completeunityyoga.com/) | Paid | 
+| [**Complete Unity Yoga**](https://completeunityyoga.com/) | Paid | 
   
 
 <br/><br/>

@@ -13,9 +13,9 @@ Savings platforms offer you the opportunity to manage your savings all in one pl
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**6 monthly**](Money to the Masses) | Online | 
-| [**Quarterly**](Koody) | Online | 
-| [**Quarterly**]() |  | 
+| [**Which?**](https://www.which.co.uk/money/savings-and-isas/savings-accounts/what-is-a-savings-platform-ah9112x13r8n) | Free/Paid | 
+| [**Money to the Masses**](https://moneytothemasses.com/saving-for-your-future/investing/best-savings-platforms) | Free | 
+| [**Koody**](https://www.koody.co/saving/best-money-saving-apps-uk) | Free/Paid | 
   
 
 <br/><br/>

@@ -13,10 +13,9 @@ Brain training turns inactive brain cells into healthy, active ones. The more yo
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://psycnet.apa.org/record/2013-30003-001**](hubermanlab) | Online | 
-| [**Six monthly**](Brain gymmer) | Online | 
-| [**six m**](A Cognitive connection) | Online | 
-| [**Quarterly**]() |  | 
+| [**hubermanlab**](https://hubermanlab.com/understand-and-improve-memory-using-science-based-tools/) | Free | 
+| [**Brain gymmer**](https://www.braingymmer.com/en/) | Free | 
+| [**A Cognitive connection**](https://acognitiveconnection.com/why-brain-training-is-important/) | Free | 
   
 
 <br/><br/>

@@ -13,10 +13,9 @@ As a mystery shopper you might be tasked with anything from visiting a cafe chai
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**N/A**](mystery shopper) | Online | 
-| [**Yearly**](Money checker) | Online | 
-| [**Quarterly**](LinkedIn) | Online | 
-| [**Yearly**]() |  | 
+| [**mystery shopper**](https://www.mystery-shoppers.co.uk/its-not-just-shopping/mystery-diners/) | Free | 
+| [**Money checker**](https://moneycheck.com/mystery-shopper-jobs/) | Free | 
+| [**LinkedIn**](https://www.linkedin.com/pulse/what-you-need-know-being-mystery-shopper-insightsopinion/) | Free | 
   
 
 <br/><br/>

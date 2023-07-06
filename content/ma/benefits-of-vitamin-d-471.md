@@ -13,10 +13,10 @@ UK Government advice is that everyone should take a vitamin D supplement during 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://link.springer.com/article/10.1186/2049-3258-72-32**](The geriatric dietician) | Online | 
-| [**Quarterly**](Eating well) | Online | 
-| [**Annual**](Healthline) | Online | 
-| [**Annual**](Holland and Barrett) | Online | 
+| [**The geriatric dietician**](https://thegeriatricdietitian.com/vitamin-d-in-the-elderly/) | Free | 
+| [**Eating well**](https://www.eatingwell.com/gallery/12814/recipes-to-get-more-vitamin-d/) | Free | 
+| [**Healthline**](https://www.healthline.com/health/nutrition/vitamin-d-foods) | Free | 
+| [**Holland and Barrett**](https://www.hollandandbarrett.com/the-health-hub/vitamins-and-supplements/vitamins/vitamin-d/best-vitamin-d-supplements/) | Free | 
   
 
 <br/><br/>

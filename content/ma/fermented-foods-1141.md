@@ -13,10 +13,10 @@ Adding fermented foods to your diet can provide health benefits such as improvin
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://pubmed.ncbi.nlm.nih.gov/28945458/**](BBC) | Online | 
-| [**Yearly**](Healthline) | Online | 
-| [**Yearly**](Mind body green) | Online | 
-| [**Quarterly**](Loving foods) |  | 
+| [**BBC**](https://www.bbc.co.uk/programmes/m000v3g2) | Free | 
+| [**Healthline**](https://www.healthline.com/nutrition/gut-microbiome-and-health) | Free | 
+| [**Mind body green**](https://www.mindbodygreen.com/articles/how-to-ferment-food-at-home) | Free | 
+| [**Loving foods**](https://www.lovingfoods.co.uk/) | Paid | 
   
 
 <br/><br/>

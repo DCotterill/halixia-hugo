@@ -13,10 +13,10 @@ Over the past few years, technology has adapted and evolved beyond anyone’s ex
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](Age UK) | Online | 
-| [**Yearly**](Personnel today) | Online | 
-| [**Quarterly**](Global knowledge) | Online | 
-| [**Quarterly**](The Code Zone) |  | 
+| [**Age UK**](https://www.ageuk.org.uk/services/in-your-area/it-training/) | Free | 
+| [**Personnel today**](https://www.personneltoday.com/hr/why-it-training-is-important/) | Free | 
+| [**Global knowledge**](https://www.globalknowledge.com/us-en/resources/resource-library/articles/the-10-most-important-it-skills-for-2020/) | Free | 
+| [**The Code Zone**](https://www.thecodezone.co.uk/) | Paid | 
   
 
 <br/><br/>

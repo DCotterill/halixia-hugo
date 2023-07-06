@@ -13,10 +13,10 @@ Some of the benefits you can get from sex include lowering blood pressure, burni
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.tandfonline.com/doi/abs/10.1080/0092623X.2013.811450**](Web md) | Online | 
-| [**Yearly**](Medical news today) | Online | 
-| [**Yearly**](The healthy) | Online | 
-| [**Quarterly**](So Divine) |  | 
+| [**Web md**](https://www.webmd.com/sex-relationships/guide/sex-and-health) | Free | 
+| [**Medical news today**](https://www.medicalnewstoday.com/articles/how-often-do-couples-have-sex) | Free | 
+| [**The healthy**](https://www.thehealthy.com/sex/health-benefits-of-sex/) | Free | 
+| [**So Divine**](https://so-divine.com/) | Paid | 
   
 
 <br/><br/>

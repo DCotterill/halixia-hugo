@@ -13,10 +13,10 @@ Sleep is an essential function to help our mind and body recharge. Healthy sleep
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://academic.oup.com/sleep/article/33/4/509/2454611**](Sleep foundation) | Online | 
-| [**Annual**](BBC) | Online | 
-| [**Annual**](Insight timer) | Online | 
-| [**Quarterly**](Sleep Hubs) |  | 
+| [**Sleep foundation**](https://www.thensf.org/sleep-tips/) | Free | 
+| [**BBC**](https://www.bbc.co.uk/sounds/curation/p0bw83p3?partner=uk.co.bbc&origin=share-mobile) | Free | 
+| [**Insight timer**](https://insighttimer.com/) | Free/Paid | 
+| [**Sleep Hubs**](https://sleephubs.com/) | Paid | 
   
 
 <br/><br/>

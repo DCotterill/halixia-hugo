@@ -13,10 +13,10 @@ Health checks often focus on preventative health, helping to detect problems in 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://bmjopen.bmj.com/content/3/12/e003387.short**](Bluecrestwellness) | Online | 
-| [**Annual**](Bupa) | Online | 
-| [**Annual**](Circle health group) | Online | 
-| [**Annual**](Get Tested) |  | 
+| [**Bluecrestwellness**](https://www.bluecrestwellness.com/health-checks) | Paid | 
+| [**Bupa**](https://www.bupa.co.uk/health/health-assessments/compare-health-assessments) | Paid | 
+| [**Circle health group**](https://www.circlehealthgroup.co.uk/treatments/health-assessments--advanced) | Paid | 
+| [**Get Tested**](https://gettested.co.uk/) | Paid | 
   
 
 <br/><br/>

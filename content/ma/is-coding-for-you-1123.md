@@ -13,10 +13,10 @@ Learning to code can lead to better career opportunities, higher salaries, and t
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.tandfonline.com/doi/abs/10.1300/J016v28n04_01**](Code academy) | Online | 
-| [**Yearly**](Code academy) | Online | 
-| [**Yearly**](Free code camp) | Online | 
-| [**Yearly**](The Code Zone) |  | 
+| [**Code academy**](https://www.codecademy.com/catalog) | Free | 
+| [**Code academy**](https://www.codecademy.com/resources/blog/reasons-to-learn-how-to-code/) | Free | 
+| [**Free code camp**](https://www.freecodecamp.org/news/the-real-reason-why-everyone-should-learn-to-code/) | Free | 
+| [**The Code Zone**](https://www.thecodezone.co.uk/) | Paid | 
   
 
 <br/><br/>

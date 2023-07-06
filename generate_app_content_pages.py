@@ -32,29 +32,29 @@ with open('resources/MA Database 220523.xlsx - Upload Prep -v3.csv'
                     "full-description": description,
                     "additional-text": content_text}
 
-            primary_link_1 = row[24]
-            primary_link_name_1 = row[22]
-            primary_link_paid_free_1 = row[27]
-            primary_link_tp_rating_1 = row[32]
-            primary_link_tp_link_1 = row[33]
+            primary_link_1 = row[26]
+            primary_link_name_1 = row[24]
+            primary_link_paid_free_1 = row[29]
+            primary_link_tp_rating_1 = row[34]
+            primary_link_tp_link_1 = row[35]
 
-            primary_link_2 = row[39]
-            primary_link_name_2 = row[37]
-            primary_link_paid_free_2 = row[42]
-            primary_link_tp_rating_2 = row[47]
-            primary_link_tp_link_2 = row[48]
+            primary_link_2 = row[41]
+            primary_link_name_2 = row[39]
+            primary_link_paid_free_2 = row[44]
+            primary_link_tp_rating_2 = row[49]
+            primary_link_tp_link_2 = row[50]
 
-            primary_link_3 = row[54]
-            primary_link_name_3 = row[52]
-            primary_link_paid_free_3 = row[57]
-            primary_link_tp_rating_3 = row[62]
-            primary_link_tp_link_3 = row[63]
+            primary_link_3 = row[56]
+            primary_link_name_3 = row[54]
+            primary_link_paid_free_3 = row[59]
+            primary_link_tp_rating_3 = row[64]
+            primary_link_tp_link_3 = row[65]
 
-            primary_link_4 = row[69]
-            primary_link_name_4 = row[67]
-            primary_link_paid_free_4 = row[72]
-            primary_link_tp_rating_4 = row[77]
-            primary_link_tp_link_4 = row[78]
+            primary_link_4 = row[71]
+            primary_link_name_4 = row[69]
+            primary_link_paid_free_4 = row[74]
+            primary_link_tp_rating_4 = row[79]
+            primary_link_tp_link_4 = row[80]
 
             content_pages[internal_name] = page
 

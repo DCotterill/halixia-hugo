@@ -13,10 +13,9 @@ Going on an archaeology dig offers unique experiences, discovery of ancient arti
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](DigVentures) | Online | 
-| [**Quarterly **](Nathab) | Online | 
-| [**Yearly**](Craghoppers) | Online | 
-| [**Yearly**]() |  | 
+| [**DigVentures**](https://digventures.com/calendar/) | Paid | 
+| [**Nathab**](https://www.nathab.com/blog/ten-reasons-why-adventure-travel-is-good-for-you/) | Free  | 
+| [**Craghoppers**](https://www.craghoppers.com/) | Paid | 
   
 
 <br/><br/>

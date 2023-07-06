@@ -13,10 +13,9 @@ Protecting against identity theft involves adopting security measures like safeg
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://academicjournals.org/article/article1379511994_Norman.pdf**](Experian) | Online | 
-| [**Yearly**](Citizens advice) | Online | 
-| [**Yearly**](Due) | Online | 
-| [**Yearly**]() |  | 
+| [**Experian**](https://www.experian.co.uk/consumer/identity/what-to-do-if-victim.html) | Paid | 
+| [**Citizens advice**](https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/) | Free  | 
+| [**Due**](https://due.com/protect-your-financial-investments/) | Free | 
   
 
 <br/><br/>

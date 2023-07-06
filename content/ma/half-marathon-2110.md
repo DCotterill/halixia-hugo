@@ -13,10 +13,9 @@ Training for a half marathon involves structured running programs that gradually
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://hrcak.srce.hr/262526**](Runners world) | Online | 
-| [**Yearly**](Very well fit) | Online | 
-| [**Yearly**](Freetrain) | Online | 
-| [**Yearly**]() |  | 
+| [**Runners world**](https://www.runnersworld.com/uk/training/half-marathon/a25887045/beginner-half-marathon-training-schedule/) | Free | 
+| [**Very well fit**](https://www.verywellfit.com/reasons-to-run-a-half-marathon-2911077) | Free  | 
+| [**Freetrain**](https://freetrain.co.uk/) | Paid | 
   
 
 <br/><br/>

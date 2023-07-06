@@ -13,10 +13,10 @@ Supplementation is intended to bridge this nutritional gap, so that we maintain 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/encouraging-appropriate-evidencebased-use-of-oral-nutritional-supplements/4BC89D90403D3E5473066C3633D4B088**](Healthspan) | Online | 
-| [**Annual**](AZ big media) | Online | 
-| [**Quarterly**](Healthline) | Online | 
-| [**6 monthly**](City Survivor supplements) |  | 
+| [**Healthspan**](https://www.healthspan.co.uk/mens-health#t=Mens-Health-Products&numberOfResults=15) | Paid | 
+| [**AZ big media**](https://azbigmedia.com/lifestyle/12-benefits-of-supplements-why-theyre-important/) | Free | 
+| [**Healthline**](https://www.healthline.com/nutrition/best-multivitamins-for-men) | Free | 
+| [**City Survivor supplements**](https://citysurvivor.co.uk/) | Paid | 
   
 
 <br/><br/>

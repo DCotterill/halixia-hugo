@@ -13,10 +13,9 @@ A study has shown that attending religious services and having that support stru
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://link.springer.com/article/10.1007/s10943-013-9783-1, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189134**](Medical news today) | Online | 
-| [**Yearly**](Nature) | Online | 
-| [**Yearly**](Life coach code) | Online | 
-| [**Quarterly**]() |  | 
+| [**Medical news today**](https://www.medicalnewstoday.com/articles/320581) | Free | 
+| [**Nature**](https://www.nature.com/articles/news.2008.990) | Free | 
+| [**Life coach code**](https://www.lifecoachcode.com/2021/08/22/how-to-find-the-right-religion-for-you/) | Free | 
   
 
 <br/><br/>

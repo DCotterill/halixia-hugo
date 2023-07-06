@@ -13,10 +13,9 @@ Participating in fun runs offers opportunities for physical activity, encourages
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://hrcak.srce.hr/262526**](Find a race) | Online | 
-| [**Quarterly**](Party goat) | Online | 
-| [**Quarterly**](Pro:Direct Sport) | Online | 
-| [**Yearly**]() |  | 
+| [**Find a race**](https://findarace.com/fun-runs) | Free | 
+| [**Party goat**](https://partygoat.com/blogs/party-guide/what-are-the-benefits-of-a-fun-run) | Free  | 
+| [**Pro:Direct Sport**](https://www.prodirectsport.com/running/) | Paid | 
   
 
 <br/><br/>

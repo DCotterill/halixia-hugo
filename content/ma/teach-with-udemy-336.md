@@ -13,9 +13,10 @@ Teach what you know and help learners explore their interests, gain new skills, 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Quarterly**](FutureLearn) | Online | 
-| [**Quarterly**](UK Government) | Online/inperson | 
-| [**Annual**](Brooks & Kirk) | Online | 
+| [**Udemy**](https://www.udemy.com/teaching/?ref=teach_footer) | Free/Paid | 
+| [**FutureLearn**](https://www.futurelearn.com/microcredentials/online-teaching) | Paid | 
+| [**UK Government**](https://www.teach-in-further-education.campaign.gov.uk/) | Free | 
+| [**Brooks & Kirk**](https://brooksandkirk.co.uk/tips-to-be-a-better-adult-teacher/) | Paid | 
   
 
 <br/><br/>

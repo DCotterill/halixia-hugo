@@ -13,10 +13,9 @@ Hypnotherapy, or clinical hypnosis, is a treatment where you're guided into a de
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**http://www.ijnms.net/index.php/ijnms/article/view/8**](Hypnotherapy online) | Online | 
-| [**Quarterly**](Voice stories app) | Online | 
-| [**Quarterly**](Hypnotherapist) | Online | 
-| [**Quarterly**]() |  | 
+| [**Hypnotherapy online**](https://www.hypnotherapyonline.uk/) | Paid | 
+| [**Voice stories app**](https://voice-stories.app/) | Free | 
+| [**Hypnotherapist**](https://www.hypnotherapists.org.uk/hypnotherapy/benefits/) | Free | 
   
 
 <br/><br/>

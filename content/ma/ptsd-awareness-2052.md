@@ -13,10 +13,10 @@ It’s estimated that 50% of people will experience a trauma at some point in th
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](PTSD) | Online | 
-| [**Quarterly **](Mind) | Online | 
-| [**Yearly**](NHS) | Online | 
-| [**Yearly**](CPD online) | Online | 
+| [**PTSD**](https://www.ptsduk.org/) | Free  | 
+| [**Mind**](https://www.mind.org.uk/information-support/types-of-mental-health-problems/post-traumatic-stress-disorder-ptsd-and-complex-ptsd/about-ptsd/) | Free  | 
+| [**NHS**](https://www.nhs.uk/mental-health/conditions/post-traumatic-stress-disorder-ptsd/overview/) | Free | 
+| [**CPD online**](https://cpdonline.co.uk/course/ptsd-awareness/) | Paid | 
   
 
 <br/><br/>

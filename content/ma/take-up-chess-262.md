@@ -13,10 +13,10 @@ Chess has been shown to have many benefits from stress reduction to improving co
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://jbiochemtech.com/storage/files/article/b9e4560e-c073-458a-b7a0-25194647509a-XGLEVA7C9Bs6YcY0/j-biochem-tech-2021-123-47-52-966.pdf, https://efsupit.ro/images/stories/september2018/Art%20217.pdf**](Mindful chess) | online | 
-| [**Quarterly**](Chess.com) | Online | 
-| [**6 Monthly**](Udemy) | Online | 
-| [**Quarterly**](The Chess Journal) | Online | 
+| [**Mindful chess**](https://www.mindfulchess.org/) | Paid | 
+| [**Chess.com**](https://www.chess.com/learn) | Free/Paid | 
+| [**Udemy**](https://www.udemy.com/topic/chess/) | Paid | 
+| [**The Chess Journal**](https://www.chessjournal.com/chess-facts/) | Free | 
   
 
 <br/><br/>

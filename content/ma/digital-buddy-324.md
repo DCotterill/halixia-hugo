@@ -13,10 +13,9 @@ In an increasingly digital world it's great when everyone benefits from technolo
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**N/A**](Age UK) | Inperson | 
-| [**Annual**](Volunteering matters) | Online | 
-| [**6 monthly**](U3A) | Online/Inperson | 
-| [**6 monthly**]() |  | 
+| [**Age UK**](https://www.ageuk.org.uk/get-involved/volunteer/become-an-age-uk-digital-buddy/) | Free | 
+| [**Volunteering matters**](https://volunteeringmatters.org.uk/pillars/older-people/) | Free | 
+| [**U3A**](https://www.u3a.org.uk/index.php) | Free | 
   
 
 <br/><br/>

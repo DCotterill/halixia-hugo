@@ -13,10 +13,10 @@ Strong, supportive relationships not only give us pleasure, but also influence o
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.cambridge.org/core/journals/ageing-and-society/article/abs/health-and-relationship-dynamics-of-latelife-couples-a-systematic-review-of-the-literature/C0EA01D96D544A95B75374D3BE882E19**](Lasting) | Online | 
-| [**Quarterly**](5 love languages) | Online | 
-| [**Quarterly**](Between) | Online | 
-| [**Quarterly**](12 Magical Dates) |  | 
+| [**Lasting**](https://www.getlasting.com/) | Paid | 
+| [**5 love languages**](https://5lovelanguages.com/resources/app/) | Free/Paid | 
+| [**Between**](https://between.us/) | Paid | 
+| [**12 Magical Dates**](https://www.12magicaldates.com/reignite-marriage-relationship?r_done=1) | Paid | 
   
 
 <br/><br/>

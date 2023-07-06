@@ -13,9 +13,10 @@ Your news, your stories, your later life. Discover the latest news and views on 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Annual**](Centre for Ageing Better) | Online | 
-| [**Annual**](World Health Organisation) | Online | 
-| [**Annual**](Feedspot) | Online | 
+| [**Age UK**](https://www.ageuk.org.uk/discover/) | Free | 
+| [**Centre for Ageing Better**](https://ageing-better.org.uk/) | Free | 
+| [**World Health Organisation**](https://www.who.int/news-room/fact-sheets/detail/ageing-and-health) | Free | 
+| [**Feedspot**](https://blog.feedspot.com/aging_magazines/) | Free/Paid | 
   
 
 <br/><br/>

@@ -13,10 +13,10 @@ Volunteer puppy raisers receive a pup when they are approximately 8 weeks old an
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://books.google.co.uk/books?hl=en&lr=&id=LzrLBAAAQBAJ&oi=fnd&pg=PA19&dq=benefits+of+pets+on+elderly&ots=a5gPjj1eeX&sig=2ocgF3mxfZavt295fZpgw64C8Dk&redir_esc=y#v=onepage&q=benefits%20of%20pets%20on%20elderly&f=false, https://www.tandfonline.com/doi/abs/10.1300/J052v15n03_02**](Guide dogs) | Online | 
-| [**Quarterly**](Country living) | Online | 
-| [**Yearly**](BBC) | Online | 
-| [**Yearly**](The Guide Dogs for the Blind Association) |  | 
+| [**Guide dogs**](https://www.guidedogs.org.uk/how-you-can-help/volunteering-for-guide-dogs/volunteer-role-descriptions/puppy-raiser/) | Free | 
+| [**Country living**](https://www.countryliving.com/uk/wildlife/pets/a42529255/raise-puppy-guide-dogs-uk/) | Free | 
+| [**BBC**](https://www.bbc.co.uk/news/av/uk-64148085) | Free | 
+| [**The Guide Dogs for the Blind Association**](https://www.guidedogs.org.uk/) | Paid | 
   
 
 <br/><br/>

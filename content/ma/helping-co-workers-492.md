@@ -13,10 +13,9 @@ Helping and supporting others, such as your co-workers, doesn’t just make thin
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://journals.sagepub.com/doi/10.1111/1467-9280.14461**](Indeed) | Online | 
-| [**Annual**](The muse) | Online | 
-| [**Annual**](Indeed) | Online | 
-| [**Annual**]() |  | 
+| [**Indeed**](https://www.indeed.com/career-advice/career-development/helping-and-supporting-others-at-work) | Free | 
+| [**The muse**](https://www.themuse.com/advice/how-to-support-a-coworker-through-a-personal-crisis-without-crossing-the-line) | Free | 
+| [**Indeed**](https://uk.indeed.com/career-advice/career-development/supportive-colleagues) | Free | 
   
 
 <br/><br/>

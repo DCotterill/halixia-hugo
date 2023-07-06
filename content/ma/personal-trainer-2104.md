@@ -13,10 +13,10 @@ As a personal trainer, you design customised exercise plans, provide guidance on
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](Pure gym) | Online | 
-| [**Yearly**](Healthline) | Online | 
-| [**Yearly**](Ori gym) | Online | 
-| [**Yearly**](New Skill Academy) |  | 
+| [**Pure gym**](https://www.puregym.com/landing/becoming-a-personal-trainer/) | Paid | 
+| [**Healthline**](https://www.healthline.com/health/fitness/benefits-of-personal-training) | Free  | 
+| [**Ori gym**](https://origympersonaltrainercourses.co.uk/blog/should-i-become-a-personal-trainer) | Free  | 
+| [**New Skill Academy**](https://newskillsacademy.co.uk/) | Paid | 
   
 
 <br/><br/>

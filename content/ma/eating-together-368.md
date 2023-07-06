@@ -13,10 +13,10 @@ By eating meals together we practice gratitude. While sharing and enjoying a tas
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://link.springer.com/referenceworkentry/10.1007/978-3-030-14504-0_27**](The Family Dinner Project) | Online | 
-| [**Quarterly**](Jamie Oliver) | Online | 
-| [**Annual**](Living better 50) | Online | 
-| [**Quarterly**](Taste of home) | Online | 
+| [**The Family Dinner Project**](https://thefamilydinnerproject.org/blog/family-blog/how-grandparents-can-help-with-family-dinner/) | Free | 
+| [**Jamie Oliver**](https://www.jamieoliver.com/family/) | Free | 
+| [**Living better 50**](https://www.livingbetter50.com/easy-meals-grandkids-will-love/) | Free | 
+| [**Taste of home**](https://www.tasteofhome.com/collection/grandkid-approved-recipes/) | Free | 
   
 
 <br/><br/>

@@ -13,10 +13,9 @@ It is estimated that Tourette Syndrome (TS) affects one school child in every hu
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](Tourettes Action) | Online | 
-| [**Quarterly**](Child Mind Institute) | Online | 
-| [**Yearly**](Tourettes Action) | Online | 
-| [**Quarterly**]() |  | 
+| [**Tourettes Action**](https://www.tourettes-action.org.uk/learningplatform/#/) | Free | 
+| [**Child Mind Institute**](https://childmind.org/article/learn-about-tourettes-syndrome/) | Free | 
+| [**Tourettes Action**](https://www.tourettes-action.org.uk/67-what-is-ts.htm) | Free | 
   
 
 <br/><br/>

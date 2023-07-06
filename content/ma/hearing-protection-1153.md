@@ -13,10 +13,9 @@ Protecting your hearing is crucial for preserving your overall well-being. It he
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6796676/**](Specsavers) | Online | 
-| [**Yearly**](Healthy Hearing) | Online | 
-| [**Yearly**](CDC) | Online | 
-| [**Yearly**]() |  | 
+| [**Specsavers**](https://www.specsavers.co.uk/hearing/hearing-protection) | Free | 
+| [**Healthy Hearing**](https://www.healthyhearing.com/help/hearing-loss/prevention) | Free | 
+| [**CDC**](https://www.cdc.gov/nceh/hearing_loss/infographic/) | Free | 
   
 
 <br/><br/>

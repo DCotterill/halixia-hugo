@@ -13,9 +13,10 @@ Museums and galleries provide an insight into the history of humankind. And whil
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**6 monthly**](Art Fund) | Online | 
-| [**Annual**](Museum Next) | Online | 
-| [**Annual**](Musement) | Online | 
+| [**Museums.co.uk**](https://www.museums.co.uk/) | Free | 
+| [**Art Fund**](https://www.artfund.org/national-art-pass) | Paid | 
+| [**Museum Next**](https://www.museumnext.com/article/why-we-need-museums-now-more-than-ever/) | Free | 
+| [**Musement**](https://www.musement.com/uk/) | Paid | 
   
 
 <br/><br/>

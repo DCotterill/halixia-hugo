@@ -13,9 +13,10 @@ Private healthcare in the UK offers benefits such as shorter wait times, access 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Yearly**](HJE) | Online | 
-| [**Quarterly**](Charlton House) | Online | 
-| [**Quarterly**](AXA healthcare) |  | 
+| [**Benenden**](https://www.benenden.co.uk/) | Free | 
+| [**HJE**](https://hje.org.uk/the-many-benefits-of-private-healthcare/) | Free | 
+| [**Charlton House**](https://charltonhousewealthmanagement.co.uk/7-important-reasons-why-you-need-private-medical-insurance/) | Free | 
+| [**AXA healthcare**](https://www.axappphealthcare.co.uk/affiliate-business-quote/) | Paid | 
   
 
 <br/><br/>

@@ -13,10 +13,10 @@ Research has shown that consistently using a fitness tracker, can help motivate 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://link.springer.com/article/10.2165/00007256-199723050-00004**](Map my walk) | Online | 
-| [**Annual**](NHS) | Online | 
-| [**Annual**](Strava) | Online | 
-| [**Annual**](Pro:Direct Sport) |  | 
+| [**Map my walk**](https://www.mapmywalk.com/) | Free/Paid | 
+| [**NHS**](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/) | Free | 
+| [**Strava**](https://www.strava.com/) | Free/Paid | 
+| [**Pro:Direct Sport**](https://www.prodirectsport.com/running/) | Paid | 
   
 
 <br/><br/>

@@ -13,9 +13,10 @@ Online learning can be a modern and innovative way to keep learning, but we migh
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Quarterly**](Future Learn) | Online | 
-| [**Annual**](Centre of Excellence) | online | 
-| [**Annual**](Upskillwise) | Online | 
+| [**OpenLearn**](https://www.open.edu/openlearn/) | Free | 
+| [**Future Learn**](https://www.futurelearn.com/) | Paid | 
+| [**Centre of Excellence**](https://www.centreofexcellence.com) | Paid | 
+| [**Upskillwise**](https://upskillwise.com/online-learning-platforms/) | Free | 
   
 
 <br/><br/>

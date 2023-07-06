@@ -13,10 +13,9 @@ Being able to learn to listen and understand your body is an essential part of l
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.tandfonline.com/doi/full/10.1080/21679169.2020.1845792**](Medium) | Online | 
-| [**6 monthly**](Web md) | Online | 
-| [**Yearly**](Amelia Freer) | Online | 
-| [**Quarterly**]() |  | 
+| [**Medium**](https://medium.com/live-your-life-on-purpose/learn-to-listen-to-your-body-3-useful-techniques-f135699d280f) | Free | 
+| [**Web md**](https://www.webmd.com/a-to-z-guides/ss/slideshow-listen-to-body) | Free | 
+| [**Amelia Freer**](https://ameliafreer.com/article/the-importance-of-listening-to-your-body/) | Free | 
   
 
 <br/><br/>

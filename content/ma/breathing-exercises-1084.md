@@ -13,10 +13,9 @@ Breathing exercises not only improve your respiratory health, but they can also 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.scielo.br/j/clin/a/ZRYgFMXwkPD6WRhJtLzqB3c/abstract/?lang=en, https://europepmc.org/article/med/3292262**](Regina Lawrence) | Online | 
-| [**Quarterly**](Elderly gym) | Online | 
-| [**Quarterly**](Harvard) | Online | 
-| [**Quarterly**]() |  | 
+| [**Regina Lawrence**](https://reginalawrence.com/2022/09/05/the-health-benefits-of-breathing-exercises-for-seniors/) | Free | 
+| [**Elderly gym**](https://eldergym.com/elderly-breathing/) | Free | 
+| [**Harvard**](https://www.health.harvard.edu/staying-healthy/breathing-your-way-to-better-health) | Free | 
   
 
 <br/><br/>

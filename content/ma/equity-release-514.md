@@ -13,9 +13,9 @@ Equity release is a way to release cash from your home without having to move. F
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Quarterly**](Sunlife) | Online | 
-| [**Yearly**](Age UK) | Online | 
-| [**Yearly**]() |  | 
+| [**Independent Age**](https://www.independentage.org/get-advice/your-home-and-housing/equity-release) | Free | 
+| [**Sunlife**](https://www.sunlife.co.uk/equity-release/sunrise/?utm_source=bing//) | Free | 
+| [**Age UK**](https://www.ageuk.org.uk/information-advice/money-legal/income-tax/equity-release/) | Free | 
   
 
 <br/><br/>

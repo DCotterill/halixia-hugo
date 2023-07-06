@@ -13,9 +13,10 @@ In 2021/22 a record total of £6.05bn was paid over to HMRC in inheritance tax. 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Annual**](Growth Capital Ventures) | Online | 
-| [**Quarterly**](Wealth Club) | Online | 
-| [**Annual**](UK Government) | Online | 
+| [**Hargreaves Lansdown**](https://www.hl.co.uk/free-guides/saving-inheritance-tax) | Free/Paid | 
+| [**Growth Capital Ventures**](https://www.growthcapitalventures.co.uk/insights/blog/how-to-minimise-inheritance-tax-using-tax-efficient-investments) | Free/Paid | 
+| [**Wealth Club**](https://www.wealthclub.co.uk/inheritance-tax-portfolios/) | Free/Paid | 
+| [**UK Government**](https://www.gov.uk/inheritance-tax) | Free | 
   
 
 <br/><br/>

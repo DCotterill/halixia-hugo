@@ -13,9 +13,8 @@ The combined pressures of global heating and farming are driving a "substantial 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://books.google.co.uk/books?hl=en&lr=&id=aUXdrs5_kCoC&oi=fnd&pg=PP2&dq=Importance+of+family+time&ots=8_uOQ1WtE1&sig=Pus9EECmAH7pHygYDEw9MjKubjo&redir_esc=y#v=onepage&q=Importance%20of%20family%20time&f=false**](Day out with kids) | Online | 
-| [**Yearly**](Planteria group) | Online | 
-| [**Quarterly**]() |  | 
+| [**Day out with kids**](https://www.dayoutwiththekids.co.uk/hub/things-to-do/butterfly-houses-near-me) | Free | 
+| [**Planteria group**](https://www.planteriagroup.com/blog/celebrating-butterfly-awareness-day/) | Free | 
   
 
 <br/><br/>

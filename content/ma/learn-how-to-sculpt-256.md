@@ -13,10 +13,10 @@ So, get creative and use sculpture as a way to take your mind off the world's pr
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.sciencedirect.com/science/article/abs/pii/S0021915021013186**](LearnSculpture) | online | 
-| [**Quarterly**](Tutorials Press) | Online | 
-| [**Quarterly**](Udemy) | Online | 
-| [**Quarterly**](Skillshare) | Online | 
+| [**LearnSculpture**](https://learnsculpture.org/) | Free | 
+| [**Tutorials Press**](https://tutorialspress.com/useful-sculpting-tutorials/) | Free | 
+| [**Udemy**](https://www.udemy.com/course/easily-learn-sculpture-and-modeling-in-clay/) | Paid | 
+| [**Skillshare**](https://www.skillshare.com/en/browse/sculpture) | Paid | 
   
 
 <br/><br/>

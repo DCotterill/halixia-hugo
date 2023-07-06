@@ -13,10 +13,10 @@ HIIT involves short bursts of intense exercise alternated with periods of recove
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://search.informit.org/doi/abs/10.3316/informit.998344208782447**](Muscles and fitness) | Online | 
-| [**Yearly**](Healthline) | Online | 
-| [**Yearly**](Medical news today) | Online | 
-| [**Yearly**](MP) | Online | 
+| [**Muscles and fitness**](https://www.muscleandfitness.com/workouts/workout-routines/hiit-6-week-full-body-workout/) | Free | 
+| [**Healthline**](https://www.healthline.com/nutrition/benefits-of-hiit) | Free  | 
+| [**Medical news today**](https://www.medicalnewstoday.com/articles/327474) | Free  | 
+| [**MP**](https://www.mp.com) | Paid | 
   
 
 <br/><br/>

@@ -13,10 +13,10 @@ Marine life is of utmost importance as it plays a vital role in maintaining the 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.sciencedirect.com/science/article/abs/pii/S0025326X14008571**](Wildlife Trust) | Online | 
-| [**Yearly**](Genv) | Online | 
-| [**Quarterly **](National Geographic) | Online | 
-| [**Quarterly **](Wave case) |  | 
+| [**Wildlife Trust**](https://www.wildlifetrusts.org/habitats/marine) | Free | 
+| [**Genv**](https://genv.org/marine-life/) | Free  | 
+| [**National Geographic**](https://education.nationalgeographic.org/resource/why-ocean-matters/) | Free  | 
+| [**Wave case**](https://www.wavecase.co.uk/) | Paid | 
   
 
 <br/><br/>

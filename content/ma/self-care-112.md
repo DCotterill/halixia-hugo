@@ -13,10 +13,10 @@ Start engaging in self-care, to help you to relieve the pressures of everyday li
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://pubmed.ncbi.nlm.nih.gov/1565600/**](The couples centre) | Online | 
-| [**Six monthly**](Simple lion heart life) | Online | 
-| [**Quarterly**](Me Time Therapy) | Online | 
-| [**Quarterly**](Find a Subscription Box) | Online | 
+| [**The couples centre**](https://www.thecouplescenter.org/why-self-care-is-so-important-for-longevity-and-wellness/) | Free | 
+| [**Simple lion heart life**](https://simplelionheartlife.com/how-to-slow-down/) | Free | 
+| [**Me Time Therapy**](https://www.me-time-therapy.co.uk/me-time-activities-to-try/) | Free | 
+| [**Find a Subscription Box**](https://www.findasubscriptionbox.co.uk/) | Paid | 
   
 
 <br/><br/>

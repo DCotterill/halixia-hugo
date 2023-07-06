@@ -13,10 +13,10 @@ By eating meals together we practice gratitude. While sharing and enjoying a tas
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://link.springer.com/referenceworkentry/10.1007/978-3-030-14504-0_27**](Open Table) | Online | 
-| [**Annual**](Families online) | Online | 
-| [**Annual**](Stanctos) | Online | 
-| [**Quarterly**](Tabl) |  | 
+| [**Open Table**](https://www.opentable.co.uk/about/?lang=en) | Paid | 
+| [**Families online**](https://www.familiesonline.co.uk/local-eating-out) | Free | 
+| [**Stanctos**](https://www.stancatos.com/family-bonding-and-eating-out/) | Free | 
+| [**Tabl**](https://tabl.com/) | Paid | 
   
 
 <br/><br/>

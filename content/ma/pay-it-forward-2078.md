@@ -13,10 +13,9 @@ Paying it forward involves doing kind deeds for others without expecting anythin
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://onlinelibrary.wiley.com/doi/abs/10.1111/medu.12782**](Planet of success) | Online | 
-| [**Quarterly**](Be inspired) | Online | 
-| [**Quarterly**](Greater good magazine) | Online | 
-| [**Yearly**]() |  | 
+| [**Planet of success**](http://www.planetofsuccess.com/blog/2016/ideas-to-pay-it-forward/) | Free | 
+| [**Be inspired**](https://beinspired.global/paying-it-forward-its-benefits-and-importance/) | Free  | 
+| [**Greater good magazine**](https://greatergood.berkeley.edu/article/item/pay_it_forward) | Free  | 
   
 
 <br/><br/>

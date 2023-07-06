@@ -13,10 +13,9 @@ Sushi offers numerous health benefits. It's a good source of lean protein, omega
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.signos.com/blog/is-sushi-good-for-you**](Natural Food Series) | Online | 
-| [**Quarterly **](Open table) | Online | 
-| [**Yearly**](Gourmet society) | Online | 
-| [**Yearly**]() |  | 
+| [**Natural Food Series**](https://www.naturalfoodseries.com/11-benefits-sushi/) | Free  | 
+| [**Open table**](https://www.opentable.co.uk/) | Free  | 
+| [**Gourmet society**](https://www.gourmetsociety.co.uk/) | Paid | 
   
 
 <br/><br/>

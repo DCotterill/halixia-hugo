@@ -13,10 +13,10 @@ UK Government advice is that everyone should take a vitamin D supplement during 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.nature.com/articles/s41574-021-00593-z**](NHS) | Online | 
-| [**Annual**](Eating well) | Online | 
-| [**Annual**](Healtline) | Online | 
-| [**Annual**](Holland and Barrett) | Online | 
+| [**NHS**](https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/) |  | 
+| [**Eating well**](https://www.eatingwell.com/gallery/12814/recipes-to-get-more-vitamin-d/) | Free | 
+| [**Healtline**](https://www.healthline.com/health/nutrition/vitamin-d-foods) | Free | 
+| [**Holland and Barrett**](https://www.hollandandbarrett.com/the-health-hub/vitamins-and-supplements/vitamins/vitamin-d/best-vitamin-d-supplements/) | Free | 
   
 
 <br/><br/>

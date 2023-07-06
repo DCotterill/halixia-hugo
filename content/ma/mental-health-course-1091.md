@@ -13,10 +13,10 @@ Our mental health directly influences how we think, feel and act, it also affect
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://link.springer.com/article/10.1186/s12888-017-1356-5**](Mental health courses) | Online | 
-| [**Quarterly**](Learn direct) | Online | 
-| [**Yearly**](Red cross) | Online | 
-| [**Yearly**](Lovendu) |  | 
+| [**Mental health courses**](https://mentalhealthcourses.org.uk/) | Free | 
+| [**Learn direct**](https://www.learndirect.com/blog/the-importance-of-understanding-mental-health) | Free | 
+| [**Red cross**](https://blog.redcrossfirstaidtraining.co.uk/7-advantages-of-mental-health-training-that-will-help-deliver-value) | Free | 
+| [**Lovendu**](https://lovendu.co.uk/) | Paid | 
   
 
 <br/><br/>

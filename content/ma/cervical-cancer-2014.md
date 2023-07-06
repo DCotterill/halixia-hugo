@@ -13,10 +13,9 @@ Cervical screening is crucial as it can detect abnormal cell changes in the cerv
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://bjgp.org/content/48/433/1509.short**](NHS) | Online | 
-| [**Yearly**](NHS) | Online | 
-| [**Yearly**](Cancer research) | Online | 
-| [**Yearly**]() |  | 
+| [**NHS**](https://www.nhs.uk/conditions/cervical-screening/how-to-book/) | Free | 
+| [**NHS**](https://www.nhs.uk/conditions/cervical-screening/why-its-important/) | Free  | 
+| [**Cancer research**](https://www.cancerresearchuk.org/about-cancer/cervical-cancer/getting-diagnosed/screening/about) | Free  | 
   
 
 <br/><br/>

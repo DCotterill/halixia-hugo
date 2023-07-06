@@ -13,10 +13,10 @@ Online learning can be a be modern and innovative way to keep learning and help 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.tandfonline.com/doi/abs/10.1300/J016v28n04_01**](1 training) | Online | 
-| [**Annual**](Futurelearn) | Online | 
-| [**Quarterly**](OpenLearn) | online | 
-| [**Annual**](Skills you need) | Online | 
+| [**1 training**](https://www.1training.org/) | Paid | 
+| [**Futurelearn**](https://www.futurelearn.com/microcredentials) | Paid | 
+| [**OpenLearn**](https://www.open.edu/openlearn/) | Free | 
+| [**Skills you need**](https://www.skillsyouneed.com/learning-skills.html) | Free | 
   
 
 <br/><br/>

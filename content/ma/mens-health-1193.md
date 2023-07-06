@@ -13,10 +13,10 @@ Heightening awareness of preventable male health problems is crucial as it promo
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.sciencedirect.com/science/article/abs/pii/S0191886902003264**](Men's Health Forum) | Online | 
-| [**Quarterly**](Healthline) | Online | 
-| [**Yearly**](Us Men) | Online | 
-| [**Yearly**](Usmen) |  | 
+| [**Men's Health Forum**](https://www.menshealthforum.org.uk/) | Free | 
+| [**Healthline**](https://www.healthline.com/health/top-10-health-risks-for-men#whats-next) | Free | 
+| [**Us Men**](https://www.awin1.com/cread.php?awinmid=44125&awinaffid=1198638&ued=https%3A%2F%2Fusmen.co.uk%2F) | Paid | 
+| [**Usmen**](https://usmen.co.uk/) | Paid | 
   
 
 <br/><br/>

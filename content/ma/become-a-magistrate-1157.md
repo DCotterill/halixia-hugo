@@ -13,10 +13,9 @@ Volunteering as a magistrate can be a meaningful contribution to your community.
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](UK Government) | Online | 
-| [**Yearly**](Magistrates) | Online | 
-| [**Quarterly**](Magistrates) | Online | 
-| [**Quarterly**]() |  | 
+| [**UK Government**](https://www.gov.uk/become-magistrate) | Free | 
+| [**Magistrates**](https://magistrates.judiciary.uk/) | Free | 
+| [**Magistrates**](https://magistrates.judiciary.uk/how-to-volunteer/) | Free | 
   
 
 <br/><br/>

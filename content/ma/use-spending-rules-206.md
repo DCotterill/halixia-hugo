@@ -13,9 +13,10 @@ This simple budgeting method requires less tracking than many others as it only 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Annual**](Moneyfit) | Online | 
-| [**6 monthly**](Cabot Financial) | Online | 
-| [**Annual**](Indeed) | Online | 
+| [**HSBC**](https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/spending-your-income/) | Free/Paid | 
+| [**Moneyfit**](https://www.moneyfit.org/50-30-20-budget-calculator/) | Free | 
+| [**Cabot Financial**](https://www.cabotfinancial.co.uk/money-management/money-management/what-are-the-benefits-of-budgeting) | Free/Paid | 
+| [**Indeed**](https://www.indeed.com/career-advice/career-development/budget-strategy) | Free | 
   
 
 <br/><br/>

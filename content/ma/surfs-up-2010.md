@@ -13,10 +13,10 @@ Learning to surf for health offers benefits like full-body workout, improved car
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://brajets.com/v3/index.php/brajets/article/view/440**](Beach Break Surf Camp) | Online | 
-| [**Quarterly **](Swell surf camp) | Online | 
-| [**Quarterly **](Surf England) | Online | 
-| [**Quarterly **](Decathlon) | Online | 
+| [**Beach Break Surf Camp**](https://www.beachbreaksurfcamp.com/blog/silver-surfers-a-guide-to-surfing-for-older-adults) | Free  | 
+| [**Swell surf camp**](https://swellsurfcamp.com/learning-to-surf-after-40/) | Free  | 
+| [**Surf England**](https://www.surfingengland.org/english-surf-schools/) | Free  | 
+| [**Decathlon**](https://www.decathlon.co.uk/browse/c0-sports/c1-surf/_/N-13xg3st) | Paid | 
   
 
 <br/><br/>

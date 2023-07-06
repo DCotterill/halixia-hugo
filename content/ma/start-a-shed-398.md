@@ -13,10 +13,9 @@ We are social beings, and interacting with people is in our nature. Helping othe
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.annfammed.org/content/13/Suppl_1/S2.short**](Men in Sheds) | Online | 
-| [**Quarterly**](Mens group) | Online | 
-| [**Quarterly**](Man health) | Online | 
-| [**Quarterly**]() |  | 
+| [**Men in Sheds**](menssheds.org.uk) | Free | 
+| [**Mens group**](https://mensgroup.com/peer-support-group) | Free | 
+| [**Man health**](https://www.manhealth.org.uk/peer-support-groups/) | Free | 
   
 
 <br/><br/>

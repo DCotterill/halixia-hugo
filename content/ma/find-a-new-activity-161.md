@@ -13,10 +13,10 @@ It's the perfect time to get active. No matter how much you do, physical activit
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.tandfonline.com/doi/abs/10.1080/17439760.2017.1374436**](This Girl Can) | Online | 
-| [**Quarterly**](Active) | Online | 
-| [**Annual**](The Studio by Jamie Kinkeade) | Online | 
-| [**6 monthly**](Rubymoon) |  | 
+| [**This Girl Can**](https://www.thisgirlcan.co.uk/) | Free | 
+| [**Active**](https://www.active.com/fitness/articles/5-fun-activities-to-help-you-get-fit) | Free | 
+| [**The Studio by Jamie Kinkeade**](https://www.youtube.com/watch?v=yN3GgCUmmXw) | Free | 
+| [**Rubymoon**](https://rubymoon.org.uk/) | Paid | 
   
 
 <br/><br/>

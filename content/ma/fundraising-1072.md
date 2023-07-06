@@ -13,9 +13,10 @@ Fundraising to support charities is of great value. Helping charities to continu
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Yearly**](Gov) | Online | 
-| [**Yearly**](Eden project) | Online | 
-| [**Quarterly**](Fundraising regulator) | Online | 
+| [**Easy fundraising**](https://www.easyfundraising.org.uk/fundraising-ideas/) | Free | 
+| [**Gov**](https://www.gov.uk/guidance/fundraising-legally-and-responsibly) | Free | 
+| [**Eden project**](https://www.edenprojectcommunities.com/ideas/seven-ways-to-fundraise-for-your-community) | Free | 
+| [**Fundraising regulator**](https://www.fundraisingregulator.org.uk/guidance/topics/community-fundraising-and-events) | Free | 
   
 
 <br/><br/>

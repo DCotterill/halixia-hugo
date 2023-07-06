@@ -13,9 +13,10 @@ Many job seekers can’t capture their transferable skills adequately, communica
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Quarterly**](Indeed) | Online | 
-| [**6 monthly**](Career Foundry) | Online | 
-| [**6 monthly**](Centre of excellence) | Online | 
+| [**Coursera**](https://www.coursera.org/articles/transferable-skills) | Paid | 
+| [**Indeed**](https://www.indeed.com/career-advice/resumes-cover-letters/transferable-skills) | Free | 
+| [**Career Foundry**](https://www.youtube.com/watch?v=g3jX_QsGiiI) | Free | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
   
 
 <br/><br/>

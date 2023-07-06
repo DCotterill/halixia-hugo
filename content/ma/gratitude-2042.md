@@ -13,10 +13,9 @@ Practicing gratitude can help improve your mental well-being by reducing stress,
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://psycnet.apa.org/record/2010-04367-005**](PositivePsychology.com) | Online | 
-| [**Yearly**](Positive psychology) | Online | 
-| [**Yearly**](Lovendu) | Online | 
-| [**Yearly**]() |  | 
+| [**PositivePsychology.com**](https://positivepsychology.com/gratitude-appreciation/) | Free | 
+| [**Positive psychology**](https://positivepsychology.com/gratitude-exercises/) | Free  | 
+| [**Lovendu**](https://lovendu.co.uk/) | Paid | 
   
 
 <br/><br/>

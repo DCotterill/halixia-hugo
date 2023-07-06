@@ -13,10 +13,10 @@ Start improving your life by adding these small healthy ageing habits to improve
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://journals.sagepub.com/doi/abs/10.1177/1559827618785554**](Everyday health) | Online | 
-| [**Six monthly**](Vagaro) | Online | 
-| [**Quarterly**](Family wall) | Online | 
-| [**Quarterly**](Dermatica) |  | 
+| [**Everyday health**](https://www.everydayhealth.com/longevity/everyday-health-and-wellness-habits-linked-with-a-longer-life/) | Free | 
+| [**Vagaro**](https://sales.vagaro.co.uk/?utm_source=bing&utm_medium=cpc&utm_campaign=BOFU-UK-Non-Brand&utm_content=appointment-app&utm_term=appointment%20app-p&msclkid=ea92d7dd203513f07c12b427b7e05941) | Paid | 
+| [**Family wall**](https://www.familywall.com/) | Free | 
+| [**Dermatica**](https://www.dermatica.co.uk/treatments/anti-ageing) | Paid | 
   
 
 <br/><br/>

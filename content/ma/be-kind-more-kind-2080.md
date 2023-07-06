@@ -13,10 +13,9 @@ Engaging in random acts of kindness, such as offering a helping hand or sharing 
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://onlinelibrary.wiley.com/doi/abs/10.1111/medu.12782**](Mental health ) | Online | 
-| [**Yearly**](Positive psychology) | Online | 
-| [**Yearly**](Psychology today) | Online | 
-| [**Yearly**]() |  | 
+| [**Mental health **](https://www.mentalhealth.org.uk/explore-mental-health/kindness-and-mental-health/random-acts-kindness) | Free | 
+| [**Positive psychology**](https://positivepsychology.com/random-acts-kindness/) | Free  | 
+| [**Psychology today**](https://www.psychologytoday.com/us/blog/emotional-nourishment/201711/why-random-acts-kindness-matter-your-well-being) | Free | 
   
 
 <br/><br/>

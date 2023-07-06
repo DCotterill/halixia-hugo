@@ -13,9 +13,10 @@ Sharing your life skills and knowledge with others offers the opportunity to cha
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Yearly**](Gov loop) | Online | 
-| [**Quarterly**](Easy generator) | Online | 
-| [**Quarterly**](My tutor) |  | 
+| [**Forbes**](https://www.forbes.com/sites/work-in-progress/2013/07/25/5-ways-to-share-your-professional-expertise-and-4-reasons-you-should/?sh=1f4d3f4e1cfa) | Free | 
+| [**Gov loop**](https://www.govloop.com/community/blog/pass-9-ways-share-knowledge/) | Free | 
+| [**Easy generator**](https://www.easygenerator.com/en/blog/knowledge-sharing/how-to-share-knowledge-effectively/) | Free | 
+| [**My tutor**](https://www.mytutor.co.uk/tutors/apply/) | Paid | 
   
 
 <br/><br/>

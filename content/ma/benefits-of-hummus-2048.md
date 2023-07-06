@@ -13,10 +13,10 @@ Hummus offers several health benefits. It is rich in plant-based protein, fibre,
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.mdpi.com/2072-6643/8/12/766**](Health) | Online | 
-| [**Yearly**](Healthline) | Online | 
-| [**Yearly**](BBC) | Online | 
-| [**Yearly**](Tasty Mediterranean) | Online | 
+| [**Health**](https://www.health.com/nutrition/is-hummus-healthy) | Free  | 
+| [**Healthline**](https://www.healthline.com/nutrition/is-hummus-healthy) | Free  | 
+| [**BBC**](https://www.bbc.co.uk/food/hummus) | Free  | 
+| [**Tasty Mediterranean**](https://tastymediterranean.com/2022/06/08/all-about-hummus-history-origin-and-servings/) | Free  | 
   
 
 <br/><br/>

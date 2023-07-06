@@ -13,10 +13,9 @@ Some companies will pay customers to leave candid feedback about their products,
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**N/A**](Slice the pie) | Online | 
-| [**Yearly**](Well kept wallet) | Online | 
-| [**Quarterly**](MoneySavingExpert.com) | Online | 
-| [**Yearly**]() |  | 
+| [**Slice the pie**](https://www.slicethepie.com/) | Free | 
+| [**Well kept wallet**](https://wellkeptwallet.com/get-paid-to-write-reviews/) | Free | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/family/product-testing-sites/) | Free | 
   
 
 <br/><br/>

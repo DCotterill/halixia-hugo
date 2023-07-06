@@ -13,10 +13,10 @@ Lifelong learning can provide health benefits such as improving cognitive functi
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](Future Learn) | Online | 
-| [**Yearly**](Learnerbly) | Online | 
-| [**Quarterly**](Virtual College) | Online | 
-| [**Yearly**](Centre of excellence) | Online | 
+| [**Future Learn**](https://www.futurelearn.com/) | Paid | 
+| [**Learnerbly**](https://www.learnerbly.com/articles/continuous-learning-what-it-is-why-its-important-and-how-to-support-it) | Free | 
+| [**Virtual College**](https://www.virtual-college.co.uk/) | Paid | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
   
 
 <br/><br/>

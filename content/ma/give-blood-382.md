@@ -13,10 +13,9 @@ Giving blood saves lives. The blood you give is a lifeline in an emergency as we
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0958-7578.2004.00473.x**](NHS Blood & Transplant) | Online | 
-| [**Annual**](Healthline) | Online | 
-| [**6 monthly**](NHS) | Online | 
-| [**Annual**]() |  | 
+| [**NHS Blood & Transplant**](https://www.blood.co.uk/who-can-give-blood/can-i-give-blood/) | Free | 
+| [**Healthline**](https://www.healthline.com/health/benefits-of-donating-blood) | Free | 
+| [**NHS**](https://www.nhsbt.nhs.uk/what-we-do/blood-services/blood-donation/) | Free | 
   
 
 <br/><br/>

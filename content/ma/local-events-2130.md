@@ -13,10 +13,10 @@ Attending local events or festivals fosters community connection, promotes local
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.researchgate.net/profile/Muzaffer-Uysal-3/publication/284657765_An_examination_of_event_motivations_A_case_study/links/5b917b494585153a53fff790/An-examination-of-event-motivations-A-case-study.pdf**](Event brite) | Online | 
-| [**Yearly**](Event academy) | Online | 
-| [**Quarterly**](Billeto) | Online | 
-| [**Yearly**](Eventim) |  | 
+| [**Event brite**](https://www.eventbrite.co.uk/) | Free | 
+| [**Event academy**](https://eventacademy.com/events/how-events-can-benefit-local-communities/) | Free | 
+| [**Billeto**](https://billetto.co.uk/blog/why-people-attend-events/) | Free | 
+| [**Eventim**](https://www.eventim.co.uk/) | Paid | 
   
 
 <br/><br/>

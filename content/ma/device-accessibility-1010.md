@@ -13,10 +13,10 @@ Many devices, including smartphones and tablets come with a range of features wh
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.psychologicalscience.org/news/releases/learning-new-skills-keeps-an-aging-mind-sharp.html**](Age UK) | Online | 
-| [**Yearly**](Age UK) | Online | 
-| [**Yearly**](Age UK) | Online | 
-| [**Yearly**](GCFGlobal.org) | Online | 
+| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/device-accessibility/) | Free | 
+| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/downloading-apps/) | Free | 
+| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/online-terms/) | Free | 
+| [**GCFGlobal.org**](https://edu.gcfglobal.org/en/topics/smartphonesandtablets/) | Free | 
   
 
 <br/><br/>

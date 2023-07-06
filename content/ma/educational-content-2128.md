@@ -13,9 +13,10 @@ Starting a TikTok or YouTube channel provides a platform to share expertise, tea
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**Yearly**](Make matic) | Online | 
-| [**Quarterly**](Web dew) | Online | 
-| [**Yearly**](Centre of excellence) | Online | 
+| [**Tech soup**](https://blog.techsoup.org/posts/how-to-create-great-educational-content-on-tiktok) | Free | 
+| [**Make matic**](https://makematic.com/blog/10-reasons-why-educational-videos-are-super-effective/) | Free  | 
+| [**Web dew**](https://www.webdew.com/blog/youtube-educational-videos) | Free  | 
+| [**Centre of excellence**](https://www.centreofexcellence.com/shop/how-to-grow-a-youtube-channel-diploma-course/) | Paid | 
   
 
 <br/><br/>

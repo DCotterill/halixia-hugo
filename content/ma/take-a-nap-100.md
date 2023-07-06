@@ -13,10 +13,10 @@ Naps have been shown to have numerous benefits including improving cognitive fun
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://www.sleepfoundation.org/sleep-hygiene/napping**](BBC) | Online | 
-| [**Annual**](Sleep foundation) | Online | 
-| [**Annual**](Progressive Hypnosis) | Online | 
-| [**Annual**](Sleep Hubs) |  | 
+| [**BBC**](https://www.bbc.co.uk/programmes/m001744m) | Free | 
+| [**Sleep foundation**](https://www.sleepfoundation.org/sleep-hygiene/napping) | Free | 
+| [**Progressive Hypnosis**](https://www.youtube.com/watch?v=AFiRv1OITco) | Free | 
+| [**Sleep Hubs**](https://sleephubs.com/) | Paid | 
   
 
 <br/><br/>

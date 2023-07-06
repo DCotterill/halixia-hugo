@@ -13,10 +13,10 @@ A good skin care routine can provide health benefits such as reducing the risk o
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://onlinelibrary.wiley.com/doi/abs/10.1111/bjd.12469, https://pubmed.ncbi.nlm.nih.gov/1565600/**](Glossy box) | Online | 
-| [**Yearly**](Atomic derm) | Online | 
-| [**Quarterly**](Skin how) | Online | 
-| [**Quarterly**](Aco) |  | 
+| [**Glossy box**](https://www.glossybox.co.uk/) | Paid | 
+| [**Atomic derm**](https://www.atomicderm.com/skin-care-why-its-important-to-take-care-of-your-skin/) | Free | 
+| [**Skin how**](https://skinhow.org/skincare/why-is-skin-care-so-important/) | Free | 
+| [**Aco**](https://acoskincare.co.uk/skincare.list) | Paid | 
   
 
 <br/><br/>

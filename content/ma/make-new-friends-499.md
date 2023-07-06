@@ -13,10 +13,10 @@ Friendships benefit us on every level, helping to improve our self-esteem, happi
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  
-| [**https://books.google.co.uk/books?hl=en&lr=&id=xNgoDQAAQBAJ&oi=fnd&pg=PA233&dq=importance+of+friendship+on+health&ots=aChR7KmFX7&sig=_rbkvbfchEQTt7JS_00izmxrjoo&redir_esc=y#v=onepage&q=importance%20of%20friendship%20on%20health&f=false**](Friendmatch) | Online | 
-| [**6 monthly**](Meetup) | Online | 
-| [**Yearly**](Facebook) | Online | 
-| [**Annual**](Healthline) | Online | 
+| [**Friendmatch**](https://www.friendmatch.com/) | Free | 
+| [**Meetup**](https://www.meetup.com/) | Free | 
+| [**Facebook**](https://www.facebook.com) | Free | 
+| [**Healthline**](https://www.healthline.com/health/benefits-of-friendship#reduced-loneliness) | Free | 
   
 
 <br/><br/>
