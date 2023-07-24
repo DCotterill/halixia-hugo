@@ -16,7 +16,7 @@ Gardening with children promotes physical activity, exposes them to nature, teac
 | [**Gardening with children**](https://www.gardeningwithchildren.co.uk/family-zone/) | Free | 
 | [**Childrens garden week**](https://www.childrensgardeningweek.co.uk/) | Free | 
 | [**Growing family**](https://growingfamily.co.uk/gardening-with-children/gardening-for-kids-10-brilliant-garden-projects-to-do-with-children/) | Free | 
-| [**You garden**](https://www.yougarden.com/?source=AFFWIN) | Paid | 
+| [**YouGarden**](https://www.awin1.com/cread.php?awinmid=5686&awinaffid=1198638&ued=https%3A%2F%2Fwww.yougarden.com%2F%3Fsource%3DAFFWIN) | Paid | 
   
 
 <br/><br/>

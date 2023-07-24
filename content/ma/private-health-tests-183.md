@@ -16,7 +16,7 @@ Health checks often focus on preventative health, helping to detect problems in 
 | [**Bluecrestwellness**](https://www.bluecrestwellness.com/health-checks) | Paid | 
 | [**Bupa**](https://www.bupa.co.uk/health/health-assessments/compare-health-assessments) | Paid | 
 | [**Circle health group**](https://www.circlehealthgroup.co.uk/treatments/health-assessments--advanced) | Paid | 
-| [**Get Tested**](https://gettested.co.uk/) | Paid | 
+| [**Get Tested**](https://www.awin1.com/cread.php?awinmid=45209&awinaffid=1198638&ued=https%3A%2F%2Fgettested.co.uk%2F) | Paid | 
   
 
 <br/><br/>

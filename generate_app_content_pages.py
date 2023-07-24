@@ -5,7 +5,7 @@ content_pages = {}
 count = 0
 # with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - Full Content Samples.csv'
 #         , newline='') as csvfile:
-with open('resources/MA Database 220523.xlsx - Upload Prep -v3.csv'
+with open('resources/MA Database 220523.xlsx - Upload Prep -v5.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
@@ -18,12 +18,13 @@ with open('resources/MA Database 220523.xlsx - Upload Prep -v3.csv'
         category = row[1]
         # score = row[11]
         ddm_type = row[5]
-        internal_name = row[6]
-        display_name = row[8]
-        summary = row[9]
-        description = row[10]
+        #Topic col 6, Mot col 7
+        internal_name = row[8]
+        display_name = row[10]
+        summary = row[11]
+        description = row[12]
         # Content Type
-        content_text = row[11]
+        content_text = row[13]
 
         print (ddm_type)
         if ddm_type == 'Development':
@@ -32,29 +33,29 @@ with open('resources/MA Database 220523.xlsx - Upload Prep -v3.csv'
                     "full-description": description,
                     "additional-text": content_text}
 
-            primary_link_1 = row[26]
-            primary_link_name_1 = row[24]
-            primary_link_paid_free_1 = row[29]
-            primary_link_tp_rating_1 = row[34]
-            primary_link_tp_link_1 = row[35]
+            primary_link_1 = row[28]
+            primary_link_name_1 = row[26]
+            primary_link_paid_free_1 = row[31]
+            primary_link_tp_rating_1 = row[36]
+            primary_link_tp_link_1 = row[37]
 
-            primary_link_2 = row[41]
-            primary_link_name_2 = row[39]
-            primary_link_paid_free_2 = row[44]
-            primary_link_tp_rating_2 = row[49]
-            primary_link_tp_link_2 = row[50]
+            primary_link_2 = row[43]
+            primary_link_name_2 = row[41]
+            primary_link_paid_free_2 = row[46]
+            primary_link_tp_rating_2 = row[51]
+            primary_link_tp_link_2 = row[52]
 
-            primary_link_3 = row[56]
-            primary_link_name_3 = row[54]
-            primary_link_paid_free_3 = row[59]
-            primary_link_tp_rating_3 = row[64]
-            primary_link_tp_link_3 = row[65]
+            primary_link_3 = row[58]
+            primary_link_name_3 = row[56]
+            primary_link_paid_free_3 = row[61]
+            primary_link_tp_rating_3 = row[66]
+            primary_link_tp_link_3 = row[67]
 
-            primary_link_4 = row[71]
-            primary_link_name_4 = row[69]
-            primary_link_paid_free_4 = row[74]
-            primary_link_tp_rating_4 = row[79]
-            primary_link_tp_link_4 = row[80]
+            primary_link_4 = row[73]
+            primary_link_name_4 = row[71]
+            primary_link_paid_free_4 = row[76]
+            primary_link_tp_rating_4 = row[81]
+            primary_link_tp_link_4 = row[82]
 
             content_pages[internal_name] = page
 

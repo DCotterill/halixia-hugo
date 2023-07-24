@@ -16,7 +16,7 @@ Practicing MBSR involves integrating mindfulness techniques into daily routines,
 | [**Centre of excellence**](https://www.centreofexcellence.com/shop/mindfulness-based-stress-reduction-mbsr-diploma-course/) | Paid | 
 | [**Positive psychology**](https://positivepsychology.com/benefits-of-mindfulness/) | Free | 
 | [**Very well mind**](https://www.verywellmind.com/benefits-of-mindfulness-based-stress-reduction-88861) | Free | 
-| [**Complete Unity Yoga**](https://completeunityyoga.com/) | Paid | 
+| [**Complete Unity Yoga**](https://www.awin1.com/cread.php?awinmid=29057&awinaffid=1198638&ued=https%3A%2F%2Fcompleteunityyoga.com%2F) | Paid | 
   
 
 <br/><br/>

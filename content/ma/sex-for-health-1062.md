@@ -16,7 +16,7 @@ Some of the benefits you can get from sex include lowering blood pressure, burni
 | [**UCL**](https://www.ucl.ac.uk/news/2018/dec/study-shows-benefits-sex-older-adults) | Free | 
 | [**Psychology today**](https://www.psychologytoday.com/us/blog/life-refracted/201707/benefits-sex-after-50) | Free | 
 | [**Everydays**](https://everdays.com/resources/is-sex-healthy-for-seniors/) | Free | 
-| [**So Divine**](https://so-divine.com/) | Paid | 
+| [**So Divine**](https://www.awin1.com/cread.php?awinmid=28367&awinaffid=1198638&ued=https%3A%2F%2Fso-divine.com%2F) | Paid | 
   
 
 <br/><br/>

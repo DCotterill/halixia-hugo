@@ -15,7 +15,7 @@ Learning to combat loneliness is essential for your well-being. It helps establi
 | :-----------          | :--------------:      |  
 | [**Psychology today**](https://www.psychologytoday.com/us/blog/lifetime-connections/201907/the-3-types-loneliness-and-how-combat-them) | Free | 
 | [**Mind**](https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/tips-to-manage-loneliness/) | Free | 
-| [**Lovendu**](https://lovendu.co.uk/) | Paid | 
+| [**Lovendu**](https://www.awin1.com/cread.php?awinmid=25994&awinaffid=1198638&ued=https%3A%2F%2Flovendu.co.uk%2F) | Paid | 
   
 
 <br/><br/>

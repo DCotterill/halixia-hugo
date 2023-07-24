@@ -16,7 +16,7 @@ Becoming a guide runner involves partnering with individuals who have visual imp
 | [**England athletics**](https://www.englandathletics.org/take-part/programmes/findaguide/become-a-guide-runner/) | Free | 
 | [**British blind sport**](https://britishblindsport.org.uk/membership/bbs-sports/guide-running/) | Free  | 
 | [**Paralympic**](https://www.paralympic.org/news/para-athletics-explained-guide-running) | Free | 
-| [**Pro:Direct Sport**](https://www.prodirectsport.com) | Paid | 
+| [**Pro:Direct Sport**](https://www.awin1.com/cread.php?awinmid=6667&awinaffid=1198638&ued=https%3A%2F%2Fwww.prodirectsport.com%2Frunning%2F) | Paid | 
   
 
 <br/><br/>

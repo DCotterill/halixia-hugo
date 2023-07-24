@@ -16,7 +16,7 @@ Running marathons can improve cardiovascular health, boost immune function, redu
 | [**TCS London marathon**](https://www.tcslondonmarathon.com/training/training-plans) | Free | 
 | [**Very well fit**](https://www.verywellfit.com/reasons-to-run-a-marathon-2911072) | Free | 
 | [**Marathon handbook**](https://marathonhandbook.com/6-reasons-why-you-should-run-a-marathon/) | Free | 
-| [**Pro:Direct Sport**](https://www.prodirectsport.com/running/) | Paid | 
+| [**Pro:Direct Sport**](https://www.awin1.com/cread.php?awinmid=6667&awinaffid=1198638&ued=https%3A%2F%2Fwww.prodirectsport.com%2Frunning%2F) | Paid | 
   
 
 <br/><br/>

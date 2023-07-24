@@ -15,7 +15,7 @@ Looking after your hearing is important for maintaining overall well-being. Allo
 | :-----------          | :--------------:      |  
 | [**Leek Hearing Centre**](https://www.leekhearingcentre.co.uk/hearing-tests-the-importance-of-having-your-ears-checked/) | Free | 
 | [**Boots**](https://www.bootshearingcare.com/hearing-test/) | Free | 
-| [**Hearing Direct**](https://www.hearingdirect.com/) | Paid | 
+| [**Hearing Direct**](https://www.awin1.com/cread.php?awinmid=3611&awinaffid=1198638&ued=https%3A%2F%2Fwww.hearingdirect.com%2F) | Paid | 
   
 
 <br/><br/>

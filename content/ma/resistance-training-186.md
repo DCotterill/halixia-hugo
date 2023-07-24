@@ -16,7 +16,7 @@ Resistance training improves muscle strength and tone and protects your joints f
 | [**Strava**](https://www.strava.com/) | Free/Paid | 
 | [**Sharp muscle**](https://www.sharpmuscle.com/fitness/resistance-training-strength-training/) | Free | 
 | [**Harvard**](https://www.health.harvard.edu/exercise-and-fitness/strength-and-power-training-for-all-ages) | Paid | 
-| [**Hussle**](https://www.hussle.com/) | Paid | 
+| [**Hussle**](https://www.awin1.com/cread.php?awinmid=3422&awinaffid=1198638&ued=https%3A%2F%2Fwww.hussle.com%2F) | Paid | 
   
 
 <br/><br/>

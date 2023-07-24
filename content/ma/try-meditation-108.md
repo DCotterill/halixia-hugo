@@ -16,7 +16,7 @@ Apart from enhancing your happiness and improving your overall well-being, medit
 | [**Tara brach**](https://www.tarabrach.com/guided-meditations/) | Free | 
 | [**The heart of meditation**](https://theartofmeditation.org/meditation-courses) | Paid | 
 | [**Yoga journal**](https://www.yogajournal.com/meditation/best-free-online-guided-meditations-for-beginners/) | Paid | 
-| [**Complete Unity Yoga**](https://completeunityyoga.com/) | Paid | 
+| [**Complete Unity Yoga**](https://www.awin1.com/cread.php?awinmid=29057&awinaffid=1198638&ued=https%3A%2F%2Fcompleteunityyoga.com%2F) | Paid | 
   
 
 <br/><br/>

@@ -16,7 +16,7 @@ It can be easy to rush through life without stopping to notice much. Start payin
 | [**NHS**](https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/) | Free | 
 | [**BBC**](https://www.bbc.co.uk/programmes/m001817f) | Free | 
 | [**Oxford Mindfulness**](https://www.oxfordmindfulness.org/free-online-mindfulness-course-sessions/) | Free | 
-| [**Complete Unity Yoga**](https://completeunityyoga.com/) | Paid | 
+| [**Complete Unity Yoga**](https://www.awin1.com/cread.php?awinmid=29057&awinaffid=1198638&ued=https%3A%2F%2Fcompleteunityyoga.com%2F) | Paid | 
   
 
 <br/><br/>

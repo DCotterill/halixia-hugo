@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Want to organise and networking event
+Could you organise a networking event
 
 Learn about how you can organise a networking event to foster professional connections, knowledge sharing, and collaboration within the industry.
 

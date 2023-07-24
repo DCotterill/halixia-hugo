@@ -15,7 +15,7 @@ Knowing your credit score is important because it provides insight into your fin
 | :-----------          | :--------------:      |  
 | [**Moneyhelper**](https://www.moneyhelper.org.uk/en/everyday-money/credit-and-purchases/how-to-check-your-credit-report) | Free | 
 | [**Experian**](https://www.experian.co.uk/consumer/guides/good-credit-score.html) | Free | 
-| [**Experian**](https://www.experian.co.uk/experian-account/01_free_score.html?) | Free  | 
+| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/loans/credit-rating-credit-score/) | Free  | 
   
 
 <br/><br/>

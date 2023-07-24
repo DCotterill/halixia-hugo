@@ -16,7 +16,7 @@ Volunteering at Parkruns involves various roles, such as marshalling, timing, or
 | [**Parkrun**](https://volunteer.parkrun.com/principles/volunteer-roles) | Free | 
 | [**Parkrun**](https://blog.parkrun.com/uk/2022/11/23/eight-reasons-to-try-volunteering-at-parkrun/) | Free | 
 | [**Running 101**](https://running101.co.uk/5-reasons-why-you-should-volunteer-atleast-once-at-parkrun/) | Free  | 
-| [**Pro:Direct Sport**](https://www.prodirectsport.com) | Paid | 
+| [**Pro:Direct Sport**](https://www.awin1.com/cread.php?awinmid=6667&awinaffid=1198638&ued=https%3A%2F%2Fwww.prodirectsport.com%2Frunning%2F) | Paid | 
   
 
 <br/><br/>

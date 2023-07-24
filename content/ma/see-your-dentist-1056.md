@@ -16,7 +16,7 @@ Dental appointments shouldn’t just be made when you have a problem that needs 
 | [**Dental health**](https://www.dentalhealth.org/blog/the-importance-of-regular-dental-visits) | Free | 
 | [**Web md**](https://www.webmd.com/oral-health/features/dental-checkup-every-6-months) | Free | 
 | [**OralB**](https://www.oralb.co.uk/en-gb/oral-health/life-stages/adults/the-importance-of-regular-dental-visits) | Free | 
-| [**Spotlight Oral**](https://uk.spotlightoralcare.com/) | Paid | 
+| [**Spotlight Oral**](https://www.awin1.com/cread.php?awinmid=24739&awinaffid=1198638&ued=https%3A%2F%2Fuk.spotlightoralcare.com%2F) | Paid | 
   
 
 <br/><br/>

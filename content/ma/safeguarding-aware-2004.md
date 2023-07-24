@@ -16,7 +16,7 @@ Doing a safeguarding course equips you with knowledge and skills to recognize si
 | [**Safe cic**](https://www.safecic.co.uk/e-shop/all-categories/category/40-blended-learning-open-house-courses) | Free | 
 | [**Child protection company**](https://www.childprotectioncompany.com/general/10-reasons-why-you-need-safeguarding-training/) | Free  | 
 | [**Educare**](https://www.educare.co.uk/ppc/safeguarding-training-the-top-5-benefits) | Free  | 
-| [**Learning 24/7**](https://www.learning247.co.uk/) | Paid | 
+| [**Learning 24/7**](https://www.awin1.com/cread.php?awinmid=15642&awinaffid=1198638&ued=https%3A%2F%2Fwww.learning247.co.uk%2F) | Paid | 
   
 
 <br/><br/>

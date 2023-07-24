@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about high intensity functional (HIFT) training
+Learn about High Intensity Functional Training (HIFT)
 
 HIFT is an exercise program based on doing functional movements at a high intensity, combining cardiovascular conditioning, strength training, and functional movements to provide a comprehensive workout.  
 

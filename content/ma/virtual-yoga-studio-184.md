@@ -16,7 +16,7 @@ Yoga is for everyone, whatever your ability or disability, age, experience, fitn
 | [**Gaiam**](https://www.gaiam.com/pages/yoga-studio-app) | Paid | 
 | [**The house of yoga**](https://thehouseofyoga.co.uk/online-yoga-classes/) | Paid | 
 | [**Do yoga with me**](https://www.doyogawithme.com/) | Free | 
-| [**Complete Unity Yoga**](https://completeunityyoga.com/) | Paid | 
+| [**Complete Unity Yoga**](https://www.awin1.com/cread.php?awinmid=29057&awinaffid=1198638&ued=https%3A%2F%2Fcompleteunityyoga.com%2F) | Paid | 
   
 
 <br/><br/>

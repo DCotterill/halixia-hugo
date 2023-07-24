@@ -16,7 +16,7 @@ Start working on improving your stress, anxiety, and self-worth with the use of 
 | [**Happier human**](https://www.happierhuman.com/benefits-affirmations/) | Free | 
 | [**Refined by Age**](https://refinedbyage.com/2019/12/17/7-affirmations-for-positive-aging/) | Free | 
 | [**Get help**](https://www.betterup.com/blog/positive-affirmations) | Free | 
-| [**Lovendu**](https://lovendu.co.uk/) | Paid | 
+| [**Lovendu**](https://www.awin1.com/cread.php?awinmid=25994&awinaffid=1198638&ued=https%3A%2F%2Flovendu.co.uk%2F) | Paid | 
   
 
 <br/><br/>

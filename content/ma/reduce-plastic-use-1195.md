@@ -15,7 +15,7 @@ Reducing plastic waste is vital for preserving the environment, protecting wildl
 | :-----------          | :--------------:      |  
 | [**Eco & Beyond**](https://www.ecoandbeyond.co/articles/why-should-we-reduce-the-use-of-plastic/) | Free | 
 | [**Greenpeace**](https://www.greenpeace.org.uk/news/9-ways-reduce-plastic-use/) | Free | 
-| [**Friendly Turtle**](https://www.friendlyturtle.com/) | Paid | 
+| [**Friendly Turtle**](https://www.awin1.com/cread.php?awinmid=26681&awinaffid=1198638&ued=https%3A%2F%2Fwww.friendlyturtle.com%2F) | Paid | 
 | [**Wave case**](https://www.wavecase.co.uk/) | Paid | 
   
 

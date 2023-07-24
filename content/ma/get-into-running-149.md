@@ -16,7 +16,7 @@ Running is a great way to improve your overall physical health. It can improve h
 | [**NHS**](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/get-running-with-couch-to-5k/) | Free | 
 | [**Strava**](https://www.strava.com/) | Free/Paid | 
 | [**Parkrun**](https://www.parkrun.org.uk/) | Free | 
-| [**Pro:Direct Sport**](https://www.prodirectsport.com/running/) | Paid | 
+| [**Pro:Direct Sport**](https://www.awin1.com/cread.php?awinmid=6667&awinaffid=1198638&ued=https%3A%2F%2Fwww.prodirectsport.com%2Frunning%2F) | Paid | 
   
 
 <br/><br/>

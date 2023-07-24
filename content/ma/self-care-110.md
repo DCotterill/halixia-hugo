@@ -16,7 +16,7 @@ Start engaging in self-care, to help you to relieve the pressures of everyday li
 | [**The couples centre**](https://www.thecouplescenter.org/why-self-care-is-so-important-for-longevity-and-wellness/) | Free | 
 | [**Simple lion heart life**](https://simplelionheartlife.com/how-to-slow-down/) | Free | 
 | [**Me Time Therapies**](https://www.me-time-therapy.co.uk/me-time-activities-to-try/) | Free | 
-| [**Lovendu**](https://lovendu.co.uk/) | Paid | 
+| [**Lovendu**](https://www.awin1.com/cread.php?awinmid=25994&awinaffid=1198638&ued=https%3A%2F%2Flovendu.co.uk%2F) | Paid | 
   
 
 <br/><br/>

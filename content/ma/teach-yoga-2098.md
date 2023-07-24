@@ -16,7 +16,7 @@ Teaching yoga allows you to guide others in a holistic practice that combines ph
 | [**Centre of excellence**](https://www.centreofexcellence.com/shop/200hr-yoga-teacher-training-diploma-course/) | Paid | 
 | [**Ori gym**](https://origympersonaltrainercourses.co.uk/blog/why-do-yoga-teacher-training) | Free | 
 | [**Ori gym**](https://origympersonaltrainercourses.co.uk/blog/why-become-a-yoga-teacher) | Free  | 
-| [**New Skill Academy**](https://newskillsacademy.co.uk/) | Paid | 
+| [**New Skill Academy**](https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.com%2F) | Paid | 
   
 
 <br/><br/>
