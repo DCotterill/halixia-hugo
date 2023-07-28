@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Techniques to improve communication in your relationships
+Techniques to improve communication in your relationships.
 
 Good supportive relationships can be beneficial to your health, read more about techniques to improve communication with your partner, close family, or friends.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Could you help local wildlife by fostering a hedgehog
+Could you help local wildlife by fostering a hedgehog.
 
 Read about what it takes to foster a hedgehog and find out about fostering from your local hedgehog rescue, to take part in helping wildlife in your area.
 

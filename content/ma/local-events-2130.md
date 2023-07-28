@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find local events and festivals of interest to you 
+Find local events and festivals of interest to you.
 
 How can you actively participate in local events or festivals to celebrate community culture, support local businesses, and engage with fellow community members.
 

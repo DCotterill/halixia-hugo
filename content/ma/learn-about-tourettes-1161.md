@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Grow your understanding of Tourette Syndrome (TS)
+Grow your understanding of Tourette Syndrome (TS).
 
 If you employ or teach someone with TS, learning about it helps to increase understanding, empathy, and support, helping to foster a more accepting and compassionate society for those with Tourette's.
 

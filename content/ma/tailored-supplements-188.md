@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out how to meet your nutritional requirements
+Find out how to meet your nutritional requirements.
 
 Healthspan offers supplements for women of all ages, from PMS support, to conception, to the menopause.
 

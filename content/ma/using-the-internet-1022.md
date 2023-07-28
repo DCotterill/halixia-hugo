@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Helping you get the most out of the internet
+Helping you get the most out of the internet.
 
 The internet can be an intimidating place, read this guide to help you make the most use out of using the internet.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn how to eat mindfully, for lasting change
+Learn how to eat mindfully, for lasting change.
 
 Noom aims to empower you to take control of your health for good and meet personal health and wellness goals, including weight management, through delicious balanced healthy recipe boxes.
 

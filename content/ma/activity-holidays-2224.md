@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Embrace your favourite activity in a new country
+Embrace your favourite activity in a new country.
 
 Combine your passion for an activity or hobby with travel to a different country.
 

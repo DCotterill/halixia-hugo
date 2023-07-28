@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find a quality affordable gym where everybody is welcome
+Find a quality affordable gym where everybody is welcome.
 
 Pure Gym is friendly, supportive, and a judgement-free space where you can come in, work out and leave feeling good. No matter your goals, there’s something for everyone.
 

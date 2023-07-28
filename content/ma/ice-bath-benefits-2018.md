@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the benefits of ice baths
+Learn about the benefits of ice baths.
 
 Learn about ice baths and how they can aid in muscle recovery, reduce inflammation, enhance circulation, boost athletic performance, and promote overall physical well-being.
 

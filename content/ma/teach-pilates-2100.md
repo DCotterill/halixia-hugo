@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about starting your journey to begin teaching Pilates
+Learn about starting your journey to begin teaching Pilates.
 
 Learn about becoming a Pilates teacher to help instruct individuals in the practice of Pilates to enhance core strength, posture, flexibility, and body awareness.
 

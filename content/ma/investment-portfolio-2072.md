@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about diversifying investments
+Learn about diversifying investments.
 
 Read and learn about why you should spread investment across different assets or sectors to help manage risk and maximise returns.
 

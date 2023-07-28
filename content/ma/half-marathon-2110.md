@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about what it takes to do a half marathon
+Learn about what it takes to do a half marathon.
 
 Read about the commitment needed to start training for a half marathon to improve endurance, set and achieve fitness goals, and enhance personal achievement.
 

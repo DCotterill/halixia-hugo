@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Get out and about exploring with your family
+Get out and about exploring with your family.
 
 Embark on an exciting outings with your family, exploring new places and creating cherished memories together.
 

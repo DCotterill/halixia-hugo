@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-An app for complete brain training
+An app for complete brain training.
 
 Challenge your cognitive skills, focus, memory, problem solving, mental agility and more, with these games designed to push you hard with short, intense workouts that fit around your life.
 

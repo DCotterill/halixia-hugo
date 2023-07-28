@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Attending religious services for longer life
+Attending religious services for longer life.
 
 Learn more about if your beliefs align with a particular religion and how regularly attending services could be good for your health.
 

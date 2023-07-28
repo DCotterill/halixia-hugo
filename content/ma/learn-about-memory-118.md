@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Understanding and improving your memory
+Understanding and improving your memory.
 
 This podcast explains the different types of memory and how to improve your learning and memory abilities.
 

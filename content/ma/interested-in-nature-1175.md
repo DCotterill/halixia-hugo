@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Visit a butterfly house and learn about these insects
+Visit a butterfly house and learn about these insects.
 
 Looking for things to do with the family? Visit a butterfly house and learn about these insects' role in our natural world and how protect them for future generations.
 

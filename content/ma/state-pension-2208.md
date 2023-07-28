@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Ways to boost your State Pension
+Ways to boost your State Pension.
 
 Checking your state pension forecast and making sure you are doing everything you can to boost the amount you'll get in retirement is prudent way ensure a more comfortable life after work.
 

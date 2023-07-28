@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Have fun and get creative with pottery
+Have fun and get creative with pottery.
 
 You can create sculpture! Even if you’re just a beginner, you won’t believe what you can do! By understanding the basics, you will be surprised with what you can achieve in a short space of time.
 

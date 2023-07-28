@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Share your love of baking with others
+Share your love of baking with others.
 
 Enhance or share your baking skills and connect with fellow enthusiasts by joining a baking group, sharing recipes, and fostering a passion for baking.
 

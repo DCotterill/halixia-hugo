@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Try online hypnotherapy
+Try online hypnotherapy.
 
 Try online hypnotherapy to help you to relieve stress.
 

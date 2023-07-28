@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about peer support to support your mental health
+Learn more about peer support to support your mental health.
 
 Learn more about peer support and how it can help you in a judgment-free, confidential space to be open about your mental health.
 

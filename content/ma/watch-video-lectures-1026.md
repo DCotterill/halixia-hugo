@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about video lectures
+Learn more about video lectures.
 
 Video lectures collects scientific learning from around the globe, from universities such as Stanford and MIT, presenting them in accessible video lectures.
 

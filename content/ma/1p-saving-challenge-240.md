@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Everyone can start an emergency fund
+Everyone can start an emergency fund.
 
 Here’s everything you need to know to make a start on saving for a rainy day, even if you are on limited income.
 

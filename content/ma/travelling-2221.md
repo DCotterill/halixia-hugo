@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about meeting new people while travelling
+Learn more about meeting new people while travelling.
 
 Embrace the joy of travel by meeting new people, fostering cultural exchange, and building meaningful connections.
 

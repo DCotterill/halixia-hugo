@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about volunteering at a foodbank
+Learn more about volunteering at a foodbank.
 
 Learn about helping those in your community by volunteering at a foodbank.
 

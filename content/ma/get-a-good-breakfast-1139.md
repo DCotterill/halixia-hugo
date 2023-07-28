@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the benefits of getting a good breakfast
+Learn about the benefits of getting a good breakfast.
 
 Learn about the importance of starting your day with breakfast, such as helping to keep the brain and body fuelled, balances blood sugar, reduces obesity, and affects medication metabolism.
 

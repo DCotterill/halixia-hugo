@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Help your mental wellbeing by connecting with your community
+Help your  wellbeing by connecting with your community.
 
 Connect with activities, groups, and services in your community to help meet your practical, social and emotional needs to improve health and mental wellbeing.
 

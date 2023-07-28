@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn a new skill with online platform Centre of Excellence
+Learn a new skill with online platform Centre of Excellence.
 
 Centre of Excellence offers opportunity to learn a new skillset for life, or possibly take the next step into using the techniques to set up a rewarding new business. 
 

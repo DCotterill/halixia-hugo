@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about volunteering to help others
+Learn more about volunteering to help others.
 
 If you feel you could help others through a tough time, learn more about volunteering with a crisis line.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the benefits of gardening with children
+Learn about the benefits of gardening with children.
 
 Children love growing plants and love being involved in the garden but they’re often impatient for instant results. Try to capture their enthusiasm with simple quick projects everyone can enjoy. 
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Importance of taking holidays
+Importance of taking holidays.
 
 Holidays are not just for relaxing; they help us deal with stresses and improve our overall wellbeing. Can’t afford a holiday? You can get the same effect with a day trip!
 

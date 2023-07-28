@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Try a chair-based workout
+Try a chair-based workout.
 
 Get stronger, improve your flexibility and fitness. Here’s some chair based exercises you can do at home to stay strong, steady and independent as we age and keep doing the things we enjoy.
 

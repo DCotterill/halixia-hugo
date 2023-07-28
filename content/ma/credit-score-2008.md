@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about your credit score and why you should monitor it
+Learn about your credit score and why you should monitor it.
 
 Learn about what your credit score is and how to track it so it can help you understand your financial health, qualify for better loan terms, make informed decisions.
 

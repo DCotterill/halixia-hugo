@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Take time to travel somewhere new
+Take time to travel somewhere new.
 
 Embark on an adventure to explore a new country, immersing yourself in its culture, traditions, and history.
 

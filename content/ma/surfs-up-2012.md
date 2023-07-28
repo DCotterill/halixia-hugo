@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the benefits of surfing
+Learn about the benefits of surfing.
 
 Surfing offers physical exercise, cardiovascular fitness, improved balance, increased strength, stress reduction, and a connection with nature, benefiting overall health.
 

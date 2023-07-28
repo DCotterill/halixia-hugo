@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out how to become an Udemy instructor and change lives
+Find out how to become an Udemy instructor and change lives.
 
 Udemy offers free course creation with easy-to-follow steps to help in the creation of your course, which will consist of videos and lectures with the option to add assignments and quizzes.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the benefits of walking
+Learn about the benefits of walking.
 
 Experience the numerous benefits of a daily walk, improved fitness, mood, and overall wellbeing, a simple habit with significant rewards.
 

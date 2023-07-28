@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn a new language with videos from native speakers
+Learn a new language with videos from native speakers.
 
 Learn a new language and be able to watch lessons from native speakers will help you fully understand and absorb the language.
 

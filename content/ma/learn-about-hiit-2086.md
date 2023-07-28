@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about High-Intensity Interval Training (HIIT)
+Learn about High-Intensity Interval Training (HIIT).
 
 Learn about the importance of incorporating high-intensity interval training for efficient workouts, improved cardiovascular fitness, and calorie burn.
 

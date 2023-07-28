@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Understand the health benefits of a Mediterranean diet
+Understand the health benefits of a Mediterranean diet.
 
 Traditionally, the Mediterranean diet is based on fruits, vegetables, seafood, nuts, dairy, olive oil, and maybe a glass of red wine. It is linked to lower outbreaks of disease and longer lifespans.
 

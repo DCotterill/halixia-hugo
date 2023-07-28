@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-The benefits of drinking milk gets forgotten as we get older
+Drinking milk can be beneficial whatever our age.
 
 Drinking milk has many health benefits with its rich calcium content, which reduces the risk of osteoporosis, and provides essential nutrients for overall bone health and muscle function.
 

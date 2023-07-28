@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about healthy weight loss
+Learn about healthy weight loss.
 
 Achieve successful weight management with the support, personalised plans, and behavioural tools offered by slimming clubs that can ensuring lasting weight loss results and a healthier lifestyle.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-What skills do I need to succeed in work
+What skills do I need to succeed in work?
 
 Identify essential skills for success in the workplace, fostering career growth and professional development.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Get free learning from The Open University
+Get free learning from The Open University.
 
 OpenLearn is the home of free learning from The Open University. A huge range of topics for you to discover with 60-second animated videos or 24-hour courses all for free.
 

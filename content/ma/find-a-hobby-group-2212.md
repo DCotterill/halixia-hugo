@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Share your favourite hobby with others
+Share your favourite hobby with others.
 
 Engage in your hobbies by joining a hobby group, connecting with like-minded individuals, and enjoying shared interests.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Explore your local area and spend time with family on foot
+Explore your local area and spend time with family on foot.
 
 Strengthen family bonds and stay active together by exploring new walking routes in your area, creating lasting memories while promoting fitness.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-You don't have to run to get involved with the Parkrun
+You don't have to run to get involved with the Parkrun.
 
 Offer your time and support to assist in organising and facilitating Parkruns, promoting community fitness and well-being.
 

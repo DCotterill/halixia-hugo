@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Be an extra in movies
+Be an extra in movies.
 
 Learn more about becoming an extra for films and tv series and see if being an extra is for you.
 

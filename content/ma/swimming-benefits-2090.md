@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-What are the benefits of swimming
+What are the benefits of swimming.
 
 Find out how diving into swimming provides a low-impact, full-body workout, cardiovascular health, and improved endurance.
 

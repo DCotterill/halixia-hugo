@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of marine life
+Learn about the importance of marine life.
 
 Learn about looking after marine life to ensure ecological balance, mitigate climate change, preserves biodiversity, and safeguards the planet's health and future.
 

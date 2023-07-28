@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn to combat loneliness
+Learn to combat loneliness.
 
 Learn more about how to combat loneliness. Loneliness can affect anyone at any point in life, knowing skills to help combat loneliness is useful for all to know, to help yourself or others.
 

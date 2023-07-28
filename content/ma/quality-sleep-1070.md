@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn how to increase the quality of your sleep
+Learn how to increase the quality of your sleep.
 
 Among the most common problems related to aging is sleep quality, with over half of adults reporting symptoms of insomnia. Learn how to better increase your sleep quality for a better night’s sleep.
 
@@ -16,7 +16,7 @@ While duration is key, sleep quality is often overlooked. Even if you get your 8
 | [**The NSF**](https://www.thensf.org/10-sleep-tips-sleep-quality/) | Free | 
 | [**BSLM**](https://bslm.org.uk/the-importance-of-good-quality-sleep/) | Free | 
 | [**National sleep foundation**](https://www.thensf.org/what-is-sleep-quality/) | Free | 
-| [**Sleep Hubs**](https://sleephubs.com/) | Paid | 
+| [**SleepHub**](https://www.awin1.com/cread.php?awinmid=26097&awinaffid=1198638&ued=https%3A%2F%2Fwww.sleephub.com%2F) | Paid | 
   
 
 <br/><br/>

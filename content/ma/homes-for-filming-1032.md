@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about renting your property
+Learn more about renting your property.
 
 If you feel your house or garden is unique, exciting, or if you feel your house can offer something different, why not look into renting it out, and let your house be the movie star it was born to be.
 

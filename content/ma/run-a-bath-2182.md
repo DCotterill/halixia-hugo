@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Show you care and run a bath for someone (or yourself)
+Show you care and run a bath for someone (or yourself).
 
 Show care and thoughtfulness by running a soothing bath for a family member, providing relaxation, and promoting self-care.
 

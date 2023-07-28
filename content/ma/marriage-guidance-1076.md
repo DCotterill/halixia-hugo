@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about the benefits of marriage guidance
+Learn more about the benefits of marriage guidance.
 
 Learn more about improving your marriage to help you have a healthy supportive marriage.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about selling your stuff online
+Learn about selling your stuff online.
 
 Whether decluttering, downsizing or just want to get rid of a few things, learn about selling your things online to earn some money, while getting rid of the items that you no longer need.
 

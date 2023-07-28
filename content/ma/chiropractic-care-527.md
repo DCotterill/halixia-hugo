@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Advice on chiropractic care on the NHS
+Advice on chiropractic care on the NHS.
 
 Read to find about chiropractic care and if you are eligible on the NHS.
 

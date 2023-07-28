@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Ideas for starting your own business in retirement
+Ideas for starting your own business in retirement.
 
 Starting a new business in retirement doesn’t need to be a huge endeavour. It's not about working like crazy just having something enjoyable to give a sense of fulfilment and satisfaction.
 

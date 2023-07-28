@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about fundraising
+Learn more about fundraising.
 
 Learn more about fundraising for a charity that's either close to your heart or for a local charity and start making a difference.
 

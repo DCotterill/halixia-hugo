@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How nutrition and lifestyle factors can affect your health
+How nutrition and lifestyle factors can affect your health.
 
 Read about nutrition and lifestyle factors and how these can affect men's health, to support anyone on their journey towards a healthy, sustainable diet.
 

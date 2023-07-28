@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about computer training courses
+Learn about computer training courses.
 
 If you don't feel completely comfortable, or confident working on a computer, learn more about IT training courses, to help you feel at home using your computer.
 

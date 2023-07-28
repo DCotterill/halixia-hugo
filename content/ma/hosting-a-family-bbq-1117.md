@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Spending time with loved ones by hosting a BBQ
+Spending time with loved ones by hosting a BBQ.
 
 Hosting a BBQ is a great way to spend quality time with family and friends to improve your relationships.
 

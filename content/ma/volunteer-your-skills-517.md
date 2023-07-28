@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about volunteering and sharing your skills
+Learn more about volunteering and sharing your skills.
 
 Learn about changing someone's life by using your skills by volunteering.
 

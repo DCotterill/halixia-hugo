@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Join social media and reconnect with old friends
+Join social media and reconnect with old friends.
 
 Social networking websites are a great way to keep in touch with family and friends, follow public figures and organisations, and meet people with similar interests or hobbies.
 

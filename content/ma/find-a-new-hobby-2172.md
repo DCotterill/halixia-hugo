@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Discover a new hobby to do with your family
+Discover a new hobby to do with your family.
 
 Strengthen family ties by discovering a new hobby together, promoting shared interests and lifelong learning.
 

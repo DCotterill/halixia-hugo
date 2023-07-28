@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out how to meet your nutritional requirements
+Find out how to meet your nutritional requirements.
 
 Healthspan has a range of vitamins and supplements to support you as you get older to help maintain your health.
 

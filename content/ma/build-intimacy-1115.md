@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about building intimacy
+Learn about building intimacy.
 
 Building intimacy in your relationship can help build a stronger emotional connection, improved communication, increased trust, and more fulfilling sexual experiences.
 

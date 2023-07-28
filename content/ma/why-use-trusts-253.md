@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to write life insurance in trust
+How to write life insurance in trust.
 
 Avoid potential inheritance tax and long delays in pay-out through using a trust to hold your life insurance.
 

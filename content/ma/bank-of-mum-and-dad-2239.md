@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to save to support your children's future
+How to save to support your children's future.
 
 Whether it's for a house purchase of other expenditure find out how you can save to help secure your children or grandchildren's future.
 

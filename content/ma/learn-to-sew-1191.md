@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Ever thought about taking up sewing as hobby
+Ever thought about taking up sewing as hobby?
 
 Some of us were lucky enough to learn to sew at a young age, but picking up a new hobby as an adult doesn't have to be daunting. You'll gain a great life skill that's practical as well as therapeutic.
 

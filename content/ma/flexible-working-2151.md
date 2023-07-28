@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Different ways of working
+Different ways of working.
 
 Discover alternative work arrangements and explore flexible working options, allowing for greater work-life balance and career satisfaction.
 

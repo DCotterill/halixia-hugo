@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Open up your world with a short languages course
+Open up your world with a short languages course.
 
 Discover a new language, explore different cultures or learn more about the power of communication. It could lead to a more formal qualification or a new career.
 

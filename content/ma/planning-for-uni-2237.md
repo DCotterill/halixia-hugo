@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Plan ahead for your children going to university
+Plan ahead for your children going to university.
 
 If you have young children or grandchildren, it might be worth thinking about how you'll cover the cost of them going to university while they are young.
 

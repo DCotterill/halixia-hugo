@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Football based health programme to support a healthier you
+Football based health programme to support a healthier you.
 
 Fit fans has helped football fans to achieve long-term improvement in weight loss, physical activity, diet and general wellbeing with fun football based programmes.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Could you organise your own sports team
+Could you organise your own sports team.
 
 Learn about how you could create and manage your own local sports team, fostering teamwork, fitness, and a sense of community.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Help and support to think differently about working longer
+Help and support to think differently about working longer.
 
 Think differently about working as you get older. Staying in work and taking control of when and how you retire can give you more money in later life as well as benefit your health and wellbeing.
 

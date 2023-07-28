@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn to see if you have any forgotten inactive accounts
+Learn to see if you have any forgotten inactive accounts.
 
 Learn more about inactive accounts, and how to see if you might have inactive accounts.
 

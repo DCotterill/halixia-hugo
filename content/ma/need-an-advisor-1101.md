@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out how to get the right financial advisor
+Find out how to get the right financial advisor.
 
 Getting the right financial advisor can provide benefits such as professional financial guidance, personalised investment strategies, risk management, and potentially higher investment returns.
 

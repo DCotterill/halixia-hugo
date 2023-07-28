@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn how to go self employed
+Learn how to go self employed.
 
 Discover the process of becoming self-employed, understanding legal obligations and steps for establishing your own business.
 

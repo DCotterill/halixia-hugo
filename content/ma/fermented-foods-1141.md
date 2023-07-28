@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Fermented foods can foster a healthy brain, body and mind
+Fermented foods can foster a healthy brain, body and mind.
 
 Try fermented foods as part of your daily diet and they could help weight loss, reduce inflammation, and even improve your mental health.
 

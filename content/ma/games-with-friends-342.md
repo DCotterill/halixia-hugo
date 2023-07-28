@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Online drawing & guessing game to play with friends & family
+Online drawing & guessing games to play with others.
 
 Have fun with friends and family even if not together by playing online games to stay connected.
 

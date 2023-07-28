@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Use these methods to ensure you're not paying too much tax
+Use these methods to ensure you're not paying too much tax.
 
 One of the simplest methods to make your money go further is to reduce your tax burden. Even making little modifications to your tax situation may save you a lot of money.
 

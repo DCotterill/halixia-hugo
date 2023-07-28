@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about staying safe online
+Learn about staying safe online.
 
 Learn about how to stay safe on the internet, to get the most out of your internet usage.
 

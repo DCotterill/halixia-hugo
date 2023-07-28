@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Discover a love for creative writing with a class
+Discover a love for creative writing with a class.
 
 Take an online creative writing class to learn how to write. Whether your interest is fiction, articles or non-fiction, find a writing workshop best suited for you and get writing.
 

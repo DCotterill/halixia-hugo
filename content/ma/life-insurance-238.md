@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Get life insurance to provide for your dependants
+Get life insurance to provide for your dependants.
 
 If anyone depends on your income, planning for their future if the worst were to happen could be invaluable. Life insurance can be one of the cheapest ways to protect your family's finances. 
 

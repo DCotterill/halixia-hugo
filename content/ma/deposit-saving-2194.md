@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out how to save for a deposit to buy your own home
+Find out how to save for a deposit to buy your own home.
 
 Saving for the deposit to buy your first home can be tricky with everyday spending demands. Once you know how much you need to save set a plan to achieve it with some of these ideas.
 

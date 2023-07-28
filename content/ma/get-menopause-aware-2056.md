@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn all about what to expect with menopause
+Learn all about what to expect with menopause.
 
 Empower yourself by learning more about menopause, what to expect and strategies for managing symptoms.
 

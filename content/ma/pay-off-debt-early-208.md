@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Help in tackling debts head on
+Help in tackling debts head on.
 
 If you're juggling several different debts the best thing you could do is to tackle them head-on and get on track to becoming debt-free. But where do you start?
 

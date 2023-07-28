@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of improving indoor air quality
+Learn about the importance of improving indoor air quality.
 
 Reduce exposure to air pollution to breathe cleaner air, reduce health risks, prevent respiratory issues, and create a healthier and more comfortable living environment.
 

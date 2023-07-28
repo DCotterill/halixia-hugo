@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Pass on more of your wealth to your loved ones
+Pass on more of your wealth to your loved ones.
 
 There are simple, totally legal ways, to mitigate inheritance tax to ensure your loved ones benefit from more of your hard work and legacy.
 

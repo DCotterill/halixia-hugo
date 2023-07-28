@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Understand the importance of working on your relationship
+Understand the importance of working on your relationship.
 
 Learn about the importance of working on, and improving your relationship with your partner, as well as tips to use to benefit those relationship.
 

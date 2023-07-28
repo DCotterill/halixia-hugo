@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about combining your pensions for ease and efficiency
+Learn about combining your pensions for ease and efficiency.
 
 Understand the advantages, and possible disadvantages, of bringing all your pensions together.
 

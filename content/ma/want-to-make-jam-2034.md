@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn all about preserving through making jam
+Learn all about preserving through making jam.
 
 Learn about making jam as a way of preserving fruit, to help reduce food waste, promote self-sufficiency, and make preservative-free options for healthier and tastier spreads.
 

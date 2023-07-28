@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about men's peer support groups across the UK
+Learn more about men's peer support groups across the UK.
 
 Learn more about peer support and how it can provide a social connection whilst pursuing shared practical interests.
 

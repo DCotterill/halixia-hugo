@@ -5,11 +5,11 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of wellbeing
+Learn about the importance of wellbeing.
 
 Understanding the importance of your own wellbeing is crucial for a fulfilling life. Empowering you to prioritise self-care, reduce stress, enhance happiness.
 
-Wellbeing is about physical, mental, and emotional health. It is crucial for a fulfilling life, promoting happiness, resilience, and overall satisfaction. Prioritising wellbeing can leadsto better relationships, increased productivity, reduced stress, and improved quality of life. It involves self-care, balance, and fostering positive habits and mindsets.
+Wellbeing is about physical, mental, and emotional health. It is crucial for a fulfilling life, promoting happiness, resilience, and overall satisfaction. Prioritising wellbeing can lead to better relationships, increased productivity, reduced stress, and improved quality of life. It involves self-care, balance, and fostering positive habits and mindsets.
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  

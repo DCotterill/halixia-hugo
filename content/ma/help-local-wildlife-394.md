@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out how to get involved in helping local wildlife
+Find out how to get involved in helping local wildlife.
 
 If you have a love for nature, give back to your community by getting involved in helping wildlife, find out more about how you can help.
 

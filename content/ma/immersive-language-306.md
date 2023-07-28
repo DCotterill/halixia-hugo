@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Combine learning a new language with cultural experience
+Combine learning a new language with cultural experience.
 
 Learn a new language with in-country courses to not only explore the language but the culture too. Taught by qualified, native speaking teachers.
 

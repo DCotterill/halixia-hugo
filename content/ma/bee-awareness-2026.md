@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of bees
+Learn about the importance of bees.
 
 Learn about the importance of bees such as by enhance pollination, leading to increased crop yield, improved fruit and vegetable quality, and a thriving ecosystem of plants and wildlife.
 

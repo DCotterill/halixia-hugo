@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about Mindfulness Based Stress Reduction (MBSR)
+Learn about Mindfulness Based Stress Reduction (MBSR).
 
 Learn about and share the benefits of mindfulness and teach others the practices of Mindfulness-Based Stress Reduction (MBSR) for stress management and wellbeing.
 

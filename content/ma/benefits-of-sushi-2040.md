@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the health benefits of sushi
+Learn about the health benefits of sushi.
 
 Sushi is a delicious and nutritious meal choice. It's a low-calorie option and offers a variety of flavours.
 

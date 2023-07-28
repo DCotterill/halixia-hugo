@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Use an advisor who specialises in later life planning
+Use an advisor who specialises in later life planning.
 
 The Society of Later Life Advisors is a not for profit organisation that matches clients with advisors who have been accredited to give advice on later life issues.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to find a home-based job
+How to find a home-based job.
 
 Explore home-based job options, allowing flexibility and convenience in your work environment.
 

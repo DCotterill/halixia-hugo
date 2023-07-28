@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about how you can improve your hearing
+Learn about how you can improve your hearing.
 
 Improving your hearing is important because it enhances communication, fosters meaningful connections, promotes cognitive function, improves safety awareness.
 

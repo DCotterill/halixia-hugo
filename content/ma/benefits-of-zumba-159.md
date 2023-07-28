@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the benefits of Zumba
+Learn about the benefits of Zumba.
 
 Find out more about this global dance inspired fitness activity. It’s a great way to dance to great music, with great people, and burn a ton of calories!
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Cook for your younger family members
+Cook for your younger family members.
 
 There's mountains of research about the social emotional and intellectual benefits of the family dinner, so cook a few extra spuds and invite the grandchildren round.
 

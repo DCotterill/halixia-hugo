@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Importance of hearing care
+Importance of hearing care.
 
 Looking after your hearing improves communication, cognitive function, safety, enjoyment of sounds, emotional well-being, and prevents hearing loss.
 

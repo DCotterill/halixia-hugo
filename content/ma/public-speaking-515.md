@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about improving your public speaking skills
+Learn about improving your public speaking skills.
 
 Learn about working on and improving your public speaking to help you improve your teaching skills.
 

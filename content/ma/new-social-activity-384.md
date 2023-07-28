@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find social activities near you
+Find social activities near you.
 
 Find social activities offered at your local Age UK with activities such as bridge, photography club, pub lunch and tea dance and so much more.
 

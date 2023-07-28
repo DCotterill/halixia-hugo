@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Investing can be a great way to get your money to grow
+Investing can be a great way to get your money to grow.
 
 This simple checklist will help you decide whether you're ready to start your investment journey, when to invest and whether you have a few things still to tick off before exploring your options.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn a new language with live online classes
+Learn a new language with live online classes.
 
 Learn a new language quickly and efficiently in a fun and interesting environment that also has the benefit of live classes to help get you speaking a new language.
 

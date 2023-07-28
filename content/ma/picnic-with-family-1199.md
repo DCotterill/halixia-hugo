@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Picnicking with your family is a great way to get outdoors
+Picnicking with your family is a great way to get outdoors.
 
 Learn about the benefits of picnics with family, fostering bonding, outdoor enjoyment, relaxation, stress relief whilst creating lasting memories for a stronger family connection.
 

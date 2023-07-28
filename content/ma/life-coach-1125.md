@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about being a life coach
+Learn about being a life coach.
 
 Learn about being a life coach, to help others achieve their goals, promote personal growth and development, and potentially lead to a rewarding and fulfilling career.
 

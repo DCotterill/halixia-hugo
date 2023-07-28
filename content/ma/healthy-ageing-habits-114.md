@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Read about research backed healthy habits for a longer life
+Read about research backed healthy habits for a longer life.
 
 Learn more about research backed healthy daily habits to help you live a longer life.
 

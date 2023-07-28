@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about why you should get tested
+Learn about why you should get tested.
 
 Learn more about getting tested for sexually transmitted infections (STIs). Anyone who is sexually active, regardless of age, or relationship status, should consider getting tested regularly.
 

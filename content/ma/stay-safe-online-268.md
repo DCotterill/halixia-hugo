@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Get practical know how on staying safe online
+Get practical know how on staying safe online.
 
 Practical advice on how to protect yourself, your computers and mobile devices and your business against fraud, identity theft, viruses and many other problems encountered online.
 

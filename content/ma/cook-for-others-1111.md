@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about making meals for those in your community
+Learn about making meals for those in your community.
 
 Whether someone is sick, grieving or new to the area, try going to your charity shop and picking up a cheap casserole dish to make a meal for someone in your community.
 

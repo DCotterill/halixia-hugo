@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Could you be a digital buddy and help others get online
+Could you be a digital buddy and help others get online.
 
 Do you know your way around a computer and feel confident in helping someone else? Find out about volunteering your time as a digital buddy, encouraging others to get online.
 

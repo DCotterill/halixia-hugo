@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about mental resilience
+Learn about mental resilience.
 
 Strengthen your mental resilience, equipping yourself with coping skills to navigate life's challenges, and wellbeing with simple tips and tools. 
 

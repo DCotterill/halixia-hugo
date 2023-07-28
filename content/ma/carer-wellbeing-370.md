@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about managing your wellbeing while caring for others
+Learn about managing your wellbeing while caring for others.
 
 Help in understanding how to manage your own wellbeing when caring for someone else. Get information and tips on looking after your mental health and finding support.
 

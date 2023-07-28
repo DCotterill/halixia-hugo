@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to keep saving whilst on Universal Credit
+How to keep saving whilst on Universal Credit.
 
 Help to Save' is a government backed savings scheme it allows eligible people on Universal Credit and Working Tax Credit to receive an extra boost to their regular savings from the government.
 

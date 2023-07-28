@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Bring together all of your assets, income and expenditure
+Bring together all of your assets, income and expenditure.
 
 Look at how cashflow planning can build income sustainability in retirement and help inform a discussion about appropriate levels of investment risk.
 

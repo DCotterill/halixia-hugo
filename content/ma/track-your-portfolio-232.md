@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to understand and track your investment portfolio
+How to understand and track your investment portfolio.
 
 Track your investments, get a clear picture of your assets and understand your portfolio performance.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about practicing Transcendental Meditation
+Learn about practicing Transcendental Meditation.
 
 Learn about Transcendental Meditation  (TM) for relaxation, stress reduction, and enhanced mental clarity.
 

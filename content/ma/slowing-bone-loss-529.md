@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to slow down bone loss
+How to slow down bone loss.
 
 Bone loss is inevitable as we age but we can work on slowing down the rate, learn what you can do to protect your bones
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Fun ideas for a great night in
+Fun ideas for a great night in.
 
 Post-pandemic, we are all bit more used to staying in, why not try one of these ideas to mix it up a bit.
 

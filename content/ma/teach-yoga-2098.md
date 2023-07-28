@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about starting your journey to begin teaching yoga
+Learn about starting your journey to begin teaching yoga.
 
 Learn about teaching yoga, to start sharing the practice of yoga to promote physical well-being, flexibility, mindfulness, and stress reduction.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out how to get the best remortgage deal
+Find out how to get the best remortgage deal.
 
 Getting a good mortgage deal can add up to big savings over time. With rates rising that is getting more tricky to navigate. Read up on the what you need to know to get the best deal you can.
 

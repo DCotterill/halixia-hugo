@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Live classes for older adults
+Live classes for older adults.
 
 Learn something new with live classes for older adults, by older adults - anything from art to travel.
 

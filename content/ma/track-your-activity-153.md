@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Track your walks or runs to see improvements in your health
+Track your walks or runs to see improvements in your health.
 
 You might already be walking or running regularly, but a tracking app like MapMyWalk can help you set goals and stay motivated. You can also use it to find new popular routes in your area.
 

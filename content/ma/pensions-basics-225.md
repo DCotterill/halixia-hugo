@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Understand your pensions and what you may need in retirement
+Understand your pensions and what you need in retirement.
 
 How much do you need in retirement and how much are you going to have?
 

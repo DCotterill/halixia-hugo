@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Get mortgage free sooner by overpaying your mortgage
+Get mortgage free sooner by overpaying your mortgage.
 
 Overpaying your mortgage can provide a great cash boost by reducing your debt and making savings in interest payments.
 

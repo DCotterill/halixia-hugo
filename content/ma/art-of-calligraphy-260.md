@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn the art of beautiful writing
+Learn the art of beautiful writing.
 
 Calligraphy can be described as the ancient art of writing words aesthetically. It is considered to be an art form, as it requires a considerable amount of patience and skill to master.
 

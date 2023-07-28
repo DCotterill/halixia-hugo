@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Wills are important whether or not you have very much
+Wills are important whether or not you have very much.
 
 Most people who are married, have dependants or have any assets would likely benefit from making a will, to ensure your assets are passed on as you wish.
 

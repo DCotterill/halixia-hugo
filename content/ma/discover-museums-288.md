@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Discover museums to visit from all over UK
+Discover museums to visit from all over UK.
 
 Discover museums to visit all over UK, no matter what your interests are, with this independent museum listing site in the UK.
 

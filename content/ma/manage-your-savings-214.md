@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Savings platforms may help you achieve better rates
+Savings platforms may help you achieve better rates.
 
 You could manage all your savings in one place through a savings platform. As well as convenience you could access consistently competitive rates from multiple banks and building societies.
 

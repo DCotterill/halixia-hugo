@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about sharing your knowledge and skills
+Learn about sharing your knowledge and skills.
 
 We all have life skills and knowledge that might be useful to others, learn more about how to share your skills to help benefit others.
 

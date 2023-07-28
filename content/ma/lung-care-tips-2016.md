@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn the importance of taking care of your lungs
+Learn the importance of taking care of your lungs.
 
 Learn to look after your lungs to help you breathe easier, reduce the risk of lung diseases, improve overall health, and enjoy a better quality of life.
 

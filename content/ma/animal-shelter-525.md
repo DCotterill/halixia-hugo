@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about volunteering an animal shelter
+Learn more about volunteering an animal shelter.
 
 Learn about volunteering at an animal shelter to help your local community and animals.
 

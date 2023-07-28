@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about initiating a community-based learning program
+Learn about initiating a community-based learning program.
 
 Learn about initiating a community-based learning program to promote education, skill development, and lifelong learning.
 

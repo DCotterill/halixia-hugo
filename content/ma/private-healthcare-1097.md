@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about private healthcare provision
+Learn about private healthcare provision.
 
 Read about private healthcare provision in the UK that complements the NHS and can give you access to more tailored healthcare.
 

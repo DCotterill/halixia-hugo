@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of mental health courses
+Learn about the importance of mental health courses.
 
 Learn about the importance of understanding mental health and well-being.
 

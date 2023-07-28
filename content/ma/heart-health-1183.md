@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Why looking after your heart is important for your health
+Why looking after your heart is important for your health.
 
 Learn about improving your heart health to help reduce the risk of cardiovascular diseases and maintaining a healthy lifestyle.
 

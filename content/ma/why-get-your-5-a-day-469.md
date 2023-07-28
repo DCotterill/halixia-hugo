@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the benefits of eating fruit and vegetables
+Learn about the benefits of eating fruit and vegetables.
 
 Fruit and vegetables are part of a healthy, balanced diet and can help you stay healthy. It's important that you eat enough of them, current dietary advice is based on getting your 5 a day.
 

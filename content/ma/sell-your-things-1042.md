@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about selling your things at a car boot sale
+Learn about selling your things at a car boot sale.
 
 Learn more about how to find car boots and how to make money selling items, at one near you.
 

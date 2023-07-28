@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about assessing your subscription services
+Learn about assessing your subscription services.
 
 Learn about why you should regularly assess and evaluate current subscriptions to optimise expenses and eliminate unnecessary ones.
 

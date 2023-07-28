@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out about the importance of keeping our beaches clean
+Find out about the importance of keeping our beaches clean.
 
 Learn about beach clean-up to protect marine life, prevent pollution, preserve coastal beauty, and promote environmental responsibility.
 

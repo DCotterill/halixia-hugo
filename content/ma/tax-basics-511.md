@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn the basics about UK tax and how to deal with HMRC
+Learn the basics about UK tax and how to deal with HMRC.
 
 We all have a general legal obligation to ensure we're paying the right amount of tax. Understanding the UK tax system will help you to check that you meet your obligations.
 

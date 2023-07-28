@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about how you could become a local councillor
+Learn about how you could become a local councillor.
 
 Find out how to become a local councillor in your area and find out if local politics is something for you.
 

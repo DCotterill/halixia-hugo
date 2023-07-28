@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out what practical support is available for carers
+Find out what practical support is available for carers.
 
 If you are already a carer or could become one in the future make sure you are getting all the practical support you need.
 

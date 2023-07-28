@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-A healthy sex life has many benefits for older adults
+A healthy sex life has many benefits for older adults.
 
 Having sex is a really important part of overall health and happiness, and people that have it, tend to live longer, this article talks about the benefits of a healthy sex life for older adults.
 

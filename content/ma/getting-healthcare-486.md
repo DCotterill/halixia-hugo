@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Get the right healthcare for your needs
+Get the right healthcare for your needs.
 
 Learn more about when to seek help from which healthcare service, helping you get the right medical treatment whilst helping the NHS.
 

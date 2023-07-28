@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Step by step guide to buying your first home
+Step by step guide to buying your first home.
 
 Find out what you need to do to get on the property ladder. Because buying a home can be daunting at any age.
 

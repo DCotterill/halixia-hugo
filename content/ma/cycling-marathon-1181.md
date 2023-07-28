@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Ever thought about doing a cycling marathon
+Ever thought about doing a cycling marathon.
 
 A cycling marathon is a 100 mile bike ride. Training for this challenge is a great way to improve fitness, increase endurance, build mental resilience, and create a great sense of accomplishment.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Spark your curiosity with a TED talk
+Spark your curiosity with a TED talk.
 
 TED talks are short powerful talks of free knowledge from the world's most inspired thinkers. Get inspired with this list of the most popular TED talks.
 

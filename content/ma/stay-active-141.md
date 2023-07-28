@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Help to keep you moving, whatever your age
+Help to keep you moving, whatever your age.
 
 However you're feeling right now, and whatever you're dealing with, this site can help you get moving more so you'll feel better for longer.
 

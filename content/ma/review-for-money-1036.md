@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about reviewing for extra money
+Learn about reviewing for extra money.
 
 If you feel you have a good ear for music, or an eye for fashion, learn more about reviewing and feedback for some extra money.
 

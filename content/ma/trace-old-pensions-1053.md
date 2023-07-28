@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn how to track down all your different pension schemes
+Learn how to track down all your different pension schemes.
 
 Learn more about how to track down all your different old or lost pension schemes that both you or an employer paid into, help make sure you're claiming everything you're entitled to in retirement.
 

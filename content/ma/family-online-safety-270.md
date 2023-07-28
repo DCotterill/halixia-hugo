@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Get practical knowhow keeping your family safe online
+Get practical knowhow keeping your family safe online.
 
 Young people are growing up in an increasingly digital world, exposing them to both the opportunities and risks of the internet. Get savvy on how you can protect yourself and your family when online.
 

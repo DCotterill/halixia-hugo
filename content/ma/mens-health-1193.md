@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Improve your awareness of preventable health problems
+Improve your awareness of preventable health problems.
 
 Learn about the importance of being aware of men's health problems to help with early detection, reducing stigma, helping improve your overall well-being and longevity.
 

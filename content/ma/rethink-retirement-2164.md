@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn all about the FIRE movement
+Learn all about the FIRE movement.
 
 Discover the principles of the Financial Independence, Retire Early (FIRE) movement, emphasising financial independence and early retirement planning.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out how your pensions savings can impact your benefits
+Find out how your pensions savings can impact your benefits.
 
 How your pension pot (or your partner’s pension pot) is treated for benefits entitlement depends on whether you or your partner have reached the qualifying age for Pension Credit.
 

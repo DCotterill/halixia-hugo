@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about volunteering as a guide runner
+Learn about volunteering as a guide runner.
 
 Learn more about assisting individuals with visual impairments by providing guidance and support during running or athletic activities.
 

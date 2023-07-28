@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-The importance of looking after eyes
+The importance of looking after eyes.
 
 Regular eye care can detect and prevent potential vision problems, ensuring early intervention and treatment if needed.
 

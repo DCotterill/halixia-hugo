@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about ways to protect your main income
+Learn about ways to protect your main income.
 
 Learn about ways to protect your main source of income from loss, to remove the stress of having to rely on others in the event of an emergency.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Explore common self-employed jobs
+Explore common self-employed jobs.
 
 Discover popular self-employed job opportunities, exploring diverse industries and uncovering potential avenues for income generation.
 

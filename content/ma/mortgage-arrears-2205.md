@@ -1,11 +1,11 @@
 ---
-title: "Mortgage Arrears"
+title: "Mortgage arrears"
 date: 2020-09-01T12:49:27+06:00
 featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Mortgage arrears are a priority debt, you need to pay them before debts
+Why paying your mortgage first is key when managing debt.
 
 Mortgage debt needs to prioritised over other debt, like credit cards. Find out what you can do to get help and support before debt starts to stack up.
 

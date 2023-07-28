@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Start taking chess lessons to improve cognitive function
+Start taking chess lessons to improve cognitive function.
 
 Chess is one of the oldest and most popular board games. The board represents a battlefield in which two armies fight to capture each other’s King. Chess is a game of skill and strategy.
 

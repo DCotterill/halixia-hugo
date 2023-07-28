@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn how to train for a 10k and find a race near you
+Learn how to train for a 10k and find a race near you.
 
 Find out how taking your running to the next level by doing a 10k can reap further benefits of improved endurance, cardiovascular health, and a sense of accomplishment.
 

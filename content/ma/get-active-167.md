@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Physical activity is good for your body and mind
+Physical activity is good for your body and mind.
 
 It's the perfect time to get active. No matter how much you do, physical activity is good for your body and mind. Try these tools, tips and special offers to move more every day.
 

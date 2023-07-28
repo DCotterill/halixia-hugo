@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Get skills and confidence in accessing digital tech
+Get skills and confidence in accessing digital tech.
 
 Find a centre near you offering help to build skills and confidence in accessing digital technology.
 

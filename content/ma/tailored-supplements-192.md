@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out how to meet your nutritional requirements
+Find out how to meet your nutritional requirements.
 
 Healthspan offers a wide variety of vitamins and supplements tailored specifically to men's health and wellbeing.
 

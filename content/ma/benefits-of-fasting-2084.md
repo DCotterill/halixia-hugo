@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about intermittent fasting
+Learn about intermittent fasting.
 
 Learn about exploring intermittent fasting as a way to improve health, manage weight, and optimise energy levels.
 

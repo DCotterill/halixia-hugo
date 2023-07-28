@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about selling your skills
+Learn about selling your skills.
 
 Do you have a skill or hobby that can be monetised? Learn more about how you can make money from doing the things that you enjoy.
 

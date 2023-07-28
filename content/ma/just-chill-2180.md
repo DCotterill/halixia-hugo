@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about taking breaks and having downtime with family
+Learn about taking breaks and having downtime with family.
 
 Prioritise quality time and relaxation by taking breaks and having downtime with your family, promoting balance, stress reduction, and stronger relationships.
 

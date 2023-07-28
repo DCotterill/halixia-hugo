@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Have you got the skills you need for self-employment
+Have you got the skills you need for self-employment?
 
 Identify essential skills for self-employment, equipping yourself for success in running your own business.
 

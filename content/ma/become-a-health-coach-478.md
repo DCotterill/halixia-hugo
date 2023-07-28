@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Health coaching to improve the health of others and yourself
+Improve the health of others and yourself through coaching.
 
 If you have a deep interest in health and wellness, why not upskill and coach others. Creating a safe space for yourself or others to explore wellbeing and facilitate lifestyle change.
 

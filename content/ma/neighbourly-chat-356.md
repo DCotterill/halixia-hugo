@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Make a difference by checking in on your neighbours
+Make a difference by checking in on your neighbours.
 
 Check out our five simple tips for making a new connection in under five minutes, whether that’s with someone familiar or someone new and unexpected. You never know the difference it could make.
 

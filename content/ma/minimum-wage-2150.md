@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the minimum wage
+Learn about the minimum wage.
 
 Find out about your entitlement to a minimum wage, ensuring fair pay and compliance with employment laws.
 

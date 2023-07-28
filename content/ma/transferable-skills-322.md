@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-The importance of transferable skills
+The importance of transferable skills.
 
 You are already likely to possess many transferable skills employers value. Highlighting your transferable skills is especially important when changing jobs or industries.
 

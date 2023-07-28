@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about selling your photos online
+Learn about selling your photos online.
 
 If you are a photographer, a budding photographer or just enjoy taking photos, learn about selling your photos online to create extra income doing something you love.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about training to run a marathon
+Learn more about training to run a marathon.
 
 Running marathons improves physical fitness, mental strength, and discipline. It's a great way to challenge yourself and achieve personal fitness goals.
 

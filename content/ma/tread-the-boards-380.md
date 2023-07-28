@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about taking part in amateur theatre
+Learn more about taking part in amateur theatre.
 
 Information and listings for amateur theatrical groups, schools, societies, choirs, troupes and clubs in your local area.
 

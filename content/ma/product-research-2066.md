@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out why and how you can research products
+Find out why and how you can research products.
 
 Learn about the importance of gathering information, reading reviews, and comparing options before making significant purchases.
 

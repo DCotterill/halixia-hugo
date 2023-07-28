@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of looking after wildlife
+Learn about the importance of looking after wildlife.
 
 Learn about the importance of looking after wildlife in your garden such as, biodiversity support, ecosystem health, natural pest control, pollination, and a deeper connection with nature.
 

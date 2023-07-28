@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Connect with dog owners and borrow their dog for walks
+Connect with dog owners and borrow their dog for walks.
 
 BorrowMyDoggy connects people who don't own a dog with dog owners to help look after their dog, for walks, weekend, and holidays.
 

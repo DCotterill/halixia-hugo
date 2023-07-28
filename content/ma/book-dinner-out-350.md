@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Try somewhere new for dinner with a friends or family
+Try somewhere new for dinner with a friends or family.
 
 Open Table enables diners to find and book the perfect table for every occasion, creating opportunity for human connection—among diners and restaurants, and between restaurants and their communities.
 

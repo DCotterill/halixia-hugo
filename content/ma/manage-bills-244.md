@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Minimise and manage bills for extra peace of mind
+Minimise and manage bills for extra peace of mind.
 
 Guide to how to manage your bills closely to avoid penalties and start cutting out anything that is not a necessity. Check regularly to stay on top of things.
 

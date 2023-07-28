@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Easy family friendly dinner ideas
+Easy family friendly dinner ideas.
 
 Keep everyone happy with these easy family friendly dinner ideas. There's pasta, of course, but also plenty of easy bakes and crunchy breaded goodies.
 

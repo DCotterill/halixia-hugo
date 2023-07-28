@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Start at the beginning and get to grips with managing money
+Start at the beginning and get to grips with managing money.
 
 Taking the time to manage your money better can really pay off. Learning to budget can help you stay on top of your bills and save.
 

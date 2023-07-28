@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Try a podcast
+Try a podcast.
 
 Dip your toe into a pick of the best podcasts on Spotify, Apple Podcasts and more covering technology, culture, science, politics, and new ideas.
 

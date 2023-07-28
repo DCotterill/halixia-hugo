@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Age UK can help you find out about learning opportunities
+Age UK can help you find out about learning opportunities.
 
 Education is a great way to learn something new, meet people, acquire new skills or have an active retirement. Advice from Age UK can help you make the most of learning opportunities available.
 

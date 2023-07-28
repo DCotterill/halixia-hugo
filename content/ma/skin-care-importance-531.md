@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Read about the importance of skin care
+Read about the importance of skin care.
 
 The skin is the largest organ in the body but often gets neglected, read more about the importance of looking after your skincare.
 

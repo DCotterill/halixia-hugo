@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Read about Mindfulness Based Stress Reduction (MBSR)
+Read about Mindfulness Based Stress Reduction (MBSR).
 
 Read about incorporating regular mindfulness practices into your daily life to reduce stress, increase self-awareness, and enhance overall wellbeing.
 

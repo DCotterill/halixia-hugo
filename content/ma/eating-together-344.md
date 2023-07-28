@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-The benefits of eating together with friends and family
+The benefits of eating together with friends and family.
 
 Eating meals together improves mood, combats feelings of isolation, and even improves self-image.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out how you could teach creative arts on Skillshare
+Find out how you could teach creative arts on Skillshare.
 
 Skillshare allows you to create courses where you can teach others your creative skills. Get acquainted with it’s approach to teaching online and everything you need to get started.
 

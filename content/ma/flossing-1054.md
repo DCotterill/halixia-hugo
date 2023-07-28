@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Importance of flossing
+Importance of flossing.
 
 Although flossing is one of those annoying daily routines, learn more about the importance and benefits of flossing daily.
 

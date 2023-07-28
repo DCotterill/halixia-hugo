@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to organise a community event like a street party
+How to organise a community event like a street party.
 
 Host a community event, such as a street party or a smaller event with your neighbours, helping you to get to know your neighbours and foster a sense of community in your area.
 

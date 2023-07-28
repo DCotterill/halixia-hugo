@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to pay it forward
+How to pay it forward.
 
 Learn about what paying it forward means and how you can positively impact others and create a chain effect of goodwill.
 

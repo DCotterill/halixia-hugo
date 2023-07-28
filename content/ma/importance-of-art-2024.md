@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about how art benefits your life
+Learn about how art benefits your life.
 
 Art has a positive impact on health by promoting emotional well-being, reducing stress, stimulating creativity, and enhancing overall mental and emotional health.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about becoming a swimming coach
+Learn about becoming a swimming coach.
 
 Turn a love of swimming into coaching and mentoring swimmers of all levels.
 

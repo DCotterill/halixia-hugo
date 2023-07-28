@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Couch to 5k, work up towards running 5km in just 9 weeks
+Couch to 5k, work up towards running 5km in just 9 weeks.
 
 Taking up running can seem like a scary prospect, but the NHS couch to 5K will help you gradually work up towards running 5km in just 9 weeks, through a guided mix of walking and running.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about PTSD and how to help others
+Learn about PTSD and how to help others.
 
 Learn about the importance of Post Traumatic Stress Disorder (PTSD) awareness to enhance your understanding of PTSD, its impact, and support those affected by it.
 

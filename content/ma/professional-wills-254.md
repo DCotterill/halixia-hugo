@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find a specialist legal professional for your will
+Find a specialist legal professional for your will.
 
 Using a legal professional who specialises in writing wills and other estate matters could be crucial especially if you have more complex affairs.
 

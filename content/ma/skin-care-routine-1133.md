@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of good skincare
+Learn about the importance of good skincare.
 
 Learn more about having a good skincare routine to help you maintain the health and appearance of your skin.
 

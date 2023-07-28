@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Enjoy sharing a love of reading with your family
+Enjoy sharing a love of reading with your family.
 
 Cultivate a love for reading by sharing books with your family, fostering imagination, knowledge, and deeper connections through storytelling.
 

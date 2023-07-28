@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to teach effectively
+How to teach effectively.
 
 Learn more about teaching effectively, helping those you teach whilst helping you to refine and master those skills yourself.
 

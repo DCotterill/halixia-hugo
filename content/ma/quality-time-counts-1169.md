@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Why spending quality time with your children is important
+Why spending quality time with your children is important.
 
 Learn about how spending quality time with your children, no matter their age to help contribute to a healthy relationship and develop growth and happiness.
 

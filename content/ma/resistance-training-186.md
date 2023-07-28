@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Change the way you exercise in later life
+Change the way you exercise in later life.
 
 Instepp is designed to activate, tone, and strengthen your whole body using established methods of exercise that combine the benefits of resistance training with fundamental movement.
 

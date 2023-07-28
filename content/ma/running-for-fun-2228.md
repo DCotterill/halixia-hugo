@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Not all running needs to be serious
+Not all running needs to be serious.
 
 Participate in a local fun run, promoting fitness, community engagement, and a sense of accomplishment.
 

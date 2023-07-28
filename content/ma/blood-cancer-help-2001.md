@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about how you can help people with blood cancer
+Learn about how you can help people with blood cancer.
 
 Help raise awareness of the need for stem cell donors to help people with blood cancer or a blood disorder, a stem cell transplant from a matching donor could be their last chance of survival.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out how to become a trustee on a local charity board 
+Find out how to become a trustee on a local charity board.
 
 Becoming a trustee on the board of a charity that means something to you is a great way support these causes, participate in decision-making and drive positive change.
 

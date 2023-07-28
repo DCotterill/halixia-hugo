@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Not all running needs to be serious
+Not all running needs to be serious.
 
 Taking part in fun runs is a great way to promote fitness, enjoy community spirit, and support charitable causes.
 

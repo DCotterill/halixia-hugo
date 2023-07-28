@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Impartial guide to how to deal with a reduction in income
+Impartial guide to how to deal with a reduction in income.
 
 If, for one reason or another, you're experiencing a reduction in income Money Navigator can help you get back on track.
 

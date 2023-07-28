@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Make some new friends
+Make some new friends.
 
 Striking up new friendships, especially in adulthood, can be tricky and can take a lot of time. Learn more about the benefits of having friends and how to widen your circle by making friends online.
 

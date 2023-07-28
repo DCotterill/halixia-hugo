@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about how to find a new job
+Learn about how to find a new job.
 
 Explore effective strategies for finding a new job in the UK, maximising your chances of securing a rewarding position.
 

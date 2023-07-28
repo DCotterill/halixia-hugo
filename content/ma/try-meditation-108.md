@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Guided meditations to boost health
+Guided meditations to boost health.
 
 Try guided meditation hosted by a psychotherapist. Walking you through calm discussions of body and mind, helping you deal with life’s stresses or to help you destress after a long day.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of prioritising needs over wants
+Learn about the importance of prioritising needs over wants.
 
 Learn about how to prioritise your essential needs over non-essential wants for better financial well-being.
 

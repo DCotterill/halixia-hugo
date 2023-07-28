@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn the importance of listening to your body
+Learn the importance of listening to your body.
 
 Learn why and how to listen to your body. Our bodies know exactly what we need, learning how to listen, to better be there for yourself.
 

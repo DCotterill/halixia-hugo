@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Combine travel with volunteering in a different country
+Combine travel with volunteering in a different country.
 
 Make a positive impact while travelling by embarking on a volunteering holiday, contributing to local communities and causes.
 

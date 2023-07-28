@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Exercise your cognitive skills with this program
+Exercise your cognitive skills with this program.
 
 Discover what your mind can do with activities to help exercise your memory, processing speed, problem solving and much more.
 

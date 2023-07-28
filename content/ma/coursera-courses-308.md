@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Career advancing courses from Coursera
+Career advancing courses from Coursera.
 
 Online learning platform Coursea offers more than 5,000 courses, Professional Certificates, and degrees from world-class universities and companies. Start, switch, or advance your career.
 

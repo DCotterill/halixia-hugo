@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Be a better co-worker by helping and supporting others
+Be a better co-worker by helping and supporting others.
 
 Read tips on how you can help and support your co-workers to foster a better workplace environment.
 

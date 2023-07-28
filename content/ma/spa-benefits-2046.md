@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the benefits of using a spa
+Learn about the benefits of using a spa.
 
 Whether you go on a spa break or visit a local spa they offer relaxation, rejuvenation, stress relief and self-care. Helping to promote mental and physical well-being, enhancing overall health and happiness.
 

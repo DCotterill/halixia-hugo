@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Read about opportunities to earn a second income
+Read about opportunities to earn a second income.
 
 Learn how to boost your income. There are many ways to earn extra money, whether selling stuff, working from home or using the web.
 

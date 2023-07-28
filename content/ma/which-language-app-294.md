@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find the right language learning platform for you
+Find the right language learning platform for you.
 
 Digital technology has opened up loads of new ways to learn a language, making it very practical and affordable. Work out which is best for you before diving in and learning a second language.
 

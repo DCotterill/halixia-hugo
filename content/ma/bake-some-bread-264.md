@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Making freshly baked homemade bread is special
+Making freshly baked homemade bread is special.
 
 Making fresh bread at home is a tasty, satisfying and rewarding skill. From mixing and proving, to shaping and baking, making delicious homemade loaves isn't easy to master without some help and guidance.
 

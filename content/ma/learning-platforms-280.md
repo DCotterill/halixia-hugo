@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Help in choosing a suitable online learning platform
+Help in choosing a suitable online learning platform.
 
 Help in choosing from the many online learning platforms available to ensure you get the best out of any learning experience.
 

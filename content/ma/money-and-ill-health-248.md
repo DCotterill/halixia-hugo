@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Guide to managing money during periods of ill health
+Guide to managing money during periods of ill health.
 
 If you’re facing a health problem, try and sort out your money situation as soon as you can. This guide covers benefits entitlement, local council support, and where to get help with everyday costs like prescriptions, electricity and gas.
 

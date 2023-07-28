@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Read more about the benefits of breathing exercises
+Read more about the benefits of breathing exercises.
 
 Breathing is something you do tens of thousands of times each day, without even thinking about it. Learn more about using breathing as a life-enhancing tool.
 

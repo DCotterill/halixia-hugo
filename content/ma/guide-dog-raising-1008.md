@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about becoming a guide dog puppy raiser
+Learn about becoming a guide dog puppy raiser.
 
 Learn more about becoming a guide dog puppy raiser, for those with a love of animals, with extra love and time to give towards making a big difference in someone life.
 

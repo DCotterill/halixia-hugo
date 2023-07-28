@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out about group mediation
+Find out about group mediation.
 
 Engage in group meditation for enhanced focus, relaxation, and inner peace, benefiting from the collective energy of the meditation group.
 

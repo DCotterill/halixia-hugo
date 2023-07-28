@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Importance of dental check ups
+Importance of dental check ups.
 
 Learn about the importance of dental check-ups, and why you should have them regularly.
 

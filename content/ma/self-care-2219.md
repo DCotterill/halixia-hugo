@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Share your self care with others
+Share your self care with others.
 
 Embrace a more social form of self-care by spending quality time with friends, nurturing wellbeing, and deepening friendships.
 

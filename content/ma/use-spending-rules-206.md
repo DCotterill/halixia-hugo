@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-The 50-30-20 rule is a way to help manage your spending
+The 50-30-20 rule is a way to help manage your spending.
 
 Find out how this simple rule to share out your income can help create some great spending habits.
 

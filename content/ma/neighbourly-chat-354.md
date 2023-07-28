@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Help look out for your elderly neighbours
+Help look out for your elderly neighbours.
 
 Volunteer your time and energy to help older people live a happy, connected, and purposeful later life.
 

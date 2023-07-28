@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to find a job on LinkedIn
+How to find a job on LinkedIn.
 
 Utilise LinkedIn effectively to find job opportunities, network with professionals, and showcase your skills and experience.
 

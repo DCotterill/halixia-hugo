@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out if this type of mortgage could save you money
+Find out if this type of mortgage could save you money.
 
 Learn all about offset mortgages and the personal circumstances that may make them suitable for you and help save on interest payments and get mortgage free sooner.
 

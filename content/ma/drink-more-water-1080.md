@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Importance of staying hydrated
+Importance of staying hydrated.
 
 Drinking water does more than just quench your thirst. It's essential to keep your body functioning properly and feeling healthy, learn more about the importance of staying hydrated.
 

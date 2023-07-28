@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about being a magistrate
+Learn about being a magistrate.
 
 Volunteering as a magistrate gives the opportunity of contributing to your community, upholding justice, and making a positive impact on individuals and society.
 

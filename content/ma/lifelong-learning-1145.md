@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of lifelong learning
+Learn about the importance of lifelong learning.
 
 Lifelong learning enhances personal growth, expands knowledge and skills, fosters adaptability, improves career prospects, and promotes intellectual stimulation and fulfilment.
 

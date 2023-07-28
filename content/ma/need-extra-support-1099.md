@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about men's mental health support groups
+Learn about men's mental health support groups.
 
 Seeking mental health support can save lives, improve mental health, and promote positive coping strategies. It can also reduce the risk of suicide.
 

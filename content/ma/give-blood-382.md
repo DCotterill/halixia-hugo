@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about giving blood
+Learn about giving blood.
 
 Most people can give blood if they are fit and healthy, but there are some rules for donor to follow, find out if you can be a blood donor.
 

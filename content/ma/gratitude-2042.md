@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of practicing gratitude
+Learn about the importance of practicing gratitude.
 
 Learn about how practicing gratitude is vital for mental and emotional well-being, helping you to shift focus to the positive, helping you to boost happiness while reducing stress.
 

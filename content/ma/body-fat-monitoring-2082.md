@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about monitoring your body composition
+Learn about monitoring your body composition.
 
 Learn about monitoring and tracking body composition to assess health progress and make informed fitness decisions.
 

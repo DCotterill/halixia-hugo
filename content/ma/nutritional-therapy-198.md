@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Support for a healthier relationship with food
+Support for a healthier relationship with food.
 
 Nutritional therapy is the practice of using food, supplements and healthy diets, tailored towards helping you reach your health goals through a healthy relationship with food.
 

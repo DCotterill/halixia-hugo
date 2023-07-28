@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the benefits of using a spa
+Learn about the benefits of using a spa.
 
 Indulge in relaxation and rejuvenation by taking regular spa trips with friends, bonding over self-care and wellness.
 

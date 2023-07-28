@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Equity release is a way to release cash from your home
+Equity release is a way to release cash from your home.
 
 There are advantages and disadvantages to equity release products. You should consider all your options and get independent financial advice before deciding if it’s the right choice for you.
 

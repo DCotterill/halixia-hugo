@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Social network with people in your local area
+Social network with people in your local area.
 
 Learn more about Nextdoor, the social network for your local area. It's where you can share news, events and even sell your unwanted stuff.
 

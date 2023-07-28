@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about dental care
+Learn more about dental care.
 
 From how long to brush your teeth for, to technique and products, learn more about the best way to take care of your teeth.
 

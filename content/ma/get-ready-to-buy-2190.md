@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Sort out your finances ahead of applying for a mortgage
+Sort out your finances ahead of applying for a mortgage.
 
 There are plenty of simple things you can do ahead of applying for a mortgage to increase your chances of getting a better deal.
 

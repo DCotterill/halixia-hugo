@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Micronutrients to help improve health and longevity
+Micronutrients to help improve health and longevity.
 
 Listen to this podcast which talks about the four major categories of micronutrients that improve the immune system, longevity and much more, with actions for obtaining key micronutrients.
 

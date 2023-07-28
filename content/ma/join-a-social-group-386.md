@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of joining social groups
+Learn about the importance of joining social groups.
 
 Joining a social group is a great way to meet new people, learn new things, find support, get out of your comfort zone and pursue your passions.
 

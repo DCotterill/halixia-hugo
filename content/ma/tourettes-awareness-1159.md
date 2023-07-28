@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Raise your awareness of Tourette Syndrome (TS)
+Raise your awareness of Tourette Syndrome (TS).
 
 If you know someone with TS it may be worthwhile learning about it, its challenges, and the experiences of individuals living with it.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of explaining things better
+Learn about the importance of explaining things better.
 
 Learn about how to explain things better to help you enhance communication skills, improve relationships, increase clarity and understanding.
 

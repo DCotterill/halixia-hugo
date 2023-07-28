@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about protecting your income
+Learn about protecting your income.
 
 Learn about income protection and if this is right for you.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Yoga and meditation classes you can practice anywhere
+Yoga and meditation classes you can practice anywhere.
 
 This online yoga studio includes ready-made classes to practice anywhere, choose your level, duration and focus to find the perfect class for you.
 

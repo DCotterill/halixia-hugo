@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the different tax efficient investment vehicles
+Learn about the different tax efficient investment vehicles.
 
 Learn about tax efficient investment vehicles for higher net worth investors. Understand the various reliefs and advantages available and whether they are suitable for you.
 

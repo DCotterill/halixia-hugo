@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about renting your parking
+Learn about renting your parking.
 
 If you have space on your driveway, a garage or ev charger, rent it out to earn some extra income.
 

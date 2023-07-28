@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the benefits of adding yoga into your life
+Learn about the benefits of adding yoga into your life.
 
 Read about the benefits of yoga for everyone. Getting into a regular practice offers so many mental and physical health benefits. Some, like improved flexibility, are clearly evident.
 

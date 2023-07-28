@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about protecting your hearing
+Learn about protecting your hearing.
 
 Protecting your hearing preserves communication, prevents loss, enhances cognition, promotes safety, enables sound enjoyment, and boosts overall wellbeing.
 

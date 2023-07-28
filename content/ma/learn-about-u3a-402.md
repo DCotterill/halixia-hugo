@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-A member run community to enjoy shared interests
+A member run community to enjoy shared interests.
 
 Learn about u3a, a UK wide cooperative movement of people no longer in full time work to continue their educational, social, and creative interests in a friendly and informal environment.
 

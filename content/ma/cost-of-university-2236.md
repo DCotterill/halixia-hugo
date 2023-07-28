@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Manage the costs of having a child at university
+Manage the costs of having a child at university.
 
 Even if you've saved all their life there's still things you can do to help with the financial burden of having a child at university
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Keep up to date with Age UK news
+Keep up to date with Age UK news.
 
 Learn about the issues affecting the elderly with news and views on age and ageing.
 

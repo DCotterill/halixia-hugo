@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-A simple workout series to help begin your fitness journey
+A simple workout series to help begin your fitness journey.
 
 Start your exercise journey with easy-to-follow exercise sessions designed for beginners.
 

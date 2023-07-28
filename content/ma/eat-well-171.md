@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Information and guidance on eating a healthy balanced diet
+Information and guidance on eating a healthy balanced diet.
 
 A healthy, balanced diet is an important part of maintaining good health, making sure to eat the right amounts from a wide variety of food can help you achieve and maintain a healthy body weight.
 

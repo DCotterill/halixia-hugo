@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Ways you can support your local arts community
+Ways you can support your local arts community.
 
 Find out how to support arts in your local community, knowing you are helping build a healthy, robust and diverse society.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out the nutritional benefits of cheese
+Find out the nutritional benefits of cheese.
 
 Learn more about how cheese is a valuable addition to a balanced diet as it provides protein, calcium, essential vitamins, and healthy fats in a delicious and versatile way.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Importance of dental cleans
+Importance of dental cleans.
 
 Learn about the importance of visiting your dentist for a deep dental clean and why you should have them more regularly.
 

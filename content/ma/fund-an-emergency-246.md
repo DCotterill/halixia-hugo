@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-An emergency fund is a step towards financial security
+An emergency fund is a step towards financial security.
 
 Building an emergency fund can help prevent you needing to borrow money or make difficult financial decisions, by giving you savings to fall back on. How much you need, will depend on your situation.
 

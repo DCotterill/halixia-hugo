@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about stem cell donation to help blood cancer sufferers
+Help people with blood cancer through stem cell donation.
 
 Register to be a stem cell donor and know that for someone with blood cancer or a blood disorder, a stem cell transplant from a matching donor could be their last chance of survival.
 

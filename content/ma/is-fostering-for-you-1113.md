@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about becoming a foster parent
+Learn about becoming a foster parent.
 
 Find out about becoming a foster parent can provide a loving home to a child in need, positively impact their life, and potentially create a lifelong relationship.
 

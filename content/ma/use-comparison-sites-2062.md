@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of comparison sites
+Learn about the importance of comparison sites.
 
 Learn about comparing prices and features of services such as mortgages, utilities, and Wi-Fi, to help you make more informed purchasing decisions and save money.
 

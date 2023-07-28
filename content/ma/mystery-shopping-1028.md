@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Lean more about mystery shopping
+Lean more about mystery shopping.
 
 Learn more about mystery shopping, and how you can get paid for doing something you love.
 

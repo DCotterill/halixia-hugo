@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of gas safety checks
+Learn about the importance of gas safety checks.
 
 Learn about the importance of having gas safety checks and carbon monoxide detectors to keep you and your family safe.
 

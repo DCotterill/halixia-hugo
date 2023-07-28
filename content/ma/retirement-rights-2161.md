@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about how you can plan for your retirement, even retire early
+Learn about how you can plan for your (early) retirement.
 
 Secure your future by planning for retirement in the UK, ensuring financial stability and peace of mind.
 

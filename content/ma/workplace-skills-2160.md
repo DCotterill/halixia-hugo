@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Improve your basic skills in work
+Improve your basic skills in work.
 
 Enhance fundamental workplace skills, boosting confidence and performance in your job role.
 

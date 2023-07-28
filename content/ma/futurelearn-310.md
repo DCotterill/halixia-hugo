@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Online learning with world class universities and experts
+Online learning with world class universities and experts.
 
 Futurelearn is a UK based learning platform, partnering with world-leading academic institutions known for their teaching and research across a variety of fields.
 

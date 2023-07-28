@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Guidance on becoming your own boss
+Guidance on becoming your own boss.
 
 Starting a business or becoming self-employed is a life-long dream for many, however, it can also be risky so legal and financial aspects need to be carefully considered.
 

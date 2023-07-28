@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about how to code and programme
+Learn about how to code and programme.
 
 If you have always been fascinated and wanted to learn how to code or get into programming, take some courses to learn anything from how to build a website to very specific programming languages.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about how savings products are taxed
+Learn about how savings products are taxed.
 
 Learn more about how savings are taxed and how to make use of tax savings and allowances.
 

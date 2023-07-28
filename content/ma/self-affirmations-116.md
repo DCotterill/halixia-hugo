@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Benefits of using self-affirmations
+Benefits of using self-affirmations.
 
 Learn about the benefits of using self-affirmations in your life including reducing health deteriorating stress and anxiety.
 

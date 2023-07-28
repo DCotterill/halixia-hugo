@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out about the government's Mortgage Guarantee Scheme
+Find out about the government's Mortgage Guarantee Scheme.
 
 Find out if the government's mortgage guarantee scheme could help you get on the property ladder with only a 5% deposit
 

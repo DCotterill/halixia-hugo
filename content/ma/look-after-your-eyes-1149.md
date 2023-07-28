@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about looking after your eyes
+Learn about looking after your eyes.
 
 By taking care of our eyes, we preserve our precious sense of sight and maintain a higher quality of life.
 

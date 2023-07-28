@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Help to get you moving and stay moving, whatever your age
+Help to get you moving and stay moving, whatever your age.
 
 However you're feeling right now and whatever challenges you’re facing, moving more will help you feel better for longer.
 

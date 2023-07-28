@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to find a part time job
+How to find a part time job.
 
 Discover effective ways to secure a part-time job in the UK, balancing income with personal commitments.
 

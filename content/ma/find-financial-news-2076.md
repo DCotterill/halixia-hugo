@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Why you need to keep up to date with financial news
+Why you need to keep up to date with financial news.
 
 Learn to how and why you should stay informed about financial news, market trends, and regulatory changes to make informed financial decisions.
 

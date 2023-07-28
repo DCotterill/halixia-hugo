@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about swimming a mile
+Learn about swimming a mile.
 
 Dive into the healthy habit of swimming a mile, enhancing cardiovascular fitness, strength, and providing a refreshing full-body workout.
 

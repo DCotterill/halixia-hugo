@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Share your love of crafting with others
+Share your love of crafting with others.
 
 Explore your creativity and join a craft group, sharing techniques, ideas, and inspiration with other craft enthusiasts.
 

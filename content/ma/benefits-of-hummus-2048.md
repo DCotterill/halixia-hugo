@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out the nutritional benefits of hummus
+Find out the nutritional benefits of hummus.
 
 Made predominantly from chickpeas, hummus is a delicious source of protein, fibre, and healthy fats that supports heart health and overall well-being.
 

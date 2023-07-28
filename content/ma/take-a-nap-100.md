@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Why an afternoon nap can be beneficial
+Why an afternoon nap can be beneficial.
 
 Listen to a podcast explaining the joys of an afternoon nap. It’s not a lazy snooze, it’s a brain booster! Napping can help your heart, improve your mood and enhance your memory.
 

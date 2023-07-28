@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about taking personalised vitamins for a better life
+Learn about taking personalised vitamins for a better life.
 
 Uniquely formulated vitamin supplements carefully selected for you to help ensure you get the vitamins and minerals you need to get the best out of every day.
 

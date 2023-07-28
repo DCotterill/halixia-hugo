@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Working women's peer to peer support groups
+Working women's peer to peer support groups.
 
 Learn more about Leanin, where working women come together to learn from each other and achieve their goals, because women together can be a powerful force for change in the world.
 

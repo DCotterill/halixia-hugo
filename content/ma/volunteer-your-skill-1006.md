@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about teaching others your skill
+Learn about teaching others your skill.
 
 If you have a particular skill, that you think would be useful to others, learn more about how to teach your skill to help benefit others.
 

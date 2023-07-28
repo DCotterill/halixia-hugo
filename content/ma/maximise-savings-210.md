@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the tax efficient savings accounts
+Learn about the tax efficient savings accounts.
 
 Make sure you don’t pay more tax than you need to, with this guide to tax-efficient savings and investments for you and your children or grandchildren.
 

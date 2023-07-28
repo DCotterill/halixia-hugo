@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Check out free language courses available
+Check out free language courses available.
 
 Whether it’s French, German, Spanish, Italian or Japanese you’d like to learn, there's free language courses available for you.
 

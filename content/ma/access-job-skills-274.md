@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find training, support and advice to gain new job skills
+Find training, support and advice to gain new job skills.
 
 Unlock a better career ahead. Find training, support, and advice to gain the skills you need for the job you want.
 

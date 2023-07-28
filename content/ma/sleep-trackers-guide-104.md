@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Guide to sleep trackers
+Guide to sleep trackers.
 
 Read a guide to the best sleep trackers to help you make an informed decision when buying one for yourself, to help you get a good night of restful sleep.
 

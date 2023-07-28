@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about a 60-day challenge to transform your life
+Learn about a 60-day challenge to transform your life.
 
 An overall weight loss plan to help you transform your life in a healthy manageable way.
 

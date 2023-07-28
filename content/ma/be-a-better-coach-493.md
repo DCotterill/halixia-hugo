@@ -5,11 +5,11 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to improve your coaching skills
+How to improve your coaching skills.
 
 Read about how as a coach, you will keep learning and improving your skills to stay relevant, so you can consistently deliver a high-quality coaching experience.
 
-You already know that coaching helps individuals see themselves more clearly. But as a coach its important you continue to learn and grow to fulfil your own development goals and feel positive about helping others.
+You already know that coaching helps individuals see themselves more clearly. But as a coach it's important you continue to learn and grow to fulfil your own development goals and feel positive about helping others.
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  

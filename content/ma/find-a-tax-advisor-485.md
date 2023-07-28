@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Get professional help in managing your tax affairs
+Get professional help in managing your tax affairs.
 
 As your wealth grows so does your liability to tax, and it's complicated, getting the right professional to help you understand your liabilities and where you might be able to save money is vital.
 

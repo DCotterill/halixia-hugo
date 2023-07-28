@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Mindfulness and meditation tools for a healthier you
+Mindfulness and meditation tools for a healthier you.
 
 Mindfulness and meditation tools can help you create life-changing habits to support your mental health. These tools will help you get through tough times and find joy in everyday life.
 

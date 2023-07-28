@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the general types of insurances available
+Learn about the general types of insurances available.
 
 Get information on the types of insurances available, what you need, and how to choose the right policy for you.
 

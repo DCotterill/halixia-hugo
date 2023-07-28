@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to be your optimal self
+How to be your optimal self.
 
 Learn more about becoming your optimal self to help you live a better, longer more fulfilled life.
 

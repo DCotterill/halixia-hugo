@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out about teaching in Further Education
+Find out about teaching in Further Education.
 
 If you have real-world industry experience, you already have what it takes to teach in further education, and you don’t always need teaching experience or an academic degree to get started.
 

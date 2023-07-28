@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about increasing communication with your partner
+Learn about increasing communication with your partner.
 
 Increasing communication with your partner can help you learn to communicate and express yourself better.
 

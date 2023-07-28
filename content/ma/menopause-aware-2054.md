@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn all about menopause
+Learn all about menopause.
 
 Learn about the menopause and how it affects women to increase your awareness and learn how to support your partner or loved ones.
 

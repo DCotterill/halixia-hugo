@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Why dancing can enhance your fitness and mood
+Why dancing can enhance your fitness and mood.
 
 Learn about how you can two-step, boogie and bop your way to improved mood, muscle strength, brain capacity, and a longer and healthier life.
 

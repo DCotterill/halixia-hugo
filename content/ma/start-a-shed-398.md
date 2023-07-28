@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to set up a Men's Shed as a safe place for men to meet
+How to set up a Men's Shed as a safe place for men to meet.
 
 Men’s Sheds are a place to pursue practical interests, to practice skills and enjoy making and mending - whilst making social connections and friendship - set one up and help men in your community.
 

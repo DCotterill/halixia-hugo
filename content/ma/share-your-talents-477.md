@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Showcase your skills or talent by hosting a webinar
+Showcase your skills or talent by hosting a webinar.
 
 If you have a specific skill or talent that others might want to learn about, hosting a virtual session or webinar is a great way for others to benefit from your expertise.
 

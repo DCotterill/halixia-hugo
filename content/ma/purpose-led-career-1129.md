@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about sharing your skills
+Learn about sharing your skills.
 
 A great way to giveback is to use your skills to helps other through a job in the non-profit or charity sector. Search for roles within purpose led organisations and unlock your purpose.
 

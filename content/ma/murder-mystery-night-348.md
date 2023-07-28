@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to host a murder mystery night
+How to host a murder mystery night.
 
 Read top tips on how to set up the perfect murder mystery dinner party for friends and family.
 

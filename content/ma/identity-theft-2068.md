@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about protecting yourself from identity theft
+Learn about protecting yourself from identity theft.
 
 Learn about safeguarding personal information, using strong passwords, and monitoring financial accounts for suspicious activity.
 

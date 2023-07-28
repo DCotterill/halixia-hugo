@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about your right to request flexible working
+Learn about your right to request flexible working.
 
 Empower yourself by learning about your right to request flexible working arrangements, fostering work-life balance and better family dynamics.
 

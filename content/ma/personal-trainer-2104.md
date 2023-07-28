@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about becoming a personal trainer
+Learn about becoming a personal trainer.
 
 Become a personal trainer to help individuals achieve their fitness goals through personalised exercise programs, motivation, and support.
 

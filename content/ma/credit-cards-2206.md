@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to pay off your credit card debt
+How to pay off your credit card debt.
 
 If you feel your credit card debt is out of control, find out what you to do to get help and support to pay your debts.
 

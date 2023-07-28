@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Guide to schemes to help you buy a home
+Guide to schemes to help you buy a home.
 
 Find out what support is available to help you buy your first home, including government schemes, private initiatives and mortgage solutions.. Because buying your first home can be expensive.
 

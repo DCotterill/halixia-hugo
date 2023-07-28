@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-The importance of fire safety in the home
+The importance of fire safety in the home.
 
 Read about the importance of fire safety in your home, to help keep you and your loved ones safe in the event of a fire and how to prevent one in the first place.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about making your devices easier to use
+Learn about making your devices easier to use.
 
 Learn more about helpful features on your devices, to help you get the best experience you can.
 

@@ -5,11 +5,11 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out what financial support is available for carers
+Find out what financial support is available for carers.
 
 If you are already a carer or could become one in the future make sure you are getting all the financial support available.
 
-Many families are unprepared for a loved one needing to go into care and are often at crisis point before considering the financial impact. The inevitable anxiety and stress can be eased with advance and up ro date knowledge of support available.
+Many families are unprepared for a loved one needing to go into care and are often at crisis point before considering the financial impact. The inevitable anxiety and stress can be eased with advance planning and up to date knowledge of support available.
 
 | Provider Links      | Free or Paid  |  
 | :-----------          | :--------------:      |  

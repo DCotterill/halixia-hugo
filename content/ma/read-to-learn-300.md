@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn a new language by reading
+Learn a new language by reading.
 
 Learn a new language by reading and listening to the narrations, to help you become more comfortable with the words and grammatical rules of your chosen language.
 

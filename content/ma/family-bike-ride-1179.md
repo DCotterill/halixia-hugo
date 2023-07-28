@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Take the family on a bike ride
+Take the family on a bike ride.
 
 Learn about the benefits of taking the family on a bike ride to help encourage regular exercise, strengthen bonds, promote outdoor exploration, create memories, and encourages a healthy lifestyle.
 

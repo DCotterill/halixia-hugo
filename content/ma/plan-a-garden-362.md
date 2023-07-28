@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Guide on how to choose what to grow in your garden
+Guide on how to choose what to grow in your garden.
 
 It makes sense to try and grow what you like to eat and what lifestyle choices, but this needs to be looked at in terms of what is possible to grow. Learn more about choosing what to grow.
 

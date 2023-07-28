@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out what skills are in demand from employers
+Find out what skills are in demand from employers.
 
 Learn about what skills are demand by today's employers to help you learn the right new skills to increase employability and improve job security.
 

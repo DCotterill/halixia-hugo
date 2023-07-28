@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn how your taxes may change once you have retired
+Learn how your taxes may change once you have retired.
 
 You don't want to pay more tax than you have to after years of investing for your future. Learn more to help understand what to expect from tax on pension savings and taxes in retirement.
 

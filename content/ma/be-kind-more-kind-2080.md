@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about how you can create random acts of kindness
+Learn about how you can create random acts of kindness.
 
 Learn about why you should think about spreading kindness by performing spontaneous acts of goodwill for others.
 

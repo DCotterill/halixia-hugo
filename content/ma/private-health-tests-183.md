@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Guide to choosing the best private health check for you
+Guide to choosing the best private health check for you.
 
 It can be hard to know whether you are choosing the right health check for you. Read this guide to help to help navigate the different private health check available.
 

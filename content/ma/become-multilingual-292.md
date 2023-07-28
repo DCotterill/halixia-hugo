@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out which language matches your learning style
+Find out which language matches your learning style.
 
 Discover what type of learner you are and which language you should learn. Certain languages might come more naturally to certain people.
 

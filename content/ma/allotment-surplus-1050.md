@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Information on selling surplus from your allotment
+Information on selling surplus from your allotment.
 
 Learn about what you can sell from your allotment.
 

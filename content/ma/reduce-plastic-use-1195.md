@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-The importance of reducing plastic waste
+The importance of reducing plastic waste.
 
 Learn about how you can reduce your plastic waste, and with these simple changes you can contribute to a healthier and greener future.
 

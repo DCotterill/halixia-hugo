@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Think about volunteering your time to help combat loneliness
+Think about volunteering to help combat loneliness.
 
 Learn more about volunteering in your area
 

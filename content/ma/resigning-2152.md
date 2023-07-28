@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about how to resign from your job
+Learn about how to resign from your job.
 
 Navigate the process of resigning from your job gracefully, maintaining professionalism and leaving on good terms.
 

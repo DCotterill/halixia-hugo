@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-A simple and easy way to manage money well
+A simple and easy way to manage money well.
 
 Know all your monthly bills are covered, your yearly expenses are sorted and you know how much you have to spend each month with a separate bills only account.
 

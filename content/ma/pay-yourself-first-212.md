@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to set aside money for savings before you pay expenses
+How to set aside money for savings before you pay expenses.
 
 Saving some money each month is important, even if it’s just a little. There is a psychological boost to seeing your savings or investments grow.
 

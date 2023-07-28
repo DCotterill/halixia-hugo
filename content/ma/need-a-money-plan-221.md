@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Take control of your finances with smart financial goals
+Take control of your finances with smart financial goals.
 
 Make tangible differences in your financial life to redress the money gender gap. Spring clean your finances and you will enhance your financial and personal wellbeing.
 

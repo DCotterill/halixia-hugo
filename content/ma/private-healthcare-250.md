@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How taking out private medical insurance works
+How taking out private medical insurance works.
 
 Private healthcare is paid-for medical treatment. It’s an alternative to free treatment on the NHS. It can be costly, but taking out private medical insurance to pay for it can help.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about volunteering projects for over 50s
+Learn about volunteering projects for over 50s.
 
 Learn about the benefits of volunteering as well as volunteering project developed for those over the age of 50.
 

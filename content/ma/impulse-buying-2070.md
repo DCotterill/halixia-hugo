@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about why you should stop impulse buying
+Learn about why you should stop impulse buying.
 
 Learn about why you should pause, reflect, and consider needs before making impulsive purchases.
 

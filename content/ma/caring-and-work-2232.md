@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out what rights you have in work as a carer
+Find out what rights you have in work as a carer.
 
 If you are already a carer or could become one in the future, and want to carry on working, make sure you know your rights in balance these two important responsibilities.
 

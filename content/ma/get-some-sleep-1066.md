@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of getting enough sleep
+Learn about the importance of getting enough sleep.
 
 Just as eating nutritious food, drinking water, and exercising regularly is important, getting quality sleep is a crucial component for overall health.
 

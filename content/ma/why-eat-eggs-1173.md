@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the benefits of adding eggs to your diet
+Learn about the benefits of adding eggs to your diet.
 
 Eating eggs offers numerous benefits: high-quality protein for muscle health, essential vitamins and minerals, brain-nourishing choline, and satiety to support weight management.
 

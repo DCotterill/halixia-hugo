@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the many benefits of honey
+Learn about the many benefits of honey.
 
 Learn about the health properties of honey to help make informed dietary choices, explore natural remedies, and promote overall well-being through its various healing and nutritional properties.
 

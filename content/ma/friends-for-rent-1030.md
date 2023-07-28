@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about friends for rent
+Learn more about friends for rent.
 
 Learn more about being a rent a friend, where you get paid to keep someone company, give advice, or just be someone for them to spend time with, earn money while getting to make new friends.
 

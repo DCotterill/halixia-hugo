@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to refresh your finances and save over the year
+How to refresh your finances and save over the year.
 
 This guide will help you understand how to overhaul your finances to save money by saving on bills and ensuring you've got the best deal on everything.
 

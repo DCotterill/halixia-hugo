@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about volunteering to teach young minds new skills
+Learn about volunteering to teach young minds new skills.
 
 Were you a Scout, do you have skills that could be useful to teach young minds? Learn more about volunteering with the Scouts to help teach children new skills.
 

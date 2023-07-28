@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Importance of donating clothes
+Importance of donating clothes.
 
 Learn about why you should and how to donate old clothes for a more sustainable lifestyle - you might even pick up a second-hand bargain for yourself.
 

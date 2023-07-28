@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Tips on how to get a better night's sleep
+Tips on how to get a better night's sleep.
 
 Learn everything you need to know about sleep, including how to fall asleep faster, stay asleep and wake up rested as well as how it can improve your health.
 

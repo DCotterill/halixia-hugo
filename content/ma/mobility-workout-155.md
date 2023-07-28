@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Try mobility exercises to help increase flexibility
+Try mobility exercises to help increase flexibility.
 
 Read more about how a specific mobility workout will help improve your flexibility.
 

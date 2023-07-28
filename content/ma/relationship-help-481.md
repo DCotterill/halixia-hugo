@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Need help in improving your relationship with your partner
+Need help in improving your relationship with your partner.
 
 There are plenty of tools and techniques to help you build a successful, lasting supportive relationship with your partner, these can include relationship help, conversation starters, and fun games.
 

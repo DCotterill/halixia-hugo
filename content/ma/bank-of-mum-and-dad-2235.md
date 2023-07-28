@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Help a loved one get on the housing ladder
+Help a loved one get on the housing ladder.
 
 Find out how you can help your family members buy a property for future financial security without breaking the bank or your relationship.
 

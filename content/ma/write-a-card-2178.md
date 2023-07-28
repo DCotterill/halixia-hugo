@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Send a card or letters to a family member
+Send a card or letters to a family member.
 
 Show your love and care by sending a heartfelt card or letter to a family member you haven't seen in a while, strengthening emotional connections despite the physical distance.
 

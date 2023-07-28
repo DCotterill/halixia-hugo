@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about auto-enrolment and Workplace Pensions
+Learn about auto-enrolment and Workplace Pensions.
 
 Find out what the Workplace Pension is and whether you are eligible, how much your employer should contribute and how to maximise savings and tax relief in these simple retirement plans.
 

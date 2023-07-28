@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about age related disease risk
+Learn about age related disease risk.
 
 Take charge of your health by understanding disease risks linked to ageing. Implement preventive measures, like a balanced diet and regular exercise, to reduce risks effectively.
 

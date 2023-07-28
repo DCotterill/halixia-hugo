@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-All you need to know about diabetes
+All you need to know about diabetes.
 
 Diabetes can be a lifelong condition that causes your blood sugar levels to become too high. There are two types of diabetes and you can reduce the risk of type 2 diabetes with simple lifestyle changes.
 

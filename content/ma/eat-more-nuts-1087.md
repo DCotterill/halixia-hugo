@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Eating nuts can help you live longer
+Eating nuts can help you live longer.
 
 Eating more nuts can help you live longer and have lower rates of heart disease, diabetes, and some types of cancer. Eating a handful of nuts a day can go a long way in benefitting your health.
 

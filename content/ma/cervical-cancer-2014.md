@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the importance of cervical screening
+Learn about the importance of cervical screening.
 
 Early detection of cervical cancer offers the best chance for early intervention and treatment that can save lives. Find out more about cervical cancer and cervical screening. 
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Creating a shared interest group
+Creating a shared interest group.
 
 Learn more about starting your own shared interest group.
 

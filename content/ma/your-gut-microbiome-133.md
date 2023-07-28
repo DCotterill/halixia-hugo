@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the impact of your gut microbiome on your health
+Learn about how your gut microbiome impacts on your health.
 
 Listen to this podcast episode to learn more about gut microbiome and enhancing to improve your brain and overall health.
 

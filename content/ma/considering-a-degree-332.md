@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Flexible distance learning with the Open University
+Flexible distance learning with the Open University.
 
 As experts in distance learning The Open University provides world-leading teaching strategies, meaning you will get a great learning experience that works flexibly for you.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Read about the benefits of yoga for the over 50s
+Read about the benefits of yoga for the over 50s.
 
 Read about how starting yoga later in life requires adjustments and the practice itself changes as we age, but for the better! Yoga after 50 is a time for moving inward, and that’s a positive thing.
 

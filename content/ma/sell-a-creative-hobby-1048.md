@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about selling items that you create
+Learn about selling items that you create.
 
 Learn more about creating your own online store to sell items that you enjoy creating.
 

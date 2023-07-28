@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Improve your training skills
+Improve your training skills.
 
 Learn about train the trainer courses, courses to help you improve your skills in teaching others.
 

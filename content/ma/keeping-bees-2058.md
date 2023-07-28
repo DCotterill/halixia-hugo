@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about beekeeping
+Learn about beekeeping.
 
 Learn about the art of beekeeping and contribute to pollinator conservation efforts.
 

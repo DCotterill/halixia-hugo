@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-A health check-up for adults 40 to 74 in England
+A health check-up for adults 40 to 74 in England.
 
 This 5-year check-up is aimed at adults in England aged 40 to 74. It's designed to detect early signs of stroke, kidney disease, heart disease, type 2 diabetes and dementia.
 

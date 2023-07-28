@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-How to start making educational videos
+How to start making educational videos.
 
 Learn about contributing to the knowledge-sharing community and showcase your passion and expertise, by creating a TikTok or YouTube channel to share and inspire others to learn and grow.
 

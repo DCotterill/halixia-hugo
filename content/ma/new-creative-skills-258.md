@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Explore Skillshare's range of creative skills courses
+Explore Skillshare's range of creative skills courses.
 
 Not sure what creative art to try? Skillshare has a range of creative courses from popular to very niche skills. Explore new skills, deepen existing passions, and get lost in creativity.
 
