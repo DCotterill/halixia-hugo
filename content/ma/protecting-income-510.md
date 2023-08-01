@@ -16,6 +16,7 @@ Accident, sickness and unemployment (ASU) cover and permanent health insurance (
 | [**Unbiased**](https://www.unbiased.co.uk/discover/insurance/critical-illness-insurance) | Free | 
 | [**Money expert**](https://www.moneyexpert.com/life-insurance/accident-sickness-unemployment-insurance/) | Free | 
 | [**Drew Berry Insurance**](https://www.drewberryinsurance.co.uk/income-protection-insurance/permanent-health-insurance) | Free | 
+| [**bettersafe.com**](https://www.awin1.com/cread.php?awinmid=16254&awinaffid=1198638&ued=https%3A%2F%2Fwww.bettersafe.com%2F) | Paid | 
   
 
 <br/><br/>
