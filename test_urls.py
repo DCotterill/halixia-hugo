@@ -7,35 +7,32 @@ count = 0
 # with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - Full Content Samples.csv'
 #         , newline='') as csvfile:
 
-got_there = False
+f = open('resources/url-errors.csv', 'a')
+
+writer = csv.writer(f)
+links = []
 
 def test_url(link):
-    global got_there
-    if "friendship" in link:
-        got_there = True
-    if got_there:
+    if link and link not in links:
+        links.append(link)
         try:
-            request = requests.get(link, timeout=5)
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+}
+            request = requests.get(link, timeout=10, headers = headers)
             if request.status_code != 200:
-                print(link)
-                print(request.status_code)
+                writer.writerow([link, request.status_code])
         except:
-            print("Exception occurred")
-            print(link)
+            writer.writerow([link, "Error"])
 
-
-
-
-with open('resources/MA Database 170423 for upload.csv'
+with open('resources/MA Database 220523.xlsx - Upload Prep -v7.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
     next(reader, None)
 
     for row in reader:
-        # print(row)
-        count = count + 1
-
+        print (count)
         category = row[1]
         # score = row[11]
         ddm_type = row[5]
@@ -46,113 +43,21 @@ with open('resources/MA Database 170423 for upload.csv'
         # Content Type
         content_text = row[11]
 
-        # print (ddm_type)
-        if ddm_type == 'Development':
-            page = {"display-name": display_name,
-                    "summary-description": summary,
-                    "full-description": description,
-                    "additional-text": content_text}
-
-            primary_link_1 = row[24]
-            primary_link_name_1 = row[22]
-            primary_link_paid_free_1 = row[27]
-            primary_link_tp_rating_1 = row[32]
-            primary_link_tp_link_1 = row[33]
-
-            primary_link_2 = row[39]
-            primary_link_name_2 = row[37]
-            primary_link_paid_free_2 = row[42]
-            primary_link_tp_rating_2 = row[47]
-            primary_link_tp_link_2 = row[48]
-
-            primary_link_3 = row[54]
-            primary_link_name_3 = row[52]
-            primary_link_paid_free_3 = row[57]
-            primary_link_tp_rating_3 = row[62]
-            primary_link_tp_link_3 = row[63]
-
-            content_pages[internal_name] = page
-
-            # if int(score) == 1:
-            #     score = "Bronze"
-            # elif int(score) == 2:
-            #     score = "Silver"
-            # elif int(score) == 3:
-            #     score = "Gold"
-            #
-            # content_pages[internal_name]["tags"] =  category + ", " + score
-
-            content_pages[internal_name]["internal-name"] = internal_name
-
-            content_pages[internal_name]["primary-links"] = "[**" + primary_link_name_1 + "**]" + \
-                                                            "(" + primary_link_1 + ")" + \
-                                                            '\n\nOther Providers\n\n' + \
-                                                            "[**" + primary_link_name_2 + "**]" + \
-                                                            "(" + primary_link_2 + ")" + \
-                                                            '\n\n' + \
-                                                            "[**" + primary_link_name_3 + "**]" + \
-                                                            "(" + primary_link_3 + ")"
-
-            def build_primary_link_row (link_name, link, paid_free, tp_rating, tp_link):
-                line = ""
-                if link_name:
-                    line = line + "| [**" + link_name + "**](" + link + ") | "
-                    line = line + paid_free + " | \n"
-                    # if tp_rating == "N/A":
-                    #     line = line + tp_rating + "\n"
-                    # else:
-                    #     line = line + "[" + tp_rating + "](" + tp_link + ") | \n"
-                return line
-
+        primary_link_1 = row[20]
+        primary_link_2 = row[28]
+        primary_link_3 = row[43]
+        primary_link_4 = row[58]
+        primary_link_5 = row[73]
+        if count >= 400:
             test_url(primary_link_1)
             test_url(primary_link_2)
             test_url(primary_link_3)
+            test_url(primary_link_4)
+            test_url(primary_link_5)
 
-            content_pages[internal_name]["primary-links-table"] = build_primary_link_row(primary_link_name_1,
-                                                                                         primary_link_1,
-                                                                                         primary_link_paid_free_1,
-                                                                                         primary_link_tp_rating_1,
-                                                                                         primary_link_tp_link_1) + \
-                                                                  build_primary_link_row(primary_link_name_2,
-                                                                                         primary_link_2,
-                                                                                         primary_link_paid_free_2,
-                                                                                         primary_link_tp_rating_2,
-                                                                                         primary_link_tp_link_2) + \
-                                                                  build_primary_link_row(primary_link_name_3,
-                                                                                             primary_link_3,
-                                                                                             primary_link_paid_free_3,
-                                                                                             primary_link_tp_rating_3,
-                                                                                             primary_link_tp_link_3)
+        count = count + 1
 
-    # print(content_pages)
+        f.flush()
 
-with open('resources/content-template.md','r') as file:
-    template = file.read()
-
-for k, page in content_pages.items():
-    template = ""
-    with open('resources/content-template.md', 'r') as file:
-        template = file.read()
-
-    filename = ""
-    for k, v in page.items():
-        template = template.replace("*" + k + "*", v)
-
-
-    # print(page)
-
-    display_name = page['display-name']
-    internal_name = page['internal-name']
-    name = display_name.strip().replace(" ", "-").replace("?", "").replace("&", "and") + "-" + internal_name
-    filename = "content/ma/" + name.lower() + ".md"
-
-    # print("https://www.halixia.com/ma/" + name.lower())
-
-    url = "https://www.halixia.com/ma/" + name.lower()
-
-    # request = requests.get(url)
-    # print(request.status_code)
-
-    # with open(filename, "w") as md_file:
-    #     md_file.write(template)
-    # md_file.close()
+# close the file
+f.close()
