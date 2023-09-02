@@ -5,18 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about volunteering at a foodbank.
+Learn about volunteering at a foodbank.
 
 Learn about helping those in your community by volunteering at a foodbank.
 
 Food banks play a major role in the food aid sector, by distributing donated and purchased groceries, directly to food insecure families.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Trussel**](https://volunteer.trusselltrust.org/opportunities#display=grid&s=date_advertised&o=desc) | Free | 
-| [**Food cycle**](https://foodcycle.org.uk/food-banks/) | Free | 
-| [**Food bank aid**](https://foodbankaid.org.uk/volunteer/) | Free | 
-  
+<a class="ma-link" href="https://volunteer.trusselltrust.org/opportunities#display=grid&s=date_advertised&o=desc"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The Trussel Trust</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://foodcycle.org.uk/food-banks/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Food cycle</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://foodbankaid.org.uk/volunteer/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Food bank aid</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

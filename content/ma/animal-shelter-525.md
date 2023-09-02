@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about volunteering an animal shelter.
+Learn about volunteering an animal shelter.
 
 Learn about volunteering at an animal shelter to help your local community and animals.
 
 Animal shelters play a vital role in our communities, they continuously work to reunite lost pets with their owners, shelter those in need, and find new homes for animals their forever home.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**RSPCA**](https://www.rspca.org.uk/getinvolved/volunteer) | Free | 
-| [**Blue cross**](https://www.bluecross.org.uk/volunteer-pets) | Free | 
-| [**Dogs trust**](https://www.dogstrust.org.uk/support-us/volunteering) | Free | 
-| [**Restless**](https://restless.co.uk/volunteer/volunteer-types-of-roles/animals/) | Free | 
-  
+<a class="ma-link" href="https://www.rspca.org.uk/getinvolved/volunteer"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>RSPCA</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.bluecross.org.uk/volunteer-pets"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Blue cross</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.dogstrust.org.uk/support-us/volunteering"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Dogs trust</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://restless.co.uk/volunteer/volunteer-types-of-roles/animals/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Restless</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

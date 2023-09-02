@@ -5,18 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about assessing your subscription services.
+Regularly assess your subscription services.
 
 Learn about why you should regularly assess and evaluate current subscriptions to optimise expenses and eliminate unnecessary ones.
 
-Regularly reviewing subscriptions helps identify unused or redundant services, saving money and reducing clutter. It ensures that subscriptions align with current needs and priorities.
+Regularly reviewing your subscriptions helps identify unused or redundant services, saving money and reducing clutter. It ensures that subscriptions align with current needs and priorities.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Track my subs**](https://trackmysubs.com/) | Free | 
-| [**Subvio**](https://subvio.com/articles/managing-subscriptions/) | Free  | 
-| [**Money dashboard**](https://www.moneydashboard.com/blog/managing-subscriptions-what-you-need-to-know) | Free | 
-  
+<a class="ma-link" href="https://trackmysubs.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Track my subs</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://subvio.com/articles/managing-subscriptions/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Subvio</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.moneydashboard.com/blog/managing-subscriptions-what-you-need-to-know"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Money dashboard</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

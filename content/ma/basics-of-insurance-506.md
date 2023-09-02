@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the general types of insurances available.
+Learn about the different types of insurances available.
 
 Get information on the types of insurances available, what you need, and how to choose the right policy for you.
 
 Insurance protects you from unexpected loss, it aims to reduce the impact of financial loss and uncertainty.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/insurance/) | Free | 
-| [**Drew Berry Insurance**](https://www.drewberryinsurance.co.uk/knowledge/financial-advice/personal-insurance) | Free | 
-| [**HSBC**](https://www.hsbc.co.uk/insurance/types-of-insurance/) | Free | 
-| [**bettersafe.com**](https://www.awin1.com/cread.php?awinmid=16254&awinaffid=1198638&ued=https%3A%2F%2Fwww.bettersafe.com%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.moneysavingexpert.com/insurance/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>MoneySavingExpert.com</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.drewberryinsurance.co.uk/knowledge/financial-advice/personal-insurance"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Drew Berry Insurance</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.hsbc.co.uk/insurance/types-of-insurance/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>HSBC</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=16254&awinaffid=1198638&ued=https%3A%2F%2Fwww.bettersafe.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>bettersafe.com</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

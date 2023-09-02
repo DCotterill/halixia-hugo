@@ -5,16 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Use an advisor who specialises in later life planning.
+Find an advisor who specialises in later life planning.
 
 The Society of Later Life Advisors is a not for profit organisation that matches clients with advisors who have been accredited to give advice on later life issues.
 
 Financial wellbeing put simply is all about building a good relationship with money and feeling in control of both your day-to-day finances and long-term goals. This is also true when planning how you are going to pass your money to your loved ones.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**SOLLA**](https://societyoflaterlifeadvisers.co.uk/) | Free | 
-  
+<a class="ma-link" href="https://societyoflaterlifeadvisers.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>SOLLA</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

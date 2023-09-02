@@ -11,13 +11,7 @@ Explore your creativity and join a craft group, sharing techniques, ideas, and i
 
 Craft groups offer a supportive environment to showcase your creativity, learn new craft techniques, and gain inspiration from the work of others.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Craft World**](https://craftworld.com/cms/top-craft-groups-to-join-on-craftworld/) | Free  | 
-| [**The Happiness Coach**](https://thehappinesscoach.com/why-hobbies-are-important/) | Free  | 
-| [**The Vale Living**](https://www.thevaleliving.co.uk/why-joining-a-hobby-club-is-good-for-your-wellbeing/) | Free  | 
-| [**Craft Buddy Shop**](https://www.awin1.com/cread.php?awinmid=45747&awinaffid=1198638&ued=https%3A%2F%2Fwww.craftbuddyshop.com%2F) | Paid | 
-  
+<a class="ma-link" href="https://craftworld.com/cms/top-craft-groups-to-join-on-craftworld/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Craft World</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://thehappinesscoach.com/why-hobbies-are-important/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The Happiness Coach</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.thevaleliving.co.uk/why-joining-a-hobby-club-is-good-for-your-wellbeing/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The Vale Living</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=45747&awinaffid=1198638&ued=https%3A%2F%2Fwww.craftbuddyshop.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Craft Buddy Shop</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

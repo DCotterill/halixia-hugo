@@ -7,16 +7,11 @@ layout: static
 
 Social network with people in your local area.
 
-Learn more about Nextdoor, the social network for your local area. It's where you can share news, events and even sell your unwanted stuff.
+Learn about Nextdoor, the social network for your local area. It's where you can share news, events and even sell your unwanted stuff.
 
 Social media can pave a good way for networking with people far and wide, with these communities having a local focus. You can connect with anyone you want on these platforms and build contacts for your personal and professional life.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Nextdoor**](https://about.nextdoor.com/) | Free | 
-| [**NCSC**](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely) | Free | 
-| [**Smart Social**](https://smartsocial.com/post/using-social-media-responsibly) | Free | 
-  
+<a class="ma-link" href="https://about.nextdoor.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Nextdoor</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NCSC</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://smartsocial.com/post/using-social-media-responsibly"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Smart Social</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Explore Skillshare's range of creative skills courses.
+Explore the range of creative skills courses available.
 
-Not sure what creative art to try? Skillshare has a range of creative courses from popular to very niche skills. Explore new skills, deepen existing passions, and get lost in creativity.
+Not sure what creative art to try? Online learning platforms have a range of creative courses from popular to very niche skills. Explore new skills, deepen existing passions, and get lost in creativity.
 
 It doesn’t matter how old we are research suggests that having a creative hobby can actually benefit our mental and emotional health. The arts can help to keep us well, aid recovery and support people to live longer and healthier lives. So don't leave it to the children!
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Skillshare**](https://www.skillshare.com/) | Paid | 
-| [**Youtube**](https://www.youtube.com/results?search_query=arts+and+crafts) | Free | 
-| [**Autodesk instructables**](https://www.instructables.com/craft/) | Free | 
-| [**Udemy**](https://www.udemy.com/courses/lifestyle/arts-and-crafts/) | Paid | 
-  
+<a class="ma-link" href="https://www.skillshare.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Skillshare</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.youtube.com/results?search_query=arts+and+crafts"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Youtube</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.instructables.com/craft/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Autodesk instructables</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://click.linksynergy.com/deeplink?id=L8N3em0sP4o&mid=47900&murl=https://www.udemy.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Udemy</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

@@ -7,16 +7,11 @@ layout: static
 
 Creating a shared interest group.
 
-Learn more about starting your own shared interest group.
+Learn about starting your own shared interest group.
 
 We are social beings, and interacting with people is in our nature. Helping others enjoy the mental and physical benefits of social connectiveness brings its own rewards instilling a strong sense of purpose, boosting our own wellbeing.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Meet up**](https://www.meetup.com/blog/the-ultimate-guide-to-starting-a-group-on-meetup/) | Free | 
-| [**Q place**](https://www.qplace.com/10-tips-for-starting-an-online-group/) | Free | 
-| [**Wiki how**](https://www.wikihow.com/Start-an-Online-Discussion-Community) | Free | 
-  
+<a class="ma-link" href="https://www.meetup.com/blog/the-ultimate-guide-to-starting-a-group-on-meetup/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Meet up</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.qplace.com/10-tips-for-starting-an-online-group/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Q place</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.wikihow.com/Start-an-Online-Discussion-Community"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Wiki how</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

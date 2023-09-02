@@ -7,17 +7,11 @@ layout: static
 
 Learn about becoming a guide dog puppy raiser.
 
-Learn more about becoming a guide dog puppy raiser, for those with a love of animals, with extra love and time to give towards making a big difference in someone life.
+If you love animals and have plenty of time to give, learn about how you can raise a guide dog puppy, giving these important puppies the best start in life and knowing they will go on to make a big difference in someone's life.
 
-Volunteer puppy raisers receive a pup when they are approximately 8 weeks old and will teach them house manners, provide socialisation experiences, and prepare them for their future career as a guide dog. Creating a rewarding experience for yourself, while helping others.
+Volunteer puppy raisers receive a pup when they are approximately 8 weeks old and will teach them house manners, provide socialisation experiences, and prepare them for their future career as a guide dog. Creating a rewarding experience for yourself, while helping others. Just remember you will have to give them back!
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Guide dogs**](https://www.guidedogs.org.uk/how-you-can-help/volunteering-for-guide-dogs/volunteer-role-descriptions/puppy-raiser/) | Free | 
-| [**Country living**](https://www.countryliving.com/uk/wildlife/pets/a42529255/raise-puppy-guide-dogs-uk/) | Free | 
-| [**BBC**](https://www.bbc.co.uk/news/av/uk-64148085) | Free | 
-| [**The Guide Dogs for the Blind Association**](https://www.guidedogs.org.uk/) | Paid | 
-  
+<a class="ma-link" href="https://www.guidedogs.org.uk/how-you-can-help/volunteering-for-guide-dogs/volunteer-role-descriptions/puppy-raiser/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Guide dogs</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.countryliving.com/uk/wildlife/pets/a42529255/raise-puppy-guide-dogs-uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Country living</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.bbc.co.uk/news/av/uk-64148085"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBC</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.guidedogs.org.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>The Guide Dogs for the Blind Association</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

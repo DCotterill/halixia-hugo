@@ -5,18 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Information on selling surplus from your allotment.
+Information on selling surplus produce from your allotment.
 
-Learn about what you can sell from your allotment.
+Learn about what and how you can sell the produce from your allotment.
 
 Although you are not allowed to run your allotment as a business, you are allowed to sell any produce that is surplus to your needs, read more about selling your surplus produce to create some extra income.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Go self sufficient**](https://goselfsufficient.co.uk/selling-from-your-allotment/) | Free | 
-| [**The guardian**](https://www.theguardian.com/money/2013/jul/26/making-money-allotment-gardeners) | Free | 
-| [**Organic lea**](https://www.organiclea.org.uk/wp-content/uploads/2010/04/sellingallotmentproduce.pdf) | Free | 
-  
+<a class="ma-link" href="https://goselfsufficient.co.uk/selling-from-your-allotment/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Go self sufficient</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.theguardian.com/money/2013/jul/26/making-money-allotment-gardeners"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The guardian</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.organiclea.org.uk/wp-content/uploads/2010/04/sellingallotmentproduce.pdf"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Organic lea</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

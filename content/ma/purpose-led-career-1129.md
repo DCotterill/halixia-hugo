@@ -7,17 +7,11 @@ layout: static
 
 Learn about sharing your skills.
 
-A great way to giveback is to use your skills to helps other through a job in the non-profit or charity sector. Search for roles within purpose led organisations and unlock your purpose.
+A great way to give back is to use your skills to helps other through a job in the non-profit or charity sector. Search for roles within purpose led organisations and unlock your purpose.
 
 Sharing your skills with others is important as it can promote personal and professional growth, enhance social connection and collaboration, and contribute to the betterment of society. It can also create a sense of purpose and fulfilment by helping others achieve their goals.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Charity Job**](https://www.charityjob.co.uk/) | Free | 
-| [**Charity jobs**](https://www.charityjob.co.uk/careeradvice/six-reasons-why-working-for-a-charity-is-so-rewarding/) | Free | 
-| [**Total Jobs**](https://www.totaljobs.com/advice/6-reasons-to-work-at-a-charity) | Free | 
-| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
-  
+<a class="ma-link" href="https://www.charityjob.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Charity Job</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.charityjob.co.uk/careeradvice/six-reasons-why-working-for-a-charity-is-so-rewarding/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Charity jobs</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.totaljobs.com/advice/6-reasons-to-work-at-a-charity"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Total Jobs</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>New Skill Academy</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

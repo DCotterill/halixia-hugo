@@ -7,17 +7,11 @@ layout: static
 
 Learn about Mindfulness Based Stress Reduction (MBSR).
 
-Read about the benefits of taking part in an MBSR program to learn techniques that reduce stress, enhance well-being, and promote mindfulness.
+Read about the benefits of taking part in an MBSR program to learn techniques that reduce stress, enhance wellbeing, and promote mindfulness.
 
-Learning MBSR involves engaging in mindfulness practices, such as meditation and gentle movement, to cultivate awareness, manage stress, and promote overall well-being. It provides tools to navigate daily challenges, enhance resilience, and foster a greater sense of inner calm and balance.
+Learning MBSR involves engaging in mindfulness practices, such as meditation and gentle movement, to cultivate awareness, manage stress, and promote overall wellbeing. It provides tools to navigate daily challenges, enhance resilience, and foster a greater sense of inner calm and balance.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Centre of excellence**](https://www.centreofexcellence.com/shop/mindfulness-based-stress-reduction-mbsr-diploma-course/) | Paid | 
-| [**Mindful leader**](https://www.mindfulleader.org/what-is-mbsr) | Free  | 
-| [**Very well mind**](https://www.verywellmind.com/benefits-of-mindfulness-based-stress-reduction-88861) | Free  | 
-| [**New Skill Academy**](https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.com%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.centreofexcellence.com/shop/mindfulness-based-stress-reduction-mbsr-diploma-course/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Centre of excellence</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.mindfulleader.org/what-is-mbsr"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Mindful leader</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.verywellmind.com/benefits-of-mindfulness-based-stress-reduction-88861"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Very well mind</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>New Skill Academy</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

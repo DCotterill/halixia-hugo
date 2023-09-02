@@ -11,13 +11,7 @@ Learn about the benefits of using self-affirmations in your life including reduc
 
 Start working on improving your stress, anxiety, and self-worth with the use of self-affirmations to get all the benefits that come with it.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Happier human**](https://www.happierhuman.com/benefits-affirmations/) | Free | 
-| [**Refined by Age**](https://refinedbyage.com/2019/12/17/7-affirmations-for-positive-aging/) | Free | 
-| [**Get help**](https://www.betterup.com/blog/positive-affirmations) | Free | 
-| [**Lovendu**](https://www.awin1.com/cread.php?awinmid=25994&awinaffid=1198638&ued=https%3A%2F%2Flovendu.co.uk%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.happierhuman.com/benefits-affirmations/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Happier human</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://refinedbyage.com/2019/12/17/7-affirmations-for-positive-aging/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Refined by Age</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.betterup.com/blog/positive-affirmations"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Get help</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=25994&awinaffid=1198638&ued=https%3A%2F%2Flovendu.co.uk%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Lovendu</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

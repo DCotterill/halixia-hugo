@@ -11,13 +11,7 @@ Read about how as a coach, you will keep learning and improving your skills to s
 
 You already know that coaching helps individuals see themselves more clearly. But as a coach it's important you continue to learn and grow to fulfil your own development goals and feel positive about helping others.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Udemy**](https://www.udemy.com/course/coaching-and-mentoring-techniques/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-DSA_Webindex_la.EN_cc.BE&utm_content=deal4584&utm_term=_._ag_1222657343651662_._ad__._kw_udemy_._de_c_._dm__._pl__._ti_dat-2328215871879260%3Aloc-188_._li_132721_._pd__._&matchtype=b&msclkid=fa44bee2db1b1d264427daf82ce85ac1) | Paid | 
-| [**Thinkific**](https://www.thinkific.com/blog/how-to-improve-your-coaching-skills/) | Free | 
-| [**Padfield partnership**](https://padfieldpartnership.com/why-and-how-to-improve-your-coaching-skills/) | Free | 
-| [**New Skill Academy**](https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.com%2F) | Paid | 
-  
+<a class="ma-link" href="https://click.linksynergy.com/deeplink?id=L8N3em0sP4o&mid=47900&murl=https://www.udemy.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Udemy</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.thinkific.com/blog/how-to-improve-your-coaching-skills/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Thinkific</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://padfieldpartnership.com/why-and-how-to-improve-your-coaching-skills/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Padfield partnership</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>New Skill Academy</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

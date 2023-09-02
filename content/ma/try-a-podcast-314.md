@@ -7,17 +7,11 @@ layout: static
 
 Try a podcast.
 
-Dip your toe into a pick of the best podcasts on Spotify, Apple Podcasts and more covering technology, culture, science, politics, and new ideas.
+Find out where you can dip your toe into a pick of the best podcasts on Spotify, Apple Podcasts and more covering technology, culture, science, politics, and new ideas.
 
 If you've not discovered them yet, podcasts are a great learning tool. You can listen anywhere and access a wide range of topics.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Wired**](https://www.wired.com/story/podcasts-beginners-guide/) | Free | 
-| [**Buffer**](https://buffer.com/library/podcasting-for-beginners/) | Free | 
-| [**TED Talks**](https://www.ted.com/podcasts) | Free | 
-| [**BBC**](https://www.bbc.co.uk/sounds/podcasts) | Free | 
-  
+<a class="ma-link" href="https://www.wired.com/story/podcasts-beginners-guide/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Wired</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://buffer.com/library/podcasting-for-beginners/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Buffer</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.ted.com/podcasts"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>TED Talks</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.bbc.co.uk/sounds/podcasts"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBC</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

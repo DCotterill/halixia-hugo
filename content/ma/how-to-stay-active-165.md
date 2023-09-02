@@ -9,15 +9,9 @@ Get support to be active with a long-term health condition.
 
 Help and support to be active with a long-term health condition. Understanding that everybody is unique and knowing when to be more active is just as important as accepting when you can’t be.
 
-Becoming more active can be daunting, especially if you are managing a health condition. However, everyone can be active, no matter their age or physical condition. It’s completely free, and something we all have the power to start doing more of at any point in our life.
+Becoming more active can be daunting, especially if you are managing a health condition. However, everyone can be active, no matter their age or physical condition, and something we all have the power to start doing more of at any point in our life.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**We are undefeatable**](https://weareundefeatable.co.uk/ways-to-move) | Free | 
-| [**My living well**](https://mylivingwell.co.uk/physical-activity/exercising-with-long-term-health-conditions) | Free | 
-| [**CSP**](https://www.csp.org.uk/public-patient/keeping-active-healthy/love-activity-hate-exercise-campaign/being-active-long-term) | Free | 
-| [**Go Gym**](https://www.gogym.uk/) | Paid | 
-  
+<a class="ma-link" href="https://weareundefeatable.co.uk/ways-to-move"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>We are undefeatable</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://mylivingwell.co.uk/physical-activity/exercising-with-long-term-health-conditions"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>My living well</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.csp.org.uk/public-patient/keeping-active-healthy/love-activity-hate-exercise-campaign/being-active-long-term"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>CSP</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=13547&awinaffid=1198638&ued=https%3A%2F%2Fthegymking.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Gym King</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

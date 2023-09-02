@@ -7,17 +7,11 @@ layout: static
 
 Guided meditations to boost health.
 
-Try guided meditation hosted by a psychotherapist. Walking you through calm discussions of body and mind, helping you deal with life’s stresses or to help you destress after a long day.
+Try these guided meditations including some hosted by a psychotherapist. Listen to calm explorations of body and mind, helping you deal with life’s stresses or to help you destress after a long day.
 
-Apart from enhancing your happiness and improving your overall well-being, meditation also helps your memory stay sharp and your concentration remain steady. Start working meditation into your life to reap the benefits.
+Apart from enhancing your happiness and improving your overall wellbeing, meditation also helps your memory stay sharp and your concentration remain steady. Start working meditation into your life to reap the benefits.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Tara brach**](https://www.tarabrach.com/guided-meditations/) | Free | 
-| [**The heart of meditation**](https://theartofmeditation.org/meditation-courses) | Paid | 
-| [**Yoga journal**](https://www.yogajournal.com/meditation/best-free-online-guided-meditations-for-beginners/) | Paid | 
-| [**Complete Unity Yoga**](https://www.awin1.com/cread.php?awinmid=29057&awinaffid=1198638&ued=https%3A%2F%2Fcompleteunityyoga.com%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.tarabrach.com/guided-meditations/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Tara brach</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://theartofmeditation.org/meditation-courses"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>The Art of Meditation</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.yogajournal.com/meditation/best-free-online-guided-meditations-for-beginners/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Yoga journal</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=29057&awinaffid=1198638&ued=https%3A%2F%2Fcompleteunityyoga.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Complete Unity Yoga</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

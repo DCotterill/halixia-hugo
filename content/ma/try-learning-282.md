@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Get free learning from The Open University.
+Get free learning online
 
-OpenLearn is the home of free learning from The Open University. A huge range of topics for you to discover with 60-second animated videos or 24-hour courses all for free.
+Many online learning platforms offer some free learning. OpenLearn is the home of free learning from The Open University, with a huge range of topics for you to discover all for free.
 
 Online learning can be a modern and innovative way to keep learning, but we might not be sure what we want to do. Kickstart lifelong learning by trying some free courses and open up to new experiences and your own self-improvement.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**OpenLearn**](https://www.open.edu/openlearn/) | Free | 
-| [**Future Learn**](https://www.futurelearn.com/) | Paid | 
-| [**Centre of Excellence**](https://www.centreofexcellence.com) | Paid | 
-| [**Upskillwise**](https://upskillwise.com/online-learning-platforms/) | Free | 
-  
+<a class="ma-link" href="https://www.open.edu/openlearn/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>OpenLearn</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.futurelearn.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Future Learn</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.centreofexcellence.com"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Centre of Excellence</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://upskillwise.com/online-learning-platforms/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Upskillwise</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

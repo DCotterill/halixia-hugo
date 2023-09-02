@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Guide on how to choose what to grow in your garden.
+Help on how to choose what to grow in your garden.
 
-It makes sense to try and grow what you like to eat and what lifestyle choices, but this needs to be looked at in terms of what is possible to grow. Learn more about choosing what to grow.
+It makes sense to try and grow what you like to eat and what lifestyle choices, but this needs to be looked at in terms of what is possible to grow. Learn about choosing what to grow.
 
-Did you know that gardening can also play an important role in happiness and mental well-being? The health benefits of gardening are many, from reducing stress and depression to even boosting your immune system.
+Did you know that gardening can also play an important role in happiness and mental wellbeing? The health benefits of gardening are many, from reducing stress and depression to even boosting your immune system.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**RHS**](https://www.rhs.org.uk/Advice/Beginners-Guide/Allotment-basics/Choose-your-crops) | Free | 
-| [**Gardeners club**](https://www.gardeners-club.co.uk/) | Free | 
-| [**Gardeners world**](https://www.gardenersworld.com/how-to/grow-plants/allotment-year-planner/) | Free | 
-| [**DIY garden**](https://diygarden.co.uk/gardening/starting-an-allotment) | Free | 
-  
+<a class="ma-link" href="https://www.rhs.org.uk/Advice/Beginners-Guide/Allotment-basics/Choose-your-crops"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>RHS</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.gardeners-club.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Gardeners club</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.gardenersworld.com/how-to/grow-plants/allotment-year-planner/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Gardeners world</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://diygarden.co.uk/gardening/starting-an-allotment"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>DIY garden</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

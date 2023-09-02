@@ -5,18 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about volunteering to help others.
+Find out how to help others with mental health difficulties.
 
-If you feel you could help others through a tough time, learn more about volunteering for a mental health charity.
+If you feel you could help others through a tough time, learn about volunteering for a mental health charity.
 
 As a mental health volunteer, you will be taking conversations with children, young people and adults who are struggling to cope and helping them through a tough time or situation.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Mind**](https://www.mind.org.uk/get-involved/volunteering-and-participating/) | Free | 
-| [**Rethink**](https://www.rethink.org/get-involved/use-your-experience/volunteer-with-us/) | Free | 
-| [**Anxiety UK**](https://www.anxietyuk.org.uk/get-involved/volunteer-with-us/) | Free | 
-  
+<a class="ma-link" href="https://www.mind.org.uk/get-involved/volunteering-and-participating/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Mind</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.rethink.org/get-involved/use-your-experience/volunteer-with-us/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Rethink</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.anxietyuk.org.uk/get-involved/volunteer-with-us/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Anxiety UK</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

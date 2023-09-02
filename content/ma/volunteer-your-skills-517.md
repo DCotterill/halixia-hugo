@@ -5,18 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about volunteering and sharing your skills.
+Learn about volunteering and sharing your skills.
 
-Learn about changing someone's life by using your skills by volunteering.
+Learn about changing someone's life or supporting a good cause by volunteering your skills. 
 
 Skills-based volunteers can make a huge difference to people, as well as, good causes by adding capacity, growing capability and helping them to innovate.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Learn for life**](https://www.learnforlifeenterprise.co.uk/volunteer/) | Free | 
-| [**Teach in further education**](https://www.teach-in-further-education.campaign.gov.uk/what-is-fe-teaching/) | Free | 
-| [**Media Trust**](https://mediatrust.org/volunteer/) | Free | 
-  
+<a class="ma-link" href="https://www.learnforlifeenterprise.co.uk/volunteer/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Learn for Life</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.teach-in-further-education.campaign.gov.uk/what-is-fe-teaching/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Teach in further education</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://mediatrust.org/volunteer/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Media Trust</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

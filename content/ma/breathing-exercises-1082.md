@@ -5,18 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Read more about the benefits of breathing exercises.
+Read about the benefits of breathing exercises.
 
-Breathing is something you do tens of thousands of times each day, without even thinking about it. Learn more about using breathing as a life-enhancing tool.
+Breathing is something you do tens of thousands of times each day, without even thinking about it. Learn about using breathing techniques to improve your respiratory health.
 
 Breathing exercises not only improve your respiratory health, but they can also help build strength and stamina, as well as improve general mood and wellbeing.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Very well mind**](https://www.verywellmind.com/the-benefits-of-deep-breathing-5208001) | Free | 
-| [**Healthline**](https://www.healthline.com/health/how-to-increase-lung-capacity) | Free | 
-| [**Harvard**](https://www.health.harvard.edu/staying-healthy/breathing-your-way-to-better-health) | Free | 
-  
+<a class="ma-link" href="https://www.verywellmind.com/the-benefits-of-deep-breathing-5208001"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Very well mind</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.healthline.com/health/how-to-increase-lung-capacity"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Healthline</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.health.harvard.edu/staying-healthy/breathing-your-way-to-better-health"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Harvard</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

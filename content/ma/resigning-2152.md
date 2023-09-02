@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about how to resign from your job.
+Learn how to resign from your job.
 
 Navigate the process of resigning from your job gracefully, maintaining professionalism and leaving on good terms.
 
 Resigning from your job requires tact and clear communication. Proper notice and a formal resignation letter help preserve professional relationships and uphold your reputation.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**ACAS**](https://www.acas.org.uk/resignation-letter-template) | Free  | 
-| [**Citizens Advice**](https://www.citizensadvice.org.uk/work/resigning/deciding-whether-to-resign/) | Free  | 
-| [**Reed**](https://www.reed.co.uk/career-advice/how-to-resign/) | Free  | 
-| [**Indeed**](https://uk.indeed.com/) | Free  | 
-  
+<a class="ma-link" href="https://www.acas.org.uk/resignation-letter-template"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>ACAS</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.citizensadvice.org.uk/work/resigning/deciding-whether-to-resign/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Citizens Advice</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.reed.co.uk/career-advice/how-to-resign/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Reed</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://uk.indeed.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Indeed</p></div><div class="ma-paid-text"><span>Free </span></div></div></a>  
 
 <br/><br/>
 

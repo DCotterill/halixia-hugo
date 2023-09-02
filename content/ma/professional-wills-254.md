@@ -11,13 +11,7 @@ Using a legal professional who specialises in writing wills and other estate mat
 
 Financial wellbeing is all about building a good relationship with money and feeling in control of both your day-to-day finances and long-term goals. This is also true when planning how you are going to pass your money to your loved ones.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Law Society**](https://solicitors.lawsociety.org.uk/search/results?UmbrellaLegalIssue=LIUPCW&Pro=False) | Free | 
-| [**SOLLA**](https://societyoflaterlifeadvisers.co.uk/) | Free | 
-| [**UK Government**](https://www.gov.uk/make-will) | Free | 
-| [**Citizens Advice**](https://www.citizensadvice.org.uk/family/death-and-wills/wills/) | Free | 
-  
+<a class="ma-link" href="https://solicitors.lawsociety.org.uk/search/results?UmbrellaLegalIssue=LIUPCW&Pro=False"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Law Society</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://societyoflaterlifeadvisers.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>SOLLA</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.gov.uk/make-will"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>UK Government</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.citizensadvice.org.uk/family/death-and-wills/wills/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Citizens Advice</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

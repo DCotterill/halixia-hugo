@@ -7,16 +7,11 @@ layout: static
 
 Learn about intermittent fasting.
 
-Learn about exploring intermittent fasting as a way to improve health, manage weight, and optimise energy levels.
+Explore intermittent fasting methods as a way to improve health, manage weight, and optimise energy levels.
 
 Intermittent fasting involves alternating periods of eating and fasting, offering potential benefits such as improved insulin sensitivity, weight management, and increased cellular repair. It allows for individual experimentation to find the fasting approach that suits your lifestyle and goals.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**MedicalNewsToday**](https://www.medicalnewstoday.com/articles/322293#intermittent-fasting-methods) | Free | 
-| [**Hopkins medicine**](https://www.hopkinsmedicine.org/health/wellness-and-prevention/intermittent-fasting-what-is-it-and-how-does-it-work) | Free | 
-| [**Healthline**](https://www.healthline.com/nutrition/10-health-benefits-of-intermittent-fasting) | Free | 
-  
+<a class="ma-link" href="https://www.medicalnewstoday.com/articles/322293#intermittent-fasting-methods"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>MedicalNewsToday</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.hopkinsmedicine.org/health/wellness-and-prevention/intermittent-fasting-what-is-it-and-how-does-it-work"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Hopkins medicine</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.healthline.com/nutrition/10-health-benefits-of-intermittent-fasting"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Healthline</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

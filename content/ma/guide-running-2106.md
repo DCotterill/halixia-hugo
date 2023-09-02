@@ -7,17 +7,11 @@ layout: static
 
 Learn about volunteering as a guide runner.
 
-Learn more about assisting individuals with visual impairments by providing guidance and support during running or athletic activities.
+Learn about assisting individuals with visual impairments by providing guidance and support during running or athletic activities.
 
 Becoming a guide runner involves partnering with individuals who have visual impairments to enable them to participate in running or athletic events. It promotes inclusivity, allows individuals to experience the joy of physical activity, and builds supportive relationships.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**England athletics**](https://www.englandathletics.org/take-part/programmes/findaguide/become-a-guide-runner/) | Free | 
-| [**British blind sport**](https://britishblindsport.org.uk/membership/bbs-sports/guide-running/) | Free  | 
-| [**Paralympic**](https://www.paralympic.org/news/para-athletics-explained-guide-running) | Free | 
-| [**Pro:Direct Sport**](https://www.awin1.com/cread.php?awinmid=6667&awinaffid=1198638&ued=https%3A%2F%2Fwww.prodirectsport.com%2Frunning%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.englandathletics.org/take-part/programmes/findaguide/become-a-guide-runner/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>England athletics</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://britishblindsport.org.uk/membership/bbs-sports/guide-running/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>British blind sport</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.paralympic.org/news/para-athletics-explained-guide-running"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Paralympic</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=6667&awinaffid=1198638&ued=https%3A%2F%2Fwww.prodirectsport.com%2Frunning%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Pro:Direct Sport</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

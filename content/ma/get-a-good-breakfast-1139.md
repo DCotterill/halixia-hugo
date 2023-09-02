@@ -11,13 +11,7 @@ Learn about the importance of starting your day with breakfast, such as helping 
 
 Starting your day with breakfast can provide health benefits such as improving metabolism, boosting energy levels, enhancing cognitive function, promoting weight management, and reducing the risk of chronic diseases such as diabetes and heart disease.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**BBC Food**](https://www.bbcgoodfood.com/recipes/collection/healthy-breakfast-recipes) | Free | 
-| [**Healthline**](https://www.healthline.com/health-news/breakfast-most-important-meal) | Free | 
-| [**Web MD**](https://www.webmd.com/food-recipes/breakfast-lose-weight) | Free | 
-| [**Surreal Cereal**](https://eatsurreal.co.uk/) | Paid | 
-  
+<a class="ma-link" href="https://www.bbcgoodfood.com/recipes/collection/healthy-breakfast-recipes"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBC Food</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.healthline.com/health-news/breakfast-most-important-meal"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Healthline</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.webmd.com/food-recipes/breakfast-lose-weight"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Web MD</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://click.linksynergy.com/deeplink?id=L8N3em0sP4o&mid=47594&murl=https://proteinworld.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Protein World   </p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

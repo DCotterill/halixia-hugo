@@ -9,15 +9,9 @@ Help in choosing a suitable online learning platform.
 
 Help in choosing from the many online learning platforms available to ensure you get the best out of any learning experience.
 
-Online learning can be a modern and innovative way to keep learning. As adults, it can be all too easy to forget that learning remains important. Staying open to new experiences, actively seeking out ways to learn and develop helps retain a keen interest in the world and your own self-improvement.
+Online learning can be a modern and innovative way to keep learning. As adults, it can be all too easy to forget the importance of lifelong learning. Staying open to new experiences, actively seeking out ways to learn and develop helps retain a keen interest in the world and your own self-improvement.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Upskillwise**](https://upskillwise.com/online-learning-platforms/) | Free | 
-| [**Coursera**](https://www.coursera.org/) | Paid | 
-| [**Masterclass**](https://www.masterclass.com/) | Paid | 
-| [**Udacity**](https://www.udacity.com/) | Free | 
-  
+<a class="ma-link" href="https://upskillwise.com/online-learning-platforms/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Upskillwise</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.coursera.org/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Coursera</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.masterclass.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Masterclass</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.udacity.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Udacity</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

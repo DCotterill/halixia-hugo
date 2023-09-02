@@ -11,12 +11,7 @@ Learn about safeguarding personal information, using strong passwords, and monit
 
 Protecting against identity theft involves adopting security measures like safeguarding personal information, creating strong passwords, and regularly monitoring financial accounts. It mitigates the risk of fraud, preserves financial wellbeing, and promotes peace of mind.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Experian**](https://www.experian.co.uk/consumer/identity/what-to-do-if-victim.html) | Paid | 
-| [**Citizens advice**](https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/) | Free  | 
-| [**Due**](https://due.com/protect-your-financial-investments/) | Free | 
-  
+<a class="ma-link" href="https://www.experian.co.uk/consumer/identity/what-to-do-if-victim.html"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Experian</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Citizens advice</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://due.com/protect-your-financial-investments/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Due</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

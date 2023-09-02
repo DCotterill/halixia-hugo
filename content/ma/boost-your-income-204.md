@@ -11,10 +11,7 @@ Learn how to boost your income. There are many ways to earn extra money, whether
 
 In the current climate more than one stream of income can help you spread your bets and ensure that we’re always covered financially. Financial security is just one of the benefits of having multiple income streams, it can help you reach your financial goals earlier and build long-term wealth.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/family/boost-your-income/) | Free | 
-  
+<a class="ma-link" href="https://www.moneysavingexpert.com/family/boost-your-income/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>MoneySavingExpert.com</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

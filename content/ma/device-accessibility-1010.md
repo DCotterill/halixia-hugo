@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about making your devices easier to use.
+Learn about making your mobile devices easier to use.
 
-Learn more about helpful features on your devices, to help you get the best experience you can.
+Learn about helpful features on your mobile devices, to help you get the best experience you can.
 
-Many devices, including smartphones and tablets come with a range of features which can be adjusted so that your device better meets your needs.
+Make technology work for you! Many mobile devices, including smartphones and tablets come with a range of features which can be adjusted so that your devices better meets your needs.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/device-accessibility/) | Free | 
-| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/downloading-apps/) | Free | 
-| [**Age UK**](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/online-terms/) | Free | 
-| [**GCFGlobal.org**](https://edu.gcfglobal.org/en/topics/smartphonesandtablets/) | Free | 
-  
+<a class="ma-link" href="https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/device-accessibility/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Age UK</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/downloading-apps/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Age UK</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/online-terms/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Age UK</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://edu.gcfglobal.org/en/topics/smartphonesandtablets/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>GCFGlobal.org</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

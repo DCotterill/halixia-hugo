@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about the healthy eating week.
+Find out how to kickstart a healthier diet
 
-Learn more about eating a healthy, balanced diet for optimal health and well-being. Providing vital nutrients, support body function, boost energy, and promote a long and fulfilling life.
+Try a week of eating a healthy, balanced diet for optimal health and wellbeing. Providing vital nutrients, support body function, boost energy, and promote a long and fulfilling life.
 
-Healthy eating is crucial for overall well-being as it provides essential nutrients, supports physical and mental health, reduces the risk of chronic diseases, boosts energy levels, aids in weight management, promotes better digestion, strengthens the immune system, and contributes to a higher quality of life.
+Healthy eating is crucial for overall wellbeing as it provides essential nutrients, supports physical and mental health, reduces the risk of chronic diseases, boosts energy levels, aids in weight management, promotes better digestion, strengthens the immune system, and contributes to a higher quality of life.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Beauty bites**](https://www.beautybites.org/7-day-clean-eating-challenge/) | Free  | 
-| [**NHS**](https://www.nhsinform.scot/healthy-living/food-and-nutrition/eating-well/health-benefits-of-eating-well) | Free  | 
-| [**Balance box**](https://www.balancebox.com) | Paid | 
-| [**Spanish Passion foods**](https://www.spanishpassionfoods.co.uk) | Paid | 
-  
+<a class="ma-link" href="https://www.beautybites.org/7-day-clean-eating-challenge/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Beauty bites</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.nhsinform.scot/healthy-living/food-and-nutrition/eating-well/health-benefits-of-eating-well"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NHS</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="#REF!"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>#REF!</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=51761&awinaffid=1198638&ued=https%3A%2F%2Fnearlynakedveg.co.uk%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Nearly naked veg</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

@@ -5,7 +5,7 @@ content_pages = {}
 count = 0
 # with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - Full Content Samples.csv'
 #         , newline='') as csvfile:
-with open('resources/MA Database 220523.xlsx - Upload Prep -v7.csv'
+with open('resources/MA Database 220523.xlsx - Upload Prep -v8.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
@@ -26,7 +26,7 @@ with open('resources/MA Database 220523.xlsx - Upload Prep -v7.csv'
         # Content Type
         content_text = row[13]
 
-        print (ddm_type)
+        # print (ddm_type)
         if ddm_type == 'Development':
             page = {"display-name": display_name,
                     "summary-description": summary,
@@ -84,14 +84,19 @@ with open('resources/MA Database 220523.xlsx - Upload Prep -v7.csv'
 
 
             def build_primary_link_row (link_name, link, paid_free, tp_rating, tp_link):
+                pre_0 = "<a class=\"ma-link\" href=\"" + link + "\">"
+                pre_1 = "<div class=\"ma-card\"><div class=\"ma-icon\"><img src =\"/images/"
+                # print(paid_free)
+                if paid_free == "Paid":
+                    image = "icon-pound.png"
+                else:
+                    image = "icon-check.png"
+                pre_2 = "\"/></div><div class=\"ma-name\"><p>"
+                pre_3 = "</p></div><div class=\"ma-paid-text\"><span>"
+                pre_4 = "</span></div></div></a>"
                 line = ""
                 if link_name:
-                    line = line + "| [**" + link_name + "**](" + link + ") | "
-                    line = line + paid_free + " | \n"
-                    # if tp_rating == "N/A":
-                    #     line = line + tp_rating + "\n"
-                    # else:
-                    #     line = line + "[" + tp_rating + "](" + tp_link + ") | \n"
+                    line = pre_0 + pre_1 + image + pre_2 + link_name + pre_3 + paid_free + pre_4
                 return line
 
 
@@ -115,8 +120,8 @@ with open('resources/MA Database 220523.xlsx - Upload Prep -v7.csv'
                                                                                          primary_link_paid_free_4,
                                                                                          primary_link_tp_rating_4,
                                                                                          primary_link_tp_link_4)
-
-            print(content_pages)
+            # if internal_name == "268":
+            # print(content_pages["268"])
 
 with open('resources/content-template.md','r') as file:
     template = file.read()
@@ -131,7 +136,7 @@ for k, page in content_pages.items():
         template = template.replace("*" + k + "*", v)
 
 
-    print(page)
+    # print(page)
 
     display_name = page['display-name']
     internal_name = page['internal-name']
@@ -140,7 +145,7 @@ for k, page in content_pages.items():
            + "-" + internal_name
     filename = "content/ma/" + name.lower() + ".md"
 
-    print("https://www.halixia.com/ma/" + name.lower())
+    # print("https://www.halixia.com/ma/" + name.lower())
 
     with open(filename, "w") as md_file:
         md_file.write(template)

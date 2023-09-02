@@ -11,12 +11,7 @@ We all have a general legal obligation to ensure we're paying the right amount o
 
 HM Revenue and Customs (HMRC) is responsible for collecting and administering taxes in the UK. The UK tax year runs from 6 April to 5 April the following year. You pay two types of tax in the UK: Pay as You Earn (PAYE) and National Insurance (NI).
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Low Incomes Tax Reform Group**](https://www.litrg.org.uk/tax-guides/tax-basics) | Free | 
-| [**Low Incomes Tax Reform Group**](https://www.litrg.org.uk/tax-guides/tax-basics/self-assessment-understanding-basics) | Free | 
-| [**Unbiased**](https://www.unbiased.co.uk/discover/tax-business/self-assessment) | Free | 
-  
+<a class="ma-link" href="https://www.litrg.org.uk/tax-guides/tax-basics"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Low Incomes Tax Reform Group</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.litrg.org.uk/tax-guides/tax-basics/self-assessment-understanding-basics"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Low Incomes Tax Reform Group</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.unbiased.co.uk/discover/tax-business/self-assessment"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Unbiased</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

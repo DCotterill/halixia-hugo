@@ -11,12 +11,7 @@ Explore home-based job options, allowing flexibility and convenience in your wor
 
 Embrace the advantages of a home-based job, aligning your career with your lifestyle preferences. Finding home-based jobs involves researching online platforms, freelancing opportunities, and remote work roles.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Indeed**](https://uk.indeed.com/career-advice/career-development/work-from-home-jobs-hiring-now) | Free  | 
-| [**Mum's money**](https://mumsmoney.com/uk/genuine-work-from-home-jobs-uk/) | Free  | 
-| [**TotalJobs**](https://www.totaljobs.com/advice/how-to-set-up-a-home-office) | Free  | 
-  
+<a class="ma-link" href="https://uk.indeed.com/career-advice/career-development/work-from-home-jobs-hiring-now"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Indeed</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://mumsmoney.com/uk/genuine-work-from-home-jobs-uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Mum's money</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.totaljobs.com/advice/how-to-set-up-a-home-office"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>TotalJobs</p></div><div class="ma-paid-text"><span>Free </span></div></div></a>  
 
 <br/><br/>
 

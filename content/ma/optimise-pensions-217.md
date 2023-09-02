@@ -11,13 +11,7 @@ Understand the advantages, and possible disadvantages, of bringing all your pens
 
 A key part of retirement planning is understanding what you’ve got and what you need in later life. The average person in the UK changes job every five years, and that means trying to keep track of several different pension plans. Putting it all in one pot can help simplify things.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Which?**](https://www.which.co.uk/money/pensions-and-retirement/personal-pensions/should-i-combine-my-pensions-a79863g1pm14#headline_4) | Free/Paid | 
-| [**Unbiased**](https://www.unbiased.co.uk/discover/pensions-retirement/managing-a-pension/combining-your-pensions) | Free | 
-| [**Standard Life**](https://www.standardlife.co.uk/articles/article-page/combining-your-pensions) | Free/Paid | 
-| [**PensionBee**](https://www.pensionbee.com/) | Paid | 
-  
+<a class="ma-link" href="https://www.which.co.uk/money/pensions-and-retirement/personal-pensions/should-i-combine-my-pensions-a79863g1pm14#headline_4"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Which?</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.unbiased.co.uk/discover/pensions-retirement/managing-a-pension/combining-your-pensions"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Unbiased</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.standardlife.co.uk/articles/article-page/combining-your-pensions"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Standard Life</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.pensionbee.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>PensionBee</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

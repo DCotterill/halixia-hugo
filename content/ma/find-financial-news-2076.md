@@ -9,15 +9,9 @@ Why you need to keep up to date with financial news.
 
 Learn to how and why you should stay informed about financial news, market trends, and regulatory changes to make informed financial decisions.
 
-Keeping up with financial news helps understand economic shifts, anticipate market trends, and adapt investment strategies accordingly. Being aware of regulatory changes ensures compliance and minimizes potential risks to financial plans.
+Keeping up with financial news helps understand economic shifts, anticipate market trends, and adapt investment strategies accordingly. Being aware of regulatory changes ensures compliance and minimises potential risks to financial plans.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**ASB**](https://asb.org.uk/finance/03/2019/why-keeping-on-top-of-financial-news-is-essential-for-investors/1760/) | Free  | 
-| [**Financial Expert**](https://www.financial-expert.co.uk/best-financial-news-sources/) | Free | 
-| [**Financial Times**](https://www.ft.com/markets) | Paid | 
-| [**Money Week**](https://moneyweek.com/) | Paid | 
-  
+<a class="ma-link" href="https://asb.org.uk/finance/03/2019/why-keeping-on-top-of-financial-news-is-essential-for-investors/1760/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>ASB</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.financial-expert.co.uk/best-financial-news-sources/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Financial Expert</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.ft.com/markets"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Financial Times</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://moneyweek.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Money Week</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

@@ -11,13 +11,7 @@ Chess is one of the oldest and most popular board games. The board represents a 
 
 Chess has been shown to have many benefits from stress reduction to improving cognitive function, start taking chess lessons to learn to play chess, or revive a lost skill, and enjoy the benefits.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Mindful chess**](https://www.mindfulchess.org/) | Paid | 
-| [**Chess.com**](https://www.chess.com/learn) | Free/Paid | 
-| [**Udemy**](https://www.udemy.com/topic/chess/) | Paid | 
-| [**The Chess Journal**](https://www.chessjournal.com/chess-facts/) | Free | 
-  
+<a class="ma-link" href="https://www.mindfulchess.org/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Mindful chess</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.chess.com/learn"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Chess.com</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://click.linksynergy.com/deeplink?id=L8N3em0sP4o&mid=47900&murl=https://www.udemy.com/topic/chess/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Udemy</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.chessjournal.com/chess-facts/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The Chess Journal</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

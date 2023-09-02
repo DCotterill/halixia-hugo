@@ -11,12 +11,7 @@ If you are already a carer or could become one in the future, and want to carry 
 
 Many families are unprepared for a loved one needing to go into care and often find the care system tricky to navigate at a time when you need to focus on your loved one. The inevitable anxiety and stress can be eased with knowledge of support available.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Carers UK**](https://www.carersuk.org/help-and-advice/work-and-career/) | Free  | 
-| [**UK Government**](https://www.gov.uk/government/publications/help-and-support-for-older-workers/help-and-support-for-older-workers) | Free  | 
-| [**Centre for Ageing Better**](https://ageing-better.org.uk/work) | Free  | 
-  
+<a class="ma-link" href="https://www.carersuk.org/help-and-advice/work-and-career/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Carers UK</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.gov.uk/government/publications/help-and-support-for-older-workers/help-and-support-for-older-workers"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>UK Government</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://ageing-better.org.uk/work"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Centre for Ageing Better</p></div><div class="ma-paid-text"><span>Free </span></div></div></a>  
 
 <br/><br/>
 

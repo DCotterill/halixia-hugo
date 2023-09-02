@@ -11,13 +11,7 @@ Learn more about how your beliefs align with a particular religion and how regul
 
 Studies has shown that regularly attending religious services. and the support structure that often comes with a faith community, has many benefits, including helping you to live longer as well as lowering blood pressure and the risk of cardiovascular disease.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Psychology today**](https://www.psychologytoday.com/us/blog/supersurvivors/201809/is-religion-good-or-bad-us) | Free | 
-| [**Learn Religions**](https://www.learnreligions.com/) | Free | 
-| [**Near me**](https://near-me.store/en/religious-centers-near-me) | Free | 
-| [**PsyCat Games**](https://psycatgames.com/quiz/what-is-my-religion/) | Free | 
-  
+<a class="ma-link" href="https://www.psychologytoday.com/us/blog/supersurvivors/201809/is-religion-good-or-bad-us"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Psychology today</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.learnreligions.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Learn Religions</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://near-me.store/en/religious-centers-near-me"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Near me</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://psycatgames.com/quiz/what-is-my-religion/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>PsyCat Games</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

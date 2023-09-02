@@ -9,14 +9,9 @@ Learn about how you can improve your hearing.
 
 Improving your hearing is important because it enhances communication, fosters meaningful connections, promotes cognitive function, improves safety awareness.
 
-Improving your hearing is important for maintaining effective communication, enhancing cognitive abilities, promoting safety and awareness, enjoying sounds and music, and improving emotional well-being and overall quality of life.
+Improving your hearing is important for maintaining effective communication, enhancing cognitive abilities, promoting safety and awareness, enjoying sounds and music, and improving emotional wellbeing and overall quality of life.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Boots**](https://www.bootshearingcare.com/hearing/lifestyle/how-to-improve-hearing-10-steps-to-hear-better/) | Free | 
-| [**Health Canal**](https://www.healthcanal.com/health/how-to-improve-hearing) | Free | 
-| [**Amplifon**](https://www.amplifon.com/uk/recognising-hearing-loss/how-the-ear-works/10-steps-to-better-hearing) | Free | 
-  
+<a class="ma-link" href="https://www.bootshearingcare.com/hearing/lifestyle/how-to-improve-hearing-10-steps-to-hear-better/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Boots</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.healthcanal.com/health/how-to-improve-hearing"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Health Canal</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.amplifon.com/uk/recognising-hearing-loss/how-the-ear-works/10-steps-to-better-hearing"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Amplifon</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

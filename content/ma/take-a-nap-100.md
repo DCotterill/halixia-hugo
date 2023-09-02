@@ -7,17 +7,11 @@ layout: static
 
 Why an afternoon nap can be beneficial.
 
-Listen to a podcast explaining the joys of an afternoon nap. It’s not a lazy snooze, it’s a brain booster! Napping can help your heart, improve your mood and enhance your memory.
+Listen to a podcast and read about the joys of an afternoon nap. It’s not a lazy snooze, it’s a brain booster! Napping can help your heart, improve your mood and enhance your memory.
 
 Naps have been shown to have numerous benefits including improving cognitive functions such as memory, logical reasoning, and the ability to complete complex tasks. Naps have also been shown to help improve cardiovascular health.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**BBC**](https://www.bbc.co.uk/programmes/m001744m) | Free | 
-| [**Sleep foundation**](https://www.sleepfoundation.org/sleep-hygiene/napping) | Free | 
-| [**Progressive Hypnosis**](https://www.youtube.com/watch?v=AFiRv1OITco) | Free | 
-| [**Sleep Hubs**](https://sleephubs.com/) | Paid | 
-  
+<a class="ma-link" href="https://www.bbc.co.uk/programmes/m001744m"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBC</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.sleepfoundation.org/sleep-hygiene/napping"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>SleepFoundation.org</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.youtube.com/watch?v=AFiRv1OITco"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Progressive Hypnosis</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=18997&awinaffid=1198638&ued=https%3A%2F%2Fsleephubs.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Sleep Hubs</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

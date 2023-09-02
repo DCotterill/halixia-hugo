@@ -7,17 +7,11 @@ layout: static
 
 Having a healthy sex life has many benefits.
 
-Having sex is a really important part of overall health and happiness, and people that have it, tend to live longer, this article talks about the benefits of a healthy sex life.
+Having sex is a really important part of overall health and happiness, and people that have it, tend to live longer, these articles talk about the benefits of a healthy sex life.
 
 Some of the benefits you can get from sex include lowering blood pressure, burning calories, increasing heart health, strengthening muscles, reducing your risk of heart disease, stroke, and help with pain as well as easing stress.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Web md**](https://www.webmd.com/sex-relationships/guide/sex-and-health) | Free | 
-| [**Medical news today**](https://www.medicalnewstoday.com/articles/how-often-do-couples-have-sex) | Free | 
-| [**The healthy**](https://www.thehealthy.com/sex/health-benefits-of-sex/) | Free | 
-| [**So Divine**](https://www.awin1.com/cread.php?awinmid=28367&awinaffid=1198638&ued=https%3A%2F%2Fso-divine.com%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.webmd.com/sex-relationships/guide/sex-and-health"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Web md</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.medicalnewstoday.com/articles/how-often-do-couples-have-sex"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Medical news today</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.thehealthy.com/sex/health-benefits-of-sex/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The healthy</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=28367&awinaffid=1198638&ued=https%3A%2F%2Fso-divine.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>So Divine</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

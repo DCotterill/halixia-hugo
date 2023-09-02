@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Why you should try and read every day.
+Why and how you can read every day.
 
-Listen to this podcast and explore how losing yourself in a novel for a short time each day can boost your brainpower, improve social bonds and, surprisingly, help you live longer.
+Listen to this podcast and explore losing yourself in a novel for a short time each day and how it can boost your brainpower, improve social bonds and, surprisingly, help you live longer.
 
 We live in an age where we can spend hours bingeing on TV box sets or surfing social media. But despite these distractions, reading remains a popular pastime. The health benefits are great, as is the opportunity to be transported to another world without even leaving your sofa!
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**BBC**](https://www.bbc.co.uk/programmes/m00187ws) | Free | 
-| [**BBC**](https://www.bbc.co.uk/teach/skillswise) | Free | 
-| [**UK Government**](https://www.gov.uk/local-library-services) | Free | 
-| [**Harper Collins**](https://www.awin1.com/cread.php?awinmid=24652&awinaffid=1198638&ued=https%3A%2F%2Fharpercollins.co.uk%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.bbc.co.uk/programmes/m00187ws"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBC</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.bbc.co.uk/teach/skillswise"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBC</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.gov.uk/local-library-services"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>UK Government</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="#REF!"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>WHSmith</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

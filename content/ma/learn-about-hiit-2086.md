@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about High-Intensity Interval Training (HIIT).
+Discover High-Intensity Interval Training (HIIT).
 
-Learn about the importance of incorporating high-intensity interval training for efficient workouts, improved cardiovascular fitness, and calorie burn.
+Learn about the importance of incorporating High-Intensity Interval Training (HIIT) into your exercise regime for more efficient workouts, improved cardiovascular fitness, and calorie burn.
 
 HIIT involves short bursts of intense exercise alternated with periods of recovery. It boosts cardiovascular health, enhances metabolism, and saves time compared to traditional workouts. HIIT can be customised to different fitness levels and preferences.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Muscles and fitness**](https://www.muscleandfitness.com/workouts/workout-routines/hiit-6-week-full-body-workout/) | Free | 
-| [**Healthline**](https://www.healthline.com/nutrition/benefits-of-hiit) | Free  | 
-| [**Medical news today**](https://www.medicalnewstoday.com/articles/327474) | Free  | 
-| [**MP**](https://www.mp.com) | Paid | 
-  
+<a class="ma-link" href="https://www.muscleandfitness.com/workouts/workout-routines/hiit-6-week-full-body-workout/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Muscles and fitness</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.healthline.com/nutrition/benefits-of-hiit"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Healthline</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.medicalnewstoday.com/articles/327474"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Medical news today</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.mp.com"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>MP</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

@@ -5,18 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Send a card or letters to a family member.
+Send a card or letter to a family member.
 
 Show your love and care by sending a heartfelt card or letter to a family member you haven't seen in a while, strengthening emotional connections despite the physical distance.
 
-Sending a thoughtful card conveys love, gratitude, and a desire to stay connected. It bridges the gap between family members, maintaining a sense of closeness and reminding them of your affection.
+Sending a thoughtful card conveys love, gratitude, and a desire to stay connected. It bridges the gap between family members, maintaining a sense of closeness and reminding them of your affection. And it might just make someone's day!
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**thortful**](https://www.thortful.com/) | Paid | 
-| [**Postable**](https://www.postable.com/blog/67-reasons-to-send-a-card/) | Free  | 
-| [**The Art File**](https://www.theartfile.com/news/the-importance-of-sending-cards) | Free  | 
-  
+<a class="ma-link" href="https://www.thortful.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>thortful</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.postable.com/blog/67-reasons-to-send-a-card/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Postable</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.theartfile.com/news/the-importance-of-sending-cards"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The Art File</p></div><div class="ma-paid-text"><span>Free </span></div></div></a>  
 
 <br/><br/>
 

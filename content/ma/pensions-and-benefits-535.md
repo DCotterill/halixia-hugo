@@ -9,14 +9,9 @@ Find out how your pensions savings can impact your benefits.
 
 How your pension pot (or your partner’s pension pot) is treated for benefits entitlement depends on whether you or your partner have reached the qualifying age for Pension Credit.
 
-If you’re currently receiving means-tested benefits, and have pensions savings it's know how your personal pension, especially before taking an income from it could affect your financial wellbeing.
+If you’re currently receiving means-tested benefits, and have pensions savings it's important know how your personal pension, especially before taking an income from it, could affect your financial wellbeing.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**UK Government**](https://www.gov.uk/government/publications/pension-freedoms-and-dwp-benefits/pension-freedoms-and-dwp-benefits) | Free | 
-| [**Online money advisor**](https://www.onlinemoneyadvisor.co.uk/pensions/personal-pensions/personal-pension-benefits/) | Free | 
-| [**Money helper**](https://www.moneyhelper.org.uk/en/pensions-and-retirement/pension-wise/) | Free | 
-  
+<a class="ma-link" href="https://www.gov.uk/government/publications/pension-freedoms-and-dwp-benefits/pension-freedoms-and-dwp-benefits"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>UK Government</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.onlinemoneyadvisor.co.uk/pensions/personal-pensions/personal-pension-benefits/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Online money advisor</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.moneyhelper.org.uk/en/pensions-and-retirement/pension-wise/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Money helper</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

@@ -11,12 +11,7 @@ Host a community event, such as a street party or a smaller event with your neig
 
 Community events are an important aspect of everyday life, helping to encourage people to play a more active part in society.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Street party**](https://www.streetparty.org.uk/guide/street-meet/) | Free | 
-| [**Gov.uk**](https://www.gov.uk/organise-street-party) | Free | 
-| [**Street party**](https://www.streetparty.org.uk/guide/) | Free | 
-  
+<a class="ma-link" href="https://www.streetparty.org.uk/guide/street-meet/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Street party</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.gov.uk/organise-street-party"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Gov.uk</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.streetparty.org.uk/guide/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Street party</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

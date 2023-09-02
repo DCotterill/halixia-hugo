@@ -7,16 +7,11 @@ layout: static
 
 Learn about becoming a foster parent.
 
-Find out about becoming a foster parent can provide a loving home to a child in need, positively impact their life, and potentially create a lifelong relationship.
+Find out how becoming a foster parent can provide a loving home to a child in need, positively impact their life, and potentially create a lifelong relationship.
 
-Fostering can be a rewarding experience, offering the opportunity to learn new skills, create lasting connections, and contribute to your community. Fostering can also help address a critical need for loving and supportive homes for children in the foster care system.
+Fostering can be a rewarding experience, offering the opportunity to learn new skills, create lasting connections, and contribute to your community. Fostering can also help address a critical need for loving and supportive homes for children in the care system.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**The FCA**](https://www.thefca.co.uk/about-fostering/how-to-become-a-foster-parent/) | Free | 
-| [**NFA**](https://www.nfa.co.uk/story/story_category/why-are-foster-carers-so-important/) | Free | 
-| [**Fostering network**](https://www.thefosteringnetwork.org.uk/advice-information/could-you-foster/frequently-asked-questions) | Free | 
-  
+<a class="ma-link" href="https://www.thefca.co.uk/about-fostering/how-to-become-a-foster-parent/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The FCA</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.nfa.co.uk/story/story_category/why-are-foster-carers-so-important/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NFA</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.thefosteringnetwork.org.uk/advice-information/could-you-foster/frequently-asked-questions"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Fostering network</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

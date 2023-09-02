@@ -11,13 +11,7 @@ Learn all about offset mortgages and the personal circumstances that may make th
 
 Making your savings work harder and setting a goal to pay off your mortgage sooner will result in much more disposable income and the peace of mind that your home is absolutely yours.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Which?**](https://www.which.co.uk/money/mortgages-property/mortgages/types-of-mortgage/offset-mortgages-aiIjm1Y7NYlV) | Free  | 
-| [**The Times Money Mentor**](https://www.thetimes.co.uk/money-mentor/article/offset-mortgage/) | Free  | 
-| [**MoneySavingExpert.Com**](https://www.moneysavingexpert.com/mortgages/offset-mortgage-calculator/) | Free  | 
-| [**Finder**](https://www.finder.com/uk/mortgages/mortgage-brokers) | Free /Paid | 
-  
+<a class="ma-link" href="https://www.which.co.uk/money/mortgages-property/mortgages/types-of-mortgage/offset-mortgages-aiIjm1Y7NYlV"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Which?</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.thetimes.co.uk/money-mentor/article/offset-mortgage/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The Times Money Mentor</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.moneysavingexpert.com/mortgages/offset-mortgage-calculator/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>MoneySavingExpert.Com</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.finder.com/uk/mortgages/mortgage-brokers"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Finder</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

@@ -9,14 +9,9 @@ Be a better co-worker by helping and supporting others.
 
 Read tips on how you can help and support your co-workers to foster a better workplace environment.
 
-Helping and supporting others, such as your co-workers, doesn’t just make things better for them, it helps make you better as well. The act of helping those around us can help to boost your happiness, health, and sense of well-being.
+Helping and supporting others, such as your co-workers, doesn’t just make things better for them, it helps make you better as well. The act of helping those around us can help to boost your happiness, health, and sense of wellbeing.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Indeed**](https://www.indeed.com/career-advice/career-development/helping-and-supporting-others-at-work) | Free | 
-| [**The muse**](https://www.themuse.com/advice/how-to-support-a-coworker-through-a-personal-crisis-without-crossing-the-line) | Free | 
-| [**Indeed**](https://uk.indeed.com/career-advice/career-development/supportive-colleagues) | Free | 
-  
+<a class="ma-link" href="https://www.indeed.com/career-advice/career-development/helping-and-supporting-others-at-work"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Indeed</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.themuse.com/advice/how-to-support-a-coworker-through-a-personal-crisis-without-crossing-the-line"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The muse</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://uk.indeed.com/career-advice/career-development/supportive-colleagues"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Indeed</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

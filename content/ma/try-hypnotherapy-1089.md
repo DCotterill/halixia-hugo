@@ -5,18 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Try online hypnotherapy.
+Try hypnotherapy.
 
-Try online hypnotherapy to help you to relieve stress.
+Try hypnotherapy to help you to relieve stress.
 
-Hypnotherapy, or clinical hypnosis, is a treatment where you're guided into a deeply relaxed state of highly focused awareness to affect change. In conjunction with other therapies, hypnosis has been found to be an effective treatment for chronic stress and related issues.
+Hypnotherapy, or clinical hypnosis, is a treatment where you're guided into a deeply relaxed state of highly focused awareness to affect change. On its own or in conjunction with other therapies, hypnosis has been found to be an effective treatment for chronic stress and related issues.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Hypnotherapy online**](https://www.hypnotherapyonline.uk/) | Paid | 
-| [**Voice stories app**](https://voice-stories.app/) | Free | 
-| [**Hypnotherapist**](https://www.hypnotherapists.org.uk/hypnotherapy/benefits/) | Free | 
-  
+<a class="ma-link" href="https://www.hypnotherapyonline.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Hypnotherapy online</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://voice-stories.app/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Voice stories app</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.hypnotherapists.org.uk/hypnotherapy/benefits/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Hypnotherapist</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

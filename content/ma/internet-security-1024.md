@@ -11,13 +11,7 @@ Learn about how to stay safe on the internet, to get the most out of your intern
 
 The internet can make life a lot easier, but it doesn't come without the risk of online scams and frauds. Learn to protect yourself from scams and frauds, by learning what to look out for, and what to do if you suspect a scam.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Age Uk**](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/internet-security/) | Free | 
-| [**BT**](https://community.bt.com/t5/Announcements-Guides-Community/Staying-safe-online-Free-10-minute-training/td-p/2187501) | Free | 
-| [**NCSC**](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online) | Free | 
-| [**The Code Zone**](https://www.awin1.com/cread.php?awinmid=37332&awinaffid=1198638&ued=https%3A%2F%2Fwww.thecodezone.co.uk%2Fgame-dev-club-for-grownups) | Paid | 
-  
+<a class="ma-link" href="https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/internet-security/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Age UK</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://community.bt.com/t5/Announcements-Guides-Community/Staying-safe-online-Free-10-minute-training/td-p/2187501"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BT</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NCSC</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=37332&awinaffid=1198638&ued=https%3A%2F%2Fwww.thecodezone.co.uk%2Fgame-dev-club-for-grownups"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>The Code Zone</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

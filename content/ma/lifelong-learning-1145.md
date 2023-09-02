@@ -9,15 +9,9 @@ Learn about the importance of lifelong learning.
 
 Lifelong learning enhances personal growth, expands knowledge and skills, fosters adaptability, improves career prospects, and promotes intellectual stimulation and fulfilment.
 
-Lifelong learning can provide health benefits such as improving cognitive function, reducing the risk of dementia, enhancing creativity, promoting social engagement, and increasing overall well-being. It can also provide a sense of purpose and personal fulfilment throughout life.
+Lifelong learning can provide health benefits such as improving cognitive function, reducing the risk of dementia, enhancing creativity, promoting social engagement, and increasing overall wellbeing. It can also provide a sense of purpose and personal fulfilment throughout life.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Future Learn**](https://www.futurelearn.com/) | Paid | 
-| [**Learnerbly**](https://www.learnerbly.com/articles/continuous-learning-what-it-is-why-its-important-and-how-to-support-it) | Free | 
-| [**Virtual College**](https://www.virtual-college.co.uk/) | Paid | 
-| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
-  
+<a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=15642&awinaffid=1198638&ued=https%3A%2F%2Fwww.learning247.co.uk%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Learning 24/7</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.learnerbly.com/articles/continuous-learning-what-it-is-why-its-important-and-how-to-support-it"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Learnerbly</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.virtual-college.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Virtual College</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>New Skill Academy</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

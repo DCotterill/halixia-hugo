@@ -11,13 +11,7 @@ Strengthen your mental resilience, equipping yourself with coping skills to navi
 
 Developing mental resilience gives you the coping skills to better navigate life's challenges and stresses. Using simple actions and behaviours, including mindfulness and self-care practices, support your emotional wellbeing and improves overall mental health.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**BBC**](https://www.bbc.co.uk/programmes/articles/YfRzhXDKSZQxFVn30TlXBj/your-mental-health-toolkit) | Free  | 
-| [**The Mental Health Foundation**](https://www.mentalhealth.org.uk/explore-mental-health/publications/emotional-resilience-toolkit) | Free  | 
-| [**National Institutes of Health**](https://www.nih.gov/health-information/emotional-wellness-toolkit) | Free  | 
-| [**Lovendu**](https://www.awin1.com/cread.php?awinmid=25994&awinaffid=1198638&ued=https%3A%2F%2Flovendu.co.uk%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.bbc.co.uk/programmes/articles/YfRzhXDKSZQxFVn30TlXBj/your-mental-health-toolkit"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBC</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.mentalhealth.org.uk/explore-mental-health/publications/emotional-resilience-toolkit"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The Mental Health Foundation</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.nih.gov/health-information/emotional-wellness-toolkit"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>National Institutes of Health</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=25994&awinaffid=1198638&ued=https%3A%2F%2Flovendu.co.uk%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Lovendu</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

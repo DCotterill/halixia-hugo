@@ -7,17 +7,11 @@ layout: static
 
 Learn about starting your journey to begin teaching yoga.
 
-Learn about teaching yoga, to start sharing the practice of yoga to promote physical well-being, flexibility, mindfulness, and stress reduction.
+Learn about teaching yoga, and how you can share the practice of yoga with others to promote physical wellbeing, flexibility, mindfulness, and stress reduction.
 
 Teaching yoga allows you to guide others in a holistic practice that combines physical postures, breathing techniques, and mindfulness. It promotes strength, flexibility, relaxation, and mental clarity, supporting overall wellbeing and a balanced lifestyle.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Centre of excellence**](https://www.centreofexcellence.com/shop/200hr-yoga-teacher-training-diploma-course/) | Paid | 
-| [**Ori gym**](https://origympersonaltrainercourses.co.uk/blog/why-do-yoga-teacher-training) | Free | 
-| [**Ori gym**](https://origympersonaltrainercourses.co.uk/blog/why-become-a-yoga-teacher) | Free  | 
-| [**New Skill Academy**](https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.com%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.centreofexcellence.com/shop/200hr-yoga-teacher-training-diploma-course/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Centre of excellence</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://origympersonaltrainercourses.co.uk/blog/why-do-yoga-teacher-training"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Ori gym</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://origympersonaltrainercourses.co.uk/blog/why-become-a-yoga-teacher"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Ori gym</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>New Skill Academy</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

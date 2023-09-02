@@ -11,13 +11,7 @@ Enhance fundamental workplace skills, boosting confidence and performance in you
 
 Invest in continuous improvement to thrive in your work environment and take on new challenges. Improving basic skills such as time management, IT proficiency, and teamwork contributes to professional growth and job satisfaction.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**BBC**](https://www.bbc.co.uk/teach/skillswise/job-skills/zdh8vk7) | Free  | 
-| [**The Skills Toolkit**](https://theskillstoolkit.campaign.gov.uk/) | Free  | 
-| [**National career Services**](https://nationalcareers.service.gov.uk/careers-advice/build-foundation-digital-skills-to-help-your-career/) | Free  | 
-| [**New Skill Academy**](https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.co.uk%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.bbc.co.uk/teach/skillswise/job-skills/zdh8vk7"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBC</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://theskillstoolkit.campaign.gov.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The Skills Toolkit</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://nationalcareers.service.gov.uk/careers-advice/build-foundation-digital-skills-to-help-your-career/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>National career Services</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.co.uk%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>New Skill Academy</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

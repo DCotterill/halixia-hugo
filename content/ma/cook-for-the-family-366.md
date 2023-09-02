@@ -11,13 +11,7 @@ Keep everyone happy with these easy family friendly dinner ideas. There's pasta,
 
 By eating meals together we practice gratitude. While sharing and enjoying a tasty meal with those who are the closest to you, you feel happy and more content as well as help to foster a sense of security and belonging, and even alleviate depression.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**BBC**](https://www.bbc.co.uk/food/collections/family_friendly_dinner) | Free | 
-| [**Jamie Oliver**](https://www.jamieoliver.com/family/) | Free | 
-| [**Team building with taste**](https://www.teambuildingwithtaste.com/why-family-cooking-together-matters/) | Free | 
-| [**Gousto**](https://www.gousto.co.uk/) | Paid | 
-  
+<a class="ma-link" href="https://www.bbc.co.uk/food/collections/family_friendly_dinner"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBC</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.jamieoliver.com/family/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Jamie Oliver</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.teambuildingwithtaste.com/why-family-cooking-together-matters/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Team building with taste</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.gousto.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Gousto</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

@@ -11,12 +11,7 @@ Learn about what paying it forward means and how you can positively impact other
 
 Paying it forward involves doing kind deeds for others without expecting anything in return. It spreads positivity, fosters a sense of community, and encourages others to do the same, creating a chain of goodwill and making a difference in people's lives.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Planet of success**](http://www.planetofsuccess.com/blog/2016/ideas-to-pay-it-forward/) | Free | 
-| [**Be inspired**](https://beinspired.global/paying-it-forward-its-benefits-and-importance/) | Free  | 
-| [**Greater good magazine**](https://greatergood.berkeley.edu/article/item/pay_it_forward) | Free  | 
-  
+<a class="ma-link" href="http://www.planetofsuccess.com/blog/2016/ideas-to-pay-it-forward/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Planet of success</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://beinspired.global/paying-it-forward-its-benefits-and-importance/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Be inspired</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://greatergood.berkeley.edu/article/item/pay_it_forward"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Greater good magazine</p></div><div class="ma-paid-text"><span>Free </span></div></div></a>  
 
 <br/><br/>
 

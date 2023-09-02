@@ -11,12 +11,7 @@ Sushi is a delicious and nutritious meal choice. It's a low-calorie option and o
 
 Sushi offers numerous health benefits. It's a good source of lean protein, omega-3 fatty acids, and vitamins like B12 and D. The seaweed used in sushi provides minerals and fibre. Sushi can be low in calories and fat, and the inclusion of vegetables adds antioxidants.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Natural Food Series**](https://www.naturalfoodseries.com/11-benefits-sushi/) | Free  | 
-| [**Open table**](https://www.opentable.co.uk/) | Free  | 
-| [**Gourmet society**](https://www.gourmetsociety.co.uk/) | Paid | 
-  
+<a class="ma-link" href="https://www.naturalfoodseries.com/11-benefits-sushi/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Natural Food Series</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.opentable.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Open table</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.gourmetsociety.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Gourmet society</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

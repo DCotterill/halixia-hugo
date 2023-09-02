@@ -11,13 +11,7 @@ You are already likely to possess many transferable skills employers value. High
 
 Many job seekers can’t capture their transferable skills adequately, communicate them well or even identify how their skills can apply across industries. If you are seeking a career change, transferable skills can be the factor that most impacts your ability to find work in a new field.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Coursera**](https://www.coursera.org/articles/transferable-skills) | Paid | 
-| [**Indeed**](https://www.indeed.com/career-advice/resumes-cover-letters/transferable-skills) | Free | 
-| [**Career Foundry**](https://www.youtube.com/watch?v=g3jX_QsGiiI) | Free | 
-| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
-  
+<a class="ma-link" href="https://www.coursera.org/articles/transferable-skills"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Coursera</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.indeed.com/career-advice/resumes-cover-letters/transferable-skills"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Indeed</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.youtube.com/watch?v=g3jX_QsGiiI"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Career Foundry</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>New Skill Academy</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

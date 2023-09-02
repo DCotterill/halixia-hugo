@@ -11,13 +11,7 @@ Vitamin D is known as “the sunshine vitamin” as it is the only nutrient our 
 
 UK Government advice is that everyone should take a vitamin D supplement during the autumn and winter. Vitamin D helps regulate the amount of calcium and phosphate in the body, needed to keep bones, teeth and muscles healthy.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**NHS**](https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/) |  | 
-| [**Eating well**](https://www.eatingwell.com/gallery/12814/recipes-to-get-more-vitamin-d/) | Free | 
-| [**Healtline**](https://www.healthline.com/health/nutrition/vitamin-d-foods) | Free | 
-| [**Holland and Barrett**](https://www.hollandandbarrett.com/the-health-hub/vitamins-and-supplements/vitamins/vitamin-d/best-vitamin-d-supplements/) | Free | 
-  
+<a class="ma-link" href="https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NHS</p></div><div class="ma-paid-text"><span></span></div></div></a><a class="ma-link" href="https://www.eatingwell.com/gallery/12814/recipes-to-get-more-vitamin-d/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Eating well</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.healthline.com/health/nutrition/vitamin-d-foods"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Healtline</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.hollandandbarrett.com/the-health-hub/vitamins-and-supplements/vitamins/vitamin-d/best-vitamin-d-supplements/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Holland and Barrett</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

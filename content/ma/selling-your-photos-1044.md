@@ -11,12 +11,7 @@ If you are a photographer, a budding photographer or just enjoy taking photos, l
 
 If you believe you have taken some photos people would be willing to pay for, start sharing your work online and start earning.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Shutterstock**](https://submit.shutterstock.com/) | Free | 
-| [**Money magpie**](https://www.moneymagpie.com/make-money/sell-your-photos) | Free | 
-| [**Modula**](https://wp-modula.com/best-places-to-sell-photos-online-and-make-money/) | Free | 
-  
+<a class="ma-link" href="https://submit.shutterstock.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Shutterstock</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.moneymagpie.com/make-money/sell-your-photos"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Money magpie</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://wp-modula.com/best-places-to-sell-photos-online-and-make-money/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Modula</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

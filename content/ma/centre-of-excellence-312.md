@@ -11,13 +11,7 @@ Centre of Excellence offers opportunity to learn a new skillset for life, or pos
 
 Centre of Excellence offers courses in many 'small business specialisms' and complementary therapies, opening up opportunity to start your own business and new career direction. The online Business Support Group can help you make your dream of opening an exciting new business a reality.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
-| [**Skillshare**](https://www.skillshare.com/) | Paid | 
-| [**UK Government**](https://www.gov.uk/set-up-business) | Free | 
-| [**Skills you need**](https://www.skillsyouneed.com/shop/self-employment.html) | Free | 
-  
+<a class="ma-link" href="https://www.centreofexcellence.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Centre of excellence</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.skillshare.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Skillshare</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.gov.uk/set-up-business"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>UK Government</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.skillsyouneed.com/shop/self-employment.html"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Skills you need</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

@@ -11,13 +11,7 @@ Volunteer your time and energy to help older people live a happy, connected, and
 
 Over one million older people say they go more than a month without speaking to a friend, neighbour or family member. But small acts of kindness can create a big difference for you and others.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Careline**](https://www.careline.co.uk/elderly-neighbours/) | Free | 
-| [**National care line**](https://thenationalcareline.org/SafetyAtHome/CheckOnYourNeighbour) | Free | 
-| [**Community access network**](https://www.communityaccessnetwork.org/ways-to-check-in-on-your-neighbors/) | Free | 
-| [**Independent Age**](https://www.independentage.org/get-involved/volunteering) | Free | 
-  
+<a class="ma-link" href="https://www.careline.co.uk/elderly-neighbours/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Careline</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://thenationalcareline.org/SafetyAtHome/CheckOnYourNeighbour"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>National care line</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.communityaccessnetwork.org/ways-to-check-in-on-your-neighbors/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Community access network</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.independentage.org/get-involved/volunteering"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Independent Age</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

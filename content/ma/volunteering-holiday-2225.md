@@ -11,12 +11,7 @@ Make a positive impact while travelling by embarking on a volunteering holiday, 
 
 Volunteering holidays allow you to give back to society, promoting personal growth and cultural exchange while supporting local initiatives.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Projects Abroad**](https://www.projects-abroad.co.uk/volunteer-holidays/) | Free  | 
-| [**Oyster Worldwide**](https://www.oysterworldwide.com/news/7-reasons-next-holiday-volunteering-holiday/) | Free  | 
-| [**Oyster Worldwide**](https://www.oysterworldwide.com/projects/volunteer-holidays/) | Free  | 
-  
+<a class="ma-link" href="https://www.projects-abroad.co.uk/volunteer-holidays/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Projects Abroad</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.oysterworldwide.com/news/7-reasons-next-holiday-volunteering-holiday/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Oyster Worldwide</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.oysterworldwide.com/projects/volunteer-holidays/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Oyster Worldwide</p></div><div class="ma-paid-text"><span>Free </span></div></div></a>  
 
 <br/><br/>
 

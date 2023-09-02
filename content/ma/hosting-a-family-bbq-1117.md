@@ -9,15 +9,9 @@ Spending time with loved ones by hosting a BBQ.
 
 Hosting a BBQ is a great way to spend quality time with family and friends to improve your relationships.
 
-Spending time with friends and family can provide health benefits such as reducing stress, improving mood, boosting self-esteem, promoting a sense of belonging, and increasing social support. It can also enhance overall well-being and longevity.
+Spending time with friends and family can provide health benefits such as reducing stress, improving mood, boosting self-esteem, promoting a sense of belonging, and increasing social support. It can also enhance overall wellbeing and longevity.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Days of domestic dad**](https://daysofadomesticdad.com/the-perfect-family-bbq/) | Free | 
-| [**Grillex**](https://grillex.com.au/insights/how-bbqs-bring-people-together-the-importance-of-bbqs-in-public-spaces/) | Free | 
-| [**BBC**](https://www.bbcgoodfood.com/howto/guide/top-5-family-barbecue-recipes) | Free | 
-| [**Dukeshill Ham Company**](https://www.dukeshillham.co.uk/) | Paid | 
-  
+<a class="ma-link" href="https://daysofadomesticdad.com/the-perfect-family-bbq/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Days of domestic dad</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://grillex.com.au/insights/how-bbqs-bring-people-together-the-importance-of-bbqs-in-public-spaces/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Grillex</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.bbcgoodfood.com/howto/guide/top-5-family-barbecue-recipes"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBC</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=20241&awinaffid=1198638&ued=https%3A%2F%2Fwww.realfoodhub.co.uk%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Real Food hub</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

@@ -11,13 +11,7 @@ Take charge of your health by understanding disease risks linked to ageing. Impl
 
 Learning about disease risks associated with ageing empowers you to make informed lifestyle choices. Implementing preventive measures, such as a balanced diet and regular exercise, reduces the risk of developing chronic conditions.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Age UK**](https://www.ageuk.org.uk/information-advice/health-wellbeing/conditions-illnesses/) | Free  | 
-| [**NHS**](https://www.nhs.uk/conditions/nhs-health-check/) | Free  | 
-| [**BBC **](https://www.bbc.co.uk/news/health-57982476) | Free  | 
-| [**Healthspan**](https://www.awin1.com/cread.php?awinmid=6007&awinaffid=1198638&ued=https%3A%2F%2Fwww.healthspan.co.uk%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.ageuk.org.uk/information-advice/health-wellbeing/conditions-illnesses/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Age UK</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.nhs.uk/conditions/nhs-health-check/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NHS</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.bbc.co.uk/news/health-57982476"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBC </p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=6007&awinaffid=1198638&ued=https%3A%2F%2Fwww.healthspan.co.uk%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Healthspan</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

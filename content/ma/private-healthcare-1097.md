@@ -7,17 +7,11 @@ layout: static
 
 Learn about private healthcare provision.
 
-Read about private healthcare provision in the UK that complements the NHS and can give you access to more tailored healthcare.
+Read about private healthcare provision in the UK that can complement the NHS and can give you access to more tailored healthcare.
 
-Private healthcare in the UK offers benefits such as shorter wait times, access to specialist care and treatments, and the ability to choose doctors and hospitals. It also provides more comfortable and personalised care.
+Private healthcare in the UK offers benefits such as shorter wait times, access to specialist care and treatments, and the ability to choose doctors and hospitals. It can also provide more comfortable and personalised care.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Benenden**](https://www.benenden.co.uk/) | Free | 
-| [**HJE**](https://hje.org.uk/the-many-benefits-of-private-healthcare/) | Free | 
-| [**Charlton House**](https://charltonhousewealthmanagement.co.uk/7-important-reasons-why-you-need-private-medical-insurance/) | Free | 
-| [**AXA healthcare**](https://www.axappphealthcare.co.uk/affiliate-business-quote/) | Paid | 
-  
+<a class="ma-link" href="https://www.benenden.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Benenden</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://hje.org.uk/the-many-benefits-of-private-healthcare/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>HJE</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://charltonhousewealthmanagement.co.uk/7-important-reasons-why-you-need-private-medical-insurance/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Charlton House</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.axappphealthcare.co.uk/affiliate-business-quote/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>AXA healthcare</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

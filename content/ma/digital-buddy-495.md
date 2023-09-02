@@ -11,12 +11,7 @@ Do you know your way around a computer and feel confident in helping someone els
 
 In an increasingly digital world it's great when everyone benefits from technology. Growing someone else's digital skills can help them be digitally able, equal and safe, so they can be happier, healthier and better off.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Age UK**](https://www.ageuk.org.uk/get-involved/volunteer/become-an-age-uk-digital-buddy/) | Free | 
-| [**Volunteering matters**](https://volunteeringmatters.org.uk/pillars/older-people/) | Free | 
-| [**U3A**](https://www.u3a.org.uk/index.php) | Free | 
-  
+<a class="ma-link" href="https://www.ageuk.org.uk/get-involved/volunteer/become-an-age-uk-digital-buddy/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Age UK</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://volunteeringmatters.org.uk/pillars/older-people/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Volunteering matters</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.u3a.org.uk/index.php"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>U3A</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

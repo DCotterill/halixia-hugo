@@ -11,13 +11,7 @@ Help in understanding how to manage your own wellbeing when caring for someone e
 
 Looking after yourself is a really important part of caring for someone else. It will help you to feel happier and healthier, which will help you to cope better with your caring responsibilities.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Mind**](https://www.mind.org.uk/information-support/helping-someone-else/carers-friends-family-coping-support/am-i-a-carer/) | Free | 
-| [**Citizens advice**](https://www.citizensadvice.org.uk/family/looking-after-people/carers-help-and-support/) | Free | 
-| [**Carers uk**](https://www.carersuk.org/about-us/our-support-for-carers/) | Free | 
-| [**Care in mind**](https://careinmind.com.au/blog/7-self-care-strategies-for-carers/) | Free | 
-  
+<a class="ma-link" href="https://www.mind.org.uk/information-support/helping-someone-else/carers-friends-family-coping-support/am-i-a-carer/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Mind</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.citizensadvice.org.uk/family/looking-after-people/carers-help-and-support/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Citizens advice</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.carersuk.org/about-us/our-support-for-carers/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Carers uk</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://careinmind.com.au/blog/7-self-care-strategies-for-carers/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Care in mind</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

@@ -5,18 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-An app for complete brain training.
+Find an app for complete brain training.
 
-Challenge your cognitive skills, focus, memory, problem solving, mental agility and more, with these games designed to push you hard with short, intense workouts that fit around your life.
+Challenge your cognitive skills, focus, memory, problem solving, mental agility and more, with these apps and guides designed to push you hard with short, intense brain workouts that fit around your life.
 
 Brain training turns inactive brain cells into healthy, active ones. The more you use your brain, the better your mental functions become. So, get strengthening your brain every day to start improving your cognitive capabilities.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Peak**](https://www.peak.net/) | Free | 
-| [**Mindamate**](https://www.mindmate-app.com/) | Free | 
-| [**Protectstudy**](https://www.protectstudy.org.uk/) | Free | 
-  
+<a class="ma-link" href="https://www.peak.net/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Peak</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.mindmate-app.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Mindamate</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.protectstudy.org.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Protectstudy</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

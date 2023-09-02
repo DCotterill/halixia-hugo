@@ -7,17 +7,11 @@ layout: static
 
 Discover museums to visit from all over UK.
 
-Discover museums to visit all over UK, no matter what your interests are, with this independent museum listing site in the UK.
+Discover museums to visit all over UK, no matter what your interests are, with these guides to finding the perfect place to explore for you.
 
 Museums and galleries provide an insight into the history of humankind. And while no museum can claim to provide a complete picture, the lessons we can learn from past events, wonders and tragedies are priceless. Stay curious!
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Museums.co.uk**](https://www.museums.co.uk/) | Free | 
-| [**Art Fund**](https://www.artfund.org/national-art-pass) | Paid | 
-| [**Museum Next**](https://www.museumnext.com/article/why-we-need-museums-now-more-than-ever/) | Free | 
-| [**Musement**](https://www.musement.com/uk/) | Paid | 
-  
+<a class="ma-link" href="https://www.museums.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Museums.co.uk</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.artfund.org/national-art-pass"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Art Fund</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.museumnext.com/article/why-we-need-museums-now-more-than-ever/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Museum Next</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=45701&awinaffid=1198638&ued=https%3A%2F%2Fdaysout.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Daysout</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

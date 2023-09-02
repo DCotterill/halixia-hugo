@@ -11,13 +11,7 @@ Practical advice on how to protect yourself, your computers and mobile devices a
 
 Cyber security is important because smartphones, computers and the internet are now such a fundamental part of modern life, that it's difficult to imagine how we'd function without them.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Get Safe Online**](https://www.getsafeonline.org/) | Free | 
-| [**National Cyber Security Centre**](https://www.ncsc.gov.uk/section/information-for/individuals-families) | Free | 
-| [**Action Fraud**](https://www.actionfraud.police.uk/) | Free | 
-| [**Citizens Advice Bureau**](https://www.citizensadvice.org.uk/consumer/scams/get-help-with-online-scams/) | Free | 
-  
+<a class="ma-link" href="https://www.getsafeonline.org/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Get Safe Online</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.ncsc.gov.uk/section/information-for/individuals-families"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>National Cyber Security Centre</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.actionfraud.police.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Action Fraud</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.citizensadvice.org.uk/consumer/scams/get-help-with-online-scams/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Citizens Advice Bureau</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

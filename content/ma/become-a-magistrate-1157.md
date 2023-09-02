@@ -11,12 +11,7 @@ Volunteering as a magistrate gives the opportunity of contributing to your commu
 
 Volunteering as a magistrate can be a meaningful contribution to your community. Offering opportunities to uphold justice, make fair decisions, promote a just society, gain insight into the legal system, develop valuable skills, and make a positive impact on individuals and your community as a whole.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**UK Government**](https://www.gov.uk/become-magistrate) | Free | 
-| [**Magistrates**](https://magistrates.judiciary.uk/) | Free | 
-| [**Magistrates**](https://magistrates.judiciary.uk/how-to-volunteer/) | Free | 
-  
+<a class="ma-link" href="https://www.gov.uk/become-magistrate"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>UK Government</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://magistrates.judiciary.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Magistrates</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://magistrates.judiciary.uk/how-to-volunteer/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Magistrates</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

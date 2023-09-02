@@ -11,13 +11,7 @@ Read about the importance of fire safety in your home, to help keep you and your
 
 The best way to minimise the risk of fire is to take the threat seriously and put in place fire prevention measures. Understanding potential triggers, installing fire alarms, smoke alarms and other devices along with making and sharing fire safety plans are all ways to reduce the risk.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Surrey Fire**](https://surreyfire.co.uk/importance-fire-safety/) | Free | 
-| [**Fire services**](https://www.fireservice.co.uk/safety/) | Free | 
-| [**Ready.gov**](https://www.ready.gov/home-fire-escape-plan) | Free | 
-| [**Risk Assessment Products**](https://risk-assessment-products.co.uk/fire-safety-supplies/) | Paid | 
-  
+<a class="ma-link" href="https://surreyfire.co.uk/importance-fire-safety/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Surrey Fire</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.fireservice.co.uk/safety/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Fire services</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.ready.gov/home-fire-escape-plan"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Ready.gov</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://risk-assessment-products.co.uk/fire-safety-supplies/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Risk Assessment Products</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

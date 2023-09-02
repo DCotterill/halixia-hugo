@@ -11,12 +11,7 @@ Men’s Sheds are a place to pursue practical interests, to practice skills and 
 
 We are social beings, and interacting with people is in our nature. Helping others enjoy the mental and physical benefits of social connectiveness brings its own rewards instilling a strong sense of purpose, boosting our own wellbeing.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Men in Sheds**](menssheds.org.uk) | Free | 
-| [**Mens group**](https://mensgroup.com/peer-support-group) | Free | 
-| [**Man health**](https://www.manhealth.org.uk/peer-support-groups/) | Free | 
-  
+<a class="ma-link" href="https://menssheds.org.uk/about/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Men in Sheds</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://mensgroup.com/peer-support-group"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Mens group</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.manhealth.org.uk/peer-support-groups/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Man health</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

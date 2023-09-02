@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Find out how to meet your nutritional requirements.
+Use tailored supplements to meet nutritional requirements.
 
-Healthspan offers a wide variety of vitamins and supplements tailored specifically to men's health and wellbeing.
+Discover how tailored vitamins and supplements can specifically support men's health and wellbeing.
 
 Supplementation is intended to bridge this nutritional gap, so that we maintain the proper balance of nutrients from food and supplementation. This will enhance the nutrient density of your diet and make sure you are obtaining the right amount of nutrients tailored to your dietary needs.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Healthspan**](https://www.awin1.com/cread.php?awinmid=6007&awinaffid=1198638&ued=https%3A%2F%2Fwww.healthspan.co.uk%2Fmens-health%23t%3DMens-Health-Products%26numberOfResults%3D15) | Paid | 
-| [**AZ big media**](https://azbigmedia.com/lifestyle/12-benefits-of-supplements-why-theyre-important/) | Free | 
-| [**Healthline**](https://www.healthline.com/nutrition/best-multivitamins-for-men) | Free | 
-| [**City Survivor supplements**](https://citysurvivor.co.uk/) | Paid | 
-  
+<a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=6007&awinaffid=1198638&ued=https%3A%2F%2Fwww.healthspan.co.uk%2Fmens-health%23t%3DMens-Health-Products%26numberOfResults%3D15"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Healthspan</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://azbigmedia.com/lifestyle/12-benefits-of-supplements-why-theyre-important/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>AZ big media</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.healthline.com/nutrition/best-multivitamins-for-men"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Healthline</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=35301&awinaffid=1198638&ued=https%3A%2F%2Fcitysurvivor.co.uk%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>City Survivor supplements</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

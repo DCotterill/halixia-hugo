@@ -7,17 +7,11 @@ layout: static
 
 Read about research backed healthy habits for a longer life.
 
-Learn more about research backed healthy daily habits to help you live a longer life.
+Learn about research backed healthy daily habits to help you live a longer life and use these tools to help you schedule those habits.
 
 Start improving your life by adding these small healthy ageing habits to improve your body and mind
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Everyday health**](https://www.everydayhealth.com/longevity/everyday-health-and-wellness-habits-linked-with-a-longer-life/) | Free | 
-| [**Vagaro**](https://sales.vagaro.co.uk/?utm_source=bing&utm_medium=cpc&utm_campaign=BOFU-UK-Non-Brand&utm_content=appointment-app&utm_term=appointment%20app-p&msclkid=ea92d7dd203513f07c12b427b7e05941) | Paid | 
-| [**Family wall**](https://www.familywall.com/) | Free | 
-| [**Dermatica**](https://www.dermatica.co.uk/treatments/anti-ageing) | Paid | 
-  
+<a class="ma-link" href="https://www.everydayhealth.com/longevity/everyday-health-and-wellness-habits-linked-with-a-longer-life/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Everyday health</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://sales.vagaro.co.uk/?utm_source=bing&utm_medium=cpc&utm_campaign=BOFU-UK-Non-Brand&utm_content=appointment-app&utm_term=appointment%20app-p&msclkid=ea92d7dd203513f07c12b427b7e05941"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Vagaro</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.familywall.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Family wall</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=50719&awinaffid=1198638&ued=https%3A%2F%2Fwww.dermatica.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Dermatica</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

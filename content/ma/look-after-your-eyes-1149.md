@@ -7,16 +7,11 @@ layout: static
 
 Learn about looking after your eyes.
 
-By taking care of our eyes, we preserve our precious sense of sight and maintain a higher quality of life.
+By taking care of our eyes, we make sure we look after the precious sense of sight and maintain a good quality of life.
 
-Looking after eyesight is important for maintaining optimal vision and eye health. It allows us to navigate the world safely, perform daily tasks effectively, and enjoy activities such as reading and watching movies.
+Looking after eyesight is important for maintaining your vision and eye health. It allows us to navigate the world safely, perform daily tasks effectively, and enjoy activities such as reading and watching movies.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**NHS**](https://www.moorfields.nhs.uk/content/ten-steps-healthy-eyes) | Free | 
-| [**Bupa**](https://www.bupa.co.uk/newsroom/ourviews/healthy-eyes) | Free | 
-| [**Vision Express**](https://www.awin1.com/cread.php?awinmid=25569&awinaffid=1198638&ued=https%3A%2F%2Fwww.visionexpress.com%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.moorfields.nhs.uk/content/ten-steps-healthy-eyes"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NHS</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.bupa.co.uk/newsroom/ourviews/healthy-eyes"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Bupa</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=25569&awinaffid=1198638&ued=https%3A%2F%2Fwww.visionexpress.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Vision Express</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

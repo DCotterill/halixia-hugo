@@ -11,12 +11,7 @@ If you are already a carer or could become one in the future make sure you are g
 
 Many families are unprepared for a loved one needing to go into care and are often at crisis point before considering the financial impact. The inevitable anxiety and stress can be eased with advance planning and up to date knowledge of support available.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Carers UK**](https://www.carersuk.org/help-and-advice/financial-support/) | Free  | 
-| [**Age UK**](https://www.ageuk.org.uk/information-advice/care/) | Free  | 
-| [**NHS**](https://www.england.nhs.uk/wp-content/uploads/2016/04/nhs-practcl-guid-caring-v1.pdf) | Free  | 
-  
+<a class="ma-link" href="https://www.carersuk.org/help-and-advice/financial-support/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Carers UK</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.ageuk.org.uk/information-advice/care/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Age UK</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.england.nhs.uk/wp-content/uploads/2016/04/nhs-practcl-guid-caring-v1.pdf"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NHS</p></div><div class="ma-paid-text"><span>Free </span></div></div></a>  
 
 <br/><br/>
 

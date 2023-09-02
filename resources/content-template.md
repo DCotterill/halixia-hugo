@@ -11,8 +11,6 @@ layout: static
 
 *additional-text*
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
 *primary-links-table*  
 
 <br/><br/>

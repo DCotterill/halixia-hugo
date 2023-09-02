@@ -1,5 +1,5 @@
 ---
-title: "Equity release?"
+title: "Equity release"
 date: 2020-09-01T12:49:27+06:00
 featureImage: images/ma/placeholder.jpeg
 layout: static
@@ -11,12 +11,7 @@ There are advantages and disadvantages to equity release products. You should co
 
 Equity release is a way to release cash from your home without having to move. For many, equity release can be the key to living well in retirement.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Independent Age**](https://www.independentage.org/get-advice/your-home-and-housing/equity-release) | Free | 
-| [**Sunlife**](https://www.sunlife.co.uk/equity-release/sunrise/?utm_source=bing//) | Free | 
-| [**Age UK**](https://www.ageuk.org.uk/information-advice/money-legal/income-tax/equity-release/) | Free | 
-  
+<a class="ma-link" href="https://www.independentage.org/get-advice/your-home-and-housing/equity-release"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Independent Age</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.sunlife.co.uk/equity-release/sunrise/?utm_source=bing//"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Sunlife</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.ageuk.org.uk/information-advice/money-legal/income-tax/equity-release/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Age UK</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

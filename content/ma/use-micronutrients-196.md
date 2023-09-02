@@ -11,13 +11,7 @@ Listen to this podcast which talks about the four major categories of micronutri
 
 Micronutrients, often referred to as vitamins and minerals, are vital to healthy development, disease prevention, and wellbeing. They perform a wide range of functions in the brain and body, from the workings of the nervous system to immune function and bone strength.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Huberman lab**](https://hubermanlab.com/dr-rhonda-patrick-micronutrients-for-health-and-longevity/) | Free | 
-| [**Diets meal plan**](https://www.dietsmealplan.com/micronutrient/) | Free | 
-| [**Super healthy foods**](https://thesuperhealthyfood.com/micronutrient-diet-plan-for-weight-loss/) | Free | 
-| [**City Survivor supplements**](https://citysurvivor.co.uk/) | Paid | 
-  
+<a class="ma-link" href="https://hubermanlab.com/dr-rhonda-patrick-micronutrients-for-health-and-longevity/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Huberman lab</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.dietsmealplan.com/micronutrient/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Diets meal plan</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://thesuperhealthyfood.com/micronutrient-diet-plan-for-weight-loss/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Super healthy foods</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://citysurvivor.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>City Survivor supplements</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

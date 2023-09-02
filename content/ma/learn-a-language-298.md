@@ -7,17 +7,11 @@ layout: static
 
 Learn a new language with videos from native speakers.
 
-Learn a new language and be able to watch lessons from native speakers will help you fully understand and absorb the language.
+Learn a new language and be able to watch lessons from native speakers to help you fully understand and absorb the language.
 
 Learning a language improves memory, increases attention span and strengthens both problem-solving abilities and concentration. Multilingual people have also been shown to be more logical, have stronger decision-making skills and be more perceptive and aware of their surroundings.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Memrise**](https://www.memrise.com/) | Free | 
-| [**Fluent u**](https://www.fluentu.com/) | Paid | 
-| [**Rocket Language**](https://www.rocketlanguages.com/) | Paid | 
-| [**Lingo pie**](https://lingopie.com/) | Free/Paid | 
-  
+<a class="ma-link" href="https://www.memrise.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Memrise</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.fluentu.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Fluent u</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.rocketlanguages.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Rocket Language</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://lingopie.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Lingo pie</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

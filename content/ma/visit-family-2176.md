@@ -5,18 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Is it time to visit a family member you haven’t seen in a while?
+Visit a family member you haven’t seen in a while.
 
-Strengthen family bonds by visiting a long-lost family member, rekindling connections, and creating cherished memories together.
+Strengthen family bonds by visiting a family member you haven't seen for a while, rekindling connections, and creating cherished memories together.
 
-Visiting a family member, you haven't seen in a while allows for shared experiences, reminiscing, and deepening relationships. It fosters a sense of belonging and strengthens family ties.
+Visiting a family member, you haven't seen in a while allows for shared experiences, reminiscing, and deepening relationships. It fosters a sense of belonging and strengthens family ties. And it might just make someone's day!
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Verywell Family**](https://www.verywellfamily.com/finding-quality-family-time-616982) | Free  | 
-| [**Serendipity mommy**](https://serendipitymommy.com/long-time-no-talk-how-to-talk-to-family-you-havent-seen-in-ages/) | Free  | 
-| [**Lifehack**](https://www.lifehack.org/808737/spending-time-with-family) | Free | 
-  
+<a class="ma-link" href="https://www.verywellfamily.com/finding-quality-family-time-616982"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Verywell Family</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://serendipitymommy.com/long-time-no-talk-how-to-talk-to-family-you-havent-seen-in-ages/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Serendipity mommy</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.lifehack.org/808737/spending-time-with-family"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Lifehack</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

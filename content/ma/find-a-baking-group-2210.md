@@ -11,12 +11,7 @@ Enhance or share your baking skills and connect with fellow enthusiasts by joini
 
 Baking groups provide a platform to exchange ideas, techniques, and recipes. They offer opportunities to learn new baking styles, receive feedback, and build a supportive community.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Boundless**](https://www.boundless.co.uk/our-community/cooking-and-baking-group) | Free  | 
-| [**The Happiness Coach**](https://thehappinesscoach.com/why-hobbies-are-important/) | Free  | 
-| [**The Vale Living**](https://www.thevaleliving.co.uk/why-joining-a-hobby-club-is-good-for-your-wellbeing/) | Free  | 
-  
+<a class="ma-link" href="https://www.boundless.co.uk/our-community/cooking-and-baking-group"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Boundless</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://thehappinesscoach.com/why-hobbies-are-important/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The Happiness Coach</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.thevaleliving.co.uk/why-joining-a-hobby-club-is-good-for-your-wellbeing/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The Vale Living</p></div><div class="ma-paid-text"><span>Free </span></div></div></a>  
 
 <br/><br/>
 

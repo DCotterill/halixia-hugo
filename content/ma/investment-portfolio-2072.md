@@ -11,12 +11,7 @@ Read and learn about why you should spread investment across different assets or
 
 Diversifying investments reduces the impact of market volatility, mitigates risk, and increases the potential for long-term returns. It ensures a well-balanced portfolio and aligns with the principle of not putting all eggs in one basket.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Hargreaves Lansdown**](https://www.hl.co.uk/news/articles/how-to-review-your-investments) | Free | 
-| [**Barclays**](https://www.barclays.co.uk/smart-investor/new-to-investing/reducing-unnecessary-risk/diversifying-your-investments/) | Free  | 
-| [**Hargreaves Lansdown**](https://www.hl.co.uk/learn/diversification) | Free | 
-  
+<a class="ma-link" href="https://www.hl.co.uk/news/articles/how-to-review-your-investments"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Hargreaves Lansdown</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.barclays.co.uk/smart-investor/new-to-investing/reducing-unnecessary-risk/diversifying-your-investments/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Barclays</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.hl.co.uk/learn/diversification"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Hargreaves Lansdown</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

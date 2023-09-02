@@ -11,13 +11,7 @@ Surfing offers physical exercise, cardiovascular fitness, improved balance, incr
 
 Learning to surf for health offers benefits like full-body workout, improved cardiovascular fitness, increased strength and balance, stress relief, connection with nature, and a fun way to stay active and enjoy the ocean.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Star Surf Camps**](https://www.starsurfcamps.com/news/should-i-learn-to-surf-6-health-benefits-of-surfing/) | Free  | 
-| [**Pacific surf**](https://www.pacificsurf.com/7-amazing-benefits-of-learning-to-surf/) | Free  | 
-| [**BBC **](https://www.bbc.com/future/article/20210218-the-environmental-benefits-of-surfing) | Free  | 
-| [**Decathlon**](https://www.decathlon.co.uk/browse/c0-sports/c1-surf/_/N-13xg3st) | Paid | 
-  
+<a class="ma-link" href="https://www.starsurfcamps.com/news/should-i-learn-to-surf-6-health-benefits-of-surfing/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Star Surf Camps</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.pacificsurf.com/7-amazing-benefits-of-learning-to-surf/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Pacific surf</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.bbc.com/future/article/20210218-the-environmental-benefits-of-surfing"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBC </p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=26895&awinaffid=1198638&ued=https%3A%2F%2Fwww.decathlon.co.uk%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Decathlon</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

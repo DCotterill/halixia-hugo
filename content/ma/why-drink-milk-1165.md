@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Drinking milk can be beneficial whatever our age.
+Drinking milk can be beneficial whatever your age.
 
 Drinking milk has many health benefits with its rich calcium content, which reduces the risk of osteoporosis, and provides essential nutrients for overall bone health and muscle function.
 
-Drinking more milk is beneficial as it is a nutrient-rich containing calcium, protein, vitamins D and B12. It supports bone health, aids in muscle function, promotes healthy teeth, and provides essential nutrients for overall growth, development, and well-being.
+Drinking more milk is beneficial as it is a nutrient-rich containing calcium, protein, vitamins D and B12. It supports bone health, aids in muscle function, promotes healthy teeth, and provides essential nutrients for overall growth, development, and wellbeing.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**The geriatric dietician**](https://thegeriatricdietitian.com/milk-for-the-elderly/) | Free | 
-| [**British Heart Foundation**](https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/full-fat-dairy) | Free | 
-| [**BBC Good Food**](https://www.bbcgoodfood.com/howto/guide/which-milk-right-you) | Free | 
-| [**Find me a milkman**](https://findmeamilkman.net/) | Free | 
-  
+<a class="ma-link" href="https://thegeriatricdietitian.com/milk-for-the-elderly/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>The geriatric dietician</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/full-fat-dairy"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>British Heart Foundation</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.bbcgoodfood.com/howto/guide/which-milk-right-you"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBC Good Food</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://findmeamilkman.net/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Find me a milkman</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

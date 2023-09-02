@@ -9,15 +9,9 @@ Innovative learning for a new career.
 
 Online learning platforms provide access to courses that span across industries from accounting all the way to tourism, to help you upskill and start a new career.
 
-Online learning can be a modern and innovative way to keep learning and help you retrain for a new career. As adults, it can be all too easy to forget that learning remains important but staying open to new experiences can help you into your dream career regardless of age.
+Online learning can be a modern and innovative way to keep learning and help you retrain for a new career. As adults, it can be all too easy to forget the importance of lifelong learning, but staying open to new experiences can help you into your dream career regardless of age.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**1 training**](https://www.1training.org/) | Paid | 
-| [**Futurelearn**](https://www.futurelearn.com/microcredentials) | Paid | 
-| [**OpenLearn**](https://www.open.edu/openlearn/) | Free | 
-| [**Skills you need**](https://www.skillsyouneed.com/learning-skills.html) | Free | 
-  
+<a class="ma-link" href="https://www.1training.org/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>1 training</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.futurelearn.com/microcredentials"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Futurelearn</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.open.edu/openlearn/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>OpenLearn</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.skillsyouneed.com/learning-skills.html"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Skills you need</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

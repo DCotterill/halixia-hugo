@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about meeting new people while travelling.
+Discover the joy of meeting new people while travelling.
 
 Embrace the joy of travel by meeting new people, fostering cultural exchange, and building meaningful connections.
 
 While travelling, interact with locals and fellow travellers to gain insights into different cultures and perspectives. It opens doors to unique experiences and potential lifelong friendships.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Thrive global**](https://community.thriveglobal.com/the-importance-of-taking-a-holiday/) | Free | 
-| [**Holiday Extras**](https://www.holidayextras.com/travel-blog/wanderlust/how-to-make-friends-while-travelling.html) | No | 
-| [**Newmarket Holidays**](https://www.newmarketholidays.co.uk/holiday-guides/solo-travel-guide/how-to-meet-other-people-when-travelling-alone) | Paid | 
-| [**Jet2holidays**](https://www.jet2holidays.com/) | Paid | 
-  
+<a class="ma-link" href="https://community.thriveglobal.com/the-importance-of-taking-a-holiday/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Thrive global</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.holidayextras.com/travel-blog/wanderlust/how-to-make-friends-while-travelling.html"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Holiday Extras</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.newmarketholidays.co.uk/holiday-guides/solo-travel-guide/how-to-meet-other-people-when-travelling-alone"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Newmarket Holidays</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.jet2holidays.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Jet2holidays</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

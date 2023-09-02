@@ -7,16 +7,11 @@ layout: static
 
 Get the right healthcare for your needs.
 
-Learn more about when to seek help from which healthcare service, helping you get the right medical treatment whilst helping the NHS.
+Learn about when to seek help from which healthcare service, helping you get the right medical treatment whilst helping the NHS.
 
-We all know about the pressures the NHS is under. Help them to help you by understanding what healthcare service you need in what situations. It could save time and money, preserving vital services for those who require urgent treatment.
+We all know about the pressures the NHS is under. Help them to help you by understanding what healthcare service you need in what situation. It could save time and money, preserving vital services for those who require urgent treatment.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**NHS**](https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-visit-an-urgent-treatment-centre-walk-in-or-minor-injury-unit/) | Free | 
-| [**NHS**](https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-go-to-ae/) | Free | 
-| [**NHS**](https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/) | Free | 
-  
+<a class="ma-link" href="https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-visit-an-urgent-treatment-centre-walk-in-or-minor-injury-unit/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NHS</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-go-to-ae/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NHS</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NHS</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

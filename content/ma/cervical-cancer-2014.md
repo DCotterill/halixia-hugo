@@ -7,16 +7,11 @@ layout: static
 
 Learn about the importance of cervical screening.
 
-Early detection of cervical cancer offers the best chance for early intervention and treatment that can save lives. Find out more about cervical cancer and cervical screening. 
+Early detection of cervical cancer offers the best chance for early intervention and treatment that can save lives. Find out about cervical cancer and cervical screening. 
 
 Cervical screening is crucial as it can detect abnormal cell changes in the cervix, allowing for early intervention and preventing cervical cancer. It promotes women's health and saves lives through early detection and treatment. Regular screening is essential for maintaining cervical health and preventing potential health complications.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**NHS**](https://www.nhs.uk/conditions/cervical-screening/how-to-book/) | Free | 
-| [**NHS**](https://www.nhs.uk/conditions/cervical-screening/why-its-important/) | Free  | 
-| [**Cancer research**](https://www.cancerresearchuk.org/about-cancer/cervical-cancer/getting-diagnosed/screening/about) | Free  | 
-  
+<a class="ma-link" href="https://www.nhs.uk/conditions/cervical-screening/how-to-book/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NHS</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.nhs.uk/conditions/cervical-screening/why-its-important/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NHS</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.cancerresearchuk.org/about-cancer/cervical-cancer/getting-diagnosed/screening/about"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Cancer research</p></div><div class="ma-paid-text"><span>Free </span></div></div></a>  
 
 <br/><br/>
 

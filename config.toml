@@ -64,3 +64,6 @@ weight = 1
 icon = "fa-twitter-square"
 url = "https://twitter.com/HalixiaGlobal"
 weight = 2
+
+[markup.goldmark.renderer]
+  unsafe = true

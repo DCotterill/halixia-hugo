@@ -11,13 +11,7 @@ Taking the time to manage your money better can really pay off. Learning to budg
 
 It’s a simple way to manage your day-to-day expenses without worrying you'll run out of money each month. In addition, you'll soon see where you might be wasting money, giving you more money to spend on the things that are important to you.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**MoneyHelper**](https://www.moneyhelper.org.uk/en/everyday-money/budgeting/beginners-guide-to-managing-your-money) | Free | 
-| [**Cabot Financial**](https://www.cabotfinancial.co.uk/money-management/money-management/what-are-the-benefits-of-budgeting) | Free/Paid | 
-| [**HSBC**](https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/spending-your-income/) | Free/Paid | 
-| [**Skint Dad**](https://skintdad.co.uk/best-budgeting-app-uk/) | Free | 
-  
+<a class="ma-link" href="https://www.moneyhelper.org.uk/en/everyday-money/budgeting/beginners-guide-to-managing-your-money"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>MoneyHelper</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.cabotfinancial.co.uk/money-management/money-management/what-are-the-benefits-of-budgeting"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Cabot Financial</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/spending-your-income/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>HSBC</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://skintdad.co.uk/best-budgeting-app-uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Skint Dad</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

@@ -11,13 +11,7 @@ Take an online creative writing class to learn how to write. Whether your intere
 
 To learn creative writing, like any art form, requires compassion, contemplation, and curiosity. There are benefits in making you a better communicator, improve your thinking skills, increase empathy and could even lead to greater job success.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Centre of Excellence**](https://www.centreofexcellence.com/shop/writing-courses/) | Paid | 
-| [**The Write Practice**](https://thewritepractice.com/daily-routines/) | Paid | 
-| [**Indeed**](https://www.indeed.com/career-advice/finding-a-job/how-to-become-creative-writer) | Free | 
-| [**Writers.com**](https://writers.com/why-learn-creative-writing) | Free/Paid | 
-  
+<a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=15642&awinaffid=1198638&ued=https%3A%2F%2Fwww.learning247.co.uk%2Fpages%2Fsearch-results%3Fq%3Dcreative%2520writing"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Learning 24/7</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://thewritepractice.com/daily-routines/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>The Write Practice</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.indeed.com/career-advice/finding-a-job/how-to-become-creative-writer"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Indeed</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://writers.com/why-learn-creative-writing"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Writers.com</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

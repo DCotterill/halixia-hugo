@@ -11,13 +11,7 @@ There are plenty of simple things you can do ahead of applying for a mortgage to
 
 Getting on the property ladder can feel very daunting, but also can contribute to wellbeing with both financial and health benefits. Getting your finances sorted in advance will increase your chances of getting accepted by a lender and contribute to overall financial wellbeing.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/mortgages/boost-mortgage-chances/) | Free  | 
-| [**Moneyfacts**](https://moneyfactscompare.co.uk/mortgages/guides/how-can-i-increase-my-chances-of-getting-a-mortgage/) | Free  | 
-| [**Finder**](https://www.finder.com/uk/mortgages/mortgage-brokers) | Free /Paid | 
-| [**Experian**](https://www.experian.co.uk/consumer/experian-credit-score.html) | Free/Paid | 
-  
+<a class="ma-link" href="https://www.moneysavingexpert.com/mortgages/boost-mortgage-chances/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>MoneySavingExpert.com</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://moneyfactscompare.co.uk/mortgages/guides/how-can-i-increase-my-chances-of-getting-a-mortgage/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Moneyfacts</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.finder.com/uk/mortgages/mortgage-brokers"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Finder</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.experian.co.uk/consumer/experian-credit-score.html"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Experian</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

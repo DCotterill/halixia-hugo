@@ -7,17 +7,11 @@ layout: static
 
 Learn about the many benefits of honey.
 
-Learn about the health properties of honey to help make informed dietary choices, explore natural remedies, and promote overall well-being through its various healing and nutritional properties.
+Learn about the health properties of honey to help make informed dietary choices, explore natural remedies, and promote overall wellbeing through its various healing and nutritional properties.
 
 Honey offers health benefits such as soothing sore throats, aiding in wound healing, providing antioxidant properties, boosting energy, promoting digestion, and serving as a natural cough suppressant. Its antibacterial properties also contribute to overall wellness.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Natural Food Series**](https://www.naturalfoodseries.com/11-benefits-honey/) | Free | 
-| [**Local honey finder**](https://localhoneyfinder.org/UK.php) | Free  | 
-| [**Comvita**](https://www.awin1.com/cread.php?awinmid=22418&awinaffid=1198638&ued=https%3A%2F%2Fwww.comvita.co.uk%2F) | Paid | 
-| [**Spanish Passion foods**](https://www.spanishpassionfoods.co.uk/spanish-honey/) | Paid | 
-  
+<a class="ma-link" href="https://www.naturalfoodseries.com/11-benefits-honey/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Natural Food Series</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://localhoneyfinder.org/UK.php"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Local honey finder</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=22418&awinaffid=1198638&ued=https%3A%2F%2Fwww.comvita.co.uk%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Comvita</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.spanishpassionfoods.co.uk/spanish-honey/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Spanish Passion foods</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

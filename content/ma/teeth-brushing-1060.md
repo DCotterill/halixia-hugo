@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about dental care.
+Learn about dental care.
 
-From how long to brush your teeth for, to technique and products, learn more about the best way to take care of your teeth.
+From how long to brush your teeth for, to the best techniques and products, learn about the best way to take care of your teeth.
 
-Knowing how to brush your teeth properly is important to prevent conditions such as gingivitis and tooth decay. Incorrect brushing techniques could also lead to tooth abrasion, a condition in which the surface of the tooth is worn away.
+Knowing how to brush your teeth properly is important to prevent conditions such as gum disease and tooth decay. Incorrect brushing techniques could also lead to tooth abrasion, a condition in which the surface of the tooth is worn away.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Oral B**](https://www.oralb.co.uk/en-gb/oral-health/why-oral-b/electric-toothbrushes/how-to-brush-teeth-properly) | Free | 
-| [**Insider**](https://www.insider.com/guides/health/best-toothpaste) | Free | 
-| [**Healthline**](https://www.healthline.com/health/dental-and-oral-health/best-practices-for-healthy-teeth) | Free | 
-| [**Brevi brush**](https://brevibrush.com/) | Paid | 
-  
+<a class="ma-link" href="https://www.oralb.co.uk/en-gb/oral-health/why-oral-b/electric-toothbrushes/how-to-brush-teeth-properly"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Oral B</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.insider.com/guides/health/best-toothpaste"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Insider</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.healthline.com/health/dental-and-oral-health/best-practices-for-healthy-teeth"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Healthline</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

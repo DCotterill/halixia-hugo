@@ -7,17 +7,11 @@ layout: static
 
 A healthy sex life has many benefits for older adults.
 
-Having sex is a really important part of overall health and happiness, and people that have it, tend to live longer, this article talks about the benefits of a healthy sex life for older adults.
+Having sex is a really important part of overall health and happiness, and people that have it, tend to live longer, these articles talk about the benefits of a healthy sex life for older adults.
 
 Some of the benefits you can get from sex include lowering blood pressure, burning calories, increasing heart health, strengthening muscles, reducing your risk of heart disease, stroke, and help with pain as well as easing stress.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**UCL**](https://www.ucl.ac.uk/news/2018/dec/study-shows-benefits-sex-older-adults) | Free | 
-| [**Psychology today**](https://www.psychologytoday.com/us/blog/life-refracted/201707/benefits-sex-after-50) | Free | 
-| [**Everydays**](https://everdays.com/resources/is-sex-healthy-for-seniors/) | Free | 
-| [**So Divine**](https://www.awin1.com/cread.php?awinmid=28367&awinaffid=1198638&ued=https%3A%2F%2Fso-divine.com%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.ucl.ac.uk/news/2018/dec/study-shows-benefits-sex-older-adults"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>UCL</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.psychologytoday.com/us/blog/life-refracted/201707/benefits-sex-after-50"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Psychology today</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://everdays.com/resources/is-sex-healthy-for-seniors/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Everydays</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=28367&awinaffid=1198638&ued=https%3A%2F%2Fso-divine.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>So Divine</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

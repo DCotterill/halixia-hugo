@@ -11,13 +11,7 @@ Discover popular self-employed job opportunities, exploring diverse industries a
 
 Common self-employed jobs include freelancing, consulting, creative services, and e-commerce. Researching different fields helps you identify areas aligned with your skills and interests.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Indeed**](https://uk.indeed.com/career-advice/finding-a-job/self-employed-jobs) | Free  | 
-| [**Indeed**](https://www.indeed.com/career-advice/finding-a-job/best-self-employed-jobs) | Free  | 
-| [**Reed**](https://www.reed.co.uk/career-advice/five-self-employed-jobs-you-could-do-right-now/) | Free  | 
-| [**New Skill Academy**](https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.co.uk%2F) | Paid | 
-  
+<a class="ma-link" href="https://uk.indeed.com/career-advice/finding-a-job/self-employed-jobs"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Indeed</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.indeed.com/career-advice/finding-a-job/best-self-employed-jobs"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Indeed</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.reed.co.uk/career-advice/five-self-employed-jobs-you-could-do-right-now/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Reed</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.co.uk%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>New Skill Academy</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

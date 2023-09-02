@@ -11,13 +11,7 @@ How can you actively participate in local events or festivals to celebrate commu
 
 Attending local events or festivals fosters community connection, promotes local culture and traditions, and supports the local economy. It provides opportunities for social interaction, exposure to diverse experiences, and a sense of belonging within the community.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Event brite**](https://www.eventbrite.co.uk/) | Free | 
-| [**Event academy**](https://eventacademy.com/events/how-events-can-benefit-local-communities/) | Free | 
-| [**Billeto**](https://billetto.co.uk/blog/why-people-attend-events/) | Free | 
-| [**Eventim**](https://www.eventim.co.uk/) | Paid | 
-  
+<a class="ma-link" href="https://www.eventbrite.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Event brite</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://eventacademy.com/events/how-events-can-benefit-local-communities/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Event academy</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://billetto.co.uk/blog/why-people-attend-events/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Billeto</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=7816&awinaffid=1198638&ued=https%3A%2F%2Fwww.seetickets.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>See Tickets UK</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

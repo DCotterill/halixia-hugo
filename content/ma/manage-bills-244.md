@@ -11,12 +11,7 @@ Guide to how to manage your bills closely to avoid penalties and start cutting o
 
 Building good money habits and making simple savings on everyday spending helps build good financial resilience. As result you will be more likely to cope with loss of income, less anxious about finances, more confident in managing money and more satisfied with life as a whole.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**HSBC**](https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-manage-bills/) | Free/Paid | 
-| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/family/money-help/) | Free | 
-| [**UK Government**](https://helpforhouseholds.campaign.gov.uk/) | Free | 
-  
+<a class="ma-link" href="https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-manage-bills/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>HSBC</p></div><div class="ma-paid-text"><span>Free/Paid</span></div></div></a><a class="ma-link" href="https://www.moneysavingexpert.com/family/money-help/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>MoneySavingExpert.com</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://helpforhouseholds.campaign.gov.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>UK Government</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

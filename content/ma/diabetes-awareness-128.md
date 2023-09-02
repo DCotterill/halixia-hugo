@@ -11,13 +11,7 @@ Diabetes can be a lifelong condition that causes your blood sugar levels to beco
 
 One in ten people over 40 in the UK are now living with type 2 diabetes, that’s 3.8 million people. Almost a million more are living with the condition but don't know they have it. By 2030 it is predicted this number will rise to 5.5 million.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Diabetes UK**](https://www.diabetes.org.uk/) | Free | 
-| [**NHS**](https://www.stopdiabetes.co.uk/) | Free | 
-| [**Medical News today**](https://www.medicalnewstoday.com/articles/318277#1-200-calorie-plan) | Free | 
-| [**Good Body clinic**](https://health.goodbodyclinic.com/product/diabetes-hba1c-blood-test/) | Paid | 
-  
+<a class="ma-link" href="https://www.diabetes.org.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Diabetes UK</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.stopdiabetes.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NHS</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.medicalnewstoday.com/articles/318277#1-200-calorie-plan"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Medical News today</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="#REF!"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>#REF!</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

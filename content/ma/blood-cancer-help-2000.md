@@ -11,13 +11,7 @@ Register to be a stem cell donor and know that for someone with blood cancer or 
 
 Today, blood cancer is the fifth most common cancer in the UK, and the third biggest cancer killer. A lack of public awareness causes shortfall in lifesaving stem cell donors. Registering to donate stem cells is a great way to give the gift of a second chance to someone.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Anthony Nolan**](https://www.anthonynolan.org/help-save-a-life/join-stem-cell-register) | Free  | 
-| [**DKMS**](https://www.dkms.org.uk/register-now) | Free  | 
-| [**BBMR**](https://www.bbmr.co.uk/) | Free  | 
-| [**Blood Cancer UK**](https://bloodcancer.org.uk/) | Free  | 
-  
+<a class="ma-link" href="https://www.anthonynolan.org/help-save-a-life/join-stem-cell-register"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Anthony Nolan</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.dkms.org.uk/register-now"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>DKMS</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.bbmr.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>BBMR</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://bloodcancer.org.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Blood Cancer UK</p></div><div class="ma-paid-text"><span>Free </span></div></div></a>  
 
 <br/><br/>
 

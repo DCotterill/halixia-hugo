@@ -7,16 +7,11 @@ layout: static
 
 Could you help local wildlife by fostering a hedgehog.
 
-Read about what it takes to foster a hedgehog and find out about fostering from your local hedgehog rescue, to take part in helping wildlife in your area.
+Read about what it takes to foster a hedgehog and find your local hedgehog rescue to take part in helping wildlife in your area.
 
-Helping wildlife can provide health benefits such as reducing stress, improving fitness, boosting mood, and increasing social connection. It can also contribute to the preservation of ecosystems and biodiversity, which can have positive impacts on human health and well-being for the whole community.
+Helping wildlife can provide health benefits such as reducing stress, improving fitness, boosting mood, and increasing social connection. It can also contribute to the preservation of ecosystems and biodiversity, which can have positive impacts on human health and wellbeing for the whole community.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Barnacle hedgehogs**](https://www.barnaclehedgehogs.co.uk/fostering.html) | Free | 
-| [**Wildlife trust**](https://www.wildlifetrusts.org/what-do-if-you-find-wild-animal/help-hedgehog) | Free | 
-| [**Hornbeam wood**](https://www.hornbeamwood.org.uk/hedgehog-fosterer) | Free | 
-  
+<a class="ma-link" href="https://www.barnaclehedgehogs.co.uk/fostering.html"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Barnacle hedgehogs</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.wildlifetrusts.org/what-do-if-you-find-wild-animal/help-hedgehog"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Wildlife Trust</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.hornbeamwood.org.uk/hedgehog-fosterer"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Hornbeam wood</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

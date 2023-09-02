@@ -11,12 +11,7 @@ Find out what you need to do to get on the property ladder. Because buying a hom
 
 Getting on the property ladder can feel very daunting, but it can contribute to wellbeing with both financial and health benefits. Historically, the biggest advantage of owning a home is long-term financial security and stability because the housing market almost always went up in value.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**HomeOwnersAlliance**](https://hoa.org.uk/advice/guides-for-homeowners/i-am-buying/the-hoa-step-by-step-guide-to-buying-a-home/) | Free  | 
-| [**MoneySavingExpert.com**](https://www.moneysavingexpert.com/mortgages/mortgage-guide/) | Free  | 
-| [**Finder**](https://www.finder.com/uk/mortgages/first-time-buyer-mortgages) | Free /Paid | 
-  
+<a class="ma-link" href="https://hoa.org.uk/advice/guides-for-homeowners/i-am-buying/the-hoa-step-by-step-guide-to-buying-a-home/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>HomeOwnersAlliance</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.moneysavingexpert.com/mortgages/mortgage-guide/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>MoneySavingExpert.com</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.finder.com/uk/mortgages/first-time-buyer-mortgages"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Finder</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

@@ -11,13 +11,7 @@ HIFT is an exercise program based on doing functional movements at a high intens
 
 HIFT workouts typically involve exercises that mimic real-life movements and can include activities such as lifting, pushing, pulling, squatting, jumping, and running. It is carried out a high intensity to challenge your physical capabilities, and can yield significant results in a short amount of time. 
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Muscles and Strength**](https://www.muscleandstrength.com/workout/6-week-high-intensity-functional-training-workout) | Free | 
-| [**Live science**](https://www.livescience.com/what-is-functional-training) | Free  | 
-| [**Webmd**](https://www.webmd.com/fitness-exercise/how-to-exercise-with-functional-training) | Free | 
-| [**MP**](https://www.mp.com) | Paid | 
-  
+<a class="ma-link" href="https://www.muscleandstrength.com/workout/6-week-high-intensity-functional-training-workout"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Muscles and Strength</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.livescience.com/what-is-functional-training"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Live science</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.webmd.com/fitness-exercise/how-to-exercise-with-functional-training"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Webmd</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.mp.com"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>MP</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

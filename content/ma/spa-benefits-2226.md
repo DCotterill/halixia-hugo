@@ -11,13 +11,7 @@ Indulge in relaxation and rejuvenation by taking regular spa trips with friends,
 
 Spa trips with friends offer opportunities to unwind, destress, and share rejuvenating experiences. It strengthens the bond between friends and promotes wellbeing.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Spa Industry Association **](https://dayspaassociation.com/4-reasons-you-and-your-friends-should-have-a-spa-day/) | Free  | 
-| [**Life hack**](https://www.lifehack.org/articles/lifestyle/10-irresistible-health-benefits-spa-baths.html) | Free  | 
-| [**Country Hill Cottage**](https://www.countryhillcottage.com/spa-day-at-home-ideas/) | Free  | 
-| [**Spa breaks**](https://www.spabreaks.com/) | Paid | 
-  
+<a class="ma-link" href="https://dayspaassociation.com/4-reasons-you-and-your-friends-should-have-a-spa-day/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Spa Industry Association </p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.lifehack.org/articles/lifestyle/10-irresistible-health-benefits-spa-baths.html"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Life hack</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.countryhillcottage.com/spa-day-at-home-ideas/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Country Hill Cottage</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://secretspa.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Secret Spa</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

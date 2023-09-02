@@ -11,13 +11,7 @@ Online learning platform Coursea offers more than 5,000 courses, Professional Ce
 
 Coursera is one of the most popular online learning platforms with a huge range of courses. It offers a range of payment options with 2,600+ free courses to kickstart your learning habit.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Coursera**](https://www.coursera.org/) | Free/Paid | 
-| [**Upskillwise**](https://upskillwise.com/online-learning-platforms/) | Free | 
-| [**Masterclass**](https://www.masterclass.com/) | Paid | 
-| [**Centre of excellence**](https://www.centreofexcellence.com/) | Paid | 
-  
+<a class="ma-link" href="https://www.coursera.org/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Coursera</p></div><div class="ma-paid-text"><span>Free/Paid</span></div></div></a><a class="ma-link" href="https://upskillwise.com/online-learning-platforms/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Upskillwise</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.masterclass.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Masterclass</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://www.centreofexcellence.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Centre of excellence</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

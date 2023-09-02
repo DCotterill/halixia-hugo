@@ -11,13 +11,7 @@ You might already be walking or running regularly, but a tracking app like MapMy
 
 Research has shown that consistently using a fitness tracker, can help motivate you to increase physical activity by making you more accountable to yourself. Community and personal challenge features help to mix things up and keep you motivated for longer.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Map my walk**](https://www.mapmywalk.com/) | Free/Paid | 
-| [**NHS**](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/) | Free | 
-| [**Strava**](https://www.strava.com/) | Free/Paid | 
-| [**Pro:Direct Sport**](https://www.awin1.com/cread.php?awinmid=6667&awinaffid=1198638&ued=https%3A%2F%2Fwww.prodirectsport.com%2Frunning%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.mapmywalk.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Map my walk</p></div><div class="ma-paid-text"><span>Free/Paid</span></div></div></a><a class="ma-link" href="https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>NHS</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.strava.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Strava</p></div><div class="ma-paid-text"><span>Free/Paid</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=6667&awinaffid=1198638&ued=https%3A%2F%2Fwww.prodirectsport.com%2Frunning%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Pro:Direct Sport</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

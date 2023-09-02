@@ -9,15 +9,9 @@ Do you still need a best friend?
 
 As we get older it gets more difficult to find time with your friends, learn about why it's important to make a date with your best friend.
 
-Spending time with your best friend is important because it nurtures a strong bond, offers emotional support, promotes happiness and well-being, provides a sense of belonging, boosts self-esteem, encourages personal growth, and creates cherished memories that enrich your life.
+Spending time with your best friend is important because it nurtures a strong bond, offers emotional support, promotes happiness and wellbeing, provides a sense of belonging, boosts self-esteem, encourages personal growth, and creates cherished memories that enrich your life.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Psych central**](https://psychcentral.com/relationships/benefits-of-friendship) | Free | 
-| [**Social Self**](https://socialself.com/blog/fun-things-best-friend/) | Free | 
-| [**Tastecard**](https://www.tastecard.co.uk/) | Paid | 
-| [**Tabl**](https://tabl.com/) | Paid | 
-  
+<a class="ma-link" href="https://psychcentral.com/relationships/benefits-of-friendship"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Psych central</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://socialself.com/blog/fun-things-best-friend/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Social Self</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.tastecard.co.uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Tastecard</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a><a class="ma-link" href="https://tabl.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Tabl</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

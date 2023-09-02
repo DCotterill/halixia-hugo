@@ -11,13 +11,7 @@ Post-pandemic, we are all bit more used to staying in, why not try one of these 
 
 Is there anything more enjoyable than playing games with friends? Not only is it a fun way to socialise, but research shows that it also has numerous health benefits. From improving cognitive function to reducing stress levels, playing games with friends can help you stay healthy and happy.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**You Magazine**](https://www.you.co.uk/night-in-ideas/) | Free | 
-| [**Every minute mum**](https://everyminutemum.com/family-night-ideas/) | Free | 
-| [**Clever girl finance**](https://www.clevergirlfinance.com/blog/family-night-ideas/) | Free | 
-| [**Mindfulmazing**](https://www.mindfulmazing.com/45-fun-family-night-ideas-the-entire-family-will-love/) | Free | 
-  
+<a class="ma-link" href="https://www.you.co.uk/night-in-ideas/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>You Magazine</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://everyminutemum.com/family-night-ideas/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Every minute mum</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.clevergirlfinance.com/blog/family-night-ideas/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Clever girl finance</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.mindfulmazing.com/45-fun-family-night-ideas-the-entire-family-will-love/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Mindfulmazing</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

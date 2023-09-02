@@ -11,13 +11,7 @@ Learn about tax efficient investment vehicles for higher net worth investors. Un
 
 Regardless of your investment strategy utilising the variety of tax wrappers where applicable can help preserve capital growth from tax charges, especially against an ever-changing economic backdrop.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Growth Capital Ventures**](https://www.growthcapitalventures.co.uk/insights/blog/how-to-minimise-inheritance-tax-using-tax-efficient-investments) | Free/Paid | 
-| [**Octopus Investments**](https://octopusinvestments.com/tax-efficient-investments-explained/) | Free/Paid | 
-| [**Tax Scouts**](https://taxscouts.com/the-tax-basics/tax-efficient-investments-uk/) | Free/Paid | 
-| [**UK Government**](https://www.gov.uk/topic/personal-tax/savings-investment-tax) | Free | 
-  
+<a class="ma-link" href="https://www.growthcapitalventures.co.uk/insights/blog/how-to-minimise-inheritance-tax-using-tax-efficient-investments"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Growth Capital Ventures</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://octopusinvestments.com/tax-efficient-investments-explained/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Octopus Investments</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://taxscouts.com/the-tax-basics/tax-efficient-investments-uk/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Tax Scouts</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.gov.uk/topic/personal-tax/savings-investment-tax"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>UK Government</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

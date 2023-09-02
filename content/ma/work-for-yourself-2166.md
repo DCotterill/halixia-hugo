@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn how to go self employed.
+Learn how to go self-employed.
 
 Discover the process of becoming self-employed, understanding legal obligations and steps for establishing your own business.
 
 Going self-employed involves registering your business, managing taxes, and understanding legal requirements. Acquiring this knowledge empowers you to navigate the transition effectively.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Go Self Employed**](https://goselfemployed.co/become-self-employed/) | Free  | 
-| [**UK Government**](https://www.gov.uk/set-up-self-employed) | Free  | 
-| [**A-Plan**](https://blog.aplan.co.uk/how-to-go-self-employed/) | Free  | 
-| [**New Skill Academy**](https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.co.uk%2F) | Paid | 
-  
+<a class="ma-link" href="https://goselfemployed.co/become-self-employed/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Go Self Employed</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.gov.uk/set-up-self-employed"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>UK Government</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://blog.aplan.co.uk/how-to-go-self-employed/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>A-Plan</p></div><div class="ma-paid-text"><span>Free </span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=31125&awinaffid=1198638&ued=https%3A%2F%2Fnewskillsacademy.co.uk%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>New Skill Academy</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

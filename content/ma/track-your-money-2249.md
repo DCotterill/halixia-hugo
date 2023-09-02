@@ -11,12 +11,7 @@ View all your financial accounts together and track spending, save more and mana
 
 Open Banking technology has improved how we are able to view our finances and get control of your money. Seeing everything in one place allows for a holistic view of your accounts to help you budget better, save more and even make investments.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**MoneyHub**](https://www.moneyhub.com/) | Free /Paid | 
-| [**Emma**](https://emma-app.com/) | Free | 
-| [**Money to the Masses**](https://moneytothemasses.com/quick-savings/tips/the-best-budgeting-apps-in-the-uk-how-to-budget-without-trying) | Free  | 
-  
+<a class="ma-link" href="https://www.moneyhub.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>MoneyHub</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://emma-app.com/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Emma</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://moneytothemasses.com/quick-savings/tips/the-best-budgeting-apps-in-the-uk-how-to-budget-without-trying"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Money to the Masses</p></div><div class="ma-paid-text"><span>Free </span></div></div></a>  
 
 <br/><br/>
 

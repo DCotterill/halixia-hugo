@@ -7,17 +7,11 @@ layout: static
 
 How to be your optimal self.
 
-Learn more about becoming your optimal self to help you live a better, longer more fulfilled life.
+Learn about how to become your optimal self to help you live a better, longer more fulfilled life.
 
-Working to improve yourself can positively impact your own well-being and your relationships with family, friends, and colleagues. There is no single formula or method when it comes to creating the absolute best “you” possible.
+Working to improve yourself can positively impact your own wellbeing and your relationships with family, friends, and colleagues. There is no single formula or method when it comes to creating the absolute best “you” possible, but plenty of things you can try.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Psychology Today**](https://www.psychologytoday.com/us/blog/making-change/201512/five-ways-help-become-your-ideal-self) | Free | 
-| [**Minimalism made simple**](https://www.minimalismmadesimple.com/home/be-your-best-self/) | Free | 
-| [**Psychology Today**](https://www.psychologytoday.com/us/blog/what-matters-most/201303/what-is-your-best-possible-self) | Free | 
-| [**Chopra**](https://www.chopra.com/articles/11-ways-to-become-the-best-version-of-yourself) | Free | 
-  
+<a class="ma-link" href="https://www.psychologytoday.com/us/blog/making-change/201512/five-ways-help-become-your-ideal-self"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Psychology Today</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.minimalismmadesimple.com/home/be-your-best-self/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Minimalism made simple</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.psychologytoday.com/us/blog/what-matters-most/201303/what-is-your-best-possible-self"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Psychology Today</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.chopra.com/articles/11-ways-to-become-the-best-version-of-yourself"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Chopra</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 

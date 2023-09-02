@@ -7,17 +7,11 @@ layout: static
 
 Learn about how listening to music can get you to sleep.
 
-Struggling to sleep? Maybe listening to music can help you drift off to sleep, learn more about using music to help improve your sleep.
+Struggling to sleep? Maybe listening to music can help you drift off to sleep, learn about using music to help improve your sleep.
 
 Music is a powerful art form that can offer a simple way to improve sleep hygiene, improving your ability to fall asleep quickly, sleep deeply and awake feeling more rested.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**Yellow brick cinema**](https://www.youtube.com/watch?v=6dZHGDzFXmY&list=PLQkQfzsIUwRYwVveZoqE-HUxv84Zknrsi) | Free | 
-| [**Psychology today**](https://www.psychologytoday.com/us/blog/sleep-newzzz/201812/the-many-health-and-sleep-benefits-music) | Free | 
-| [**Sleep foundation**](https://www.sleepfoundation.org/noise-and-sleep/music) | Free | 
-| [**SleepHub**](https://www.awin1.com/cread.php?awinmid=26097&awinaffid=1198638&ued=https%3A%2F%2Fwww.sleephub.com%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.youtube.com/watch?v=6dZHGDzFXmY&list=PLQkQfzsIUwRYwVveZoqE-HUxv84Zknrsi"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Yellow brick cinema</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.psychologytoday.com/us/blog/sleep-newzzz/201812/the-many-health-and-sleep-benefits-music"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Psychology today</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.sleepfoundation.org/noise-and-sleep/music"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Sleep foundation</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=26097&awinaffid=1198638&ued=https%3A%2F%2Fwww.sleephub.com%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>SleepHub</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

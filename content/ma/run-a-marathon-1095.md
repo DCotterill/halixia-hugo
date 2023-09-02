@@ -5,19 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn more about training to run a marathon.
+Find out how to train to run a marathon.
 
 Running marathons improves physical fitness, mental strength, and discipline. It's a great way to challenge yourself and achieve personal fitness goals.
 
 Running marathons can improve cardiovascular health, boost immune function, reduce stress, lower risk of chronic diseases, increase endurance, improve joint health and promote weight loss.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**TCS London marathon**](https://www.tcslondonmarathon.com/training/training-plans) | Free | 
-| [**Very well fit**](https://www.verywellfit.com/reasons-to-run-a-marathon-2911072) | Free | 
-| [**Marathon handbook**](https://marathonhandbook.com/6-reasons-why-you-should-run-a-marathon/) | Free | 
-| [**Pro:Direct Sport**](https://www.awin1.com/cread.php?awinmid=6667&awinaffid=1198638&ued=https%3A%2F%2Fwww.prodirectsport.com%2Frunning%2F) | Paid | 
-  
+<a class="ma-link" href="https://www.tcslondonmarathon.com/training/training-plans"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>TCS London marathon</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.verywellfit.com/reasons-to-run-a-marathon-2911072"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Very well fit</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://marathonhandbook.com/6-reasons-why-you-should-run-a-marathon/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Marathon handbook</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.awin1.com/cread.php?awinmid=6667&awinaffid=1198638&ued=https%3A%2F%2Fwww.prodirectsport.com%2Frunning%2F"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-pound.png"/></div><div class="ma-name"><p>Pro:Direct Sport</p></div><div class="ma-paid-text"><span>Paid</span></div></div></a>  
 
 <br/><br/>
 

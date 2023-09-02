@@ -5,18 +5,13 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Lean more about mystery shopping.
+Find out how you could become a mystery shopper
 
-Learn more about mystery shopping, and how you can get paid for doing something you love.
+Learn about mystery shopping, and how you can get paid for doing something you love.
 
 As a mystery shopper you might be tasked with anything from visiting a cafe chain, phoning a call centre or even getting your eyes tested at an opticians. The role of a mystery shopper is to help organisations and businesses assess the service their customers are really receiving.
 
-| Provider Links      | Free or Paid  |  
-| :-----------          | :--------------:      |  
-| [**mystery shopper**](https://www.mystery-shoppers.co.uk/its-not-just-shopping/mystery-diners/) | Free | 
-| [**Money checker**](https://moneycheck.com/mystery-shopper-jobs/) | Free | 
-| [**LinkedIn**](https://www.linkedin.com/pulse/what-you-need-know-being-mystery-shopper-insightsopinion/) | Free | 
-  
+<a class="ma-link" href="https://www.mystery-shoppers.co.uk/its-not-just-shopping/mystery-diners/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>mystery shopper</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://moneycheck.com/mystery-shopper-jobs/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>Money checker</p></div><div class="ma-paid-text"><span>Free</span></div></div></a><a class="ma-link" href="https://www.linkedin.com/pulse/what-you-need-know-being-mystery-shopper-insightsopinion/"><div class="ma-card"><div class="ma-icon"><img src ="/images/icon-check.png"/></div><div class="ma-name"><p>LinkedIn</p></div><div class="ma-paid-text"><span>Free</span></div></div></a>  
 
 <br/><br/>
 
