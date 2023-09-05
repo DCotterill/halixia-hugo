@@ -24,9 +24,25 @@ a {
     padding: 9px ;
     padding-left: 15px;
     border: 1px solid lightgrey;
-    border-top-color: blue;
+    /*border-top-color: blue;*/
     border-top-width: 8px;
     margin-bottom: 9px;
+}
+
+.ma-card-Health {
+    border-top-color: #369F78;
+}
+
+.ma-card-Wealth {
+    border-top-color: #912A8B;
+}
+
+.ma-card-Learning {
+    border-top-color: #3C9DCF;
+}
+
+.ma-card-Community {
+    border-top-color: #DD9703;
 }
 
 .ma-card p {
