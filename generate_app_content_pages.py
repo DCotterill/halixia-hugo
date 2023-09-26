@@ -89,9 +89,9 @@ with open('resources/MA Database 220523.xlsx - Upload Prep-v12.csv'
                 pre_1 = "<div class=\"ma-card ma-card-" + pillar_name + "\"><div class=\"ma-icon\"><img src =\"/images/"
                 # print(paid_free)
                 if paid_free == "Paid":
-                    image = "icon-pound.png"
+                    image = "Icon-pound - " + pillar_name.lower() + " - opacity.svg"
                 else:
-                    image = "icon-check.png"
+                    image = "Icon-check - " + pillar_name.lower() + " - opacity.svg"
                 pre_2 = "\"/></div><div class=\"ma-name\"><p>"
                 pre_3 = "</p></div><div class=\"ma-paid-text\"><span>"
                 pre_4 = "</span></div></div></a>"
