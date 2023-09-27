@@ -44,7 +44,7 @@ def test_url(internal_name, link):
                 print("Error:" + link )
                 writer.writerow([internal_name, link, "Error"])
 
-with open('resources/MA Database 220523.xlsx - Upload Prep-v12.csv'
+with open('resources/MA Database 220523.xlsx - CSV Import Format-v12.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
@@ -56,31 +56,11 @@ with open('resources/MA Database 220523.xlsx - Upload Prep-v12.csv'
             for i in range(0, len(row)):
                 print(str(i) + ":" + header[i] + ":" + row[i])
         # print (count)
-        category = row[1]
-        # score = row[11]
-        ddm_type = row[5]
-        internal_name = row[8]
-        # display_name = row[8]
-        summary = row[10]
-        description = row[11]
-        # Content Type
-        content_text = row[12]
-
-        primary_link_1 = row[20]
-        primary_link_2 = row[28]
-        primary_link_3 = row[43]
-        primary_link_4 = row[58]
-        primary_link_5 = row[73]
-        if count < 400:
-        # if count >= 400:
-            test_url(internal_name, primary_link_1)
-            test_url(internal_name, primary_link_2)
-            test_url(internal_name, primary_link_3)
-            test_url(internal_name, primary_link_4)
-            test_url(internal_name, primary_link_5)
+        internal_name = row[0]
+        primary_link_1 = row[9]
+        test_url(internal_name, primary_link_1)
 
         count = count + 1
-
         f.flush()
 
 # close the file
