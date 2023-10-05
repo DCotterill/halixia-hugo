@@ -1,6 +1,6 @@
 ---
 title: "Mike Mansfield"
-date: 2020-09-02T12:49:27+06:00
+date: 2023-01-02T12:49:27+06:00
 featureImage: images/team/Mike.jpeg
 tags: website
 categories: team
