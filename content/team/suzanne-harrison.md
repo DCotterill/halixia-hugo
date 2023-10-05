@@ -1,6 +1,6 @@
 ---
 title: "Suzanne Harrison"
-date: 2020-08-01T12:49:27+06:00
+date: 2020-08-02T12:49:27+06:00
 featureImage: images/team/Suzanne.png
 tags: website
 categories: team

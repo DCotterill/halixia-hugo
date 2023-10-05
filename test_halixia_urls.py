@@ -7,7 +7,7 @@ count = 0
 # with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - Full Content Samples.csv'
 #         , newline='') as csvfile:
 
-f = open('resources/url-errors-27-09-23.csv', 'a')
+f = open('resources/url-halixia-errors-27-09-23.csv', 'a')
 f_whitelist = open('resources/url-whitelist.csv')
 
 whitelist_urls = []
@@ -58,7 +58,8 @@ with open('resources/MA Database 220523.xlsx - CSV Import Format-v12.csv'
         # print (count)
         internal_name = row[0]
         primary_link_1 = row[9]
-        test_url(internal_name, primary_link_1)
+        if "halixia" in primary_link_1:
+            test_url(internal_name, primary_link_1)
 
         count = count + 1
         f.flush()

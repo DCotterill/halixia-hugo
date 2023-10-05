@@ -71,8 +71,8 @@ with open('resources/MA Database 220523.xlsx - Upload Prep-v12.csv'
         primary_link_3 = row[43]
         primary_link_4 = row[58]
         primary_link_5 = row[73]
-        if count < 400:
-        # if count >= 400:
+        # if count < 500:
+        if count >= 500:
             test_url(internal_name, primary_link_1)
             test_url(internal_name, primary_link_2)
             test_url(internal_name, primary_link_3)

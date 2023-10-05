@@ -1,6 +1,6 @@
 ---
 title: "Elaine Field"
-date: 2020-08-01T12:49:27+06:00
+date: 2020-08-03T12:49:27+06:00
 featureImage: images/team/Elaine.png
 tags: website
 categories: team
