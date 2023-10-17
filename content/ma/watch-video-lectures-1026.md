@@ -7,7 +7,7 @@ layout: static
 
 Discover video lectures to expand your knowledge
 
-Video lectures collects academic learning from around the globe, from universities such as Stanford and MIT, presenting them in an accessible video format that anyone can benefit from. 
+Video lectures collects academic learning from around the globe, from universities such as Stanford and MIT, presenting them in an accessible video format that anyone can benefit from.
 
 There are a range of benefits of continuous learning, including helping you to gain more confidence. Continuous learning helps to open your mind and change your attitude by building on what you already know, while helping you to see and understand more deeply.
 

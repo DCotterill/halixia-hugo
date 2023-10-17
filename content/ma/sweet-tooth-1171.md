@@ -7,7 +7,7 @@ layout: static
 
 The occasional sweet treat is a great mood booster.
 
-Many of us have got a sweet tooth and we all know too much sugar isn't good for you, but a regular treat can be beneficial and satisfy cravings and allow us to indulge in a bit of self-care. 
+Many of us have got a sweet tooth and we all know too much sugar isn't good for you, but a regular treat can be beneficial and satisfy cravings and allow us to indulge in a bit of self-care.
 
 Treating yourself can provide a small indulgence and moment of pleasure. It can boost mood, relieve stress, and satisfy cravings. However, moderation is key to prevent excessive sugar intake and prioritise a balanced diet for long-term health.
 

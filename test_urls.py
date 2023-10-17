@@ -1,14 +1,16 @@
 
 import csv
 import requests
+from datetime import date
+import sys
 
 content_pages = {}
 count = 0
 # with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - Full Content Samples.csv'
 #         , newline='') as csvfile:
 
-f = open('resources/url-errors-27-09-23.csv', 'a')
-f_whitelist = open('resources/url-whitelist.csv')
+f = open('resources/url-errors-' + str(date.today().day) + '-' + str(date.today().month) + '-23.csv', 'w')
+f_whitelist = open('resources/URL Check Outcomes.xlsx - Whitelist export-v'+ sys.argv[1] +'.csv')
 
 whitelist_urls = []
 whitelist_reader = csv.reader(f_whitelist, delimiter=',')
@@ -44,7 +46,7 @@ def test_url(internal_name, link):
                 print("Error:" + link )
                 writer.writerow([internal_name, link, "Error"])
 
-with open('resources/MA Database 220523.xlsx - Upload Prep-v12.csv'
+with open('resources/MA Database 220523.xlsx - Upload Prep-v' + sys.argv[1] + '.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
@@ -71,16 +73,15 @@ with open('resources/MA Database 220523.xlsx - Upload Prep-v12.csv'
         primary_link_3 = row[43]
         primary_link_4 = row[58]
         primary_link_5 = row[73]
-        # if count < 500:
-        if count >= 500:
-            test_url(internal_name, primary_link_1)
-            test_url(internal_name, primary_link_2)
-            test_url(internal_name, primary_link_3)
-            test_url(internal_name, primary_link_4)
-            test_url(internal_name, primary_link_5)
+
+        test_url(internal_name, primary_link_1)
+        test_url(internal_name, primary_link_2)
+        test_url(internal_name, primary_link_3)
+        test_url(internal_name, primary_link_4)
+        test_url(internal_name, primary_link_5)
 
         count = count + 1
-
+        print(count)
         f.flush()
 
 # close the file

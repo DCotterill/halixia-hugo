@@ -7,7 +7,7 @@ count = 0
 # with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - Full Content Samples.csv'
 #         , newline='') as csvfile:
 
-f = open('resources/url-halixia-errors-27-09-23.csv', 'a')
+f = open('resources/url-halixia-errors-14-10-23.csv', 'a')
 f_whitelist = open('resources/url-whitelist.csv')
 
 whitelist_urls = []
@@ -44,7 +44,7 @@ def test_url(internal_name, link):
                 print("Error:" + link )
                 writer.writerow([internal_name, link, "Error"])
 
-with open('resources/MA Database 220523.xlsx - CSV Import Format-v12.csv'
+with open('resources/MA Database 220523.xlsx - CSV Import Format-v14.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
