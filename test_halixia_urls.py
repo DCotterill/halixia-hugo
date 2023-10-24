@@ -18,33 +18,22 @@ for whitelist_url in whitelist_reader:
 writer = csv.writer(f)
 links = []
 
-def is_whitelisted(link):
-    for url in whitelist_urls:
-        # print(url[0])
-        if link.startswith(url[0]):
-            return True
-    return False
-
 def test_url(internal_name, link):
     if link and link not in links:
         links.append(link)
-        if is_whitelisted(link):
-            print("Whitelist:" + link)
-        else:
-            # print("Testing:" + link)
-            try:
-                headers = {
-                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
-                }
-                request = requests.get(link, timeout=10, headers = headers)
-                if request.status_code != 200:
-                    print("Error:" + link + ":" + request.status_code)
-                    writer.writerow([link, request.status_code])
-            except:
-                print("Error:" + link )
-                writer.writerow([internal_name, link, "Error"])
+        try:
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+            }
+            request = requests.get(link, timeout=10, headers = headers)
+            if request.status_code != 200:
+                print("Error:" + link + ":" + request.status_code)
+                writer.writerow([link, request.status_code])
+        except:
+            print("Error:" + link )
+            writer.writerow([internal_name, link, "Error"])
 
-with open('resources/MA Database 220523.xlsx - CSV Import Format-v14.csv'
+with open('resources/MA Database 220523.xlsx - CSV Import Format-v' + sys.argv[1] + '.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
