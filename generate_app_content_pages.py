@@ -5,7 +5,12 @@ content_pages = {}
 count = 0
 # with open('resources/Dummy Data_final_310123 - with full content samples.xlsx - Full Content Samples.csv'
 #         , newline='') as csvfile:
-with open('resources/MA Database 220523.xlsx - Upload Prep-v' + sys.argv[1] + '.csv'
+
+version = ""
+if len(sys.argv) > 1:
+    version = '-v' + sys.argv[1]
+
+with open('resources/MA Database 220523.xlsx - Upload Prep' + version + '.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
