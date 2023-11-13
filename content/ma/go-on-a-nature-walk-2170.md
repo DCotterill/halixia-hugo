@@ -5,9 +5,9 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about local nature.
+Learn about you local nature on a walk.
 
-Find out how to take your family out on a nature walk, observing bugs, flowers, trees, and wildlife, nurturing a connection with the environment and promoting wellbeing.
+Explore more about taking your family out on a nature walk, observing bugs, flowers, trees, and wildlife, nurturing a connection with the environment and promoting wellbeing.
 
 Nature walks offer a unique opportunity for family bonding, exploration, and appreciation of the natural world. Engaging with flora and fauna cultivates curiosity and sparks a sense of wonder.
 

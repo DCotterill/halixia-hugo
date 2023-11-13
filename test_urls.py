@@ -12,7 +12,7 @@ version = ""
 if len(sys.argv) > 1:
     version = "-v" + sys.argv[1]
 
-f = open('resources/url-errors-' + str(date.today().day) + '-' + str(date.today().month) + '-23.csv', 'w')
+f = open('resources/url-errors-' + str(date.today().day) + '-' + str(date.today().month) + '-23.csv', 'a')
 f_whitelist = open('resources/URL Check Outcomes.xlsx - Whitelist export' + version + '.csv')
 
 whitelist_urls = []
@@ -49,41 +49,41 @@ def test_url(internal_name, link):
                 print("Error:" + link )
                 writer.writerow([internal_name, link, "Error"])
 
-with open('resources/MA Database 220523.xlsx - Upload Prep' + version + '.csv'
-        , newline='') as csvfile:
-    reader = csv.reader(csvfile, delimiter=',')
-    header = next(reader, None)
-
-    for row in reader:
-
-        if count == 0:
-            for i in range(0, len(row)):
-                print(str(i) + ":" + header[i] + ":" + row[i])
-        category = row[1]
-        # score = row[11]
-        ddm_type = row[5]
-        internal_name = row[8]
-        # display_name = row[8]
-        summary = row[10]
-        description = row[11]
-        # Content Type
-        content_text = row[12]
-
-        primary_link_1 = row[20]
-        primary_link_2 = row[28]
-        primary_link_3 = row[43]
-        primary_link_4 = row[58]
-        primary_link_5 = row[73]
-
-        test_url(internal_name, primary_link_1)
-        test_url(internal_name, primary_link_2)
-        test_url(internal_name, primary_link_3)
-        test_url(internal_name, primary_link_4)
-        test_url(internal_name, primary_link_5)
-
-        count = count + 1
-        print(count)
-        f.flush()
+# with open('resources/MA Database 220523.xlsx - Upload Prep' + version + '.csv'
+#         , newline='') as csvfile:
+#     reader = csv.reader(csvfile, delimiter=',')
+#     header = next(reader, None)
+#
+#     for row in reader:
+#
+#         if count == 0:
+#             for i in range(0, len(row)):
+#                 print(str(i) + ":" + header[i] + ":" + row[i])
+#         category = row[1]
+#         # score = row[11]
+#         ddm_type = row[5]
+#         internal_name = row[8]
+#         # display_name = row[8]
+#         summary = row[10]
+#         description = row[11]
+#         # Content Type
+#         content_text = row[12]
+#
+#         primary_link_1 = row[20]
+#         primary_link_2 = row[28]
+#         primary_link_3 = row[43]
+#         primary_link_4 = row[58]
+#         primary_link_5 = row[73]
+#
+#         test_url(internal_name, primary_link_1)
+#         test_url(internal_name, primary_link_2)
+#         test_url(internal_name, primary_link_3)
+#         test_url(internal_name, primary_link_4)
+#         test_url(internal_name, primary_link_5)
+#
+#         count = count + 1
+#         print(count)
+#         f.flush()
 
 links = []
 

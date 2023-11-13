@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about crafting with your family.
+Get crafting with your family.
 
 Unleash creativity and bond with your family through crafting, building cherished memories while engaging in imaginative activities.
 

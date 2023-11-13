@@ -7,7 +7,7 @@ layout: static
 
 Discover the benefits of going to a nature park.
 
-Learn about the importance of going to nature parks as it offers opportunities to connect with nature, relax, exercise, and improved mental wellbeing.
+Explore the importance of going to nature parks as it offers opportunities to connect with nature, relax, exercise, and improved mental wellbeing.
 
 Going to a nature park offers numerous benefits. It allows you to connect with nature, reduce stress, improve mental wellbeing, engage in physical activity, learn about local flora and fauna, foster environmental awareness, enjoy recreational opportunities, and promote overall health and relaxation.
 

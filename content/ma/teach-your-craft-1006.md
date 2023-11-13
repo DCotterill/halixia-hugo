@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn how you can teach your skills or craft to others.
+Explore how you can teach your skills or craft to others.
 
 If you have a particular skill, that you think would be useful to others, learn about how to teach it to help benefit others.
 
