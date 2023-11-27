@@ -7,7 +7,7 @@ layout: static
 
 How to learn together as a family.
 
-Learn about participating in learning activities as a family to bond, explore new interests, and foster a culture of continuous learning.
+Participate in learning activities as a family to bond, explore new interests, and foster a culture of continuous learning.
 
 Engaging in shared learning activities with your family members creates opportunities for quality time, mutual growth, and meaningful connections. It can involve reading books together, watching educational videos, visiting museums, or engaging in hands-on projects. This can promote curiosity, communication, and a love for lifelong learning within your family unit. It nurtures a supportive learning environment, strengthens relationships, and encourages personal and intellectual development.
 

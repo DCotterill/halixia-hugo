@@ -5,9 +5,9 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Embrace an empty nest.
+Embrace the transition to an empty nest.
 
-Adjusting to an empty nest can be difficult. By focusing on on rediscovering personal interests and your relationship, can help ensure a smooth and fulfilling journey as you embrace this new phase of life.
+Adjusting to an empty nest can be difficult. Focusing on rediscovering personal interests, or finding new ones, and your relationship, can help ensure a smooth and fulfilling journey as you embrace this new phase of life.
 
 Transitioning to an empty nest can be a time of rediscovery and personal growth. As your children leave the family home, focus on self-care, exploring personal interests, and nurturing your relationship with your partner. Embrace the opportunity to redefine this life phase and fill it with new experiences and personal fulfilment. Embracing change allows you to create a vibrant and fulfilling chapter, where you not only rediscover aspects of yourself but also forge deeper connections with your partner and cultivate a renewed sense of purpose and joy in this new phase of life.
 

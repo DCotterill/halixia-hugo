@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Navigate retirement transition.
+Navigate the transition into retirement.
 
 Retirement is a significant life transition. Explore ways to maintain purpose, stay active, and engage in activities that bring fulfilment, ensuring that this phase becomes an enriching experience.
 

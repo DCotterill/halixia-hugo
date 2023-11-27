@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about creating a course to teach others new skills.
+Find out how to create a course to teach others new skills.
 
 If you have a particular skill that you think would be useful to others, learn about how to create a course to teach your skills to help benefit others.
 

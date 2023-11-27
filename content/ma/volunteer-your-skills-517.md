@@ -5,9 +5,9 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn about volunteering and sharing your skills.
+Find out about volunteering and sharing your skills.
 
-Learn about changing someone's life or supporting a good cause by volunteering your skills.
+Find out how you can change someone's life or support a good cause by volunteering your skills.
 
 Skills-based volunteers can make a huge difference to people, as well as, good causes by adding capacity, growing capability and helping them to innovate.
 
