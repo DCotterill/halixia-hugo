@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Educate yourself on financial matters
+Educate yourself on financial matters.
 
 Dedicate time to ongoing financial education to stay updated on economic trends, investment strategies, and financial management. Expand your financial knowledge continuously.
 

@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Vaccination awareness
+Vaccination awareness.
 
 Learn about vaccinations and why they are important to protect against preventable diseases. Thereby, ensuring that you safeguard your health and that of your loved ones by staying up to date on vital immunisations.
 

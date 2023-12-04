@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Learn all about personal finances. 
+Learn all about personal finances.
 
 Boost your financial literacy with skills that help to empower you to make informed financial decisions, enhancing your ability to navigate the complex world of finance with confidence.
 

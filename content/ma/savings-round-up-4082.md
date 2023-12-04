@@ -7,7 +7,7 @@ layout: static
 
 Boost your savings effortlessly.
 
-Grow your savings effortlessly with the "round-up" method, by rounding up your purchase to the nearest pound and save the difference. These small increments quickly accumulate, helping you save.
+Grow your savings effortlessly with the "round-up" method, by rounding up your purchase to the nearest pound and save the difference. Some current account providers offer this service or you can use one of the finance apps available.
 
 The "round-up" method simplifies savings. Each purchase, from your daily coffee to grocery shopping, is rounded up to the nearest pound, and the spare change goes directly into your savings account. It's a painless way to accumulate funds without feeling the pinch. Over time, these small amounts add up, helping you achieve your financial goals and ensuring a secure financial future. The key is consistency, as every penny saved is a step closer to financial security.
 

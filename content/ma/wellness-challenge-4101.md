@@ -5,9 +5,9 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Take on the Body Fixers wellness challenge.
+Take on the "Body Fixers" wellness challenge.
 
-Engage in the Body Fixers program to improve your health and wellness. Access expert guidance, set goals, and transform your lifestyle.
+Engage in the "Body Fixers" program to improve your health and wellness. Access expert guidance, set goals, and transform your lifestyle.
 
 The Body Fixers Health & Wellness program offers a holistic approach to wellbeing, guiding you toward a healthier, more fulfilling life. Engage in the program to access expert guidance, set wellness goals, and transform your lifestyle. With a focus on physical and mental health, nutrition, and fitness, you'll embark on a journey that leads to improved vitality and overall wellness. Embrace the program as a pathway to a happier, healthier you.
 

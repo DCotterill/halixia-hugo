@@ -5,7 +5,7 @@ featureImage: images/ma/placeholder.jpeg
 layout: static
 ---
 
-Moving into a retirement community
+Moving into a retirement community.
 
 Moving to a retirement community is a significant transition. Embracing the new environment and building connections can help enhance your quality of life, making the most of this life change.
 
