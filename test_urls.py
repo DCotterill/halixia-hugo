@@ -12,7 +12,7 @@ version = ""
 if len(sys.argv) > 1:
     version = "-v" + sys.argv[1]
 
-f = open('resources/url-errors-' + str(date.today().day) + '-' + str(date.today().month) + '-23.csv', 'a')
+f = open('resources/url-errors-' + str(date.today().day) + '-' + str(date.today().month) + '-24.csv', 'a')
 f_whitelist = open('resources/URL Check Outcomes.xlsx - Whitelist export' + version + '.csv')
 
 whitelist_urls = []
@@ -49,7 +49,7 @@ def test_url(internal_name, link):
                 print("Error:" + link )
                 writer.writerow([internal_name, link, "Error"])
 
-with open('resources/MA Database 220523.xlsx - Upload Prep' + version + '.csv'
+with open('resources/MA Database 230424.xlsx - Upload Prep' + version + '.csv'
         , newline='') as csvfile:
     reader = csv.reader(csvfile, delimiter=',')
     header = next(reader, None)
@@ -87,7 +87,7 @@ with open('resources/MA Database 220523.xlsx - Upload Prep' + version + '.csv'
 
 links = []
 
-with open('resources/MA Database 220523.xlsx - CSV Import Format' + version + '.csv'
+with open('resources/MA Database 230424.xlsx - CSV Import Format' + version + '.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')

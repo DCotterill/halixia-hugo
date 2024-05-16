@@ -10,7 +10,7 @@ version = ""
 if len(sys.argv) > 1:
     version = '-v' + sys.argv[1]
 
-with open('resources/MA Database 220523.xlsx - Upload Prep' + version + '.csv'
+with open('resources/MA Database 230424.xlsx - Upload Prep' + version + '.csv'
         , newline='') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
